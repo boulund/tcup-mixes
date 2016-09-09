@@ -1,0 +1,103 @@
+--------5.results/QE_160819_74/QE_160819_74.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1558       1558    95.17 no rank              Moraxella catarrhalis BBH18             
+1558       0       48.09 species              Moraxella catarrhalis                   
+1075       1029    33.18 species              Haemophilus influenzae                  
+1939       678     30.19 family               Pasteurellaceae                         
+1558       0       28.10 genus                Moraxella                               
+1647       86      25.65 family               Moraxellaceae                           
+1407       1017    25.37 genus                Staphylococcus                          
+1291       1099    23.28 genus                Streptococcus                           
+1465       58      22.81 family               Staphylococcaceae                       
+1257       178     22.67 genus                Haemophilus                             
+1348       57      20.99 family               Streptococcaceae                        
+390        380     12.04 species              Staphylococcus aureus                   
+186        185      5.74 species              Streptococcus pneumoniae                
+36         36       2.20 no rank              Haemophilus influenzae 86-028NP         
+5          5        0.31 no rank              Staphylococcus aureus subsp. aureus str. Newman
+4          4        0.24 no rank              Haemophilus influenzae KR494            
+3          3        0.18 no rank              Halomonas elongata DSM 2581             
+4          4        0.12 species              Streptococcus suis                      
+2          2        0.12 no rank              Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+2          2        0.12 no rank              Haemophilus ducreyi 35000HP             
+2          2        0.12 no rank              Haemophilus influenzae F3047            
+2          2        0.12 no rank              Haemophilus parainfluenzae T3T1         
+2          2        0.12 no rank              Staphylococcus aureus subsp. aureus 11819-97
+2          0        0.12 no rank              unclassified Betaproteobacteria         
+3          0        0.09 species              Halomonas elongata                      
+2          0        0.06 species              [Haemophilus] ducreyi                   
+2          0        0.06 species              Candidatus Accumulibacter phosphatis    
+2          0        0.06 species              Haemophilus parainfluenzae              
+2          2        0.06 species              Nitrosomonas sp. Is79A3                 
+2          2        0.06 species              Paenibacillus sp. JDR-2                 
+2          2        0.06 species              Psychrobacter sp. PRwf-1                
+1          1        0.06 no rank              Alcanivorax borkumensis SK2             
+1          0        0.06 no rank              ant endosymbionts                       
+1          0        0.06 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        0.06 no rank              Bacillales Family XII. Incertae Sedis   
+1          0        0.06 no rank              Bacillales incertae sedis               
+1          1        0.06 no rank              Citrobacter koseri ATCC BAA-895         
+1          1        0.06 no rank              Desulfomicrobium baculatum DSM 4028     
+1          1        0.06 no rank              Gallibacterium anatis UMN179            
+1          1        0.06 no rank              Haemophilus influenzae F3031            
+1          1        0.06 no rank              Haemophilus influenzae PittEE           
+1          1        0.06 no rank              Haemophilus influenzae PittGG           
+1          1        0.06 no rank              Haemophilus influenzae R2846            
+1          1        0.06 no rank              Neisseria meningitidis 8013             
+1          0        0.06 no rank              Neisseria meningitidis serogroup C      
+1          1        0.06 no rank              Staphylococcus aureus subsp. aureus CN1 
+1          0        0.06 no rank              Staphylococcus aureus subsp. aureus ST72
+1          0        0.06 no rank              Stenotrophomonas maltophilia group      
+1          1        0.06 no rank              Streptococcus pneumoniae 670-6B         
+1          0        0.06 no rank              unclassified Enterobacteriaceae         
+3          3        0.05 genus                Actinobacillus                          
+3          0        0.05 genus                Halomonas                               
+3          0        0.05 family               Halomonadaceae                          
+2          0        0.04 genus                Candidatus Accumulibacter               
+2          2        0.04 genus                Mycoplasma                              
+2          1        0.04 genus                Neisseria                               
+2          0        0.04 genus                Nitrosomonas                            
+2          0        0.04 genus                Paenibacillus                           
+2          0        0.04 genus                Psychrobacter                           
+2          0        0.03 family               Enterobacteriaceae                      
+2          0        0.03 family               Mycoplasmataceae                        
+2          0        0.03 family               Neisseriaceae                           
+2          0        0.03 family               Nitrosomonadaceae                       
+2          0        0.03 family               Paenibacillaceae                        
+1          1        0.03 species              Actinoplanes sp. SE50/110               
+1          0        0.03 species              Alcanivorax borkumensis                 
+1          0        0.03 species              Citrobacter koseri                      
+1          0        0.03 species              Desulfomicrobium baculatum              
+1          1        0.03 species              Exiguobacterium sp. AT1b                
+1          1        0.03 species              Faecalibacterium prausnitzii            
+1          0        0.03 species              Gallibacterium anatis                   
+1          1        0.03 species              Lactobacillus brevis                    
+1          0        0.03 species              Neisseria meningitidis                  
+1          1        0.03 species              Stenotrophomonas maltophilia            
+1          1        0.03 species              Streptococcus agalactiae                
+1          1        0.03 species              Vibrio cholerae                         
+1          1        0.02 genus                Acinetobacter                           
+1          0        0.02 genus                Actinoplanes                            
+1          0        0.02 genus                Alcanivorax                             
+1          1        0.02 genus                Burkholderia                            
+1          1        0.02 genus                Candidatus Blochmannia                  
+1          0        0.02 genus                Citrobacter                             
+1          0        0.02 genus                Desulfomicrobium                        
+1          0        0.02 genus                Exiguobacterium                         
+1          0        0.02 genus                Faecalibacterium                        
+1          0        0.02 genus                Gallibacterium                          
+1          0        0.02 genus                Lactobacillus                           
+1          1        0.02 genus                Shewanella                              
+1          0        0.02 genus                Stenotrophomonas                        
+1          0        0.02 genus                Vibrio                                  
+1          0        0.02 family               Alcanivoracaceae                        
+1          0        0.02 family               Burkholderiaceae                        
+1          0        0.02 family               Desulfomicrobiaceae                     
+1          0        0.02 family               Lactobacillaceae                        
+1          0        0.02 family               Micromonosporaceae                      
+1          1        0.02 family               Rhodospirillaceae                       
+1          0        0.02 family               Ruminococcaceae                         
+1          0        0.02 family               Shewanellaceae                          
+1          0        0.02 family               Vibrionaceae                            
+1          0        0.02 family               Xanthomonadaceae                        

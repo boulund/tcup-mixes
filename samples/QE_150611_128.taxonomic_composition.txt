@@ -1,0 +1,33 @@
+-------5.results/QE_150611_128/QE_150611_128.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1946       73      99.69 family               Staphylococcaceae                       
+1873       1321    99.63 genus                Staphylococcus                          
+549        542     98.56 species              Staphylococcus aureus                   
+2          2       25.00 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1       12.50 no rank              Aequorivita sublithincola DSM 14238     
+1          0       12.50 no rank              Bacteroidetes/Chlorobi group            
+1          1       12.50 no rank              Clostridium novyi NT                    
+1          1       12.50 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1       12.50 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1       12.50 no rank              Staphylococcus pasteuri SP1             
+2          0        0.36 species              Staphylococcus saprophyticus            
+1          0        0.18 species              Aequorivita sublithincola               
+1          1        0.18 species              Alicycliphilus denitrificans            
+1          0        0.18 species              Clostridium novyi                       
+1          1        0.18 species              Geitlerinema sp. PCC 7407               
+1          1        0.18 species              Lactobacillus plantarum                 
+1          0        0.18 species              Staphylococcus pasteuri                 
+1          0        0.05 genus                Aequorivita                             
+1          0        0.05 genus                Alicycliphilus                          
+1          1        0.05 genus                Caldicellulosiruptor                    
+1          0        0.05 genus                Clostridium                             
+1          0        0.05 genus                Geitlerinema                            
+1          0        0.05 genus                Lactobacillus                           
+1          1        0.05 genus                Streptococcus                           
+1          0        0.05 family               Clostridiaceae                          
+1          0        0.05 family               Comamonadaceae                          
+1          0        0.05 family               Flavobacteriaceae                       
+1          0        0.05 family               Lactobacillaceae                        
+1          0        0.05 family               Streptococcaceae                        
+1          0        0.05 family               Thermoanaerobacterales Family III. Incertae Sedis

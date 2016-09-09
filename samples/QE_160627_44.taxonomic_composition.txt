@@ -1,0 +1,56 @@
+--------5.results/QE_160627_44/QE_160627_44.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+6468       2071    99.57 family               Pasteurellaceae                         
+4394       567     99.39 genus                Haemophilus                             
+3827       3666    99.38 species              Haemophilus influenzae                  
+54         54      29.67 no rank              Haemophilus influenzae PittEE           
+37         37      20.33 no rank              Haemophilus influenzae R2846            
+31         31      17.03 no rank              Haemophilus influenzae 86-028NP         
+31         31      17.03 no rank              Haemophilus influenzae KR494            
+5          0        2.75 no rank              Stenotrophomonas maltophilia group      
+4          4        2.20 no rank              Candidatus Protochlamydia amoebophila UWE25
+4          0        2.20 no rank              Chlamydiae/Verrucomicrobia group        
+3          3        1.65 no rank              Haemophilus influenzae R2866            
+2          2        1.10 no rank              Haemophilus influenzae 10810            
+2          2        1.10 no rank              Haemophilus influenzae PittGG           
+2          2        1.10 no rank              Photobacterium profundum SS9            
+1          1        0.55 no rank              Actinobacillus succinogenes 130Z        
+1          1        0.55 no rank              Burkholderia cenocepacia J2315          
+1          1        0.55 no rank              Candidatus Symbiobacter mobilis CR      
+1          1        0.55 no rank              Haemophilus influenzae F3047            
+1          1        0.55 no rank              Psychrobacter arcticus 273-4            
+1          0        0.55 no rank              Xanthomonas campestris pv. campestris   
+1          1        0.55 no rank              Xanthomonas campestris pv. campestris str. ATCC 33913
+7          7        0.18 species              Arcobacter sp. L                        
+7          0        0.16 genus                Arcobacter                              
+5          5        0.13 species              Stenotrophomonas maltophilia            
+8          2        0.12 family               Xanthomonadaceae                        
+5          0        0.11 genus                Stenotrophomonas                        
+7          0        0.11 family               Campylobacteraceae                      
+4          0        0.10 species              Candidatus Protochlamydia amoebophila   
+4          0        0.09 genus                Candidatus Protochlamydia               
+3          2        0.07 genus                Actinobacillus                          
+4          0        0.06 family               Parachlamydiaceae                       
+2          0        0.05 species              Photobacterium profundum                
+2          0        0.05 genus                Photobacterium                          
+2          0        0.03 family               Vibrionaceae                            
+1          0        0.03 species              Actinobacillus succinogenes             
+1          0        0.03 species              Burkholderia cenocepacia                
+1          0        0.03 species              Candidatus Symbiobacter mobilis         
+1          1        0.03 species              Pediococcus pentosaceus                 
+1          0        0.03 species              Psychrobacter arcticus                  
+1          0        0.03 species              Xanthomonas campestris                  
+1          1        0.02 genus                Bacillus                                
+1          0        0.02 genus                Burkholderia                            
+1          0        0.02 genus                Candidatus Symbiobacter                 
+1          0        0.02 genus                Pediococcus                             
+1          0        0.02 genus                Psychrobacter                           
+1          0        0.02 genus                Xanthomonas                             
+1          0        0.02 family               Bacillaceae                             
+1          1        0.02 family               Borreliaceae                            
+1          0        0.02 family               Burkholderiaceae                        
+1          0        0.02 family               Comamonadaceae                          
+1          1        0.02 family               Halomonadaceae                          
+1          0        0.02 family               Lactobacillaceae                        
+1          0        0.02 family               Moraxellaceae                           

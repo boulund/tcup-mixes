@@ -1,0 +1,77 @@
+--------5.results/QE_160819_35/QE_160819_35.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1130       1130    94.48 no rank              Moraxella catarrhalis BBH18             
+1130       0       49.24 species              Moraxella catarrhalis                   
+851        815     37.08 species              Haemophilus influenzae                  
+1545       1359    36.63 genus                Streptococcus                           
+1616       71      32.50 family               Streptococcaceae                        
+1545       527     31.07 family               Pasteurellaceae                         
+1130       0       26.79 genus                Moraxella                               
+1270       132     25.54 family               Moraxellaceae                           
+1012       161     23.99 genus                Haemophilus                             
+502        396     11.90 genus                Staphylococcus                          
+526        24      10.58 family               Staphylococcaceae                       
+180        177      7.84 species              Streptococcus pneumoniae                
+104        104      4.53 species              Staphylococcus aureus                   
+27         27       2.26 no rank              Haemophilus influenzae 86-028NP         
+13         0        1.09 no rank              Bacteroidetes/Chlorobi group            
+3          3        0.25 no rank              Gallibacterium anatis UMN179            
+5          4        0.22 species              Streptococcus suis                      
+4          4        0.17 species              Faecalibacterium prausnitzii            
+2          2        0.17 no rank              Haemophilus influenzae PittGG           
+2          2        0.17 no rank              Haemophilus influenzae R2846            
+2          2        0.17 no rank              Pseudomonas fulva 12-X                  
+2          2        0.17 no rank              Streptococcus pneumoniae P1031          
+3          0        0.13 species              Gallibacterium anatis                   
+3          3        0.13 species              Psychrobacter sp. PRwf-1                
+4          2        0.09 genus                Acinetobacter                           
+4          0        0.09 genus                Faecalibacterium                        
+4          0        0.09 genus                Psychrobacter                           
+2          2        0.09 species              Acinetobacter sp. ADP1                  
+2          0        0.09 species              Pseudomonas fulva                       
+1          1        0.08 no rank              Acholeplasma palmae J233                
+1          1        0.08 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        0.08 no rank              Desulfosporosinus meridiei DSM 13257    
+1          1        0.08 no rank              Haemophilus influenzae 10810            
+1          1        0.08 no rank              Haemophilus influenzae F3031            
+1          1        0.08 no rank              Haemophilus influenzae F3047            
+1          1        0.08 no rank              Haemophilus influenzae KR494            
+1          1        0.08 no rank              Haemophilus influenzae R2866            
+1          1        0.08 no rank              Methylotenera mobilis JLW8              
+1          1        0.08 no rank              Psychrobacter arcticus 273-4            
+1          1        0.08 no rank              Serratia proteamaculans 568             
+1          1        0.08 no rank              Streptococcus pneumoniae 670-6B         
+1          1        0.08 no rank              Streptococcus sanguinis SK36            
+1          1        0.08 no rank              Streptococcus suis ST3                  
+1          1        0.08 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+4          0        0.08 family               Ruminococcaceae                         
+3          0        0.07 genus                Gallibacterium                          
+3          2        0.07 genus                Mycoplasma                              
+3          0        0.06 family               Mycoplasmataceae                        
+2          1        0.05 genus                Aggregatibacter                         
+2          0        0.05 genus                Pseudomonas                             
+1          0        0.04 species              Acholeplasma palmae                     
+1          0        0.04 species              Aggregatibacter actinomycetemcomitans   
+1          0        0.04 species              Desulfosporosinus meridiei              
+1          0        0.04 species              Methylotenera mobilis                   
+1          1        0.04 species              Mycoplasma putrefaciens                 
+1          0        0.04 species              Psychrobacter arcticus                  
+1          0        0.04 species              Serratia proteamaculans                 
+1          1        0.04 species              Staphylococcus epidermidis              
+1          1        0.04 species              Staphylococcus pseudintermedius         
+1          0        0.04 species              Streptococcus sanguinis                 
+1          0        0.04 species              Thermoanaerobacterium thermosaccharolyticum
+2          0        0.04 family               Enterobacteriaceae                      
+2          0        0.04 family               Pseudomonadaceae                        
+1          0        0.02 genus                Acholeplasma                            
+1          1        0.02 genus                Actinobacillus                          
+1          0        0.02 genus                Desulfosporosinus                       
+1          0        0.02 genus                Methylotenera                           
+1          1        0.02 genus                Pectobacterium                          
+1          0        0.02 genus                Serratia                                
+1          0        0.02 genus                Thermoanaerobacterium                   
+1          0        0.02 family               Acholeplasmataceae                      
+1          0        0.02 family               Methylophilaceae                        
+1          0        0.02 family               Peptococcaceae                          
+1          0        0.02 family               Thermoanaerobacterales Family III. Incertae Sedis

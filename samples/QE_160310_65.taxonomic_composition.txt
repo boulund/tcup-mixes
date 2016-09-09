@@ -1,0 +1,39 @@
+--------5.results/QE_160310_65/QE_160310_65.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1825       1265    99.24 genus                Streptococcus                           
+1861       36      98.78 family               Streptococcaceae                        
+555        545     96.69 species              Streptococcus pneumoniae                
+7          7       26.92 no rank              Streptococcus pneumoniae P1031          
+5          0       19.23 no rank              Bacteroidetes/Chlorobi group            
+2          2        7.69 no rank              Streptococcus pneumoniae gamPNI0373     
+2          2        7.69 no rank              Streptococcus suis ST3                  
+2          2        7.69 no rank              Thalassolituus oleivorans MIL-1         
+1          1        3.85 no rank              Archaeoglobus fulgidus DSM 4304         
+1          1        3.85 no rank              Haemophilus influenzae F3031            
+1          1        3.85 no rank              Haemophilus influenzae F3047            
+1          1        3.85 no rank              Listeria welshimeri serovar 6b str. SLCC5334
+1          1        3.85 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        3.85 no rank              Streptococcus oralis Uo5                
+1          1        3.85 no rank              Streptococcus pneumoniae 670-6B         
+1          1        3.85 no rank              Zunongwangia profunda SM-A87            
+8          6        1.39 species              Haemophilus influenzae                  
+4          2        0.70 species              Streptococcus suis                      
+13         5        0.69 family               Pasteurellaceae                         
+8          0        0.44 genus                Haemophilus                             
+2          0        0.35 species              Thalassolituus oleivorans               
+5          4        0.27 family               Staphylococcaceae                       
+1          0        0.17 species              Archaeoglobus fulgidus                  
+1          0        0.17 species              Listeria welshimeri                     
+1          0        0.17 species              Staphylococcus saprophyticus            
+1          0        0.17 species              Streptococcus oralis                    
+1          0        0.17 species              Zunongwangia profunda                   
+2          0        0.11 genus                Thalassolituus                          
+2          0        0.11 family               Oceanospirillaceae                      
+1          0        0.05 genus                Archaeoglobus                           
+1          0        0.05 genus                Listeria                                
+1          0        0.05 genus                Staphylococcus                          
+1          0        0.05 genus                Zunongwangia                            
+1          0        0.05 family               Archaeoglobaceae                        
+1          0        0.05 family               Flavobacteriaceae                       
+1          0        0.05 family               Listeriaceae                            

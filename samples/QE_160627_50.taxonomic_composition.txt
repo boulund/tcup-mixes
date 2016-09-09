@@ -1,0 +1,53 @@
+--------5.results/QE_160627_50/QE_160627_50.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+6890       2521    99.83 family               Pasteurellaceae                         
+4364       680     99.66 genus                Haemophilus                             
+3683       3583    99.54 species              Haemophilus influenzae                  
+41         41      34.75 no rank              Haemophilus influenzae 86-028NP         
+36         36      30.51 no rank              Haemophilus influenzae KR494            
+5          5        4.24 no rank              Haemophilus influenzae F3047            
+5          5        4.24 no rank              Haemophilus influenzae PittEE           
+4          4        3.39 no rank              Haemophilus influenzae 10810            
+4          4        3.39 no rank              Haemophilus influenzae F3031            
+4          4        3.39 no rank              Haemophilus influenzae PittGG           
+3          0        2.54 no rank              Bacteroidetes/Chlorobi group            
+2          2        1.69 no rank              Burkholderia cenocepacia J2315          
+2          2        1.69 no rank              Cyclobacterium marinum DSM 745          
+2          2        1.69 no rank              Gallibacterium anatis UMN179            
+2          2        1.69 no rank              Haemophilus somnus 2336                 
+1          1        0.85 no rank              Actinobacillus succinogenes 130Z        
+1          1        0.85 no rank              Actinoplanes missouriensis 431          
+1          0        0.85 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        0.85 no rank              aphid secondary symbionts               
+1          1        0.85 no rank              Haemophilus influenzae R2846            
+1          1        0.85 no rank              Haemophilus parainfluenzae T3T1         
+1          1        0.85 no rank              Parabacteroides distasonis ATCC 8503    
+1          0        0.85 no rank              unclassified Enterobacteriaceae         
+3          1        0.08 species              Burkholderia cenocepacia                
+3          0        0.07 genus                Burkholderia                            
+2          2        0.05 species              Arcobacter sp. L                        
+2          0        0.05 species              Cyclobacterium marinum                  
+2          0        0.05 species              Gallibacterium anatis                   
+2          0        0.05 species              Histophilus somni                       
+2          0        0.05 genus                Arcobacter                              
+2          0        0.05 genus                Cyclobacterium                          
+2          0        0.05 genus                Gallibacterium                          
+2          0        0.05 genus                Histophilus                             
+3          0        0.04 family               Burkholderiaceae                        
+2          0        0.03 family               Campylobacteraceae                      
+2          0        0.03 family               Cyclobacteriaceae                       
+2          1        0.03 family               Enterobacteriaceae                      
+1          0        0.03 species              Actinobacillus succinogenes             
+1          0        0.03 species              Actinoplanes missouriensis              
+1          0        0.03 species              Haemophilus parainfluenzae              
+1          0        0.03 species              Parabacteroides distasonis              
+1          1        0.03 species              Pediococcus pentosaceus                 
+1          1        0.03 species              secondary endosymbiont of Ctenarytaina eucalypti
+1          0        0.02 genus                Actinobacillus                          
+1          0        0.02 genus                Actinoplanes                            
+1          0        0.02 genus                Parabacteroides                         
+1          0        0.02 genus                Pediococcus                             
+1          0        0.01 family               Lactobacillaceae                        
+1          0        0.01 family               Micromonosporaceae                      
+1          0        0.01 family               Porphyromonadaceae                      

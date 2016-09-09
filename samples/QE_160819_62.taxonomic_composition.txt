@@ -1,0 +1,83 @@
+--------5.results/QE_160819_62/QE_160819_62.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1237       1237    95.60 no rank              Moraxella catarrhalis BBH18             
+1237       0       48.32 species              Moraxella catarrhalis                   
+1889       1572    40.58 genus                Streptococcus                           
+1973       84      36.86 family               Streptococcaceae                        
+840        807     32.81 species              Haemophilus influenzae                  
+1522       531     28.44 family               Pasteurellaceae                         
+1237       0       26.57 genus                Moraxella                               
+1303       65      24.35 family               Moraxellaceae                           
+986        145     21.18 genus                Haemophilus                             
+312        308     12.19 species              Streptococcus pneumoniae                
+518        368     11.13 genus                Staphylococcus                          
+538        20      10.05 family               Staphylococcaceae                       
+150        145      5.86 species              Staphylococcus aureus                   
+26         26       2.01 no rank              Haemophilus influenzae 86-028NP         
+4          4        0.31 no rank              Haemophilus influenzae F3047            
+3          3        0.23 no rank              Staphylococcus aureus subsp. aureus str. Newman
+2          2        0.15 no rank              Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+2          2        0.15 no rank              Halomonas elongata DSM 2581             
+2          2        0.15 no rank              Streptococcus pneumoniae 670-6B         
+2          0        0.15 no rank              unclassified Betaproteobacteria         
+4          4        0.09 genus                Actinobacillus                          
+4          4        0.09 genus                Mycoplasma                              
+2          0        0.08 species              Candidatus Accumulibacter phosphatis    
+2          0        0.08 species              Halomonas elongata                      
+2          2        0.08 species              Lactobacillus brevis                    
+2          2        0.08 species              Streptococcus suis                      
+1          1        0.08 no rank              Aminobacterium colombiense DSM 12261    
+1          0        0.08 no rank              ant endosymbionts                       
+1          0        0.08 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          1        0.08 no rank              Bradyrhizobium japonicum USDA 6         
+1          1        0.08 no rank              Gallibacterium anatis UMN179            
+1          1        0.08 no rank              Haemophilus ducreyi 35000HP             
+1          1        0.08 no rank              Haemophilus influenzae KR494            
+1          1        0.08 no rank              Haemophilus influenzae R2846            
+1          1        0.08 no rank              Haemophilus influenzae R2866            
+1          1        0.08 no rank              Oscillatoria nigro-viridis PCC 7112     
+1          1        0.08 no rank              Parvibaculum lavamentivorans DS-1       
+1          1        0.08 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1        0.08 no rank              Streptococcus lutetiensis 033           
+1          1        0.08 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        0.08 no rank              Streptococcus pneumoniae SPNA45         
+1          0        0.08 no rank              unclassified Enterobacteriaceae         
+4          0        0.07 family               Mycoplasmataceae                        
+2          0        0.04 genus                Candidatus Accumulibacter               
+2          0        0.04 genus                Halomonas                               
+2          0        0.04 genus                Lactobacillus                           
+1          0        0.04 species              [Haemophilus] ducreyi                   
+1          1        0.04 species              Aliivibrio fischeri                     
+1          0        0.04 species              Aminobacterium colombiense              
+1          0        0.04 species              Bradyrhizobium japonicum                
+1          1        0.04 species              Faecalibacterium prausnitzii            
+1          0        0.04 species              Gallibacterium anatis                   
+1          1        0.04 species              Nitrosomonas sp. Is79A3                 
+1          0        0.04 species              Oscillatoria nigro-viridis              
+1          0        0.04 species              Parvibaculum lavamentivorans            
+1          1        0.04 species              Psychrobacter sp. PRwf-1                
+1          0        0.04 species              Streptococcus lutetiensis               
+1          1        0.04 species              Streptococcus thermophilus              
+1          1        0.04 species              Thermofilum sp. 1910b                   
+2          0        0.04 family               Halomonadaceae                          
+2          0        0.04 family               Lactobacillaceae                        
+1          0        0.02 genus                Aliivibrio                              
+1          0        0.02 genus                Aminobacterium                          
+1          0        0.02 genus                Bradyrhizobium                          
+1          1        0.02 genus                Candidatus Blochmannia                  
+1          0        0.02 genus                Faecalibacterium                        
+1          0        0.02 genus                Gallibacterium                          
+1          0        0.02 genus                Nitrosomonas                            
+1          0        0.02 genus                Oscillatoria                            
+1          0        0.02 genus                Parvibaculum                            
+1          0        0.02 genus                Psychrobacter                           
+1          0        0.02 genus                Thermofilum                             
+1          0        0.02 family               Bradyrhizobiaceae                       
+1          0        0.02 family               Enterobacteriaceae                      
+1          0        0.02 family               Nitrosomonadaceae                       
+1          0        0.02 family               Rhodobiaceae                            
+1          0        0.02 family               Ruminococcaceae                         
+1          0        0.02 family               Synergistaceae                          
+1          0        0.02 family               Thermofilaceae                          
+1          0        0.02 family               Vibrionaceae                            

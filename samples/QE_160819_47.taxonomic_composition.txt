@@ -1,0 +1,94 @@
+--------5.results/QE_160819_47/QE_160819_47.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1334       1334    95.22 no rank              Moraxella catarrhalis BBH18             
+1334       0       49.43 species              Moraxella catarrhalis                   
+938        900     34.75 species              Haemophilus influenzae                  
+1740       607     32.07 family               Pasteurellaceae                         
+1334       0       29.04 genus                Moraxella                               
+1464       121     26.98 family               Moraxellaceae                           
+1147       843     24.97 genus                Staphylococcus                          
+1126       188     24.51 genus                Haemophilus                             
+1208       61      22.26 family               Staphylococcaceae                       
+957        861     20.83 genus                Streptococcus                           
+999        42      18.41 family               Streptococcaceae                        
+301        300     11.15 species              Staphylococcus aureus                   
+91         91       3.37 species              Streptococcus pneumoniae                
+31         31       2.21 no rank              Haemophilus influenzae 86-028NP         
+10         0        0.71 no rank              Bacteroidetes/Chlorobi group            
+4          4        0.29 no rank              Gallibacterium anatis UMN179            
+4          0        0.15 species              Gallibacterium anatis                   
+4          4        0.15 species              Psychrobacter sp. PRwf-1                
+2          2        0.14 no rank              Haemophilus influenzae F3031            
+2          2        0.14 no rank              Haemophilus influenzae R2866            
+3          3        0.11 species              Faecalibacterium prausnitzii            
+3          3        0.11 species              Streptococcus suis                      
+5          0        0.11 genus                Psychrobacter                           
+4          3        0.09 genus                Acinetobacter                           
+4          0        0.09 genus                Gallibacterium                          
+2          2        0.07 species              Staphylococcus pseudintermedius         
+1          1        0.07 no rank              Actinobacillus succinogenes 130Z        
+1          1        0.07 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        0.07 no rank              Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+1          1        0.07 no rank              Collimonas fungivorans Ter331           
+1          1        0.07 no rank              Haemophilus influenzae F3047            
+1          1        0.07 no rank              Haemophilus influenzae PittGG           
+1          1        0.07 no rank              Haemophilus influenzae R2846            
+1          1        0.07 no rank              Laribacter hongkongensis HLHK9          
+1          1        0.07 no rank              Mannheimia succiniciproducens MBEL55E   
+1          1        0.07 no rank              Methylotenera mobilis JLW8              
+1          1        0.07 no rank              Psychrobacter arcticus 273-4            
+1          1        0.07 no rank              Spirochaeta smaragdinae DSM 11293       
+1          1        0.07 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1        0.07 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        0.07 no rank              Streptococcus oligofermentans AS 1.3089 
+1          1        0.07 no rank              Streptococcus sanguinis SK36            
+1          1        0.07 no rank              Thiocystis violascens DSM 198           
+1          0        0.07 no rank              unclassified Betaproteobacteria         
+3          0        0.07 genus                Faecalibacterium                        
+3          0        0.06 family               Ruminococcaceae                         
+1          0        0.04 species              [Mannheimia] succiniciproducens         
+1          1        0.04 species              Acinetobacter sp. ADP1                  
+1          0        0.04 species              Actinobacillus succinogenes             
+1          0        0.04 species              Aggregatibacter actinomycetemcomitans   
+1          1        0.04 species              Alicycliphilus denitrificans            
+1          1        0.04 species              Azotobacter vinelandii                  
+1          0        0.04 species              Candidatus Accumulibacter phosphatis    
+1          0        0.04 species              Collimonas fungivorans                  
+1          0        0.04 species              Laribacter hongkongensis                
+1          0        0.04 species              Methylotenera mobilis                   
+1          1        0.04 species              Mycoplasma putrefaciens                 
+1          1        0.04 species              Nitrosomonas sp. Is79A3                 
+1          1        0.04 species              Paenibacillus sp. JDR-2                 
+1          0        0.04 species              Psychrobacter arcticus                  
+1          0        0.04 species              Spirochaeta smaragdinae                 
+1          0        0.04 species              Staphylococcus saprophyticus            
+1          0        0.04 species              Streptococcus oligofermentans           
+1          0        0.04 species              Streptococcus sanguinis                 
+1          0        0.04 species              Thiocystis violascens                   
+1          0        0.02 genus                Actinobacillus                          
+1          0        0.02 genus                Aggregatibacter                         
+1          0        0.02 genus                Alicycliphilus                          
+1          0        0.02 genus                Azotobacter                             
+1          0        0.02 genus                Basfia                                  
+1          0        0.02 genus                Candidatus Accumulibacter               
+1          0        0.02 genus                Collimonas                              
+1          0        0.02 genus                Laribacter                              
+1          0        0.02 genus                Methylotenera                           
+1          0        0.02 genus                Mycoplasma                              
+1          0        0.02 genus                Nitrosomonas                            
+1          0        0.02 genus                Paenibacillus                           
+1          0        0.02 genus                Spirochaeta                             
+1          0        0.02 genus                Thiocystis                              
+1          1        0.02 family               Alteromonadaceae                        
+1          0        0.02 family               Chromatiaceae                           
+1          0        0.02 family               Chromobacteriaceae                      
+1          0        0.02 family               Comamonadaceae                          
+1          0        0.02 family               Methylophilaceae                        
+1          0        0.02 family               Mycoplasmataceae                        
+1          0        0.02 family               Nitrosomonadaceae                       
+1          0        0.02 family               Oxalobacteraceae                        
+1          0        0.02 family               Paenibacillaceae                        
+1          0        0.02 family               Pseudomonadaceae                        
+1          0        0.02 family               Spirochaetaceae                         
+1          1        0.02 family               Veillonellaceae                         

@@ -1,0 +1,37 @@
+-------5.results/QE_150611_137/QE_150611_137.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2041       71      99.71 family               Staphylococcaceae                       
+1970       1401    99.70 genus                Staphylococcus                          
+565        559     98.26 species              Staphylococcus aureus                   
+1          1       10.00 no rank              Aequorivita sublithincola DSM 14238     
+1          0       10.00 no rank              Bacteroidetes/Chlorobi group            
+1          1       10.00 no rank              Clostridium novyi NT                    
+1          1       10.00 no rank              Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293
+1          1       10.00 no rank              Parvibaculum lavamentivorans DS-1       
+1          1       10.00 no rank              Rhodopseudomonas palustris HaA2         
+1          1       10.00 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1       10.00 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1       10.00 no rank              Staphylococcus pasteuri SP1             
+1          1       10.00 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+2          2        0.35 species              Staphylococcus pseudintermedius         
+1          1        0.17 species              Actinoplanes sp. SE50/110               
+1          0        0.17 species              Aequorivita sublithincola               
+1          0        0.17 species              Clostridium novyi                       
+1          0        0.17 species              Leuconostoc mesenteroides               
+1          0        0.17 species              Parvibaculum lavamentivorans            
+1          0        0.17 species              Rhodopseudomonas palustris              
+1          0        0.17 species              Staphylococcus pasteuri                 
+1          0        0.17 species              Staphylococcus saprophyticus            
+1          0        0.05 genus                Actinoplanes                            
+1          0        0.05 genus                Aequorivita                             
+1          0        0.05 genus                Clostridium                             
+1          0        0.05 genus                Leuconostoc                             
+1          0        0.05 genus                Parvibaculum                            
+1          0        0.05 genus                Rhodopseudomonas                        
+1          0        0.05 family               Bradyrhizobiaceae                       
+1          0        0.05 family               Clostridiaceae                          
+1          0        0.05 family               Flavobacteriaceae                       
+1          0        0.05 family               Leuconostocaceae                        
+1          0        0.05 family               Micromonosporaceae                      
+1          0        0.05 family               Rhodobiaceae                            

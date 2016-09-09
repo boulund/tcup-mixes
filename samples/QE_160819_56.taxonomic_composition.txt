@@ -1,0 +1,103 @@
+--------5.results/QE_160819_56/QE_160819_56.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1463       1463    94.88 no rank              Moraxella catarrhalis BBH18             
+1463       0       44.20 species              Moraxella catarrhalis                   
+2368       1681    42.17 genus                Staphylococcus                          
+2471       103     37.93 family               Staphylococcaceae                       
+1059       1009    31.99 species              Haemophilus influenzae                  
+1913       680     29.36 family               Pasteurellaceae                         
+1463       0       26.06 genus                Moraxella                               
+1553       89      23.84 family               Moraxellaceae                           
+1228       169     21.87 genus                Haemophilus                             
+686        675     20.73 species              Staphylococcus aureus                   
+524        450      9.33 genus                Streptococcus                           
+551        27       8.46 family               Streptococcaceae                        
+40         40       2.59 no rank              Haemophilus influenzae 86-028NP         
+71         71       2.15 species              Streptococcus pneumoniae                
+6          6        0.39 no rank              Staphylococcus aureus subsp. aureus str. Newman
+4          4        0.26 no rank              Halomonas elongata DSM 2581             
+3          3        0.19 no rank              Haemophilus influenzae F3047            
+3          3        0.19 no rank              Haemophilus influenzae KR494            
+2          2        0.13 no rank              Haemophilus influenzae PittGG           
+2          2        0.13 no rank              Staphylococcus aureus subsp. aureus 11819-97
+4          0        0.12 species              Halomonas elongata                      
+5          1        0.08 family               Enterobacteriaceae                      
+4          0        0.07 genus                Halomonas                               
+1          1        0.06 no rank              Actinobacillus succinogenes 130Z        
+1          0        0.06 no rank              ant endosymbionts                       
+1          0        0.06 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        0.06 no rank              Bacteroidetes/Chlorobi group            
+1          1        0.06 no rank              Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+1          1        0.06 no rank              Gallibacterium anatis UMN179            
+1          1        0.06 no rank              Haemophilus influenzae R2846            
+1          1        0.06 no rank              Haemophilus influenzae R2866            
+1          1        0.06 no rank              Haliangium ochraceum DSM 14365          
+1          1        0.06 no rank              Helicobacter mustelae 12198             
+1          1        0.06 no rank              Laribacter hongkongensis HLHK9          
+1          1        0.06 no rank              Parvibaculum lavamentivorans DS-1       
+1          1        0.06 no rank              Staphylococcus aureus subsp. aureus CN1 
+1          0        0.06 no rank              Staphylococcus aureus subsp. aureus ST72
+1          1        0.06 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        0.06 no rank              Streptococcus sanguinis SK36            
+1          1        0.06 no rank              Thermosediminibacter oceani DSM 16646   
+1          0        0.06 no rank              unclassified Betaproteobacteria         
+1          0        0.06 no rank              unclassified Enterobacteriaceae         
+4          0        0.06 family               Halomonadaceae                          
+2          2        0.06 species              Faecalibacterium prausnitzii            
+2          2        0.06 species              Klebsiella pneumoniae                   
+2          2        0.06 species              Nitrosomonas sp. Is79A3                 
+2          2        0.06 species              Paenibacillus sp. JDR-2                 
+2          2        0.06 species              Peptoclostridium difficile              
+2          2        0.06 species              Streptococcus suis                      
+2          1        0.04 genus                Actinobacillus                          
+2          0        0.04 genus                Faecalibacterium                        
+2          0        0.04 genus                Klebsiella                              
+2          0        0.04 genus                Nitrosomonas                            
+2          0        0.04 genus                Paenibacillus                           
+2          0        0.04 genus                Peptoclostridium                        
+2          0        0.03 family               Nitrosomonadaceae                       
+2          0        0.03 family               Paenibacillaceae                        
+2          0        0.03 family               Peptostreptococcaceae                   
+2          0        0.03 family               Ruminococcaceae                         
+1          0        0.03 species              Actinobacillus succinogenes             
+1          1        0.03 species              Arcobacter sp. L                        
+1          0        0.03 species              Candidatus Accumulibacter phosphatis    
+1          0        0.03 species              Gallibacterium anatis                   
+1          0        0.03 species              Haliangium ochraceum                    
+1          0        0.03 species              Helicobacter mustelae                   
+1          1        0.03 species              Lactobacillus brevis                    
+1          0        0.03 species              Laribacter hongkongensis                
+1          1        0.03 species              Pantoea ananatis                        
+1          0        0.03 species              Parvibaculum lavamentivorans            
+1          1        0.03 species              Pasteurella multocida                   
+1          1        0.03 species              Psychrobacter sp. PRwf-1                
+1          0        0.03 species              Staphylococcus saprophyticus            
+1          0        0.03 species              Streptococcus sanguinis                 
+1          0        0.03 species              Thermosediminibacter oceani             
+1          1        0.02 genus                Aggregatibacter                         
+1          0        0.02 genus                Arcobacter                              
+1          1        0.02 genus                Burkholderia                            
+1          0        0.02 genus                Candidatus Accumulibacter               
+1          1        0.02 genus                Candidatus Blochmannia                  
+1          0        0.02 genus                Gallibacterium                          
+1          0        0.02 genus                Haliangium                              
+1          0        0.02 genus                Helicobacter                            
+1          0        0.02 genus                Lactobacillus                           
+1          0        0.02 genus                Laribacter                              
+1          1        0.02 genus                Mycoplasma                              
+1          0        0.02 genus                Pantoea                                 
+1          0        0.02 genus                Parvibaculum                            
+1          0        0.02 genus                Pasteurella                             
+1          0        0.02 genus                Psychrobacter                           
+1          0        0.02 genus                Thermosediminibacter                    
+1          0        0.02 family               Burkholderiaceae                        
+1          0        0.02 family               Campylobacteraceae                      
+1          0        0.02 family               Chromobacteriaceae                      
+1          0        0.02 family               Helicobacteraceae                       
+1          0        0.02 family               Kofleriaceae                            
+1          0        0.02 family               Lactobacillaceae                        
+1          0        0.02 family               Mycoplasmataceae                        
+1          0        0.02 family               Rhodobiaceae                            
+1          1        0.02 family               Rhodospirillaceae                       
+1          0        0.02 family               Thermoanaerobacterales Family III. Incertae Sedis

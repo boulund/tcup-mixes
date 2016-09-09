@@ -1,0 +1,87 @@
+--------5.results/QE_160603_84/QE_160603_84.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+7869       7869    99.49 no rank              Moraxella catarrhalis BBH18             
+8529       652     99.12 family               Moraxellaceae                           
+7869       0       98.94 species              Moraxella catarrhalis                   
+7869       0       98.92 genus                Moraxella                               
+47         47       0.59 species              Faecalibacterium prausnitzii            
+47         0        0.59 genus                Faecalibacterium                        
+47         0        0.55 family               Ruminococcaceae                         
+8          3        0.10 genus                Psychrobacter                           
+6          6        0.08 no rank              Oscillatoria acuminata PCC 6304         
+6          0        0.08 species              Oscillatoria acuminata                  
+6          0        0.08 genus                Oscillatoria                            
+5          0        0.06 no rank              Bacteroidetes/Chlorobi group            
+5          5        0.06 species              Psychrobacter sp. PRwf-1                
+4          2        0.05 family               Rhodospirillaceae                       
+3          3        0.04 no rank              Heliobacterium modesticaldum Ice1       
+3          0        0.04 species              Heliobacterium modesticaldum            
+3          0        0.04 genus                Heliobacterium                          
+3          0        0.03 family               Heliobacteriaceae                       
+2          2        0.03 no rank              Anoxybacillus flavithermus WK1          
+2          0        0.03 no rank              Candidatus Uzinura                      
+2          2        0.03 no rank              Candidatus Uzinura diaspidicola str. ASNER
+2          2        0.03 no rank              Microcystis aeruginosa NIES-843         
+2          2        0.03 no rank              Saccharophagus degradans 2-40           
+2          2        0.03 no rank              Streptococcus oligofermentans AS 1.3089 
+2          2        0.03 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+2          0        0.03 no rank              unclassified Flavobacteriales           
+2          0        0.03 species              Anoxybacillus flavithermus              
+2          0        0.03 species              Candidatus Uzinura diaspidicola         
+2          0        0.03 species              Microcystis aeruginosa                  
+2          0        0.03 species              Saccharophagus degradans                
+2          0        0.03 species              Streptococcus oligofermentans           
+2          0        0.03 species              Thermoanaerobacterium thermosaccharolyticum
+2          0        0.03 genus                Anoxybacillus                           
+2          0        0.03 genus                Microcystis                             
+2          2        0.03 genus                Phaeobacter                             
+2          0        0.03 genus                Saccharophagus                          
+2          0        0.03 genus                Streptococcus                           
+2          0        0.03 genus                Thermoanaerobacterium                   
+2          0        0.02 family               Bacillaceae                             
+2          0        0.02 family               Cellvibrionaceae                        
+2          2        0.02 family               Micrococcaceae                          
+2          0        0.02 family               Rhodobacteraceae                        
+2          0        0.02 family               Streptococcaceae                        
+2          0        0.02 family               Thermoanaerobacterales Family III. Incertae Sedis
+2          2        0.02 family               Xanthomonadaceae                        
+1          1        0.01 no rank              Acaryochloris marina MBIC11017          
+1          1        0.01 no rank              Acholeplasma palmae J233                
+1          1        0.01 no rank              Azospirillum sp. B510                   
+1          1        0.01 no rank              Bacteroides helcogenes P 36-108         
+1          1        0.01 no rank              Pararhodospirillum photometricum DSM 122
+1          1        0.01 no rank              Porphyromonas asaccharolytica DSM 20707 
+1          1        0.01 no rank              Saccharothrix espanaensis DSM 44229     
+1          1        0.01 no rank              Thalassolituus oleivorans MIL-1         
+1          0        0.01 no rank              unclassified Flavobacteriaceae          
+1          1        0.01 no rank              Variovorax paradoxus EPS                
+1          0        0.01 species              Acaryochloris marina                    
+1          0        0.01 species              Acholeplasma palmae                     
+1          0        0.01 species              Azospirillum lipoferum                  
+1          0        0.01 species              Bacteroides helcogenes                  
+1          1        0.01 species              Candidatus Pelagibacter sp. IMCC9063    
+1          1        0.01 species              Flavobacteriaceae bacterium 3519-10     
+1          0        0.01 species              Pararhodospirillum photometricum        
+1          0        0.01 species              Porphyromonas asaccharolytica           
+1          0        0.01 species              Saccharothrix espanaensis               
+1          0        0.01 species              Thalassolituus oleivorans               
+1          0        0.01 species              Variovorax paradoxus                    
+1          0        0.01 genus                Acaryochloris                           
+1          0        0.01 genus                Acholeplasma                            
+1          0        0.01 genus                Azospirillum                            
+1          0        0.01 genus                Bacteroides                             
+1          0        0.01 genus                Candidatus Pelagibacter                 
+1          0        0.01 genus                Pararhodospirillum                      
+1          0        0.01 genus                Porphyromonas                           
+1          0        0.01 genus                Saccharothrix                           
+1          0        0.01 genus                Thalassolituus                          
+1          0        0.01 genus                Variovorax                              
+1          0        0.01 family               Acholeplasmataceae                      
+1          0        0.01 family               Bacteroidaceae                          
+1          0        0.01 family               Comamonadaceae                          
+1          0        0.01 family               Flavobacteriaceae                       
+1          0        0.01 family               Oceanospirillaceae                      
+1          0        0.01 family               Pelagibacteraceae                       
+1          0        0.01 family               Porphyromonadaceae                      
+1          0        0.01 family               Pseudonocardiaceae                      

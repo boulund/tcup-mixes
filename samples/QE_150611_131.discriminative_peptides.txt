@@ -1,0 +1,1641 @@
+------------------Discriminative peptides-------------------
+Peptide              Sequence                            Rank            Description                   
+6489.1.1_10          NIENGVAHIR                          family          Staphylococcaceae             
+10699.1.1_14         VLDNISFTMNPNDK                      family          Staphylococcaceae             
+8553.1.1_18          GKVVLVTAMSPTPAGEGK                  family          Staphylococcaceae             
+9004.1.1_11          DINELSVDTVK                         family          Staphylococcaceae             
+5919.1.1_13          IKVYVNKVEQTTK                       family          Staphylococcaceae             
+7017.1.1_18          GKVVLVTAMSPTPAGEGK                  family          Staphylococcaceae             
+9752.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+9703.1.1_10          LLSGPDIISR                          family          Staphylococcaceae             
+11054.1.1_17         NPAYEIGDIYEEDVTPK                   family          Staphylococcaceae             
+10601.1.1_12         IEDIPDPVFAQK                        family          Staphylococcaceae             
+10581.1.1_14         EIELEDPYENMGAK                      family          Staphylococcaceae             
+8848.1.1_14          LDISSDSHPFYTGR                      family          Staphylococcaceae             
+9960.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+10034.1.1_9          NGSNLDLFK                           family          Staphylococcaceae             
+8652.1.1_11          YYTVNNDSIMR                         family          Staphylococcaceae             
+6056.1.1_11          IGADTVVHPER                         family          Staphylococcaceae             
+11555.1.1_13         EVPVGYANNFLLK                       family          Staphylococcaceae             
+8970.1.1_11          NGVIELGVGSK                         family          Staphylococcaceae             
+7600.1.1_16          KSTPFAAQMASETASK                    family          Staphylococcaceae             
+9507.1.1_11          GVEIVTEAMAK                         family          Staphylococcaceae             
+9560.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+8860.1.1_14          LDISSDSHPFYTGR                      family          Staphylococcaceae             
+6690.1.1_15          STPFAAQMASETASK                     family          Staphylococcaceae             
+9773.1.1_10          IEDELFETAK                          family          Staphylococcaceae             
+6769.1.1_11          KLVIEQGVNAR                         family          Staphylococcaceae             
+8859.1.1_15          STPFAAQMASETASK                     family          Staphylococcaceae             
+5939.1.1_11          EATGLGLKDAK                         family          Staphylococcaceae             
+5145.1.1_11          KNIENGVAHIR                         family          Staphylococcaceae             
+6479.1.1_15          QIDGATGQNAMNHIK                     family          Staphylococcaceae             
+8796.1.1_12          IAVSEAVTNAVK                        family          Staphylococcaceae             
+8085.1.1_15          AEQYSEGTVPLHTLR                     family          Staphylococcaceae             
+9094.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+4455.1.1_12          LVGQTQDDEGNR                        family          Staphylococcaceae             
+8716.1.1_16          ITIQSSSSLSDEEIDR                    family          Staphylococcaceae             
+9385.1.1_9           PIITDVYAR                           family          Staphylococcaceae             
+10187.1.1_14         EIELEDPYENMGAK                      family          Staphylococcaceae             
+11088.1.1_13         ETPVEVEFDQIEK                       family          Staphylococcaceae             
+11590.1.1_15         LLDLGAPGIIVQNEK                     family          Staphylococcaceae             
+4276.1.1_12          LVGQTQDDEGNR                        family          Staphylococcaceae             
+7631.1.1_9           LNSVVDAVK                           family          Staphylococcaceae             
+9578.1.1_9           PIITDVYAR                           family          Staphylococcaceae             
+6900.1.1_12          YEASGAVSGLQR                        family          Staphylococcaceae             
+10381.1.1_14         EIELEDPYENMGAK                      family          Staphylococcaceae             
+8119.1.1_15          AEQYSEGTVPLHTLR                     family          Staphylococcaceae             
+7479.1.1_10          LVIEQGVNAR                          family          Staphylococcaceae             
+7902.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+8491.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+8103.1.1_16          VVLVTAMSPTPAGEGK                    family          Staphylococcaceae             
+7626.1.1_16          KSTPFAAQMASETASK                    family          Staphylococcaceae             
+5507.1.1_11          VLAHAQEEAIR                         family          Staphylococcaceae             
+8527.1.1_18          GKVVLVTAMSPTPAGEGK                  family          Staphylococcaceae             
+4855.1.1_11          VYVNKVEQTTK                         family          Staphylococcaceae             
+5751.1.1_11          EATGLGLKDAK                         family          Staphylococcaceae             
+3650.1.1_13          SVLKDQKENGAPR                       genus           Staphylococcus                
+11566.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+6334.1.1_14          NPQTGKEIDIPASK                      genus           Staphylococcus                
+6405.1.1_10          AAEELKDIAK                          genus           Staphylococcus                
+6849.1.1_23          VEVTKDNTTVVDGDGDENSIDAR             genus           Staphylococcus                
+6786.1.1_10          IGDATLEAER                          genus           Staphylococcus                
+7855.1.1_13          VIDKLTNENYTIK                       genus           Staphylococcus                
+9152.1.1_17          NVEILNEDETTQTALQK                   genus           Staphylococcus                
+8950.1.1_15          TMAPVSLSSEAEYQR                     genus           Staphylococcus                
+8023.1.1_15          EIVINNNETGEITQK                     genus           Staphylococcus                
+3579.1.1_11          SLGKEPEDQNR                         genus           Staphylococcus                
+11923.1.1_19         FEDGTEVTPALLVESGVVK                 genus           Staphylococcus                
+6652.1.1_13          ISEVANNVQSTVK                       genus           Staphylococcus                
+8907.1.1_19          TAVSNNADNKNELVSLAVK                 genus           Staphylococcus                
+5452.1.1_8           TFTKDDIR                            genus           Staphylococcus                
+11690.1.1_12         GLGIQPDLIVVR                        genus           Staphylococcus                
+11073.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+9273.1.1_12          VGTQTMNDIMYR                        genus           Staphylococcus                
+4175.1.1_9           ITEIDKQGR                           genus           Staphylococcus                
+5337.1.1_14          NQGGDETVIDHPER                      genus           Staphylococcus                
+8843.1.1_12          QTSWTYQQLNAR                        genus           Staphylococcus                
+3662.1.1_9           VTVQSQQAR                           genus           Staphylococcus                
+10081.1.1_17         IVEVVPAPDGDPEAPLK                   genus           Staphylococcus                
+9821.1.1_13          AADLPANLIQAQR                       genus           Staphylococcus                
+10748.1.1_14         ADLPVIPGTDGPIK                      genus           Staphylococcus                
+10175.1.1_14         IDEGTDVNFGELTR                      genus           Staphylococcus                
+7666.1.1_14          LLTGEDGEHAVLSR                      genus           Staphylococcus                
+7899.1.1_12          FSASAAEAIDAK                        genus           Staphylococcus                
+11586.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+9249.1.1_12          STLTEINIEDTK                        genus           Staphylococcus                
+12318.1.1_15         LAQEEIFGPVLTVIK                     genus           Staphylococcus                
+10134.1.1_14         QMQGEEIAEEDLQK                      genus           Staphylococcus                
+6986.1.1_12          AGATYDDIEDAK                        genus           Staphylococcus                
+10309.1.1_11         LIQAADFDIDK                         genus           Staphylococcus                
+13674.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+4845.1.1_13          YVTDTNENSGVGK                       genus           Staphylococcus                
+6821.1.1_10          HGYQIIENAR                          genus           Staphylococcus                
+6565.1.1_10          VVDANIAAQR                          genus           Staphylococcus                
+7457.1.1_14          NVEYVEDDKQGVLR                      genus           Staphylococcus                
+10637.1.1_14         IDEGTDVNFGELTR                      genus           Staphylococcus                
+9951.1.1_12          DTDTIIFNTAQR                        genus           Staphylococcus                
+3944.1.1_12          AAPAEGDGEIHK                        genus           Staphylococcus                
+9787.1.1_10          IVAFDINDDK                          genus           Staphylococcus                
+11528.1.1_13         NLEDTDAIDQFIK                       genus           Staphylococcus                
+7975.1.1_11          SVVQVEDNIER                         genus           Staphylococcus                
+10806.1.1_16         VALVEMQDFAQGTSSR                    genus           Staphylococcus                
+10198.1.1_14         NQNVLVLGTEGTIK                      genus           Staphylococcus                
+10151.1.1_15         LGNDAGITGAAGLIK                     genus           Staphylococcus                
+8371.1.1_18          DTSKEEMQEIALSNDNVK                  genus           Staphylococcus                
+10449.1.1_18         AGDTIEEDDVLAEVQNDK                  genus           Staphylococcus                
+9387.1.1_17          ATLTSAGATVVPSGFNK                   genus           Staphylococcus                
+8933.1.1_12          LQNITSFKDIAK                        genus           Staphylococcus                
+2603.1.1_17          ISKDAQDQDNDDHGGGH                   genus           Staphylococcus                
+10136.1.1_18         NEIAQVGAISAADEEIGR                  genus           Staphylococcus                
+9780.1.1_19          IIEQIGTYNPTSANAPEIK                 genus           Staphylococcus                
+12648.1.1_12         ILEEANVSADTR                        genus           Staphylococcus                
+6721.1.1_16          TSTGFAGGGATAEDVK                    genus           Staphylococcus                
+4513.1.1_14          AVHLTEQGADKAER                      genus           Staphylococcus                
+8377.1.1_14          QMQGEEIAEEDLQK                      genus           Staphylococcus                
+11102.1.1_12         ISLLNIGTEPAK                        genus           Staphylococcus                
+9356.1.1_12          IDAPDAEDMQFK                        genus           Staphylococcus                
+9931.1.1_14          EEVPEEEYTIDIGK                      genus           Staphylococcus                
+9699.1.1_15          SGADVSGPIPLPTEK                     genus           Staphylococcus                
+7440.1.1_15          EMPGGQYSNLSQQAK                     genus           Staphylococcus                
+9027.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+10733.1.1_12         FIVGSVSESIVR                        genus           Staphylococcus                
+6311.1.1_10          GVNGIDKITR                          genus           Staphylococcus                
+11099.1.1_11         IDEPTLEMTFK                         genus           Staphylococcus                
+11438.1.1_18         YGNTSAASIPLSIDQELK                  genus           Staphylococcus                
+6828.1.1_11          VKDLTDDEVAR                         genus           Caldicellulosiruptor          
+4585.1.1_11          VGNDTAMEMSR                         genus           Staphylococcus                
+6890.1.1_26          EEPAKEEAPAEQAPVATQTEEVDENR          genus           Staphylococcus                
+11843.1.1_12         TTIFPILGGGER                        genus           Staphylococcus                
+7582.1.1_12          FVKEYTGLPAER                        genus           Staphylococcus                
+7904.1.1_14          QNSQSMQVQSEVLK                      genus           Staphylococcus                
+5678.1.1_12          VAVEALHENSQK                        genus           Staphylococcus                
+8707.1.1_14          GLWNEDKENEVIER                      genus           Staphylococcus                
+6154.1.1_10          VEVEMNGEGR                          genus           Staphylococcus                
+7107.1.1_9           VEPAMIENR                           genus           Staphylococcus                
+11828.1.1_13         TGSEFAYIMGDIK                       genus           Staphylococcus                
+7399.1.1_15          APAASKEELAGLEGR                     genus           Staphylococcus                
+10215.1.1_14         GLLTSNSVNVLDNK                      genus           Staphylococcus                
+6880.1.1_11          IQVEHTVTEMR                         genus           Staphylococcus                
+7655.1.1_12          NYAVEATPGNLK                        genus           Staphylococcus                
+12428.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+5890.1.1_16          AASSLTGDNATIPNHK                    genus           Staphylococcus                
+10200.1.1_13         EQTTFEEALDEAK                       genus           Staphylococcus                
+6737.1.1_26          EEPAKEEAPAEQAPVATQTEEVDENR          genus           Staphylococcus                
+6271.1.1_10          IGDPSQTITR                          genus           Staphylococcus                
+9382.1.1_12          INNQTVTLQDLR                        genus           Staphylococcus                
+9649.1.1_16          VGIEVPNQNPTTVNLR                    genus           Staphylococcus                
+7266.1.1_12          ILEEANVSADTR                        genus           Staphylococcus                
+9351.1.1_17          NVEILNEDETTQTALQK                   genus           Staphylococcus                
+2772.1.1_11          LEQGGGTDDSK                         genus           Staphylococcus                
+7041.1.1_12          FTEDAEDAGVVK                        genus           Staphylococcus                
+9760.1.1_18          DSGLAIEPAATMAEGAQK                  genus           Staphylococcus                
+4839.1.1_12          QAQESVKSEAER                        genus           Staphylococcus                
+6948.1.1_13          ASQDEVGSGVVYK                       genus           Staphylococcus                
+6510.1.1_11          EDNPGIMAASK                         genus           Staphylococcus                
+8877.1.1_11          IAPIAIEDGTR                         genus           Staphylococcus                
+9467.1.1_13          EISVPVGDETLGR                       genus           Staphylococcus                
+3338.1.1_15          EEGKLEQGGGTDDSK                     genus           Staphylococcus                
+11280.1.1_16         EFTAPLITNDGVTIAK                    genus           Staphylococcus                
+7156.1.1_16          EKIEDDPSHPEYIVTR                    genus           Staphylococcus                
+3764.1.1_16          AKQAYDNQTGVNEKER                    genus           Staphylococcus                
+5879.1.1_14          HYGGLQGLNKDDAR                      genus           Staphylococcus                
+8842.1.1_14          TLDGVEGQVQGITR                      genus           Staphylococcus                
+6172.1.1_15          KPITATEEDLDDNNR                     genus           Staphylococcus                
+9293.1.1_16          SIEVISEAHDYPITPK                    genus           Staphylococcus                
+7524.1.1_12          VGTQTMNDIMYR                        genus           Staphylococcus                
+6394.1.1_11          KAQELDELQAK                         genus           Staphylococcus                
+8720.1.1_12          VADIKIPTSEIK                        genus           Staphylococcus                
+10484.1.1_9          ILEYDEVLR                           genus           Staphylococcus                
+8669.1.1_14          THTTKEDDIPSFIR                      genus           Staphylococcus                
+8186.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+4273.1.1_9           KIVQHLEER                           genus           Staphylococcus                
+7435.1.1_11          EEVEHIANLAR                         genus           Staphylococcus                
+8850.1.1_10          VPDDLDDFNR                          genus           Staphylococcus                
+10202.1.1_14         VALVTGGAQGIGFK                      genus           Staphylococcus                
+6917.1.1_9           VSTNAFEAR                           genus           Staphylococcus                
+11182.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+2604.1.1_17          ISKDAQDQDNDDHGGGH                   genus           Staphylococcus                
+10777.1.1_12         DGDLDSVIEQVR                        genus           Staphylococcus                
+5830.1.1_13          GREDNPGIMAASK                       genus           Staphylococcus                
+8612.1.1_10          IQQVLNIASK                          genus           Staphylococcus                
+6500.1.1_11          NTVVKVEGISK                         genus           Staphylococcus                
+7944.1.1_11          ILSQEDYFDKK                         genus           Staphylococcus                
+10458.1.1_18         GDADAMITGGTEAPITHM                  genus           Staphylococcus                
+5166.1.1_9           HEASIIQQR                           genus           Staphylococcus                
+9138.1.1_11          NLPIDINSNGR                         genus           Staphylococcus                
+5810.1.1_16          GKFDDEGGAAPNNNLR                    genus           Staphylococcus                
+9737.1.1_16          GSGAFGTFTVTKDITK                    genus           Staphylococcus                
+10009.1.1_13         QDVTVEQVNEAMK                       genus           Staphylococcus                
+10954.1.1_13         SPILPVAYVGPTK                       genus           Staphylococcus                
+11879.1.1_18         LNNDDSVSGILVQVPLPK                  genus           Staphylococcus                
+7333.1.1_22          EEASANNLSDTSQEAQEVQEAK              genus           Staphylococcus                
+7216.1.1_20          GVTLAQASSKDSDIATTATK                genus           Staphylococcus                
+7260.1.1_12          AKELNSDVYVVK                        genus           Staphylococcus                
+10310.1.1_12         NMTSLDFAEITK                        genus           Staphylococcus                
+10851.1.1_17         DSDYITGQTIIVDGGMR                   genus           Staphylococcus                
+11660.1.1_12         LDAVVYSLGLAR                        genus           Staphylococcus                
+10835.1.1_17         DAVNTGAIFNNTNEVLK                   genus           Staphylococcus                
+7071.1.1_11          YKAQAEDLIQR                         genus           Staphylococcus                
+8738.1.1_11          VEEGQEIFVEK                         genus           Staphylococcus                
+6759.1.1_13          SYGMNPTKDVVAK                       genus           Staphylococcus                
+8701.1.1_17          DTGKEISVPVGDETLGR                   genus           Staphylococcus                
+7794.1.1_12          IAAEGLVHVETK                        genus           Staphylococcus                
+7191.1.1_11          EKAEAVVEEIK                         genus           Staphylococcus                
+9141.1.1_12          DEQGFIEQDIQR                        genus           Staphylococcus                
+4577.1.1_15          VSQLETNSGGPGKPR                     genus           Staphylococcus                
+7238.1.1_13          VYSGTMTSGSYVK                       genus           Staphylococcus                
+13020.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+10798.1.1_12         VVDEILELDEQR                        genus           Staphylococcus                
+9603.1.1_21          ILKDSGLAIEPAATMAEGAQK               genus           Staphylococcus                
+9616.1.1_12          NVVEVPVADGIK                        genus           Staphylococcus                
+4468.1.1_16          AESHLENDDDNTDIHR                    genus           Staphylococcus                
+10165.1.1_12         ALSLDDTNGFVK                        genus           Staphylococcus                
+11894.1.1_12         ILYSAFDLVEQR                        genus           Staphylococcus                
+6691.1.1_13          ELFHETDEEINKK                       genus           Staphylococcus                
+6178.1.1_10          VVDANIAAQR                          genus           Staphylococcus                
+6874.1.1_14          EGKDSVATATEDLR                      genus           Staphylococcus                
+6077.1.1_12          QAYDNQTGVNEK                        genus           Staphylococcus                
+4220.1.1_14          QAYDNQTGVNEKER                      genus           Staphylococcus                
+5460.1.1_15          LVDKAAQSNLIHSNK                     genus           Staphylococcus                
+10147.1.1_15         RPNTDELGLEELGVK                     genus           Staphylococcus                
+7263.1.1_16          MVVASSNNGAVENISK                    genus           Staphylococcus                
+11100.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+9705.1.1_14          ILYGLNEQGMTPDK                      genus           Staphylococcus                
+10194.1.1_14         TFDPTDDQGQFFDR                      genus           Staphylococcus                
+7402.1.1_12          IDAPDAEDMQFK                        genus           Staphylococcus                
+5506.1.1_10          ILGNGSLDKK                          genus           Staphylococcus                
+7023.1.1_15          VASTITSHDAGYLDK                     genus           Staphylococcus                
+5162.1.1_15          LLATAGEEKEQEGAK                     genus           Staphylococcus                
+10662.1.1_16         QEEELLNGGEIGQETR                    genus           Staphylococcus                
+5857.1.1_11          DSLSQEQEVTR                         genus           Staphylococcus                
+8802.1.1_13          YGENPQQSAYFVR                       genus           Staphylococcus                
+7825.1.1_13          IIDDAGNELPPNR                       genus           Staphylococcus                
+7593.1.1_12          QELGEEEPELSR                        genus           Staphylococcus                
+11787.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+10452.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+12583.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+8340.1.1_15          VIPEIDGKLDGGAQR                     genus           Staphylococcus                
+5490.1.1_12          VAVEALHENSQK                        genus           Staphylococcus                
+8346.1.1_14          ADNMAHYLTSQGVK                      genus           Staphylococcus                
+8826.1.1_14          THTTKEDDIPSFIR                      genus           Staphylococcus                
+9786.1.1_10          AVFVLDADNK                          genus           Staphylococcus                
+8884.1.1_16          ANGMIETAQSEINSQK                    genus           Staphylococcus                
+6765.1.1_18          DNTTVVDGDGDENSIDAR                  genus           Staphylococcus                
+6834.1.1_16          DVKPIYLNGEEGNKDK                    genus           Staphylococcus                
+8350.1.1_18          ASIVVEAANGPTTPEATR                  genus           Staphylococcus                
+9419.1.1_15          VGEEVEIIGLHDTSK                     genus           Staphylococcus                
+10075.1.1_10         AVSDFEYELR                          genus           Staphylococcus                
+6836.1.1_16          TVGHGGDSGSIEDLEK                    genus           Staphylococcus                
+10097.1.1_12         VTQVMGPVIDVR                        genus           Staphylococcus                
+6719.1.1_9           VSTNAFEAR                           genus           Staphylococcus                
+10618.1.1_13         MLSDFGLNPDEGR                       genus           Staphylococcus                
+12045.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+7772.1.1_14          VPEPVNQNIYEMNR                      genus           Staphylococcus                
+8828.1.1_10          QTIPELPDER                          genus           Staphylococcus                
+9668.1.1_16          ALESIIDNADETTQER                    genus           Staphylococcus                
+7565.1.1_11          SVVIANVGDSR                         genus           Staphylococcus                
+6235.1.1_12          SDDVTKVQEAVK                        genus           Staphylococcus                
+8486.1.1_13          QDVTVEQVNEAMK                       genus           Staphylococcus                
+9214.1.1_16          SINPADTSQVIANASK                    genus           Staphylococcus                
+6282.1.1_10          VYVPNDDEGR                          genus           Staphylococcus                
+8034.1.1_11          TKDEIDTFVEK                         genus           Staphylococcus                
+8360.1.1_13          NKENADDVIAEMR                       genus           Staphylococcus                
+4673.1.1_11          AVHLTEQGADK                         genus           Staphylococcus                
+5904.1.1_10          QVSETLGEER                          genus           Staphylococcus                
+5806.1.1_16          GKFDDEGGAAPNNNLR                    genus           Staphylococcus                
+10591.1.1_14         VMSLDMGTVVAGTK                      genus           Staphylococcus                
+4707.1.1_10          GANQAIATAR                          genus           Staphylococcus                
+6818.1.1_23          VEVTKDNTTVVDGDGDENSIDAR             genus           Staphylococcus                
+9636.1.1_11          NEDWQLYTAGK                         genus           Staphylococcus                
+5385.1.1_13          EVGTTDKTGTVIR                       genus           Staphylococcus                
+5362.1.1_15          SRPQTIVMDQNDDKR                     genus           Staphylococcus                
+6688.1.1_26          EEPAKEEAPAEQAPVATQTEEVDENR          genus           Staphylococcus                
+7175.1.1_10          SIDFNEEDQK                          genus           Staphylococcus                
+6887.1.1_15          VGVLSTAYNNKPNSR                     genus           Staphylococcus                
+4249.1.1_18          ARAESHLENDDDNTDIHR                  genus           Staphylococcus                
+8953.1.1_13          TLNEEAPYEYVSK                       genus           Staphylococcus                
+8959.1.1_13          QEDDFVITDDHIK                       genus           Staphylococcus                
+8703.1.1_12          LQELQEELANEK                        genus           Staphylococcus                
+8458.1.1_12          HVNVNEITVRPV                        genus           Staphylococcus                
+11921.1.1_10         VEGALAMILK                          genus           Staphylococcus                
+6833.1.1_11          ASNPEEEVIAK                         genus           Staphylococcus                
+8963.1.1_17          ADFNVPLKDGEITNDNR                   genus           Staphylococcus                
+7768.1.1_17          VASASSLSQDEVKELNR                   genus           Staphylococcus                
+12952.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+11791.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+10456.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+7407.1.1_11          SNPPQEIQGLK                         genus           Staphylococcus                
+12380.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+8465.1.1_11          VPAVVYGYGTK                         genus           Staphylococcus                
+6839.1.1_25          DTHENEVESTDEEIYQSEDNHQEHK           genus           Staphylococcus                
+11330.1.1_14         ALEPMGEEYLNVVK                      genus           Staphylococcus                
+8475.1.1_15          NSAIPLKDLTNTNAR                     genus           Staphylococcus                
+8810.1.1_14          AQMTMVQAINDALK                      genus           Staphylococcus                
+10577.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+8697.1.1_11          ELGADAIINSK                         genus           Staphylococcus                
+10415.1.1_13         QQQSTPIIIITAK                       genus           Staphylococcus                
+4006.1.1_10          SNPSHGVIQR                          genus           Staphylococcus                
+6798.1.1_14          GRVEHVESNEILVR                      genus           Staphylococcus                
+8003.1.1_14          AIVHKDVYDEVLEK                      genus           Staphylococcus                
+9828.1.1_11          FNTEVTENLMK                         genus           Staphylococcus                
+8083.1.1_15          ITHLPTGVIATSSEK                     genus           Staphylococcus                
+8997.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+4608.1.1_10          HLEIDNDAHR                          genus           Staphylococcus                
+9231.1.1_21          DVQYLNAHGTSTPVGDLNEVK               genus           Staphylococcus                
+4309.1.1_11          HGDPQFEGQTK                         genus           Staphylococcus                
+7990.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+9906.1.1_15          TTTVIGNAFPDSEVK                     genus           Staphylococcus                
+8391.1.1_14          QVDGFTTNPSLMAK                      genus           Staphylococcus                
+5652.1.1_15          VTNSITHNISQNEDK                     genus           Staphylococcus                
+7014.1.1_23          VEVTKDNTTVVDGDGDENSIDAR             genus           Staphylococcus                
+11510.1.1_13         ADDSAEFAALAFK                       genus           Staphylococcus                
+4016.1.1_13          VRTNLSGTAEKPR                       genus           Staphylococcus                
+5371.1.1_13          VIKEALPKEEAEK                       genus           Staphylococcus                
+7589.1.1_13          SVAVTTTMGPGVK                       genus           Staphylococcus                
+8797.1.1_11          SFGNSEVYIER                         genus           Staphylococcus                
+8335.1.1_18          ASIVVEAANGPTTPEATR                  genus           Staphylococcus                
+6165.1.1_11          VKEDGVVIDEK                         genus           Staphylococcus                
+6317.1.1_12          ESDAQILAGGHR                        genus           Staphylococcus                
+3815.1.1_11          IHSTVVDNGGK                         genus           Staphylococcus                
+8322.1.1_11          DHLSAEDVYLK                         genus           Staphylococcus                
+7820.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+9463.1.1_12          VGTQTMNDIMYR                        genus           Staphylococcus                
+8222.1.1_12          TVVTVLPSNGER                        genus           Staphylococcus                
+7305.1.1_21          NGDSVAQSYDMIDNAPEEKER               genus           Staphylococcus                
+11359.1.1_15         DLNIAEGEAETTLLR                     genus           Staphylococcus                
+6703.1.1_12          QNAIETATENER                        genus           Staphylococcus                
+9470.1.1_21          DVVKEGAVIIDVGNTPDENGK               genus           Staphylococcus                
+11661.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6897.1.1_15          VGVLSTAYNNKPNSR                     genus           Staphylococcus                
+9081.1.1_10          ILSQEDYFDK                          genus           Staphylococcus                
+8573.1.1_11          SEEMNDQMLVR                         genus           Staphylococcus                
+8386.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+4498.1.1_17          SKEHANIGTIGHVDHGK                   genus           Staphylococcus                
+7644.1.1_13          LSPTIEEHDFQTK                       genus           Staphylococcus                
+7138.1.1_14          SQIEETESDFDREK                      genus           Staphylococcus                
+9445.1.1_17          AILEGQTNPPTLNSEIK                   genus           Staphylococcus                
+8600.1.1_13          TLQNDVDNGSFYK                       genus           Staphylococcus                
+10902.1.1_15         FDILDADDEEDQNLK                     genus           Staphylococcus                
+11625.1.1_15         ALEDYGIDYDQIIVR                     genus           Staphylococcus                
+12270.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+8991.1.1_11          SFGNSEVYIER                         genus           Staphylococcus                
+9729.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+9543.1.1_12          VLISAPATGDLK                        genus           Staphylococcus                
+8366.1.1_13          NKENADDVIAEMR                       genus           Staphylococcus                
+8286.1.1_13          QDVTVEQVNEAMK                       genus           Staphylococcus                
+10790.1.1_12         SNTTAIFINQIR                        genus           Staphylococcus                
+6779.1.1_12          KLAQTFTSNYGK                        genus           Staphylococcus                
+7114.1.1_13          TSINQAQQLGVTK                       genus           Staphylococcus                
+8497.1.1_15          AFESGEWSQETAETR                     genus           Staphylococcus                
+5709.1.1_10          IIVETNKPVR                          genus           Staphylococcus                
+9041.1.1_15          GIISYEMGSDGTGGK                     genus           Staphylococcus                
+7072.1.1_24          IKEEASANNLSDTSQEAQEVQEAK            genus           Staphylococcus                
+4746.1.1_12          DVPSEAEAQSHR                        genus           Staphylococcus                
+11340.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+10270.1.1_14         DGEVALFRPEENFK                      genus           Staphylococcus                
+10169.1.1_19         GLMGDTSDNIPGVAGVGEK                 genus           Staphylococcus                
+10336.1.1_13         TEEFNESMINDIK                       genus           Staphylococcus                
+11158.1.1_14         QTNSYDLAFDELEK                      genus           Staphylococcus                
+6935.1.1_12          KYVELSQASMAK                        genus           Staphylococcus                
+13081.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+10794.1.1_13         AFVEISPELAEDR                       genus           Staphylococcus                
+5574.1.1_14          INNGGTTVAEGTVK                      genus           Staphylococcus                
+7554.1.1_12          NVTSGANPVGLR                        genus           Staphylococcus                
+11888.1.1_10         SWVPLMIEGR                          genus           Staphylococcus                
+7321.1.1_17          NEGDVTISNYNQNSAVK                   genus           Staphylococcus                
+6617.1.1_16          YVSSEQVSEEEINHER                    genus           Staphylococcus                
+10135.1.1_11         QGLQDQVEALK                         genus           Staphylococcus                
+8433.1.1_11          DTHFVTFTGSR                         genus           Staphylococcus                
+5757.1.1_11          LAAEAGVAPEK                         genus           Staphylococcus                
+11329.1.1_20         QLATNEGYETFIVPDDVGGR                genus           Staphylococcus                
+5060.1.1_10          QDHYAYEDER                          genus           Staphylococcus                
+8711.1.1_13          SQQEDYESDILEK                       genus           Staphylococcus                
+7451.1.1_15          EKSNEGVIVAVGTGR                     genus           Staphylococcus                
+11061.1.1_17         TVPSFFGGSADLAGSNK                   genus           Staphylococcus                
+5213.1.1_10          FTDLNSPQKR                          genus           Staphylococcus                
+8623.1.1_16          ALEPSIVGQEHYEVAR                    genus           Staphylococcus                
+12633.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+9501.1.1_16          MNNDNQVYAYDFEGER                    genus           Staphylococcus                
+6559.1.1_10          YMVIREDEDK                          genus           Staphylococcus                
+11255.1.1_13         VVTTNSILYDMAK                       genus           Staphylococcus                
+11125.1.1_11         SIANFVIDTTK                         genus           Staphylococcus                
+8520.1.1_15          GIGDSVQTLNSSVDR                     genus           Staphylococcus                
+4726.1.1_9           IDSNSESLK                           genus           Staphylococcus                
+8400.1.1_21          NGDSVAQSYDMIDNAPEEKER               genus           Staphylococcus                
+8677.1.1_17          DTGKEISVPVGDETLGR                   genus           Staphylococcus                
+5858.1.1_13          KADDAVTLDTTGK                       genus           Staphylococcus                
+9082.1.1_11          EGDVLLVENTR                         genus           Staphylococcus                
+9592.1.1_13          FQLATGQLEETAR                       genus           Staphylococcus                
+7010.1.1_13          LGSTADASEFENK                       genus           Staphylococcus                
+7706.1.1_15          TEMGSNPTELDQVNR                     genus           Staphylococcus                
+5852.1.1_14          HHTEVLENPDNISK                      genus           Staphylococcus                
+5011.1.1_11          IDEYPSSQGQK                         genus           Staphylococcus                
+4682.1.1_17          SKEHANIGTIGHVDHGK                   genus           Staphylococcus                
+7804.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+12464.1.1_12         ILEEANVSADTR                        genus           Staphylococcus                
+9944.1.1_13          IGDDSNALYLYEK                       genus           Staphylococcus                
+7521.1.1_15          HVNVGLGGPTNGVPR                     genus           Staphylococcus                
+9784.1.1_15          QVSEDGGQVLFVGTK                     genus           Staphylococcus                
+5636.1.1_11          RYEDDGQLVSR                         genus           Staphylococcus                
+9810.1.1_16          LTGIPVSQMDDNDIER                    genus           Staphylococcus                
+8007.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+7925.1.1_14          ENYYINESDAQSVR                      genus           Staphylococcus                
+9686.1.1_14          QVDGFTTNPSLMAK                      genus           Staphylococcus                
+10063.1.1_10         DVDPVAEVMK                          genus           Staphylococcus                
+6246.1.1_16          VAVVGQSGNLTPADKK                    genus           Staphylococcus                
+8839.1.1_12          ANYDVLKLDGTK                        genus           Staphylococcus                
+5489.1.1_13          MVDSNPTQTAEQR                       genus           Staphylococcus                
+4451.1.1_16          AESHLENDDDNTDIHR                    genus           Staphylococcus                
+8921.1.1_12          GGTNFVDIENER                        genus           Staphylococcus                
+11118.1.1_14         ELGQDIPLVINGEK                      genus           Staphylococcus                
+8000.1.1_22          EEASANNLSDTSQEAQEIQEAK              genus           Staphylococcus                
+8427.1.1_13          IMETPNGNGGVFK                       genus           Staphylococcus                
+8210.1.1_19          IGVHASSFNNPTFTEEQNK                 genus           Staphylococcus                
+5414.1.1_12          LDRPAIESSNER                        genus           Staphylococcus                
+11129.1.1_19         IIPEDTVVFSSSPIPGNTK                 genus           Staphylococcus                
+11047.1.1_18         GGQVVEGVPVFNTVEEAK                  genus           Staphylococcus                
+8047.1.1_12          LSGPQAVEIADK                        genus           Staphylococcus                
+8893.1.1_13          TGGNADFYITPTK                       genus           Staphylococcus                
+7767.1.1_12          LNEYIVGQNDAK                        genus           Staphylococcus                
+9800.1.1_12          DLTTSEIEEQIK                        genus           Staphylococcus                
+9966.1.1_9           ALPAVFGGK                           genus           Staphylococcus                
+8546.1.1_11          IEVDPQDVYDK                         genus           Staphylococcus                
+6189.1.1_10          IAAGPEIQSR                          genus           Staphylococcus                
+11350.1.1_14         NDDLYAGIDLINNK                      genus           Staphylococcus                
+13110.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+9922.1.1_11          TIQAFDTALSR                         genus           Staphylococcus                
+9105.1.1_15          IEHDTFGEIEVPADK                     genus           Staphylococcus                
+5110.1.1_13          EGRPGDDATLTAR                       genus           Staphylococcus                
+9230.1.1_15          IVGQEPAPNLEEISK                     genus           Staphylococcus                
+9605.1.1_17          GNEVIVSMNEVEGTPEK                   genus           Staphylococcus                
+7988.1.1_15          QEENTIEVVRPSDSK                     genus           Staphylococcus                
+6253.1.1_14          YHSIISNSDNDPEK                      genus           Staphylococcus                
+7195.1.1_10          SMGVAVPEGR                          genus           Staphylococcus                
+8276.1.1_14          AMQAAMDDAGIEPK                      genus           Staphylococcus                
+10407.1.1_12         TVGSGVVTEIIK                        genus           Staphylococcus                
+9466.1.1_12          SNEILIVDDEDR                        genus           Staphylococcus                
+3729.1.1_11          SLGKEPEDQNR                         genus           Staphylococcus                
+4559.1.1_12          QAYDNQTGVNEK                        genus           Staphylococcus                
+9194.1.1_14          IAMIETLNNGKPIR                      genus           Staphylococcus                
+8452.1.1_10          VLVIATDTAR                          genus           Staphylococcus                
+10986.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+7759.1.1_14          LQELQEELANEKEK                      genus           Staphylococcus                
+11366.1.1_11         EDFETILESGR                         genus           Staphylococcus                
+8113.1.1_17          RQEEELLNGGEIGQETR                   genus           Staphylococcus                
+4038.1.1_11          TNLSGTAEKPR                         genus           Staphylococcus                
+10160.1.1_15         ITYTMIGDPSQTITR                     genus           Staphylococcus                
+6778.1.1_13          DGNEGEVPFKPSR                       genus           Staphylococcus                
+10493.1.1_14         LGVIPMGTVNDFGR                      genus           Staphylococcus                
+8960.1.1_10          GFGIDEDVAR                          genus           Staphylococcus                
+7393.1.1_18          AIQTSQEAIQEAQASQAK                  genus           Staphylococcus                
+7606.1.1_15          IAHAYAYGGPNMAVK                     genus           Staphylococcus                
+7914.1.1_12          QVLPLSQEDSSK                        genus           Staphylococcus                
+7080.1.1_14          ETYKGALSNYQQVK                      genus           Staphylococcus                
+5274.1.1_14          NTMQAATKPGITTK                      genus           Staphylococcus                
+6626.1.1_16          TGTAQVAAPNGGGYVK                    genus           Staphylococcus                
+4302.1.1_12          TIDAETTGGNTK                        genus           Staphylococcus                
+6978.1.1_16          YVSSEQVSEEEINHER                    genus           Staphylococcus                
+9469.1.1_15          VAETLMPGGVNSPVR                     genus           Staphylococcus                
+4599.1.1_12          SKQTAAETLAQK                        genus           Staphylococcus                
+5236.1.1_13          NMGVEEQADEVQK                       genus           Staphylococcus                
+9670.1.1_19          IIEQIGTYNPTSANAPEIK                 genus           Staphylococcus                
+4862.1.1_16          ITHHPSGIVVNNQNER                    genus           Staphylococcus                
+6242.1.1_16          EGEQQTEEPEVVGESK                    genus           Staphylococcus                
+8332.1.1_15          VIPEIDGKLDGGAQR                     genus           Staphylococcus                
+7967.1.1_15          TMAPVSLSSEAEYQR                     genus           Staphylococcus                
+10412.1.1_15         TDNDAFGAYLHMGGR                     genus           Staphylococcus                
+7079.1.1_21          EEAPAEQAPVATQTEEVDENR               genus           Staphylococcus                
+8134.1.1_12          ENGVNLAEVSPK                        genus           Staphylococcus                
+5723.1.1_14          EIANAISTNKPDAK                      genus           Staphylococcus                
+8068.1.1_15          GITINTSHIEYQTDK                     genus           Staphylococcus                
+9842.1.1_14          LLEIGDTTQSELAK                      genus           Staphylococcus                
+5522.1.1_11          NKLQTLSDDEK                         genus           Staphylococcus                
+9955.1.1_18          DSGLAIEPAATMAEGAQK                  genus           Staphylococcus                
+6157.1.1_10          LIEDGTMSSK                          genus           Staphylococcus                
+3463.1.1_9           HVDQGLGDK                           genus           Staphylococcus                
+7551.1.1_12          ELFHETDEEINK                        genus           Staphylococcus                
+5696.1.1_10          GVTLAQASSK                          genus           Staphylococcus                
+7547.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+3622.1.1_9           TKEQQLAER                           genus           Staphylococcus                
+7103.1.1_11          NSNFNGEGFSR                         genus           Staphylococcus                
+5478.1.1_14          EVATNAGVKDVETR                      genus           Staphylococcus                
+11442.1.1_10         LTIVNVIDSR                          genus           Staphylococcus                
+11416.1.1_17         VVITGMGALSPIGNDVK                   genus           Staphylococcus                
+10682.1.1_15         ESGLLGLSGTSSDLR                     genus           Staphylococcus                
+9513.1.1_18          GVDFYEGNEVDEAEEEAK                  genus           Staphylococcus                
+7836.1.1_12          SELANGVEIDGK                        genus           Staphylococcus                
+7336.1.1_12          DAGSNVYAETVR                        genus           Staphylococcus                
+6517.1.1_16          TSHITIVVSDGKEEAK                    genus           Staphylococcus                
+11403.1.1_10         LLLLNQELER                          genus           Staphylococcus                
+6591.1.1_15          GATVYVSNNPAEQGR                     genus           Staphylococcus                
+7373.1.1_18          KVADSSDFDGPVGIGHTR                  genus           Staphylococcus                
+11071.1.1_12         NVDMPITNALYR                        genus           Staphylococcus                
+9753.1.1_10          LIEDYMQDVK                          genus           Staphylococcus                
+4591.1.1_10          KIEENGELAK                          genus           Staphylococcus                
+4363.1.1_20          GGGRPDMAQGGGTQPENISK                genus           Staphylococcus                
+10721.1.1_13         VYVAGAIPEVGLK                       genus           Staphylococcus                
+12019.1.1_17         AGLGMTDGILSLVPAAR                   genus           Staphylococcus                
+12755.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+6386.1.1_12          TLSEAEQDTFKK                        genus           Staphylococcus                
+12612.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+7814.1.1_13          VKVGTTVLDGSVR                       genus           Staphylococcus                
+10362.1.1_17         DPAPEEIGEEMDLPAEK                   genus           Staphylococcus                
+7596.1.1_16          SQDPINGVSHSEWSSR                    genus           Staphylococcus                
+8585.1.1_16          LGANIVAVNQQVDQSK                    genus           Staphylococcus                
+7745.1.1_11          NSNVESIQIER                         genus           Staphylococcus                
+12033.1.1_12         TVGSGVVTEIIK                        genus           Staphylococcus                
+9927.1.1_19          NADFGDVTGVTLGHEGIGK                 genus           Staphylococcus                
+10871.1.1_17         GITGGNGILADDYDIAR                   genus           Staphylococcus                
+5551.1.1_13          AIVAATESGSTAR                       genus           Staphylococcus                
+11853.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+3393.1.1_10          IIESHDDTQR                          genus           Staphylococcus                
+8097.1.1_15          SGVMEGNVITAEEVK                     genus           Staphylococcus                
+8117.1.1_14          DTDRDNFLTAEEAK                      genus           Staphylococcus                
+6374.1.1_15          EGDKVTGEVQQVEDK                     genus           Staphylococcus                
+9377.1.1_15          VGEEVEIIGLHDTSK                     genus           Staphylococcus                
+7973.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+7949.1.1_12          PAAINQLQTVGK                        genus           Staphylococcus                
+5967.1.1_8           LIAHLDNR                            genus           Staphylococcus                
+4967.1.1_11          IQETRPLSATK                         genus           Staphylococcus                
+8667.1.1_12          EDEAEAEDNLLR                        genus           Staphylococcus                
+7987.1.1_16          TSDEDAEWEKKDPLVR                    genus           Staphylococcus                
+8264.1.1_12          EMMGYDTTPVER                        genus           Staphylococcus                
+7405.1.1_14          QMQGEEIAEEDLQK                      genus           Staphylococcus                
+6404.1.1_13          NMGVEEQADEVQK                       genus           Staphylococcus                
+7997.1.1_15          VRLVPGEGNITVNNR                     genus           Staphylococcus                
+10762.1.1_19         AQKPVDNITQIIGGTPVVK                 genus           Staphylococcus                
+11406.1.1_18         DNDTVYTIFTSGSTGEPK                  genus           Staphylococcus                
+11106.1.1_14         DELPLPENVNIVTK                      genus           Staphylococcus                
+3538.1.1_15          RTQSTTPEQSEPHAR                     genus           Staphylococcus                
+9688.1.1_10          SALSFGMDPK                          genus           Staphylococcus                
+9967.1.1_12          ALSLDDTNGFVK                        genus           Staphylococcus                
+10490.1.1_13         INISDEAIEAAVK                       genus           Staphylococcus                
+10282.1.1_17         LVNSLPQGATATDLALR                   genus           Staphylococcus                
+11535.1.1_16         AETVEALMETTLPNGK                    genus           Staphylococcus                
+9213.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6204.1.1_12          VPEGVDNEQQIR                        genus           Staphylococcus                
+8663.1.1_11          QGLQDQVEALK                         genus           Staphylococcus                
+10300.1.1_21         LSTGDDVVELSSTSPEIGTVK               genus           Staphylococcus                
+9344.1.1_12          VLISAPATGDLK                        genus           Staphylococcus                
+9130.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+11354.1.1_12         IVVTEIPFQVNK                        genus           Staphylococcus                
+9400.1.1_15          SGVMEGNVITAEEVK                     genus           Staphylococcus                
+5450.1.1_12          LDRPAIESSNER                        genus           Staphylococcus                
+8994.1.1_16          QEEELLNGGEIGQETR                    genus           Staphylococcus                
+5690.1.1_13          APGSVGMASDASR                       genus           Staphylococcus                
+9370.1.1_12          LGVSELANVSER                        genus           Staphylococcus                
+7388.1.1_10          SMGVAVPEGR                          genus           Staphylococcus                
+4884.1.1_12          DLSEEAESGKAR                        genus           Staphylococcus                
+10999.1.1_16         VALVEMQDFAQGTSSR                    genus           Staphylococcus                
+11036.1.1_12         VIVDPFISNNPK                        genus           Staphylococcus                
+5415.1.1_10          AAEAENVDMR                          genus           Staphylococcus                
+9749.1.1_15          LLTGDSPLASNELGK                     genus           Staphylococcus                
+3014.1.1_13          KQAQESVKSEAER                       genus           Staphylococcus                
+4952.1.1_11          VGNDTAMEMSR                         genus           Staphylococcus                
+10010.1.1_14         MIPSYGESLIEDEK                      genus           Staphylococcus                
+7086.1.1_14          DGFTTHDVDHIAGR                      genus           Staphylococcus                
+6497.1.1_16          TSHITIVVSDGKEEAK                    genus           Staphylococcus                
+5626.1.1_10          VNHSDMDDLR                          genus           Staphylococcus                
+8202.1.1_13          TISFETSTSSVSK                       genus           Staphylococcus                
+11709.1.1_12         SMPQALFVVDPR                        genus           Staphylococcus                
+6973.1.1_13          DGNEGEVPFKPSR                       genus           Staphylococcus                
+10451.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+8937.1.1_14          VPEPVNQNIYEMNR                      genus           Staphylococcus                
+8252.1.1_11          IEEPNVVLPHR                         genus           Staphylococcus                
+8817.1.1_10          YNLAPDELEK                          genus           Staphylococcus                
+5558.1.1_12          ASEDAPVGPGPR                        genus           Staphylococcus                
+7225.1.1_13          VYGNEEQVGAGIR                       genus           Staphylococcus                
+7625.1.1_12          DKQEMLQTIGAK                        genus           Staphylococcus                
+5730.1.1_9           VTDADFDSK                           genus           Staphylococcus                
+8507.1.1_11          VQGIVGSLGDK                         genus           Staphylococcus                
+6585.1.1_15          QEENTIEVVRPSDSK                     genus           Staphylococcus                
+7826.1.1_12          DKVNFVQAEVTK                        genus           Staphylococcus                
+9129.1.1_12          SAVVQEGQNFLK                        genus           Staphylococcus                
+5660.1.1_15          VTNSITHNISQNEDK                     genus           Staphylococcus                
+6730.1.1_10          MADMNNEVVK                          genus           Staphylococcus                
+8372.1.1_24          SPNTEIYQHEMPGGQYSNLSQQAK            genus           Staphylococcus                
+8275.1.1_10          IGGENDLLTR                          genus           Staphylococcus                
+11478.1.1_15         TDLINAVAEQADLTK                     genus           Staphylococcus                
+11274.1.1_21         LGYDTGESETPITPVIIGDEK               genus           Staphylococcus                
+6709.1.1_11          IVTETSEEELK                         genus           Staphylococcus                
+7024.1.1_10          YNAVEAIQHR                          genus           Staphylococcus                
+10076.1.1_13         DIFANGAIQAAER                       genus           Staphylococcus                
+6519.1.1_16          TSHITIVVSDGKEEAK                    genus           Staphylococcus                
+10608.1.1_13         GVNNPSEMFLEER                       genus           Staphylococcus                
+10108.1.1_16         NGATFISTNPDVSIPK                    genus           Staphylococcus                
+10598.1.1_12         TVGSGVVTEIIK                        genus           Staphylococcus                
+5172.1.1_12          NTESTVEETNVK                        genus           Staphylococcus                
+9206.1.1_13          QGLQDQVEALKEK                       genus           Staphylococcus                
+7695.1.1_15          IHAIEEAGEPLTPTR                     genus           Staphylococcus                
+9444.1.1_15          VSNTDSPDTWVVAGR                     genus           Staphylococcus                
+8709.1.1_20          SFSSNNTTTNTSSNNVDILK                genus           Staphylococcus                
+6392.1.1_13          VASASSLSQDEVK                       genus           Staphylococcus                
+11466.1.1_13         FGILPETEYEINK                       genus           Staphylococcus                
+3837.1.1_14          TSHKFDDKQASMTK                      genus           Staphylococcus                
+9032.1.1_17          EGAVIIDVGNTPDENGK                   genus           Staphylococcus                
+6735.1.1_11          SKYLIATTAAK                         genus           Staphylococcus                
+12923.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+8020.1.1_13          GYQSPYMVTDSDK                       genus           Staphylococcus                
+6393.1.1_14          FDDEGGAAPNNNLR                      genus           Staphylococcus                
+5658.1.1_13          GREDNPGIMAASK                       genus           Staphylococcus                
+7546.1.1_15          AAAENIIPNSTGAAK                     genus           Staphylococcus                
+9051.1.1_16          AGVAYMATGGMAGALR                    genus           Staphylococcus                
+9718.1.1_11          ENADDVIAEMR                         genus           Staphylococcus                
+10831.1.1_11         VIMSILTASSK                         genus           Staphylococcus                
+5343.1.1_13          VIKEALPKEEAEK                       genus           Staphylococcus                
+7404.1.1_13          VIVNQYHQVPTYR                       genus           Staphylococcus                
+12161.1.1_13         TLLFGPFANVGPK                       genus           Staphylococcus                
+11462.1.1_15         ALAESMFGDDDAMIR                     genus           Staphylococcus                
+7019.1.1_10          ETDGTSIVYR                          genus           Staphylococcus                
+10307.1.1_11         AAIEMLTSSFR                         genus           Staphylococcus                
+6269.1.1_10          SAEALNNQIR                          genus           Staphylococcus                
+9518.1.1_15          LVEEAPSPILDDETR                     genus           Staphylococcus                
+7475.1.1_16          GITINTSHIEYQTDKR                    genus           Staphylococcus                
+8889.1.1_12          NADELLDEDVEK                        genus           Staphylococcus                
+6990.1.1_13          NTAESYLGEKVDK                       genus           Staphylococcus                
+3300.1.1_11          KAVVAAEDSGK                         genus           Staphylococcus                
+11320.1.1_18         AVTDTTNDLLTANAEMLK                  genus           Staphylococcus                
+9812.1.1_14          ASANIFETDEETMK                      genus           Staphylococcus                
+9535.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+8325.1.1_13          DKEIQETAEVLSR                       genus           Staphylococcus                
+10176.1.1_18         DSGLAIEPAATMAEGAQK                  genus           Staphylococcus                
+11453.1.1_12         TVGSGVVTEIIK                        genus           Staphylococcus                
+11141.1.1_17         GITGGNGILADDYDIAR                   genus           Staphylococcus                
+5158.1.1_12          TIAMDSTDGVQR                        genus           Staphylococcus                
+12084.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+7664.1.1_24          IKEEASANNLSDTSQEAQEIQEAK            genus           Staphylococcus                
+5378.1.1_16          VAVEALHENSQKVENK                    genus           Staphylococcus                
+7978.1.1_12          NKLTFSDEVVEK                        genus           Staphylococcus                
+9744.1.1_14          SGVGLAAPQINISK                      genus           Staphylococcus                
+10360.1.1_11         IDIVQWNEDPK                         genus           Staphylococcus                
+9261.1.1_13          ALGDYEYEEIENR                       genus           Staphylococcus                
+7971.1.1_14          IEATDEDIDKELEK                      genus           Staphylococcus                
+4184.1.1_13          VRTNLSGTAEKPR                       genus           Staphylococcus                
+9492.1.1_14          AINIALDGPAAAGK                      genus           Staphylococcus                
+10087.1.1_17         VAGNYAASLLAQTNANK                   genus           Staphylococcus                
+9137.1.1_18          IAVLTSGGDSPGMNAAVR                  genus           Staphylococcus                
+10122.1.1_12         DGEISAPIVIGR                        genus           Staphylococcus                
+8054.1.1_14          AMQAAMDDAGIEPK                      genus           Staphylococcus                
+9680.1.1_12          FYLVQDYNSGNK                        genus           Staphylococcus                
+10725.1.1_17         FGGNPANFLDAGGSATR                   genus           Staphylococcus                
+8943.1.1_20          SFSSNNTTTNTSSNNVDILK                genus           Staphylococcus                
+3210.1.1_11          AAIKEADNTEK                         genus           Staphylococcus                
+7919.1.1_17          VGAPTVEGATVTATVNK                   genus           Staphylococcus                
+10920.1.1_14         VAQEAFESWSLTSK                      genus           Staphylococcus                
+7335.1.1_15          HVNVGLGGPTNGVPR                     genus           Staphylococcus                
+6592.1.1_10          NASVTILHSR                          genus           Staphylococcus                
+7977.1.1_21          LSNGNTAGATGSSAAQIMAQR               genus           Staphylococcus                
+8253.1.1_14          QQALVDINEANDER                      genus           Staphylococcus                
+10786.1.1_12         TVGSGVVTEIIK                        genus           Staphylococcus                
+4005.1.1_10          AVVAAEDSGK                          genus           Staphylococcus                
+6953.1.1_14          TTEVVGEDHVTGIR                      genus           Staphylococcus                
+5252.1.1_11          EDDNPETVANR                         genus           Staphylococcus                
+9740.1.1_12          ETAPEVTLLNSR                        genus           Staphylococcus                
+8811.1.1_16          SINPADTSQVIANASK                    genus           Staphylococcus                
+6886.1.1_10          GLLEVDKQSR                          genus           Staphylococcus                
+10267.1.1_13         FVELMEQGNPSLR                       genus           Staphylococcus                
+8783.1.1_14          DTFHSISELPEGAK                      genus           Staphylococcus                
+10048.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+11654.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+5300.1.1_13          MVDSNPTQTAEQR                       genus           Staphylococcus                
+6410.1.1_12          AGDGGNGITAYR                        genus           Staphylococcus                
+3958.1.1_13          MTAHSSDDDDQYR                       genus           Staphylococcus                
+6969.1.1_14          AMQAAMDDAGIEPK                      genus           Staphylococcus                
+5854.1.1_13          AIVAATESGSTAR                       genus           Staphylococcus                
+6003.1.1_13          QKQQEQNQEPQFK                       genus           Staphylococcus                
+8870.1.1_10          TAILTDEEIR                          genus           Staphylococcus                
+6606.1.1_16          YVSSEQVSEEEINHER                    genus           Staphylococcus                
+7744.1.1_15          AAAENIIPNSTGAAK                     genus           Staphylococcus                
+5312.1.1_20          GGGRPDMAQGGGTQPENISK                genus           Staphylococcus                
+8927.1.1_12          VLVTEVDVPNAK                        genus           Staphylococcus                
+8806.1.1_10          GIPTVVGVEK                          genus           Staphylococcus                
+8918.1.1_15          TMAPVSLSSEAEYQR                     genus           Staphylococcus                
+12255.1.1_15         IMQEEIFGPVVGFVK                     genus           Staphylococcus                
+8976.1.1_12          HLVPATLELGGK                        genus           Staphylococcus                
+7726.1.1_12          VAIVGDTANDMK                        genus           Staphylococcus                
+9856.1.1_15          NTMAIISDMNQPLGR                     genus           Staphylococcus                
+5525.1.1_14          AMQAAMDDAGIEPK                      genus           Staphylococcus                
+6968.1.1_14          TTEVVGEDHVTGIR                      genus           Staphylococcus                
+10171.1.1_13         FTGEVEVVDGGFR                       genus           Staphylococcus                
+9894.1.1_15          SGADVSGPIPLPTEK                     genus           Staphylococcus                
+3875.1.1_11          TNLSGTAEKPR                         genus           Staphylococcus                
+7689.1.1_15          SNISSGPLPTQSAVK                     genus           Staphylococcus                
+8216.1.1_19          NQTNDMTEPYTIGGGTYAR                 genus           Staphylococcus                
+5613.1.1_16          GRNPQTGKEIDIPASK                    genus           Staphylococcus                
+6773.1.1_13          AFDDDNVTHVAGR                       genus           Staphylococcus                
+8021.1.1_13          INGIPAVEVHATK                       genus           Staphylococcus                
+7639.1.1_11          EKMDYMDVSPK                         genus           Staphylococcus                
+8080.1.1_15          GITINTSHIEYQTDK                     genus           Staphylococcus                
+8629.1.1_18          RVDIPSYSVKPGQTISVR                  genus           Staphylococcus                
+7341.1.1_10          AQELDELQAK                          genus           Staphylococcus                
+10951.1.1_9          EIPILIQAK                           genus           Staphylococcus                
+12682.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+8490.1.1_15          AAAENIIPNSTGAAK                     genus           Staphylococcus                
+12916.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+10776.1.1_12         SGDFFGTDEFDK                        genus           Staphylococcus                
+8438.1.1_13          LETLSESYDGVEK                       genus           Staphylococcus                
+8936.1.1_11          VEEGQEIFVEK                         genus           Staphylococcus                
+9674.1.1_13          KQDDVLLTDTTFR                       genus           Staphylococcus                
+6627.1.1_16          YVSSEQVSEEEINHER                    genus           Staphylococcus                
+7699.1.1_15          IHAIEEAGEPLTPTR                     genus           Staphylococcus                
+10045.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+9124.1.1_12          GEAYFVDNNSLR                        genus           Staphylococcus                
+10580.1.1_10         GLEDIATMYK                          genus           Staphylococcus                
+8992.1.1_15          LIAIDQDQTAIDNAK                     genus           Staphylococcus                
+7964.1.1_14          IEATDEDIDKELEK                      genus           Staphylococcus                
+9424.1.1_14          TEFDVELTSAGSSK                      genus           Staphylococcus                
+9791.1.1_15          EGAGNEIQLTDAIER                     genus           Staphylococcus                
+10026.1.1_13         QDVTVEQVNEAMK                       genus           Staphylococcus                
+9500.1.1_14          QVDGFTTNPSLMAK                      genus           Staphylococcus                
+2718.1.1_9           VEAQEGSEK                           genus           Staphylococcus                
+12572.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+6899.1.1_12          TIAMDSTDGVQR                        genus           Staphylococcus                
+5721.1.1_13          SGEPNPESNQALR                       genus           Staphylococcus                
+6609.1.1_13          KNYAVEATPGNLK                       genus           Staphylococcus                
+8131.1.1_14          MQDLNAADEEAAMR                      genus           Staphylococcus                
+12191.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+9878.1.1_19          VVNPLGQPIDGQGPINTTK                 genus           Staphylococcus                
+11014.1.1_12         VESMNMTEQIFR                        genus           Staphylococcus                
+9227.1.1_16          KEGNEGLLTVTVPAEK                    genus           Staphylococcus                
+7060.1.1_11          IEVVNGDEVSR                         genus           Staphylococcus                
+5803.1.1_11          LQSHIENLQNR                         genus           Staphylococcus                
+6962.1.1_18          DNTTVVDGDGDENSIDAR                  genus           Staphylococcus                
+8788.1.1_11          QTPLYQNYVDR                         genus           Staphylococcus                
+8654.1.1_10          DNSVETIELK                          genus           Staphylococcus                
+12252.1.1_12         VEDFVQLLEGAK                        genus           Staphylococcus                
+10002.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+11482.1.1_13         FPLGQAVYFDTEK                       genus           Staphylococcus                
+4722.1.1_11          KENGVDLSQDK                         genus           Staphylococcus                
+8879.1.1_17          GQVLAAPGSITPHTEFK                   genus           Staphylococcus                
+9252.1.1_15          INDIYDGEGVTEAVR                     genus           Staphylococcus                
+11154.1.1_13         WYVIDAEGQTLGR                       genus           Staphylococcus                
+6338.1.1_10          TSDEDAEWEK                          genus           Staphylococcus                
+8004.1.1_15          VRLVPGEGNITVNNR                     genus           Staphylococcus                
+11477.1.1_11         SLPLIVTTIQK                         genus           Staphylococcus                
+9942.1.1_11          STVDVNFEGLK                         genus           Staphylococcus                
+10404.1.1_14         AISDALQIDSATIR                      genus           Staphylococcus                
+8139.1.1_13          QIIVTDSTSDLSK                       genus           Staphylococcus                
+8122.1.1_15          NTMAIISDMNQPLGR                     genus           Staphylococcus                
+12413.1.1_10         LTIVNVIDSR                          genus           Staphylococcus                
+6127.1.1_18          QEENTIEVVRPSDSKEDR                  genus           Staphylococcus                
+8001.1.1_13          INGIPAVEVHATK                       genus           Staphylococcus                
+11559.1.1_18         STDALLNNAVATAVETGR                  genus           Staphylococcus                
+12234.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+11063.1.1_16         MFGFQAEGASPIVQNK                    genus           Staphylococcus                
+5907.1.1_13          VYSGTMTSGSYVK                       genus           Staphylococcus                
+5956.1.1_14          MQDLNAADEEAAMR                      genus           Staphylococcus                
+11094.1.1_9          GFDPVLQIR                           genus           Staphylococcus                
+9546.1.1_12          IDAPDAEDMQFK                        genus           Staphylococcus                
+11062.1.1_14         DGIVQYEGELDTLK                      genus           Staphylococcus                
+10979.1.1_9          IALTEVWEK                           genus           Staphylococcus                
+5359.1.1_11          ITAVDAQQTAR                         genus           Staphylococcus                
+10436.1.1_12         QVLPLSQEDSSK                        genus           Staphylococcus                
+2797.1.1_14          VATNNHNSGQDVSR                      genus           Staphylococcus                
+8362.1.1_15          LGVDADKVTEDASFK                     genus           Staphylococcus                
+10219.1.1_11         ISQALFSGDLK                         genus           Staphylococcus                
+7680.1.1_10          TQNSSIQYLK                          genus           Staphylococcus                
+5871.1.1_13          GGLPNKEPQIQEK                       genus           Staphylococcus                
+5435.1.1_14          QAYDNQTGVNEKER                      genus           Staphylococcus                
+10839.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6396.1.1_14          MINSAPQSESYATR                      genus           Staphylococcus                
+8376.1.1_15          TMAPVSLSSEAEYQR                     genus           Staphylococcus                
+7190.1.1_18          AIQTSQEAIQEAQASQAK                  genus           Staphylococcus                
+5606.1.1_12          LDRPAIESSNER                        genus           Staphylococcus                
+8029.1.1_22          EEASANNLSDTSQEAQEIQEAK              genus           Staphylococcus                
+9117.1.1_12          LLASNLTSVPER                        genus           Staphylococcus                
+10066.1.1_19         LGFAEADPTDDVEGVDAAR                 genus           Staphylococcus                
+11248.1.1_12         DILEEQMNEFER                        genus           Staphylococcus                
+4015.1.1_14          TQSTTVEQSEPHAR                      genus           Staphylococcus                
+3559.1.1_13          DTQQQNQPEEDER                       genus           Staphylococcus                
+3674.1.1_15          RTQSTTVEQSEPHAR                     genus           Staphylococcus                
+7464.1.1_12          ILEEANVSADTR                        genus           Staphylococcus                
+9877.1.1_13          VPAEEISAGDIIR                       genus           Staphylococcus                
+10460.1.1_18         DSGLAIEPAATMAEGAQK                  genus           Staphylococcus                
+7391.1.1_16          ELEDNFQDEQGEDTDR                    genus           Staphylococcus                
+10830.1.1_12         IIPLGGVGEIAK                        genus           Staphylococcus                
+9211.1.1_13          IIGQDQAVEMVSR                       genus           Staphylococcus                
+10586.1.1_10         VDDLELLEQR                          genus           Staphylococcus                
+10522.1.1_14         GGLPETVPAFTVNK                      genus           Staphylococcus                
+11126.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+7534.1.1_12          IKVEELDPENNR                        genus           Staphylococcus                
+11792.1.1_20         TIDAFLAGVGTGGTLSGVGK                genus           Staphylococcus                
+8537.1.1_12          MNLNIETTTQDK                        genus           Staphylococcus                
+11996.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+10035.1.1_14         AYVGTTDTFYDNIK                      genus           Staphylococcus                
+7433.1.1_9           QLLPSTPNK                           genus           Staphylococcus                
+9996.1.1_12          DLTTSEIEEQIK                        genus           Staphylococcus                
+10959.1.1_17         GLEVGQIVESGAEADIK                   genus           Staphylococcus                
+5912.1.1_16          SAEETDNGVKVTYEAK                    genus           Staphylococcus                
+7456.1.1_16          GITINTSHIEYQTDKR                    genus           Staphylococcus                
+8329.1.1_14          MQDLNAADEEAAMR                      genus           Staphylococcus                
+12746.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+9431.1.1_11          NIYIDTSNALK                         genus           Staphylococcus                
+7720.1.1_14          SLLDEESKQEISPK                      genus           Staphylococcus                
+5822.1.1_10          NSDISDAEMK                          genus           Staphylococcus                
+8219.1.1_15          FPVVQNVNAQGETDK                     genus           Staphylococcus                
+7081.1.1_13          GYQSPYMVTDSDK                       genus           Staphylococcus                
+7835.1.1_20          FVNEALDNNEQSVEDYKNGK                genus           Staphylococcus                
+8639.1.1_14          TGSLTGFGGTINNK                      genus           Staphylococcus                
+5015.1.1_12          AVADRLENSEAK                        genus           Staphylococcus                
+7187.1.1_13          VQLAGVTDQNEAR                       genus           Staphylococcus                
+11742.1.1_16         TVEVPVQLVGEAVGAK                    genus           Staphylococcus                
+10421.1.1_14         VVVIPTDEESMIAR                      genus           Staphylococcus                
+7415.1.1_11          EIAMVDYDKEK                         genus           Staphylococcus                
+9864.1.1_15          TYSSYEVYDAQFTEK                     genus           Staphylococcus                
+7460.1.1_12          VVIPNDVSNQAR                        genus           Staphylococcus                
+7584.1.1_22          NYIEIGKEEGKLEQGGGTDDSK              genus           Staphylococcus                
+7803.1.1_16          KGEMVDMTTTDNGLTR                    genus           Staphylococcus                
+3331.1.1_9           IVQEQDNQR                           genus           Staphylococcus                
+6959.1.1_14          NTDVVIAGEDAGSK                      genus           Staphylococcus                
+9908.1.1_14          GSVVGTTLVAETVK                      genus           Staphylococcus                
+8942.1.1_13          VAGDVIDVTGVSK                       genus           Staphylococcus                
+10647.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+10985.1.1_18         GGQVVEGVPVFNTVEEAK                  genus           Staphylococcus                
+11290.1.1_15         GVIVVNDVPGFVANR                     genus           Staphylococcus                
+7445.1.1_13          LNAAVEGTDLESK                       genus           Staphylococcus                
+4466.1.1_17          SKEHANIGTIGHVDHGK                   genus           Staphylococcus                
+4208.1.1_11          TNLSGTAEKPR                         genus           Staphylococcus                
+7374.1.1_10          QEENTIEVVR                          genus           Staphylococcus                
+10651.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+8833.1.1_17          QQGQQGGNGNYLEQIGR                   genus           Staphylococcus                
+4778.1.1_12          SKQTAAETLAQK                        genus           Staphylococcus                
+10698.1.1_13         VGMNIEDGPVLVR                       genus           Staphylococcus                
+11426.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+7412.1.1_14          MQDLNAADEEAAMR                      genus           Staphylococcus                
+6758.1.1_13          FIVDKENEVSDPK                       genus           Staphylococcus                
+6654.1.1_10          IIMDDAAIQR                          genus           Staphylococcus                
+2720.1.1_11          KAVEQEENDAK                         genus           Staphylococcus                
+11987.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+11858.1.1_14         DGDFFPLTVNYEEK                      genus           Staphylococcus                
+8209.1.1_12          LSNNSFLNNAAK                        genus           Staphylococcus                
+12320.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+5642.1.1_13          GREDNPGIMAASK                       genus           Staphylococcus                
+11205.1.1_18         GGQVVEGVPVFNTVEEAK                  genus           Staphylococcus                
+10765.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+3994.1.1_12          AVSEAEMGSPTR                        genus           Staphylococcus                
+5494.1.1_11          VIHAFDETKEK                         genus           Staphylococcus                
+10444.1.1_14         IDEGTDVNFGELTR                      genus           Staphylococcus                
+8510.1.1_12          VPLPNGGEMNVK                        genus           Staphylococcus                
+5357.1.1_14          FVKREELGGETNES                      genus           Staphylococcus                
+12507.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+6895.1.1_9           ILGNGSLDK                           genus           Staphylococcus                
+7781.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+8653.1.1_13          YFNDVPNAVAHVK                       genus           Staphylococcus                
+11454.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+7548.1.1_20          IGVHASSFNNPTFTEEQNKK                genus           Staphylococcus                
+12454.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6530.1.1_13          VMVEAATDEDAER                       genus           Staphylococcus                
+12399.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+7941.1.1_12          VLTTDPGMGVAR                        genus           Staphylococcus                
+9013.1.1_16          SINPADTSQVIANASK                    genus           Staphylococcus                
+5097.1.1_9           MIDNAPEEK                           genus           Staphylococcus                
+11175.1.1_9          IALTEVWEK                           genus           Staphylococcus                
+9936.1.1_22          TAGPSTPVEITGINDVPQAGDR              genus           Staphylococcus                
+10180.1.1_13         GLQPPEELVEAAK                       genus           Staphylococcus                
+12038.1.1_17         QIESGAPVDVFMSANTK                   genus           Staphylococcus                
+9526.1.1_16          EEGDDTLSPGVNQLVR                    genus           Staphylococcus                
+9710.1.1_16          VMVQGITGSTALFHTK                    genus           Staphylococcus                
+10684.1.1_12         VPASAEYVSLIR                        genus           Staphylococcus                
+4869.1.1_11          EDNPGIMAASK                         genus           Staphylococcus                
+11195.1.1_14         VISIAYETVQLPDR                      genus           Staphylococcus                
+7323.1.1_15          HVNVGLGGPTNGVPR                     genus           Staphylococcus                
+10074.1.1_13         FVYLTNEGAQLER                       genus           Staphylococcus                
+7220.1.1_11          ASNPEEEVIAK                         genus           Staphylococcus                
+11455.1.1_13         IADTGVDPLPLMK                       genus           Staphylococcus                
+7153.1.1_14          SQIEETESDFDREK                      genus           Staphylococcus                
+8368.1.1_14          QMQGEEIAEEDLQK                      genus           Staphylococcus                
+8153.1.1_17          RQEEELLNGGEIGQETR                   genus           Staphylococcus                
+6860.1.1_12          ALQSTAQTLENR                        genus           Staphylococcus                
+8280.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6352.1.1_10          YEDDGQLVSR                          genus           Staphylococcus                
+10226.1.1_9          LAIATLGVR                           genus           Staphylococcus                
+10818.1.1_12         ILSEGIDELSIK                        genus           Staphylococcus                
+8039.1.1_13          EVVDGYKVEGDLR                       genus           Staphylococcus                
+4070.1.1_17          QAYDNQTGVNEKEREER                   genus           Staphylococcus                
+8250.1.1_18          DSGLAIEPAATMAEGAQK                  genus           Staphylococcus                
+5725.1.1_13          VMVEAATDEDAER                       genus           Staphylococcus                
+6179.1.1_11          EIDNEAEIQAK                         genus           Staphylococcus                
+8010.1.1_13          KLDKEVVFVPETR                       genus           Staphylococcus                
+10154.1.1_13         SNQPLSLGLNTYK                       genus           Staphylococcus                
+9112.1.1_15          TMAPVSLSSEAEYQR                     genus           Staphylococcus                
+10679.1.1_17         GITGGNGILADDYDIAR                   genus           Staphylococcus                
+11780.1.1_15         SGVMEGNVITAEEVK                     genus           Staphylococcus                
+9000.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+10991.1.1_14         DSDDLDGLNYLAGK                      genus           Staphylococcus                
+5287.1.1_15          AVVAAEDSGKAEDYK                     genus           Staphylococcus                
+12790.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+9209.1.1_15          SGVMEGNVITAEEVK                     genus           Staphylococcus                
+11123.1.1_17         QIESGAPVDVFMSANTK                   genus           Staphylococcus                
+8611.1.1_13          SITLGTTNIEQTK                       genus           Staphylococcus                
+11898.1.1_13         GDDSVTQLILPIR                       genus           Staphylococcus                
+8644.1.1_16          KPPFPTDGYGYEYNQR                    genus           Staphylococcus                
+10964.1.1_12         NLFTDSTDFTER                        genus           Staphylococcus                
+11770.1.1_15         QSTSGIYSYLPLATR                     genus           Staphylococcus                
+11309.1.1_12         DIVIYPDAYSIK                        genus           Staphylococcus                
+11150.1.1_19         ELTLGNTVDNTYMGPVINK                 genus           Staphylococcus                
+9539.1.1_17          NVEILNEDETTQTALQK                   genus           Staphylococcus                
+9071.1.1_14          MVSSGTEATLDTLR                      genus           Staphylococcus                
+11481.1.1_11         EYIPVIMYSPK                         genus           Staphylococcus                
+10427.1.1_16         AGVAYMATGGMAGALR                    genus           Staphylococcus                
+8560.1.1_14          TSQNPEVNYEALAK                      genus           Staphylococcus                
+5847.1.1_13          IRNNAEVQLGADK                       genus           Staphylococcus                
+9148.1.1_17          DVANNITFNNNEDGIGR                   genus           Staphylococcus                
+6924.1.1_16          TSTGFAGGGATAEDVK                    genus           Staphylococcus                
+8700.1.1_14          GLWNEDKENEVIER                      genus           Staphylococcus                
+7579.1.1_10          IVTEIYGGSK                          genus           Staphylococcus                
+7197.1.1_15          TKQIIVTDSTSDLSK                     genus           Staphylococcus                
+8742.1.1_18          EQLEANGMVISGTSPDGR                  genus           Staphylococcus                
+11596.1.1_11         NGLIDDFDIAR                         genus           Staphylococcus                
+11523.1.1_10         MAVEEIFNVK                          genus           Staphylococcus                
+8163.1.1_15          TMAPVSLSSEAEYQR                     genus           Staphylococcus                
+10639.1.1_16         AGVAYMATGGMAGALR                    genus           Staphylococcus                
+4836.1.1_15          AHAHEFEQSTMNESR                     genus           Staphylococcus                
+9188.1.1_11          VELNMDQGTFK                         genus           Staphylococcus                
+8668.1.1_13          YFNDVPNAVAHVK                       genus           Staphylococcus                
+7959.1.1_12          EVDNLTLNTTEK                        genus           Staphylococcus                
+7280.1.1_11          FGDADISPGTR                         genus           Staphylococcus                
+7574.1.1_20          IGVHASSFNNPTFTEEQNKK                genus           Staphylococcus                
+8708.1.1_20          SFSSNNTTTNTSSNNVDILK                genus           Staphylococcus                
+10512.1.1_12         PGEYLEPVDFEK                        genus           Staphylococcus                
+7800.1.1_10          IADEAYPSIK                          genus           Staphylococcus                
+11544.1.1_15         SILSVGEPLNPEVIK                     genus           Staphylococcus                
+8398.1.1_13          MMIALDGTPNKGK                       genus           Staphylococcus                
+8476.1.1_13          SNEGVIVAVGTGR                       genus           Staphylococcus                
+3039.1.1_9           DLGTNKEQR                           genus           Staphylococcus                
+5008.1.1_14          KVDLQQNDAPETQK                      genus           Staphylococcus                
+4026.1.1_12          GAEASAHAYASR                        genus           Staphylococcus                
+11181.1.1_14         DLYDAIEETDPTIK                      genus           Staphylococcus                
+10921.1.1_14         IDEGTDVNFGELTR                      genus           Staphylococcus                
+7832.1.1_11          VGTTVLDGSVR                         genus           Staphylococcus                
+8834.1.1_14          GELVDADSIEMAGR                      genus           Staphylococcus                
+11531.1.1_14         NFDVLDEATGLAQR                      genus           Staphylococcus                
+3768.1.1_13          SVLKDQKENGAPR                       genus           Staphylococcus                
+9825.1.1_16          TLEIQPQQNVYMVSGK                    genus           Staphylococcus                
+4354.1.1_14          AEEIQKEVSKDPSK                      genus           Staphylococcus                
+9483.1.1_15          TENNNLVTSTQGIIK                     genus           Staphylococcus                
+12179.1.1_17         GITGGNGILADDYDIAR                   genus           Staphylococcus                
+10474.1.1_11         EIIEEALEQAR                         genus           Staphylococcus                
+8277.1.1_12          IQVVVGPGTVNK                        genus           Staphylococcus                
+11016.1.1_17         IGVLTVVEGSTDEEAAR                   genus           Staphylococcus                
+9315.1.1_10          NEWAFETSDK                          genus           Staphylococcus                
+8091.1.1_17          VADSSDFDGPVGIGHTR                   genus           Staphylococcus                
+4732.1.1_9           VIQNPEGSR                           genus           Staphylococcus                
+10634.1.1_10         GDLGDIYFGK                          genus           Staphylococcus                
+7957.1.1_14          SIEAGTVEINEAGR                      genus           Staphylococcus                
+4334.1.1_12          VQVIKDTPEHGK                        genus           Staphylococcus                
+6454.1.1_13          QQQEQIIHEANVR                       genus           Staphylococcus                
+9637.1.1_11          ILGTSLENLNR                         genus           Staphylococcus                
+5430.1.1_11          VTGEVQQVEDK                         genus           Staphylococcus                
+6192.1.1_15          KPITATEEDLDDNNR                     genus           Staphylococcus                
+10223.1.1_14         GISFENSNGEWAYK                      genus           Staphylococcus                
+7376.1.1_13          IIDDAGNELPPNR                       genus           Staphylococcus                
+9597.1.1_16          VIDSTGALNLQEVPGK                    genus           Staphylococcus                
+6498.1.1_14          AMQAAMDDAGIEPK                      genus           Staphylococcus                
+8291.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+7432.1.1_13          VYSGTMTSGSYVK                       genus           Staphylococcus                
+9581.1.1_17          GITITSAATTAAWEGHR                   genus           Staphylococcus                
+4725.1.1_9           HNIESIDSK                           genus           Staphylococcus                
+6732.1.1_11          AEAVVEEIKAK                         genus           Staphylococcus                
+11749.1.1_14         TQQIGVIGLAVMGK                      genus           Staphylococcus                
+11211.1.1_15         QVSEDGGQVLFVGTK                     genus           Staphylococcus                
+10463.1.1_14         MIPSYGESLIEDEK                      genus           Staphylococcus                
+7970.1.1_13          QGLQDQVEALKEK                       genus           Staphylococcus                
+7361.1.1_12          NVTSGANPVGLR                        genus           Staphylococcus                
+9341.1.1_17          TALNVNDSMLAGTGTAK                   genus           Staphylococcus                
+6379.1.1_12          LDVDENPSTAAK                        genus           Staphylococcus                
+5095.1.1_18          LVDKAAQSNLIHSNKADR                  genus           Staphylococcus                
+9833.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6995.1.1_16          GETVTEGSSSNAYAIK                    genus           Staphylococcus                
+3262.1.1_10          TTDFKDDKDR                          genus           Staphylococcus                
+5700.1.1_13          MVDSNPTQTAEQR                       genus           Staphylococcus                
+10090.1.1_12         SKFEELSDSLIR                        genus           Staphylococcus                
+7839.1.1_10          LASELGTAMK                          genus           Staphylococcus                
+4243.1.1_16          QKAEEIQKEVSKDPSK                    genus           Staphylococcus                
+7108.1.1_21          EEAPAEQAPVATQTEEVDENR               genus           Staphylococcus                
+6653.1.1_9           VAMNQIEGR                           genus           Staphylococcus                
+6689.1.1_10          VQQAVEAAIK                          genus           Staphylococcus                
+4185.1.1_14          TQSTTVEQSEPHAR                      genus           Staphylococcus                
+9488.1.1_10          LLEDDALINR                          genus           Staphylococcus                
+10788.1.1_13         AVDTGDGVLLVVK                       genus           Staphylococcus                
+4677.1.1_13          MVDSNPTQTAEQR                       genus           Staphylococcus                
+4326.1.1_11          AAQSNLIHSNK                         genus           Staphylococcus                
+8356.1.1_15          LGVDADKVTEDASFK                     genus           Staphylococcus                
+7052.1.1_15          VASTITSHDAGYLDK                     genus           Staphylococcus                
+9879.1.1_12          VESMNMTEQIFR                        genus           Staphylococcus                
+7251.1.1_12          KAVDTPIDGIEK                        genus           Staphylococcus                
+7650.1.1_14          KGYEPTDELKEEIR                      genus           Staphylococcus                
+6564.1.1_10          IGDYTSVGTR                          genus           Staphylococcus                
+9672.1.1_15          TYSSYEVYDAQFTEK                     genus           Staphylococcus                
+6017.1.1_21          LSNGNTAGATGSSAAQIMAQR               genus           Staphylococcus                
+6838.1.1_14          AHGVTTVLNPAPAK                      genus           Staphylococcus                
+10429.1.1_10         MAVEEIFNVK                          genus           Staphylococcus                
+11030.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+10225.1.1_14         AAELQYGTIPQLEK                      genus           Staphylococcus                
+10011.1.1_13         FQLATGQLEETAR                       genus           Staphylococcus                
+11390.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+7627.1.1_11          ELEEETGYIAK                         genus           Staphylococcus                
+7382.1.1_14          VADDSNTPTFVSGK                      genus           Staphylococcus                
+9798.1.1_11          EGEIFADVTGK                         genus           Staphylococcus                
+10036.1.1_16         GTTTEDIAQSISPGLR                    genus           Staphylococcus                
+11941.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+4974.1.1_10          EVENNQVNVR                          genus           Staphylococcus                
+8542.1.1_9           VGNVNFISR                           genus           Staphylococcus                
+6078.1.1_15          EPGGEYKETIETGTK                     genus           Staphylococcus                
+9644.1.1_9           VLTNIAFAK                           genus           Staphylococcus                
+11244.1.1_15         VDEIDEDLLPEVENR                     genus           Staphylococcus                
+10146.1.1_10         MLQVTDVSLR                          genus           Staphylococcus                
+5298.1.1_12          SQSYGQGSDQIR                        genus           Staphylococcus                
+6089.1.1_11          NNAEVQLGADK                         genus           Staphylococcus                
+9321.1.1_12          SAVVQEGQNFLK                        genus           Staphylococcus                
+8529.1.1_15          LAGTMEGLNGDVIHK                     genus           Staphylococcus                
+8713.1.1_15          SSAGALPLNVQTQTR                     genus           Staphylococcus                
+9835.1.1_13          ALQSAGLEVTAIR                       genus           Staphylococcus                
+7389.1.1_20          VGAPTVEGATVTATVNKQGR                genus           Staphylococcus                
+5261.1.1_11          MEQITSAQNNR                         genus           Staphylococcus                
+8540.1.1_13          AYITPGLGDAGDR                       genus           Staphylococcus                
+8066.1.1_15          ITHLPTGVIATSSEK                     genus           Staphylococcus                
+6920.1.1_11          KLQLEDVSENK                         genus           Staphylococcus                
+9224.1.1_17          EGAVIIDVGNTPDENGK                   genus           Staphylococcus                
+6158.1.1_12          SDEDPYENPHIK                        genus           Staphylococcus                
+6233.1.1_9           LVNQTGGFK                           genus           Staphylococcus                
+7552.1.1_14          TGEGGKLFGSVSTK                      genus           Staphylococcus                
+7210.1.1_15          VAVVGQSGNLTPADK                     genus           Staphylococcus                
+10466.1.1_16         LGEVALVPDDSPISNR                    genus           Staphylococcus                
+5809.1.1_13          QKQQEQNQEPQFK                       genus           Staphylococcus                
+8581.1.1_12          TALEGQDIEDIK                        genus           Staphylococcus                
+8894.1.1_19          TAVSNNADNKNELVSLAVK                 genus           Staphylococcus                
+10453.1.1_10         QFNISVEDIK                          genus           Staphylococcus                
+6875.1.1_15          KTNSSVVVEDNPAIR                     genus           Staphylococcus                
+10167.1.1_15         RPNTDELGLEELGVK                     genus           Staphylococcus                
+9494.1.1_22          VENKNEIAQVGAISAADEEIGR              genus           Staphylococcus                
+6630.1.1_11          VKDLTDDELGR                         genus           Staphylococcus                
+8307.1.1_13          SAVVQEGQNFLKR                       genus           Staphylococcus                
+11203.1.1_15         NTMAIISDMNQPLGR                     genus           Staphylococcus                
+8410.1.1_11          VILEYGESAPK                         genus           Staphylococcus                
+8832.1.1_12          VTQVMGPVIDVR                        genus           Staphylococcus                
+8999.1.1_15          ITYTMIGDPSQTITR                     genus           Staphylococcus                
+5119.1.1_10          EEETKEFEER                          genus           Staphylococcus                
+5143.1.1_12          VEGTTPHTITGR                        genus           Staphylococcus                
+6696.1.1_17          HIIGSTNPSEASPGSIR                   genus           Staphylococcus                
+11881.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+7262.1.1_14          QFGSGNTGATNSFR                      genus           Staphylococcus                
+2986.1.1_13          KQAQESVKSEAER                       genus           Staphylococcus                
+3846.1.1_15          MVKDAEVNAEADKKR                     genus           Staphylococcus                
+11221.1.1_13         NLEGILAQSPGLK                       genus           Staphylococcus                
+7848.1.1_14          DPQASIGHGITINR                      genus           Staphylococcus                
+10286.1.1_12         VIEVAEDVESLK                        genus           Staphylococcus                
+9758.1.1_12          DTDTIIFNTAQR                        genus           Staphylococcus                
+10604.1.1_16         AYGAELVLTPGSEAMK                    genus           Staphylococcus                
+5538.1.1_9           GNAKEELLK                           genus           Staphylococcus                
+9218.1.1_16          KEGNEGLLTVTVPAEK                    genus           Staphylococcus                
+4892.1.1_11          VQVIKDTEDSK                         genus           Staphylococcus                
+3611.1.1_13          SVLKDQKENGAPR                       genus           Staphylococcus                
+8670.1.1_15          KASANIFETDEETMK                     genus           Staphylococcus                
+11617.1.1_14         EYGLIDEVMVPETK                      genus           Staphylococcus                
+12134.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+10734.1.1_12         NLIPTVIETTNR                        genus           Staphylococcus                
+7282.1.1_15          IEFTGNKETDKVYYR                     genus           Staphylococcus                
+7455.1.1_14          NVEYVEDDKQGVLR                      genus           Staphylococcus                
+6736.1.1_13          AGEKVEPAMIENR                       genus           Staphylococcus                
+5365.1.1_12          ASEDAPVGPGPR                        genus           Staphylococcus                
+11744.1.1_12         QMFIMLAPTAEK                        genus           Staphylococcus                
+6470.1.1_15          LTQEQGDYATTVSAK                     genus           Staphylococcus                
+11361.1.1_16         SIGMAIEPPLVPTTGK                    genus           Staphylococcus                
+10653.1.1_14         MIPSYGESLIEDEK                      genus           Staphylococcus                
+7467.1.1_11          TKEIISDIESK                         genus           Staphylococcus                
+9809.1.1_11          LTSIQTLEDVK                         genus           Staphylococcus                
+6000.1.1_12          AGMGYTGSHDLR                        genus           Staphylococcus                
+6267.1.1_11          HIANEVLGSAK                         genus           Staphylococcus                
+7659.1.1_14          LLTGEDGEHAVLSR                      genus           Staphylococcus                
+8702.1.1_11          DIPNVSESALK                         genus           Staphylococcus                
+7027.1.1_11          ASNPEEEVIAK                         genus           Staphylococcus                
+4020.1.1_14          TQSTTVEQSEPHAR                      genus           Staphylococcus                
+10685.1.1_12         GMIIGETYLESK                        genus           Staphylococcus                
+10561.1.1_14         IVPEEDMPYLPDGR                      genus           Staphylococcus                
+7694.1.1_14          KGYEPTDELKEEIR                      genus           Staphylococcus                
+7530.1.1_10          QTIQNELDER                          genus           Staphylococcus                
+9413.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+5821.1.1_10          IEATDEDIDK                          genus           Staphylococcus                
+8136.1.1_18          ASIVVEAANGPTTPEATR                  genus           Staphylococcus                
+8688.1.1_12          TVVTVLPSNGER                        genus           Staphylococcus                
+4957.1.1_12          VEGTTPHTITGR                        genus           Staphylococcus                
+4857.1.1_13          MVDSNPTQTAEQR                       genus           Staphylococcus                
+8863.1.1_17          GQVLAAPGSITPHTEFK                   genus           Staphylococcus                
+10480.1.1_15         IEAISDEGSFTEFDK                     genus           Staphylococcus                
+8646.1.1_16          ALEPSIVGQEHYEVAR                    genus           Staphylococcus                
+6401.1.1_12          VPEGVDNEQQIR                        genus           Staphylococcus                
+10424.1.1_14         EIYGTDNVLATDIR                      genus           Staphylococcus                
+11177.1.1_18         SGGGVRPGFEGGQLPLFR                  genus           Staphylococcus                
+8468.1.1_12          IGVPGEQELGGR                        genus           Staphylococcus                
+12854.1.1_13         LVPGEGNITVNNR                       genus           Staphylococcus                
+7743.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+4327.1.1_8           NEIDHEVR                            genus           Staphylococcus                
+9392.1.1_15          YSESMNATFLDNQGK                     genus           Staphylococcus                
+10900.1.1_14         EIAQAIVDNLDTEK                      genus           Staphylococcus                
+4738.1.1_12          QAYDNQTGVNEK                        genus           Staphylococcus                
+6813.1.1_10          MNANINVEGR                          genus           Staphylococcus                
+5072.1.1_11          EDDNPETVANR                         genus           Staphylococcus                
+6595.1.1_13          AIGDGDHGVNMVR                       genus           Staphylococcus                
+8897.1.1_12          LTLRPVAEDLSK                        genus           Staphylococcus                
+9014.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+11264.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+10911.1.1_16         DNPAELLPEEEEVMNK                    genus           Staphylococcus                
+10185.1.1_14         TNSSVVVEDNPAIR                      genus           Staphylococcus                
+11238.1.1_12         NMTSLDFAEITK                        genus           Staphylococcus                
+9797.1.1_10          SLESSFNIAR                          genus           Staphylococcus                
+8673.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+9160.1.1_12          IDAPDAEDMQFK                        genus           Staphylococcus                
+10475.1.1_11         EVQPFIEAYER                         genus           Staphylococcus                
+4978.1.1_19          KSSAEVQQTQQASIPASQK                 genus           Staphylococcus                
+7960.1.1_21          LSNGNTAGATGSSAAQIMAQR               genus           Staphylococcus                
+8471.1.1_18          ANGMIETAQSEINSQKER                  genus           Staphylococcus                
+6113.1.1_11          YNMVPDHAEAR                         genus           Staphylococcus                
+8643.1.1_10          VNFVQAEVTK                          genus           Staphylococcus                
+5480.1.1_14          EVATNAGVKDVETR                      genus           Staphylococcus                
+10250.1.1_19         NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+11614.1.1_13         MNLIPTVIETTNR                       genus           Staphylococcus                
+8760.1.1_10          ILGIDEENER                          genus           Staphylococcus                
+6801.1.1_11          GAGDENFDHLR                         genus           Staphylococcus                
+5146.1.1_11          IQETRPLSATK                         genus           Staphylococcus                
+8778.1.1_19          AEVTSYDDYVQYGGESGAK                 genus           Staphylococcus                
+6399.1.1_11          DQADKVTLVSR                         genus           Staphylococcus                
+10028.1.1_13         ALQSAGLEVTAIR                       genus           Staphylococcus                
+9929.1.1_19          VVNPLGQPIDGQGPINTTK                 genus           Staphylococcus                
+8143.1.1_9           ILEAINPEK                           genus           Staphylococcus                
+7470.1.1_10          VLNSYGLSSK                          genus           Staphylococcus                
+6810.1.1_14          MQDLNAADEEAAMR                      genus           Staphylococcus                
+8011.1.1_14          EDVNNGAIYINGER                      genus           Staphylococcus                
+6831.1.1_15          KTNSSVVVEDNPAIR                     genus           Staphylococcus                
+9149.1.1_12          VLISAPATGDLK                        genus           Staphylococcus                
+6907.1.1_15          VGVLSTAYNNKPNSR                     genus           Staphylococcus                
+8741.1.1_16          VALVEMQDFAQGTSSR                    genus           Staphylococcus                
+11404.1.1_14         AVNEFDVGNLYLNR                      genus           Staphylococcus                
+8949.1.1_10          LIDQYLTNGK                          genus           Staphylococcus                
+8599.1.1_12          VINQELAAYEQR                        genus           Staphylococcus                
+7897.1.1_9           IVPEETFEK                           genus           Staphylococcus                
+10689.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+6642.1.1_14          NIAVSAEAAQDYKK                      genus           Staphylococcus                
+7766.1.1_21          SFSSNNTTTNTSSNNVDILKR               genus           Staphylococcus                
+5861.1.1_14          HHTEVLENPDNISK                      genus           Staphylococcus                
+8339.1.1_13          SAVVQEGQNFLKR                       genus           Staphylococcus                
+6580.1.1_13          VASASSLSQDEVK                       genus           Staphylococcus                
+7377.1.1_13          DVLNNDKEVYDPR                       genus           Staphylococcus                
+11457.1.1_13         AIGVSNFTLDQLK                       genus           Staphylococcus                
+7500.1.1_16          ASDTLENVAPNQSYQR                    genus           Staphylococcus                
+9243.1.1_15          LNDYDLNVTQATVSR                     genus           Staphylococcus                
+8077.1.1_13          KVLISAPATGDLK                       genus           Staphylococcus                
+7931.1.1_11          YVELSQASMAK                         genus           Staphylococcus                
+8765.1.1_13          LVPGEGNITVNNR                       genus           Staphylococcus                
+9913.1.1_17          VVITGMGALSPIGNDVK                   genus           Staphylococcus                
+4195.1.1_11          VKQQLQQSSYK                         genus           Staphylococcus                
+6641.1.1_15          QEENTIEVVRPSDSK                     genus           Staphylococcus                
+5325.1.1_11          FKEIAAEQGTK                         genus           Staphylococcus                
+9869.1.1_19          IIEQIGTYNPTSANAPEIK                 genus           Staphylococcus                
+5917.1.1_9           VTDADFDSK                           genus           Staphylococcus                
+7851.1.1_13          IIQEYQDAEGNLK                       genus           Staphylococcus                
+9607.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+7111.1.1_13          QAITNPNTVQSIK                       genus           Staphylococcus                
+9634.1.1_11          AVDLVSDAVVR                         genus           Staphylococcus                
+7237.1.1_8           KDLVVVPR                            genus           Staphylococcus                
+11656.1.1_16         TVEVPVQLVGEAVGAK                    genus           Staphylococcus                
+11382.1.1_11         DLATSLIISER                         genus           Staphylococcus                
+5465.1.1_13          QINNYTSQQVSNK                       genus           Staphylococcus                
+6412.1.1_15          SDFDDDKPAVIDHAK                     genus           Staphylococcus                
+7796.1.1_17          TKNDEDYSSTILYNNEK                   genus           Staphylococcus                
+6241.1.1_14          SETIRPELSNASDK                      genus           Staphylococcus                
+5176.1.1_14          EIATDKNVQGDNYR                      genus           Staphylococcus                
+9720.1.1_9           GIPQELALK                           genus           Staphylococcus                
+8732.1.1_12          SNNTPTLDSLAR                        genus           Staphylococcus                
+10880.1.1_16         SINPADTSQVIANASK                    genus           Staphylococcus                
+6910.1.1_11          NYIEIGKEEGK                         genus           Staphylococcus                
+4426.1.1_11          VANEAVQEAGK                         genus           Staphylococcus                
+4998.1.1_14          KVDLQQNDAPETQK                      genus           Staphylococcus                
+6059.1.1_12          HFYEQQSDIEQR                        genus           Staphylococcus                
+11214.1.1_15         DLELQDVDIETPVTK                     genus           Staphylococcus                
+11389.1.1_13         TTGPELLQQFEGK                       genus           Staphylococcus                
+8300.1.1_17          QESQDNPVYYAQYAHAR                   no rank         Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+8955.1.1_8           AIPTISLK                            no rank         Aequorivita sublithincola DSM 14238
+7294.1.1_11          DFDDGHVYVSR                         species         Staphylococcus aureus         
+7034.1.1_17          EAVKDAQLDINENTADR                   species         Staphylococcus aureus         
+5159.1.1_11          HVVDTNEISTK                         species         Staphylococcus aureus         
+10569.1.1_18         TEELPADFEPQVATTQLR                  species         Staphylococcus argenteus      
+5770.1.1_16          AANVLSEHAEVDKGDR                    species         Staphylococcus aureus         
+8567.1.1_17          SSYVAPYYGQNAAPVAR                   species         Staphylococcus aureus         
+4116.1.1_15          EAQAEADKSVAVSNK                     species         Staphylococcus aureus         
+7724.1.1_10          IFEDPSTSYK                          species         Staphylococcus aureus         
+4492.1.1_13          NQTTEEQNYSEQR                       species         Staphylococcus aureus         
+9239.1.1_12          DFKPGVFEENVR                        species         Staphylococcus aureus         
+7792.1.1_14          LVAIENEDGSYSDR                      species         Staphylococcus aureus         
+8448.1.1_15          QGALFHERPDDVAAK                     species         Staphylococcus aureus         
+10235.1.1_10         VDFGDVDALK                          species         Staphylococcus aureus         
+6980.1.1_17          STTYNATIGMATNKDGK                   species         Staphylococcus aureus         
+7656.1.1_14          AKYEAETNYIPNPR                      species         Staphylococcus aureus         
+3930.1.1_11          QDPENGHIADR                         species         Staphylococcus aureus         
+10469.1.1_13         LAEYDIPAEVVGK                       species         Staphylococcus aureus         
+4405.1.1_19          VVDNNQGGGTHYYPNNHGK                 species         Staphylococcus aureus         
+9970.1.1_17          IFTNTANAMEGVTDDVK                   species         Staphylococcus aureus         
+10308.1.1_12         SYTDMDESIFEK                        species         Staphylococcus aureus         
+10098.1.1_12         YLDLITNEDSTR                        species         Staphylococcus aureus         
+7291.1.1_18          IFTNTANAMEGVTDDVKR                  species         Staphylococcus aureus         
+8744.1.1_11          TVIVYVTDTQK                         species         Staphylococcus aureus         
+6946.1.1_16          SSFENSVTAPAGNQGH                    species         Staphylococcus aureus         
+3473.1.1_28          ENSNDNTPQQNEETNNKKEETTNNSVDK        species         Staphylococcus aureus         
+8855.1.1_16          IHLVGDEIANGQGIGR                    species         Staphylococcus aureus         
+6359.1.1_13          VSQVVQQQQLTAK                       species         Staphylococcus aureus         
+7980.1.1_12          TGQVEVQVTNIK                        species         Staphylococcus aureus         
+4996.1.1_15          ANNVATDANHSYTSR                     species         Staphylococcus aureus         
+6215.1.1_15          ATDAENVEKEEAITK                     species         Staphylococcus aureus         
+9126.1.1_13          DAQSIDETYNTFK                       species         Staphylococcus aureus         
+5203.1.1_18          ETTKPSTETTEDNHVLGR                  species         Staphylococcus aureus         
+6092.1.1_35          GHDDDSSSKEEPAKEEAPAEQAPVATQTEEVDENR species         Staphylococcus aureus         
+4529.1.1_12          KAQNMINDAQNK                        species         Staphylococcus aureus         
+7325.1.1_18          GAAIGAGTAGLAGGAASK                  species         Staphylococcus aureus         
+5518.1.1_10          IALNYKDEHR                          species         Staphylococcus aureus         
+9875.1.1_11          FNLEYINNNAK                         species         Staphylococcus aureus         
+7731.1.1_17          ATLPNEDVVESDPSTTK                   species         Staphylococcus aureus         
+10236.1.1_17         AHEDGLVDDVVAQSIDK                   species         Staphylococcus aureus         
+3440.1.1_19          REAQAEADKSVAVSNKESK                 species         Staphylococcus aureus         
+7901.1.1_12          IRPVISSDYYGK                        species         Staphylococcus aureus         
+8515.1.1_11          SIINTSQDFEK                         species         Staphylococcus aureus         
+5672.1.1_11          GVAHLTNPQVK                         species         Staphylococcus aureus         
+8564.1.1_11          LPQAQYQIEYK                         species         Staphylococcus aureus         
+6644.1.1_11          MLDEHEITSQR                         species         Staphylococcus aureus         
+4519.1.1_41          ENSNDNTPQQNEETNNKKEETTNNSVDKAEVNQANDDNQQR species         Staphylococcus aureus         
+9196.1.1_12          MLMSAGDDIVEK                        species         Staphylococcus aureus         
+6016.1.1_15          ATDAENVEKEEAITK                     species         Staphylococcus aureus         
+6228.1.1_11          LKGDVDYDAVK                         species         Staphylococcus aureus         
+6708.1.1_10          YLQDHQVPIR                          species         Staphylococcus aureus         
+6079.1.1_20          TNQQDVATNQAVQTSKPMIR                species         Staphylococcus aureus         
+11964.1.1_16         TVQPIDVDTIVASVEK                    species         Staphylococcus aureus         
+8457.1.1_12          ELDLNQEPEMQR                        species         Staphylococcus aureus         
+5988.1.1_12          DNLKEENVEAVK                        species         Staphylococcus aureus         
+7040.1.1_17          EAVKDAQLDINENTADR                   species         Staphylococcus aureus         
+6937.1.1_26          AENAGDGTATKVDKEDQISATEAIEK          species         Staphylococcus aureus         
+3587.1.1_9           TNPKEYANR                           species         Staphylococcus aureus         
+6116.1.1_12          NITTGEINEQSK                        species         Staphylococcus aureus         
+8569.1.1_13          LNPSDLSAPPGVK                       species         Staphylococcus aureus         
+8571.1.1_13          SGDQAIYNITGQK                       species         Staphylococcus aureus         
+6686.1.1_17          ALQQQGLTADKYKENLR                   species         Staphylococcus aureus         
+6539.1.1_17          HASDNQQAISSNQQIIR                   species         Staphylococcus aureus         
+10346.1.1_15         IAAAASYLPLSDSPK                     species         Staphylococcus aureus         
+10547.1.1_11         LDYALDFDQDK                         species         Staphylococcus aureus         
+4975.1.1_13          VVKDEDSEFNDGK                       species         Staphylococcus aureus         
+7087.1.1_16          GSESGNAIFNHDGVDK                    species         Staphylococcus aureus         
+7714.1.1_14          VEPIENGLQVGDHK                      species         Staphylococcus aureus         
+7094.1.1_16          GSESGNAIFNHDGVDK                    species         Staphylococcus aureus         
+4890.1.1_21          AENDSTASQSEMSEPKPQEEK               species         Staphylococcus aureus         
+5030.1.1_11          TNETTEEIQAK                         species         Staphylococcus aureus         
+6791.1.1_20          TNQQDVATNQAVQTSKPMIR                species         Staphylococcus aureus         
+4687.1.1_11          ISDSEIKEDSK                         species         Staphylococcus aureus         
+6992.1.1_23          LEDTHSEGSTQDANDLAENAEVK             species         Staphylococcus aureus         
+8313.1.1_12          EVIDDAINDADR                        species         Staphylococcus aureus         
+6072.1.1_17          SNVNDATDYSSETPEGK                   species         Staphylococcus aureus         
+6790.1.1_12          KTQLEETVAYTK                        species         Staphylococcus aureus         
+9052.1.1_11          TYTVQELTDAR                         species         Staphylococcus aureus         
+6634.1.1_22          VGNPQDEATQMGSQTGKDQLDK              species         Staphylococcus aureus         
+2600.1.1_23          STHGGSDTSANSSGTAQSNNNTR             species         Staphylococcus aureus         
+10470.1.1_13         QFILISENDSDEK                       species         Staphylococcus aureus         
+8967.1.1_22          AAAIGAGTAGVAGAAGAMAASK              species         Staphylococcus aureus         
+8987.1.1_14          LGQVDEITTANIGK                      species         Staphylococcus aureus         
+5913.1.1_9           IVEGDQLSR                           species         Staphylococcus aureus         
+9021.1.1_13          GVEIQSDLVEASK                       species         Staphylococcus aureus         
+5136.1.1_31          ANTLNQNTNDTESSNQEPSLQQDKEQKDNKG     species         Staphylococcus aureus         
+5845.1.1_12          YGIGTSGNATSR                        species         Alicycliphilus denitrificans  
+6892.1.1_14          ASAPNNISGMPTAK                      species         Staphylococcus aureus         
+10152.1.1_14         VFLINTTNGQVVSK                      species         Staphylococcus aureus         
+5744.1.1_17          QVENQDGQINQQVDNAK                   species         Staphylococcus aureus         
+5579.1.1_20          KSGSTGFGTSVNTSSNATSK                species         Staphylococcus aureus         
+8239.1.1_11          GDNVVDINSYK                         species         Staphylococcus aureus         
+11121.1.1_13         IVNTLFDNGALGR                       species         Staphylococcus aureus         
+9383.1.1_15          EAFEQMVEDQSSEDK                     species         Staphylococcus aureus         
+7926.1.1_15          KESDAVITDTDEALK                     species         Staphylococcus aureus         
+5473.1.1_10          RIVEGDQLSR                          species         Staphylococcus aureus         
+8513.1.1_13          ALQDGAGAAFYQR                       species         Staphylococcus aureus         
+4236.1.1_13          DSYQYDNQNQNHR                       species         Staphylococcus aureus         
+10073.1.1_11         FNLEYINNNAK                         species         Staphylococcus aureus         
+5132.1.1_28          VKEDAEDETNEDEQSTSTVSEDGTEQQR        species         Staphylococcus aureus         
+4150.1.1_11          MPASQATPSSR                         species         Staphylococcus aureus         
+7359.1.1_11          FATNSTFTNAR                         species         Pseudomonas aeruginosa        
+9349.1.1_14          TIGLNYPGGPQVDR                      species         Staphylococcus aureus         
+9932.1.1_13          TNDVEEIMGVNDR                       species         Staphylococcus aureus         
+7750.1.1_17          ATLPNEDVVESDPSTTK                   species         Staphylococcus aureus         
+6122.1.1_14          EQNSDSIDEETVTK                      species         Staphylococcus aureus         
+10299.1.1_10         VDFGDVDALK                          species         Staphylococcus aureus         
+6292.1.1_24          ANTLNQNTNDTESSNQEPSLQQDK            species         Staphylococcus aureus         
+7070.1.1_14          PYFTTGANQSETSK                      species         Staphylococcus aureus         
+9150.1.1_12          NSELVISDINNR                        species         Staphylococcus aureus         
+6480.1.1_19          VLGNDEPTTIDTANSKPAK                 species         Staphylococcus aureus         
+3988.1.1_12          FSKDKGQETTLR                        species         Staphylococcus aureus         
+6168.1.1_13          TGVATASTVGVAK                       species         Staphylococcus aureus         
+3529.1.1_16          QQAPASTQTTQQASAK                    species         Staphylococcus aureus         
+7173.1.1_15          EYESNYETASDDSLK                     species         Staphylococcus aureus         
+6752.1.1_16          AGTNGVHGAPLGEVER                    species         Staphylococcus aureus         
+7934.1.1_13          TINMTNEEVEVSK                       species         Staphylococcus aureus         
+7921.1.1_10          GLVDKDTLIK                          species         Staphylococcus aureus         
+9840.1.1_15          LQAFADANPQSIAVR                     species         Staphylococcus aureus         
+9434.1.1_14          SQNIILEDTPQGVR                      species         Staphylococcus aureus         
+4621.1.1_11          ISTNPAENEGK                         species         Staphylococcus aureus         
+6682.1.1_13          VFKDTVENDGEIK                       species         Staphylococcus aureus         
+10092.1.1_14         SVSPTIVGVINMQK                      species         Staphylococcus aureus         
+6279.1.1_14          AAIDTHGVGAGAVR                      species         Staphylococcus aureus         
+10325.1.1_13         YLGDEEISVSELK                       species         Staphylococcus aureus         
+10932.1.1_11         LLPELNNDWSR                         species         Staphylococcus aureus         
+9916.1.1_14          IATVENPELSFASK                      species         Staphylococcus aureus         
+11592.1.1_16         QDETIEYATPISHFVK                    species         Staphylococcus aureus         
+3072.1.1_17          KQQAPASTQTTQQASAK                   species         Staphylococcus aureus         
+4764.1.1_9           IEAAYQSQK                           species         Staphylococcus aureus         
+8695.1.1_13          QYIDGEWVESANK                       species         Staphylococcus aureus         
+6054.1.1_15          KNDVSETETVNIDNK                     species         Staphylococcus aureus         
+5156.1.1_10          QQALENVNDK                          species         Staphylococcus aureus         
+4490.1.1_26          VAGVNTSTDAKTDTKAENAGDGTATK          species         Staphylococcus aureus         
+5420.1.1_11          TMQDNGISTER                         species         Staphylococcus aureus         
+7082.1.1_20          SSFENSVTAPAGNQGHGLDK                species         Staphylococcus aureus         
+9497.1.1_12          FAQQIADVVQDK                        species         Staphylococcus aureus         
+10157.1.1_10         LLADDVITVK                          species         Staphylococcus aureus         
+7366.1.1_14          VAIVTVQGQDGETK                      species         Staphylococcus aureus         
+10865.1.1_21         FKDEIIPIQVNSVEYTNAGPK               species         Staphylococcus aureus         
+9599.1.1_10          IAVPALTEER                          species         Staphylococcus aureus         
+8503.1.1_17          VLQTEEQVDKNIEGISK                   species         Staphylococcus aureus         
+9403.1.1_10          IAVPALTEER                          species         Staphylococcus aureus         
+5073.1.1_21          AENDSTASQSEMSEPKPQEEK               species         Staphylococcus aureus         
+7050.1.1_14          TTEMNDVTNHQPNR                      species         Staphylococcus aureus         
+4262.1.1_11          STDKVESTEMR                         species         Staphylococcus aureus         
+9193.1.1_12          DASIDMLGTASK                        species         Staphylococcus aureus         
+9902.1.1_15          ILNGESTEEFEYVDR                     species         Staphylococcus aureus         
+5798.1.1_12          DNLKEENVEAVK                        species         Staphylococcus aureus         
+5361.1.1_20          KSGSTGFGTSVNTSSNATSK                species         Staphylococcus aureus         
+9087.1.1_12          ELTEPIVNVGDK                        species         Staphylococcus aureus         
+10328.1.1_15         IAAAASYLPLSDSPK                     species         Staphylococcus aureus         
+11984.1.1_16         IYEMPLSAEEQALFDK                    species         Staphylococcus aureus         
+7805.1.1_14          STTYNATIGMATNK                      species         Staphylococcus aureus         
+5616.1.1_13          TSAAISNTASDVK                       species         Staphylococcus aureus         
+8488.1.1_17          MAPQTAGEYEGTNYQFK                   species         Staphylococcus aureus         
+9304.1.1_12          FAQQIADVVQDK                        species         Staphylococcus aureus         
+6438.1.1_13          NEEADDSVTIAGK                       species         Staphylococcus aureus         
+11495.1.1_14         INPIIYMETPTEDR                      species         Staphylococcus aureus         
+7068.1.1_14          EEVDANDVEGGSLK                      species         Staphylococcus aureus         
+5043.1.1_18          KQVENQDGQINQQVDNAK                  species         Staphylococcus aureus         
+9320.1.1_13          AAEMLDKPIEDLR                       species         Staphylococcus aureus         
+5126.1.1_8           HLVTVEEK                            species         Staphylococcus aureus         
+4879.1.1_23          EETTNNSVDKAEVNQANDDNQQR             species         Staphylococcus aureus         
+4662.1.1_15          ANNVATDANHSYTSR                     species         Staphylococcus aureus         
+7657.1.1_12          ITVDDTATQLSK                        species         Staphylococcus aureus         
+4906.1.1_12          LEDDEDRVEAAK                        species         Staphylococcus aureus         
+4812.1.1_16          TNQQDVATNQAVQTSK                    species         Staphylococcus aureus         
+8876.1.1_14          ESDAVITDTDEALK                      species         Staphylococcus aureus         
+4968.1.1_11          SHVDNIDNDVK                         species         Staphylococcus aureus         
+7638.1.1_11          NFDAPTYATAK                         species         Staphylococcus aureus         
+10032.1.1_9          IADVFEVGK                           species         Staphylococcus aureus         
+10498.1.1_14         ANEDESQWNSLLEK                      species         Staphylococcus aureus         
+5099.1.1_11          EKSIDVTNTPK                         species         Staphylococcus aureus         
+7032.1.1_11          DDIAVTNEVQR                         species         Staphylococcus aureus         
+6312.1.1_23          QVHNESQTSEDNVQNEAGTIDDR             species         Staphylococcus aureus         
+6951.1.1_13          EQPDSVFKEDAGR                       species         Staphylococcus aureus         
+4969.1.1_9           VPDVEGQDK                           species         Staphylococcus aureus         
+5892.1.1_11          AGLTPNKLDEK                         species         Staphylococcus aureus         
+8200.1.1_18          HIGTPGEVLEPGQQVNVK                  species         Staphylococcus aureus         
+5771.1.1_16          AANVLSEHAEVDKGDR                    species         Staphylococcus aureus         
+5866.1.1_12          KYNQYPTKPVIR                        species         Staphylococcus aureus         
+7350.1.1_27          STSVDTSSNQSSEDNSENSTIPVNGVR         species         Staphylococcus aureus         
+6063.1.1_15          KNDVSETETVNIDNK                     species         Staphylococcus aureus         
+4533.1.1_19          QQAPASTQTTQQASAKEEK                 species         Staphylococcus aureus         
+10259.1.1_15         VVEVAPSVGLSSTLR                     species         Staphylococcus aureus         
+3308.1.1_13          AEVNQANDDNQQR                       species         Staphylococcus aureus         
+6529.1.1_20          DESFTSNSSNAQATDSVSER                species         Staphylococcus aureus         
+7592.1.1_18          NIHIPNGDADDMNAEASK                  species         Staphylococcus aureus         
+6835.1.1_12          MLMSAGDDIVEK                        species         Staphylococcus aureus         
+4528.1.1_19          QQAPASTQTTQQASAKEEK                 species         Staphylococcus aureus         
+11848.1.1_16         ISIVDVDALTGQAIGR                    species         Staphylococcus aureus         
+8911.1.1_14          NLEDGETSQFDNLK                      species         Staphylococcus aureus         
+9872.1.1_12          NEDWEVITAGQR                        species         Staphylococcus aureus         
+5887.1.1_12          KYNQYPTKPVIR                        species         Staphylococcus aureus         
+7203.1.1_17          EELVEKEADSHVAIAGR                   species         Staphylococcus aureus         
+11103.1.1_13         YAETYPELAEEFK                       species         Staphylococcus aureus         
+5314.1.1_9           KGEPIVVTK                           species         Staphylococcus aureus         
+5382.1.1_20          KSGSTGFGTSVNTSSNATSK                species         Staphylococcus aureus         
+7248.1.1_12          SGEESEVLVADK                        species         Staphylococcus aureus         
+4039.1.1_19          KEAQAETDKSAAVSNEEPK                 species         Staphylococcus aureus         
+4818.1.1_16          TNQQDVATNQAVQTSK                    species         Staphylococcus aureus         
+4744.1.1_29          QVESSHSTESQEPSHQDSTLQHEEEYYNK       species         Staphylococcus aureus         
+11577.1.1_12         VLAEALINEGFR                        species         Staphylococcus aureus         
+10749.1.1_14         TTQLNINSVIENAK                      species         Staphylococcus aureus         
+4251.1.1_11          QATSNDSLEAK                         species         Staphylococcus aureus         
+7654.1.1_12          VNSISVNPVDTK                        species         Staphylococcus aureus         
+5275.1.1_11          NASEMHVDAPK                         species         Staphylococcus aureus         
+3458.1.1_36          DESDNDQNNADQANNQAQNNQNQQQANQNQQQQQQR species         Staphylococcus aureus         
+4131.1.1_15          VAGVNTSTDAKTDTK                     species         Staphylococcus aureus         
+6638.1.1_12          QKPNTSQLGFGK                        species         Staphylococcus aureus         
+7929.1.1_15          ALGAEIDESSTTSMK                     species         Staphylococcus aureus         
+9009.1.1_14          EIYPITTNNSPNLK                      species         Staphylococcus aureus         
+6047.1.1_13          INASDNYDDNVER                       species         Staphylococcus aureus         
+11645.1.1_12         ALLDALDNGVIK                        species         Staphylococcus aureus         
+7665.1.1_14          AKYEAETNYIPNPR                      species         Staphylococcus aureus         
+7167.1.1_14          QNIDDSVEQAEESK                      species         Staphylococcus aureus         
+4951.1.1_14          AASAAEAYGTDNAK                      species         Staphylococcus aureus         
+4809.1.1_15          ANNVATDANHSYTSR                     species         Staphylococcus aureus         
+8128.1.1_17          ATLPNEDVVESDPSTTK                   species         Staphylococcus aureus         
+8226.1.1_11          DYASTMNSPLK                         species         Staphylococcus aureus         
+9197.1.1_9           FGVAVMDSR                           species         Staphylococcus aureus         
+6086.1.1_12          KAMDDVGGDITK                        species         Staphylococcus aureus         
+5936.1.1_17          VGNPQDEATQMGSQTGK                   species         Staphylococcus aureus         
+8516.1.1_16          HIGTPGEVLEPGQQVN                    species         Staphylococcus aureus         
+6979.1.1_16          LNDVEQTNTPGSLNPK                    species         Staphylococcus aureus         
+5855.1.1_12          NAAGEIIHGDQR                        species         Staphylococcus aureus         
+5769.1.1_16          ANDNSDVSTNDYHDIK                    species         Staphylococcus aureus         
+5979.1.1_11          SKPVVEPMAPK                         species         Staphylococcus aureus         
+6159.1.1_13          QNSLDSVDQDTEK                       species         Staphylococcus aureus         
+10020.1.1_11         TNSVESLLDDK                         species         Staphylococcus aureus         
+6249.1.1_12          YDDLGMDKDEAK                        species         Staphylococcus aureus         
+7136.1.1_15          AEAQANQMVGDAVEK                     species         Staphylococcus aureus         
+10805.1.1_14         IFLNGEFVSPSEAK                      species         Staphylococcus aureus         
+9660.1.1_14          INELQQLADENEEK                      species         Staphylococcus aureus         
+4658.1.1_16          QQAPASTQTTQQASAK                    species         Staphylococcus aureus         
+7462.1.1_11          ELINNIQSGQR                         species         Staphylococcus aureus         
+7588.1.1_31          VYEQAAQQQQQAQGANAGQNNDSTVEDAEFK     species         Staphylococcus aureus         
+10927.1.1_15         SLGAVVEEVSLPNTK                     species         Staphylococcus aureus         
+8164.1.1_13          WETHEDILDNDAK                       species         Staphylococcus aureus         
+4942.1.1_12          AEQQSTSGTSFR                        species         Staphylococcus aureus         
+6067.1.1_11          KHESELTELDR                         species         Staphylococcus aureus         
+8365.1.1_12          YEAETNYIPNPR                        species         Staphylococcus aureus         
+6010.1.1_15          QVAGSVSGSGNQTFK                     species         Staphylococcus aureus         
+5397.1.1_10          VLQTEEQVDK                          species         Staphylococcus aureus         
+9853.1.1_12          GNEASQLQFVVK                        species         Staphylococcus aureus         
+4304.1.1_17          VGNPQDEATQMGSQTGK                   species         Staphylococcus aureus         
+5315.1.1_11          LTNVKVDEADR                         species         Staphylococcus aureus         
+8698.1.1_11          LVELIPTSHTK                         species         Staphylococcus aureus         
+5286.1.1_11          EITITDKENNK                         species         Staphylococcus aureus         
+8145.1.1_15          LENQDGTVITNDTLK                     species         Staphylococcus aureus         
+4274.1.1_19          VVDNNQGGGTHYYPNNHGK                 species         Staphylococcus aureus         
+4699.1.1_23          EETTNNSVDKAEVNQANDDNQQR             species         Staphylococcus aureus         
+8087.1.1_14          LQNVANQLSQDSVK                      species         Staphylococcus aureus         
+3614.1.1_12          ASATVEQTSTAK                        species         Staphylococcus aureus         
+9364.1.1_11          DALDNYEFEER                         species         Staphylococcus aureus         
+11739.1.1_13         DLTDDDLIEAIQR                       species         Staphylococcus aureus         
+3536.1.1_16          QQAPASTQTTQQASAK                    species         Staphylococcus aureus         
+6867.1.1_11          YNDVLEQQGQR                         species         Staphylococcus aureus         
+7409.1.1_14          AGLSDTVPGQTVNR                      species         Staphylococcus aureus         
+6217.1.1_19          SGSTGFGTSVNTSSNATSK                 species         Staphylococcus aureus         
+10446.1.1_14         SQDNLADAIDFGNK                      species         Staphylococcus aureus         
+8872.1.1_10          ASNFNPENFR                          species         Staphylococcus aureus         
+4671.1.1_12          NQNHLSDAQVER                        species         Staphylococcus aureus         
+10649.1.1_18         QIAPAIEPSNGVDIIDAK                  species         Staphylococcus aureus         
+3683.1.1_16          QQAPASTQTTQQASAK                    species         Staphylococcus aureus         
+9683.1.1_18          VSSVSIAEMNPTYDADNR                  species         Staphylococcus aureus         
+10351.1.1_16         LYDVYTGIQNGTLEDK                    species         Staphylococcus aureus         
+7747.1.1_13          QQDVNYALAPEDK                       species         Staphylococcus aureus         
+3883.1.1_21          TVATSDNKDTQQQNQPEEDER               species         Staphylococcus aureus         
+9199.1.1_13          QYLVNNEQDVAFK                       species         Staphylococcus aureus         
+6792.1.1_14          GAYKENESIAFQSK                      species         Staphylococcus aureus         
+6869.1.1_12          ESPQSVEVVAEK                        species         Staphylococcus aureus         
+12405.1.1_13         IVNTLFDNGALGR                       species         Staphylococcus aureus         
+8384.1.1_14          AIDINAGTINTGDK                      species         Staphylococcus aureus         
+10031.1.1_11         TQIDQIIDEAK                         species         Staphylococcus aureus         
+4602.1.1_12          INEYTGSNNEEK                        species         Staphylococcus aureus         
+7513.1.1_12          LAAESIENPQVR                        species         Staphylococcus aureus         
+11303.1.1_12         MDNDGDIFIIDR                        species         Staphylococcus aureus         
+8735.1.1_15          DKATQLGTIANETIK                     species         Staphylococcus aureus         
+10755.1.1_13         QDVSDQLLELGAK                       species         Staphylococcus aureus         
+4858.1.1_15          ANNVATDANHSYTSR                     species         Staphylococcus aureus         
+10683.1.1_11         NVEYFTEMPVR                         species         Staphylococcus aureus         
+8666.1.1_12          ADSGTVIQAISK                        species         Staphylococcus aureus         
+10801.1.1_15         ALDIDIVPPAQADGK                     species         Staphylococcus aureus         
+8156.1.1_15          SQGVSEEELNESIDR                     species         Staphylococcus aureus         
+7528.1.1_11          VVMVPNTPTEK                         species         Staphylococcus aureus         
+10037.1.1_15         AWLGQEAYEPQYGAR                     species         Staphylococcus aureus         
+7662.1.1_11          IVNEEALGYGK                         species         Staphylococcus aureus         
+8067.1.1_10          VPVDKLPNLK                          species         Staphylococcus aureus         
+6710.1.1_12          EAGAEIVAEQAK                        species         Staphylococcus aureus         
+6505.1.1_13          EEQDTFAVNSQQK                       species         Staphylococcus aureus         
+4820.1.1_10          YANDQNYTAR                          species         Staphylococcus aureus         
+11180.1.1_15         QAGVGAAVVAELSER                     species         Staphylococcus aureus         
+5116.1.1_12          TYTYGDSEQNDK                        species         Staphylococcus aureus         
+8851.1.1_16          IHLVGDEIANGQGIGR                    species         Staphylococcus aureus         
+8174.1.1_12          YEAETNYIPNPR                        species         Staphylococcus aureus         
+6452.1.1_11          IKEAISTIGEK                         species         Staphylococcus aureus         
+9332.1.1_12          ILVNSGVLPESR                        species         Staphylococcus aureus         
+6933.1.1_15          VDKEDQISATEAIEK                     species         Staphylococcus aureus         
+4597.1.1_11          VAGVNTSTDAK                         species         Staphylococcus aureus         
+4314.1.1_22          AENDSTASQSEMSEPKPQEEKK              species         Staphylococcus aureus         
+9313.1.1_13          AAEMLDKPIEDLR                       species         Staphylococcus aureus         
+8215.1.1_18          HIGTPGEVLEPGQQVNVK                  species         Staphylococcus aureus         
+10654.1.1_11         NDDELLNSFER                         species         Staphylococcus aureus         
+4457.1.1_18          EAQAETDKSAAVSNEEPK                  species         Staphylococcus aureus         
+11501.1.1_12         NLVSEVTDAVEK                        species         Staphylococcus aureus         
+8901.1.1_18          SDDGLILHYTSGSTGQPK                  species         Staphylococcus aureus         
+6135.1.1_17          VGNPQDEATQMGSQTGK                   species         Staphylococcus aureus         
+4180.1.1_10          NQQLEAENEK                          species         Staphylococcus aureus         
+11726.1.1_14         NVGLITASEVFADR                      species         Staphylococcus aureus         
+9018.1.1_12          DFAPSIYQSDDR                        species         Staphylococcus aureus         
+7428.1.1_11          VILDSNSEYER                         species         Staphylococcus aureus         
+11779.1.1_13         IVNTLFDNGALGR                       species         Staphylococcus aureus         
+11513.1.1_16         LTEDQDEPDYELITFK                    species         Staphylococcus aureus         
+7989.1.1_11          ALIQGQLDAQR                         species         Staphylococcus aureus         
+11045.1.1_16         NTYGTGGFMLMNTGDK                    species         Staphylococcus aureus         
+9291.1.1_14          DSYIAEIDASDAEK                      species         Staphylococcus aureus         
+10335.1.1_17         DDMAILSYTSGTTGNPK                   species         Staphylococcus aureus         
+7893.1.1_12          LMVNEDGTLSSK                        species         Staphylococcus aureus         
+7447.1.1_18          EKLGISDGDVEETEDAPK                  species         Staphylococcus aureus         
+4796.1.1_13          YEYDEDSNATHQR                       species         Staphylococcus aureus         
+7264.1.1_12          AQSEQDQAFLSK                        species         Staphylococcus aureus         
+5673.1.1_22          SKDESFTSNSSNAQATDSVSER              species         Staphylococcus aureus         
+8717.1.1_11          GLLEQSTLQDR                         species         Staphylococcus aureus         
+11112.1.1_12         MDNDGDIFIIDR                        species         Staphylococcus aureus         
+10443.1.1_12         IPVIAITGAPTR                        species         Staphylococcus aureus         
+5421.1.1_11          QDPENGHIADR                         species         Staphylococcus aureus         
+5505.1.1_13          QYETEESGTSYER                       species         Staphylococcus aureus         
+7621.1.1_12          DDIEHMSSLTTK                        species         Staphylococcus aureus         
+6408.1.1_9           YIQQNLAAR                           species         Staphylococcus aureus         
+8779.1.1_13          AGYLEEMSNNGVK                       species         Staphylococcus aureus         
+10891.1.1_21         FKDEIIPIQVNSVEYTNAGPK               species         Staphylococcus aureus         
+11493.1.1_13         AFDMDVLYTGPNR                       species         Staphylococcus aureus         
+6809.1.1_10          TVFKENITDR                          species         Staphylococcus aureus         
+8589.1.1_12          FNEVLVNEPSAK                        species         Staphylococcus aureus         
+6062.1.1_19          KNDVSETETVNIDNKDTVK                 species         Staphylococcus aureus         
+5860.1.1_13          GDQIDNANHFADK                       species         Staphylococcus aureus         
+8813.1.1_15          TDGPIKVNSEIGALK                     species         Staphylococcus aureus         
+5563.1.1_11          NVEIHDVESSK                         species         Staphylococcus aureus         
+4379.1.1_16          DHQSDESIHPNDDVNK                    species         Staphylococcus aureus         
+9147.1.1_11          KVDFGDVDALK                         species         Staphylococcus aureus         
+8242.1.1_13          NVVDDNAADVYVK                       species         Staphylococcus aureus         
+5296.1.1_12          ISQEAQEVQEAK                        species         Staphylococcus aureus         
+8975.1.1_12          TDILVEGVQDDK                        species         Staphylococcus aureus         
+8344.1.1_10          KDGELGYVLK                          species         Staphylococcus aureus         
+10627.1.1_15         IINSNLTAIPITEER                     species         Staphylococcus aureus         
+7705.1.1_12          SNEETPIVMSSR                        species         Staphylococcus aureus         
+3685.1.1_16          REAQAEADKSVAVSNK                    species         Staphylococcus aureus         
+11285.1.1_13         AVAFGEALENNFK                       species         Staphylococcus aureus         
+7328.1.1_11          GTQDILPEDSK                         species         Staphylococcus aureus         
+7045.1.1_15          AGQNNDSTVEDAEFK                     species         Staphylococcus aureus         
+10435.1.1_15         SGIYTANLINSSDIK                     species         Staphylococcus aureus         
+8421.1.1_12          IAGEQNIVQTMK                        species         Staphylococcus aureus         
+4179.1.1_24          KEETTNNSVDKAEVNQANDDNQQR            species         Staphylococcus aureus         
+6083.1.1_14          QALEDAQTNNNLEK                      species         Staphylococcus aureus         
+8116.1.1_16          LGISDGDVEETEDAPK                    species         Staphylococcus aureus         
+4661.1.1_10          ILATSGTANK                          species         Staphylococcus aureus         
+3953.1.1_11          AQDSLNDNTTK                         species         Staphylococcus aureus         
+5922.1.1_15          QEAGAVSGTGNQTFK                     species         Staphylococcus aureus         
+6022.1.1_14          SGEESEVLVADKNK                      species         Staphylococcus aureus         
+5878.1.1_17          SNVNDATDYSSETPEGK                   species         Staphylococcus aureus         
+9545.1.1_14          YSVNNSDLLSTYSK                      species         Staphylococcus aureus         
+10716.1.1_12         EPGTIVPLNGLR                        species         Staphylococcus aureus         
+5309.1.1_10          TTDSYGTMQR                          species         Staphylococcus aureus         
+6581.1.1_30          TDTKAENAGDGTATKVDKEDQISATEAIEK      species         Staphylococcus aureus         
+4449.1.1_16          NTKVENDKVTTSVETK                    species         Staphylococcus aureus         
+6611.1.1_12          LVAAADTTTIQK                        species         Staphylococcus aureus         
+6261.1.1_14          FTEYDNKTDESIEK                      species         Staphylococcus aureus         
+8024.1.1_17          IFTNTANAMEGVTDDVK                   species         Staphylococcus aureus         
+7177.1.1_10          NNISLKDIQK                          species         Staphylococcus aureus         
+10329.1.1_13         QFQTELADIDNVK                       species         Staphylococcus aureus         
+6085.1.1_12          KAMDDVGGDITK                        species         Staphylococcus aureus         
+7213.1.1_14          AGLSDTVPGQTVNR                      species         Staphylococcus aureus         
+4406.1.1_11          VAGVNTSTDAK                         species         Staphylococcus aureus         
+7492.1.1_16          TAKPVAEVESQTEVTE                    species         Staphylococcus aureus         
+6584.1.1_10          EQILEEENEK                          species         Staphylococcus aureus         
+4395.1.1_11          NQPVTSETPEK                         species         Staphylococcus aureus         
+11000.1.1_14         AIDIIGAPSTFGQR                      species         Staphylococcus aureus         
+9010.1.1_15          SDSGLLPTNVEGTTR                     species         Staphylococcus aureus         
+9847.1.1_14          IYTTAFDVQDQTYR                      species         Staphylococcus aureus         
+9770.1.1_12          VEYAWTDEELNK                        species         Staphylococcus aureus         
+4750.1.1_12          TIQPKPGESVGR                        species         Staphylococcus aureus         
+6300.1.1_23          QVHNESQTSEDNVQNEAGTIDDR             species         Staphylococcus aureus         
+9968.1.1_17          FAGFGGSSDGQDYETIR                   species         Staphylococcus aureus         
+5111.1.1_15          SGEESEVLVADKNKK                     species         Staphylococcus aureus         
+7222.1.1_13          DAQLDINENTADR                       species         Staphylococcus aureus         
+7069.1.1_11          AMDDVGGDITK                         species         Staphylococcus aureus         
+6202.1.1_12          AYLGPSDEGNDR                        species         Staphylococcus aureus         
+6715.1.1_20          DESFTSNSSNAQATDSVSER                species         Staphylococcus aureus         
+4666.1.1_13          VENDKVTTSVETK                       species         Staphylococcus aureus         
+9125.1.1_13          ATQLGTIANETIK                       species         Staphylococcus aureus         
+8784.1.1_16          DSDIATTATKVELATK                    species         Staphylococcus aureus         
+5050.1.1_12          YDDTADQETVEK                        species         Staphylococcus aureus         
+8984.1.1_11          ELSQYINVDNR                         species         Staphylococcus aureus         
+11506.1.1_15         VLGIDAPEIGIEPGR                     species         Staphylococcus aureus         
+8534.1.1_14          VEEGESLLTIHSNR                      species         Staphylococcus aureus         
+9251.1.1_12          DITEDDIDTSLR                        species         Staphylococcus aureus         
+7273.1.1_15          NVTPGYWNKPAETAK                     species         Staphylococcus aureus         
+6501.1.1_20          DESFTSNSSNAQATDSVSER                species         Staphylococcus aureus         
+12109.1.1_12         TLFPEDVLSIAK                        species         Staphylococcus aureus         
+6635.1.1_15          QGALFHERPDDVAAK                     species         Staphylococcus aureus         
+4935.1.1_14          DKINEYTGSNNEEK                      species         Staphylococcus aureus         
+6490.1.1_13          EAEVGQTYQATVK                       species         Staphylococcus aureus         
+10069.1.1_14         EASEQLATWVQEGK                      species         Staphylococcus aureus         
+10008.1.1_13         NSQPLNEYIDGMK                       species         Staphylococcus aureus         
+9302.1.1_13          EFLVNSQDEEIAK                       species         Staphylococcus aureus         
+10667.1.1_14         ELATINVDSPIEVK                      species         Staphylococcus aureus         
+5358.1.1_11          AQNMINDAQNK                         species         Staphylococcus aureus         
+3665.1.1_24          NAENNTEHSTVSDKSEAEQSQQPK            species         Staphylococcus aureus         
+3844.1.1_16          QQAPASTQTTQQASAK                    species         Staphylococcus aureus         
+10803.1.1_13         DNTVDDVIELSDK                       species         Staphylococcus aureus         
+11396.1.1_14         MLNPPLNQLTSQIK                      species         Staphylococcus aureus         
+5571.1.1_29          QVESSHSTESQEPSHQDSTPQHEEEYYNK       species         Staphylococcus aureus         
+6944.1.1_15          VDKEDQISATEAIEK                     species         Staphylococcus aureus         
+5706.1.1_11          AMDDVGGDITK                         species         Staphylococcus aureus         
+8158.1.1_13          FSYIDDEANNHLR                       species         Staphylococcus aureus         
+4665.1.1_10          VKHLVTVEEK                          species         Staphylococcus aureus         
+7348.1.1_12          DASIDMLGTASK                        species         Staphylococcus aureus         
+6093.1.1_19          NDTENTVADEPSIHEGTEK                 species         Staphylococcus aureus         
+3555.1.1_19          QQAPASTQTTQQASAKEEK                 species         Staphylococcus aureus         
+7923.1.1_17          ATLPNEDVVESDPSTTK                   species         Staphylococcus aureus         
+7770.1.1_18          TSESLIADDESSGYNNTR                  species         Staphylococcus aureus         
+5370.1.1_14          AINQNTESTSAISK                      species         Staphylococcus aureus         
+7891.1.1_15          IIAGVENYDSGNVSK                     species         Staphylococcus aureus         
+6416.1.1_19          SGSTGFGTSVNTSSNATSK                 species         Staphylococcus aureus         
+6299.1.1_17          SNVNDATDYSSETPEGK                   species         Staphylococcus aureus         
+8635.1.1_12          YEAETNYIPNPR                        species         Staphylococcus aureus         
+10183.1.1_18         TSSEMMEWEDGKEYPVIR                  species         Staphylococcus aureus         
+11576.1.1_13         IVNTLFDNGALGR                       species         Staphylococcus aureus         
+5267.1.1_22          VGNPQDEATQMGSQTGKDQLDK              species         Staphylococcus aureus         
+3162.1.1_13          AEVNQANDDNQQR                       species         Staphylococcus aureus         
+10001.1.1_10         IVLLDNVEDK                          species         Staphylococcus aureus         
+4977.1.1_14          KPITYEAGATSDSK                      species         Staphylococcus aureus         
+6377.1.1_15          ASYEVENANNNGLSK                     species         Staphylococcus aureus         
+9691.1.1_13          HGPDALSFISSSK                       species         Staphylococcus aureus         
+5391.1.1_15          STTTEDQTGDTLETK                     species         Staphylococcus aureus         
+7812.1.1_16          NIHDAAGEDFNINSPK                    species         Staphylococcus aureus         
+8218.1.1_13          ASTGAIEHVPVIR                       species         Staphylococcus aureus         
+7067.1.1_13          NNGSIPSDTLTAK                       species         Staphylococcus aureus         
+11367.1.1_9          LLNLEETFK                           species         Staphylococcus aureus         
+6129.1.1_35          GHDDDSSSKEEPAKEEAPAEQAPVATQTEEVDENR species         Staphylococcus aureus         
+9096.1.1_15          ILAESPNLAISSSSR                     species         Staphylococcus aureus         
+9956.1.1_17          IFTNTANAMEGVTDDVK                   species         Staphylococcus aureus         
+4754.1.1_13          ANVEHNEDIAGER                       species         Staphylococcus aureus         
+7339.1.1_14          GSQPLKPLNDSNLR                      species         Staphylococcus aureus         
+4073.1.1_12          VEVSKPESQAER                        species         Staphylococcus aureus         
+8170.1.1_11          EAVQNAVETLK                         species         Staphylococcus aureus         
+5592.1.1_15          YLNQNDATQQGVNEK                     species         Staphylococcus aureus         
+8758.1.1_16          DSDIATTATKVELATK                    species         Staphylococcus aureus         
+10665.1.1_12         EILADEPINEFK                        species         Staphylococcus aureus         
+3968.1.1_19          KEAQAETDKSAAVSNEEPK                 species         Staphylococcus aureus         
+5791.1.1_11          ALQQQGLTADK                         species         Staphylococcus aureus         
+10853.1.1_14         QLETALSIGPDAIK                      species         Staphylococcus aureus         
+4655.1.1_13          VENDKVTTSVETK                       species         Staphylococcus aureus         
+11572.1.1_17         AEEMFLGDAPVAPIYQK                   species         Staphylococcus aureus         
+9337.1.1_11          LTDEDWENIEK                         species         Staphylococcus aureus         
+6132.1.1_13          TINMTNEEVEVSK                       species         Staphylococcus aureus         
+10553.1.1_18         TEELPADFQPQVATTQLR                  species         Staphylococcus aureus         
+6123.1.1_13          ALQQQGLTADKYK                       species         Staphylococcus aureus         
+4823.1.1_16          TIVADGGNSEGGAGAK                    species         Staphylococcus aureus         
+5708.1.1_14          KKENDNEELNEELK                      species         Staphylococcus aureus         
+5698.1.1_16          SEHFTYDKNQQVNGVK                    species         Staphylococcus aureus         
+10817.1.1_19         AQQNGEFDSEIVPVSIPQR                 species         Staphylococcus aureus         
+4182.1.1_24          KEETTNNSVDKAEVNQANDDNQQR            species         Staphylococcus aureus         

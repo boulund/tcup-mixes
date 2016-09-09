@@ -1,0 +1,90 @@
+--------5.results/QE_160819_38/QE_160819_38.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1209       1209    95.05 no rank              Moraxella catarrhalis BBH18             
+1209       0       50.52 species              Moraxella catarrhalis                   
+882        846     36.86 species              Haemophilus influenzae                  
+1517       1349    35.31 genus                Streptococcus                           
+1602       565     31.54 family               Pasteurellaceae                         
+1583       65      31.17 family               Streptococcaceae                        
+1209       0       28.14 genus                Moraxella                               
+1345       127     26.48 family               Moraxellaceae                           
+1031       149     24.00 genus                Haemophilus                             
+506        402     11.78 genus                Staphylococcus                          
+532        26      10.47 family               Staphylococcaceae                       
+163        162      6.81 species              Streptococcus pneumoniae                
+103        103      4.30 species              Staphylococcus aureus                   
+27         27       2.12 no rank              Haemophilus influenzae 86-028NP         
+11         0        0.86 no rank              Bacteroidetes/Chlorobi group            
+3          3        0.24 no rank              Gallibacterium anatis UMN179            
+3          3        0.24 no rank              Haemophilus influenzae F3047            
+5          5        0.21 species              Faecalibacterium prausnitzii            
+4          4        0.17 species              Psychrobacter sp. PRwf-1                
+4          4        0.17 species              Streptococcus suis                      
+2          2        0.16 no rank              Haemophilus influenzae F3031            
+3          0        0.13 species              Gallibacterium anatis                   
+5          0        0.12 genus                Faecalibacterium                        
+5          0        0.12 genus                Psychrobacter                           
+5          0        0.10 family               Ruminococcaceae                         
+4          2        0.09 genus                Acinetobacter                           
+2          2        0.08 species              Acinetobacter sp. ADP1                  
+2          2        0.08 species              Mycoplasma putrefaciens                 
+1          1        0.08 no rank              Acholeplasma palmae J233                
+1          1        0.08 no rank              Actinobacillus succinogenes 130Z        
+1          1        0.08 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        0.08 no rank              Alkalilimnicola ehrlichii MLHE-1        
+1          1        0.08 no rank              Haemophilus influenzae 10810            
+1          1        0.08 no rank              Haemophilus influenzae PittGG           
+1          1        0.08 no rank              Haemophilus influenzae R2846            
+1          1        0.08 no rank              Haemophilus influenzae R2866            
+1          1        0.08 no rank              Oscillatoria acuminata PCC 6304         
+1          1        0.08 no rank              Prevotella sp. oral taxon 299 str. F0039
+1          1        0.08 no rank              Pseudomonas fulva 12-X                  
+1          1        0.08 no rank              Psychrobacter arcticus 273-4            
+1          1        0.08 no rank              Spirochaeta smaragdinae DSM 11293       
+1          1        0.08 no rank              Streptococcus pneumoniae 670-6B         
+1          1        0.08 no rank              Streptococcus sanguinis SK36            
+1          1        0.08 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+1          1        0.08 no rank              Thiocystis violascens DSM 198           
+3          0        0.07 genus                Gallibacterium                          
+2          1        0.05 genus                Aggregatibacter                         
+2          0        0.05 genus                Mycoplasma                              
+1          0        0.04 species              Acholeplasma palmae                     
+1          0        0.04 species              Actinobacillus succinogenes             
+1          1        0.04 species              Actinoplanes sp. SE50/110               
+1          0        0.04 species              Aggregatibacter actinomycetemcomitans   
+1          0        0.04 species              Alkalilimnicola ehrlichii               
+1          1        0.04 species              Lactococcus lactis                      
+1          0        0.04 species              Oscillatoria acuminata                  
+1          1        0.04 species              Paenibacillus sp. JDR-2                 
+1          0        0.04 species              Prevotella sp. oral taxon 299           
+1          0        0.04 species              Pseudomonas fulva                       
+1          0        0.04 species              Psychrobacter arcticus                  
+1          0        0.04 species              Spirochaeta smaragdinae                 
+1          1        0.04 species              Staphylococcus pseudintermedius         
+1          0        0.04 species              Streptococcus sanguinis                 
+1          0        0.04 species              Thermoanaerobacterium thermosaccharolyticum
+1          0        0.04 species              Thiocystis violascens                   
+2          0        0.04 family               Mycoplasmataceae                        
+1          0        0.02 genus                Acholeplasma                            
+1          0        0.02 genus                Actinobacillus                          
+1          0        0.02 genus                Actinoplanes                            
+1          0        0.02 genus                Alkalilimnicola                         
+1          0        0.02 genus                Lactococcus                             
+1          0        0.02 genus                Oscillatoria                            
+1          0        0.02 genus                Paenibacillus                           
+1          0        0.02 genus                Prevotella                              
+1          0        0.02 genus                Pseudomonas                             
+1          0        0.02 genus                Spirochaeta                             
+1          0        0.02 genus                Thermoanaerobacterium                   
+1          0        0.02 genus                Thiocystis                              
+1          0        0.02 family               Acholeplasmataceae                      
+1          0        0.02 family               Chromatiaceae                           
+1          0        0.02 family               Ectothiorhodospiraceae                  
+1          1        0.02 family               Enterobacteriaceae                      
+1          0        0.02 family               Micromonosporaceae                      
+1          0        0.02 family               Paenibacillaceae                        
+1          0        0.02 family               Prevotellaceae                          
+1          0        0.02 family               Pseudomonadaceae                        
+1          0        0.02 family               Spirochaetaceae                         
+1          0        0.02 family               Thermoanaerobacterales Family III. Incertae Sedis

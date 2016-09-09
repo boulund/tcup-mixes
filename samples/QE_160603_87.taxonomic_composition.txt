@@ -1,0 +1,82 @@
+--------5.results/QE_160603_87/QE_160603_87.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+8001       8001    99.51 no rank              Moraxella catarrhalis BBH18             
+8687       678     99.04 family               Moraxellaceae                           
+8001       0       98.96 species              Moraxella catarrhalis                   
+8001       0       98.92 genus                Moraxella                               
+48         48       0.59 species              Faecalibacterium prausnitzii            
+48         0        0.59 genus                Faecalibacterium                        
+49         0        0.56 family               Ruminococcaceae                         
+8          0        0.10 no rank              Bacteroidetes/Chlorobi group            
+8          4        0.10 genus                Psychrobacter                           
+4          4        0.05 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+4          4        0.05 species              Psychrobacter sp. PRwf-1                
+4          0        0.05 species              Thermoanaerobacterium thermosaccharolyticum
+4          0        0.05 genus                Thermoanaerobacterium                   
+4          0        0.05 family               Thermoanaerobacterales Family III. Incertae Sedis
+3          3        0.04 no rank              Heliobacterium modesticaldum Ice1       
+3          3        0.04 no rank              Porphyromonas asaccharolytica DSM 20707 
+3          3        0.04 species              Candidatus Pelagibacter sp. IMCC9063    
+3          0        0.04 species              Heliobacterium modesticaldum            
+3          0        0.04 species              Porphyromonas asaccharolytica           
+3          0        0.04 genus                Candidatus Pelagibacter                 
+3          0        0.04 genus                Heliobacterium                          
+3          0        0.04 genus                Porphyromonas                           
+3          1        0.03 family               Flavobacteriaceae                       
+3          0        0.03 family               Heliobacteriaceae                       
+3          3        0.03 family               Micrococcaceae                          
+3          0        0.03 family               Pelagibacteraceae                       
+3          0        0.03 family               Porphyromonadaceae                      
+2          2        0.02 no rank              Anoxybacillus flavithermus WK1          
+2          2        0.02 no rank              Bacteroides helcogenes P 36-108         
+2          2        0.02 no rank              Pseudomonas denitrificans ATCC 13867    
+2          2        0.02 no rank              Saccharophagus degradans 2-40           
+2          2        0.02 no rank              Streptococcus oligofermentans AS 1.3089 
+2          0        0.02 no rank              unclassified Flavobacteriaceae          
+2          0        0.02 species              Anoxybacillus flavithermus              
+2          0        0.02 species              Bacteroides helcogenes                  
+2          2        0.02 species              Flavobacteriaceae bacterium 3519-10     
+2          0        0.02 species              Pseudomonas denitrificans               
+2          0        0.02 species              Saccharophagus degradans                
+2          0        0.02 species              Streptococcus oligofermentans           
+2          0        0.02 genus                Anoxybacillus                           
+2          0        0.02 genus                Bacteroides                             
+2          0        0.02 genus                Pseudomonas                             
+2          0        0.02 genus                Saccharophagus                          
+2          0        0.02 genus                Streptococcus                           
+2          0        0.02 family               Bacillaceae                             
+2          0        0.02 family               Bacteroidaceae                          
+2          0        0.02 family               Cellvibrionaceae                        
+2          0        0.02 family               Pseudomonadaceae                        
+2          0        0.02 family               Streptococcaceae                        
+1          1        0.01 no rank              Acholeplasma palmae J233                
+1          0        0.01 no rank              Burkholderiales Genera incertae sedis   
+1          1        0.01 no rank              Listonella anguillarum serovar O1       
+1          1        0.01 no rank              Pararhodospirillum photometricum DSM 122
+1          1        0.01 no rank              Rubrivivax gelatinosus IL144            
+1          1        0.01 no rank              Ruminococcus bromii L2-63               
+1          1        0.01 no rank              Streptomyces albus J1074                
+1          0        0.01 no rank              unclassified Burkholderiales            
+1          1        0.01 no rank              Variovorax paradoxus EPS                
+1          0        0.01 species              Acholeplasma palmae                     
+1          0        0.01 species              Pararhodospirillum photometricum        
+1          0        0.01 species              Rubrivivax gelatinosus                  
+1          0        0.01 species              Ruminococcus bromii                     
+1          0        0.01 species              Streptomyces albus                      
+1          0        0.01 species              Variovorax paradoxus                    
+1          0        0.01 species              Vibrio anguillarum                      
+1          0        0.01 genus                Acholeplasma                            
+1          0        0.01 genus                Pararhodospirillum                      
+1          1        0.01 genus                Phaeobacter                             
+1          0        0.01 genus                Rubrivivax                              
+1          0        0.01 genus                Ruminococcus                            
+1          0        0.01 genus                Streptomyces                            
+1          0        0.01 genus                Variovorax                              
+1          0        0.01 genus                Vibrio                                  
+1          0        0.01 family               Acholeplasmataceae                      
+1          0        0.01 family               Comamonadaceae                          
+1          0        0.01 family               Rhodobacteraceae                        
+1          0        0.01 family               Rhodospirillaceae                       
+1          0        0.01 family               Streptomycetaceae                       
+1          0        0.01 family               Vibrionaceae                            

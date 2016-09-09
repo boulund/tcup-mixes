@@ -1,0 +1,51 @@
+--------5.results/QE_150508_35/QE_150508_35.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2358       1983    99.49 genus                Streptococcus                           
+2464       106     99.08 family               Streptococcaceae                        
+367        360     96.07 species              Streptococcus pneumoniae                
+6          0       26.09 no rank              Bacteroidetes/Chlorobi group            
+5          5       21.74 no rank              Streptococcus pneumoniae P1031          
+2          2        8.70 no rank              Acholeplasma palmae J233                
+2          2        8.70 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        4.35 no rank              Archaeoglobus fulgidus DSM 4304         
+1          0        4.35 no rank              Bacillales Family XII. Incertae Sedis   
+1          0        4.35 no rank              Bacillales incertae sedis               
+1          1        4.35 no rank              Methylomicrobium alcaliphilum 20Z       
+1          1        4.35 no rank              Myxococcus xanthus DK 1622              
+1          1        4.35 no rank              Rhodopseudomonas palustris BisA53       
+1          1        4.35 no rank              Streptococcus sanguinis SK36            
+1          1        4.35 no rank              Streptococcus suis ST3                  
+5          4        1.31 species              Streptococcus suis                      
+2          0        0.52 species              Acholeplasma palmae                     
+11         11       0.44 family               Staphylococcaceae                       
+1          0        0.26 species              Archaeoglobus fulgidus                  
+1          0        0.26 species              Methylomicrobium alcaliphilum           
+1          0        0.26 species              Myxococcus xanthus                      
+1          1        0.26 species              Paenibacillus sp. JDR-2                 
+1          1        0.26 species              Rhodobacter sphaeroides                 
+1          0        0.26 species              Rhodopseudomonas palustris              
+1          0        0.26 species              Streptococcus constellatus              
+1          0        0.26 species              Streptococcus sanguinis                 
+2          0        0.08 genus                Acholeplasma                            
+2          0        0.08 family               Acholeplasmataceae                      
+1          0        0.04 genus                Archaeoglobus                           
+1          1        0.04 genus                Dehalobacter                            
+1          1        0.04 genus                Exiguobacterium                         
+1          1        0.04 genus                Lactobacillus                           
+1          0        0.04 genus                Methylomicrobium                        
+1          1        0.04 genus                Mycoplasma                              
+1          0        0.04 genus                Myxococcus                              
+1          0        0.04 genus                Paenibacillus                           
+1          0        0.04 genus                Rhodobacter                             
+1          0        0.04 genus                Rhodopseudomonas                        
+1          0        0.04 family               Archaeoglobaceae                        
+1          0        0.04 family               Bradyrhizobiaceae                       
+1          1        0.04 family               Enterococcaceae                         
+1          0        0.04 family               Lactobacillaceae                        
+1          0        0.04 family               Methylococcaceae                        
+1          0        0.04 family               Mycoplasmataceae                        
+1          0        0.04 family               Myxococcaceae                           
+1          0        0.04 family               Paenibacillaceae                        
+1          0        0.04 family               Peptococcaceae                          
+1          0        0.04 family               Rhodobacteraceae                        

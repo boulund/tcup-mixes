@@ -1,0 +1,63 @@
+--------5.results/QE_160603_81/QE_160603_81.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+6652       6652    99.64 no rank              Moraxella catarrhalis BBH18             
+7295       634     99.31 family               Moraxellaceae                           
+6652       0       99.24 species              Moraxella catarrhalis                   
+6652       0       99.21 genus                Moraxella                               
+15         15       0.22 species              Faecalibacterium prausnitzii            
+15         0        0.22 genus                Faecalibacterium                        
+15         0        0.20 family               Ruminococcaceae                         
+7          7        0.10 species              Candidatus Pelagibacter sp. IMCC9063    
+7          7        0.10 species              Psychrobacter sp. PRwf-1                
+7          0        0.10 genus                Candidatus Pelagibacter                 
+7          0        0.10 genus                Psychrobacter                           
+7          7        0.10 family               Enterobacteriaceae                      
+7          0        0.10 family               Pelagibacteraceae                       
+5          5        0.07 no rank              Oscillatoria acuminata PCC 6304         
+5          0        0.07 species              Oscillatoria acuminata                  
+5          0        0.07 genus                Oscillatoria                            
+4          4        0.06 no rank              Heliobacterium modesticaldum Ice1       
+4          0        0.06 species              Heliobacterium modesticaldum            
+4          0        0.06 genus                Heliobacterium                          
+4          0        0.05 family               Heliobacteriaceae                       
+4          4        0.05 family               Micrococcaceae                          
+3          3        0.04 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+3          0        0.04 species              Thermoanaerobacterium thermosaccharolyticum
+3          0        0.04 genus                Thermoanaerobacterium                   
+3          0        0.04 family               Thermoanaerobacterales Family III. Incertae Sedis
+2          0        0.03 no rank              Burkholderiales Genera incertae sedis   
+2          2        0.03 no rank              Saccharophagus degradans 2-40           
+2          0        0.03 no rank              unclassified Burkholderiales            
+2          0        0.03 species              Saccharophagus degradans                
+2          1        0.03 genus                Acinetobacter                           
+2          2        0.03 genus                Phaeobacter                             
+2          0        0.03 genus                Saccharophagus                          
+2          2        0.03 family               Burkholderiaceae                        
+2          0        0.03 family               Cellvibrionaceae                        
+2          0        0.03 family               Rhodobacteraceae                        
+1          0        0.01 no rank              Bacteroidetes/Chlorobi group            
+1          1        0.01 no rank              Methylibium petroleiphilum PM1          
+1          1        0.01 no rank              Pirellula staleyi DSM 6068              
+1          1        0.01 no rank              Rubrivivax gelatinosus IL144            
+1          1        0.01 no rank              Streptococcus oligofermentans AS 1.3089 
+1          0        0.01 no rank              unclassified Flavobacteriaceae          
+1          1        0.01 species              Acinetobacter sp. ADP1                  
+1          1        0.01 species              Caulobacter sp. K31                     
+1          1        0.01 species              Flavobacteriaceae bacterium 3519-10     
+1          1        0.01 species              Fusobacterium nucleatum                 
+1          0        0.01 species              Methylibium petroleiphilum              
+1          0        0.01 species              Pirellula staleyi                       
+1          0        0.01 species              Rubrivivax gelatinosus                  
+1          0        0.01 species              Streptococcus oligofermentans           
+1          0        0.01 genus                Caulobacter                             
+1          0        0.01 genus                Fusobacterium                           
+1          0        0.01 genus                Methylibium                             
+1          0        0.01 genus                Pirellula                               
+1          0        0.01 genus                Rubrivivax                              
+1          0        0.01 genus                Streptococcus                           
+1          0        0.01 family               Caulobacteraceae                        
+1          0        0.01 family               Flavobacteriaceae                       
+1          0        0.01 family               Fusobacteriaceae                        
+1          0        0.01 family               Planctomycetaceae                       
+1          0        0.01 family               Streptococcaceae                        

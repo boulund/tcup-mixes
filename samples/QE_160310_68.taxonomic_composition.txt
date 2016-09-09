@@ -1,0 +1,51 @@
+--------5.results/QE_160310_68/QE_160310_68.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1903       1229    98.81 genus                Streptococcus                           
+1942       39      98.18 family               Streptococcaceae                        
+670        652     96.26 species              Streptococcus pneumoniae                
+16         16      47.06 no rank              Streptococcus pneumoniae P1031          
+3          0        8.82 no rank              Bacteroidetes/Chlorobi group            
+2          2        5.88 no rank              Thalassolituus oleivorans MIL-1         
+1          1        2.94 no rank              Agrobacterium radiobacter K84           
+1          1        2.94 no rank              Archaeoglobus fulgidus DSM 4304         
+1          1        2.94 no rank              Burkholderia cenocepacia J2315          
+1          1        2.94 no rank              Clostridium cellulovorans 743B          
+1          1        2.94 no rank              Clostridium novyi NT                    
+1          1        2.94 no rank              Haemophilus influenzae F3047            
+1          1        2.94 no rank              Haemophilus influenzae KR494            
+1          1        2.94 no rank              Herbaspirillum seropedicae SmR1         
+1          0        2.94 no rank              Rhizobium/Agrobacterium group           
+1          1        2.94 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          1        2.94 no rank              Streptococcus pneumoniae AP200          
+1          1        2.94 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        2.94 no rank              Streptococcus suis ST3                  
+12         10       1.72 species              Haemophilus influenzae                  
+24         11       1.21 family               Pasteurellaceae                         
+13         1        0.67 genus                Haemophilus                             
+3          2        0.43 species              Streptococcus suis                      
+2          0        0.29 species              Thalassolituus oleivorans               
+4          3        0.20 family               Staphylococcaceae                       
+1          0        0.14 species              Agrobacterium tumefaciens               
+1          0        0.14 species              Archaeoglobus fulgidus                  
+1          0        0.14 species              Burkholderia cenocepacia                
+1          0        0.14 species              Clostridium cellulovorans               
+1          0        0.14 species              Clostridium novyi                       
+1          0        0.14 species              Herbaspirillum seropedicae              
+1          1        0.14 species              Leptolyngbya sp. PCC 7376               
+1          0        0.14 species              Staphylococcus saprophyticus            
+1          1        0.14 species              Streptococcus mutans                    
+2          0        0.10 genus                Clostridium                             
+2          0        0.10 genus                Thalassolituus                          
+2          0        0.10 family               Clostridiaceae                          
+2          0        0.10 family               Oceanospirillaceae                      
+1          0        0.05 genus                Agrobacterium                           
+1          0        0.05 genus                Archaeoglobus                           
+1          0        0.05 genus                Burkholderia                            
+1          0        0.05 genus                Herbaspirillum                          
+1          0        0.05 genus                Leptolyngbya                            
+1          0        0.05 genus                Staphylococcus                          
+1          0        0.05 family               Archaeoglobaceae                        
+1          0        0.05 family               Burkholderiaceae                        
+1          0        0.05 family               Oxalobacteraceae                        
+1          0        0.05 family               Rhizobiaceae                            

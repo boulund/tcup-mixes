@@ -1,0 +1,1815 @@
+------------------Discriminative peptides-------------------
+Peptide              Sequence                            Rank            Description                   
+9830.1.1_13          LEFFSPGANPSNK                       family          Streptococcaceae              
+3213.1.1_11          QSMNEINAAQR                         family          Streptococcaceae              
+2750.1.1_14          AHASNVGISANVEK                      family          Streptococcaceae              
+9610.1.1_12          ALAVEGLTDDVK                        family          Streptococcaceae              
+13700.1.1_14         VLVIPTDEELVIAR                      family          Streptococcaceae              
+10866.1.1_9          IPFPALAER                           family          Streptococcaceae              
+12148.1.1_16         YAEAPTSVAAAVIEAR                    family          Pasteurellaceae               
+8622.1.1_17          AADLTNEVAAGDVVEAK                   family          Pasteurellaceae               
+11970.1.1_11         VLPGLAALTEK                         family          Streptococcaceae              
+7420.1.1_14          DSFDVELTSAGDKK                      family          Streptococcaceae              
+4721.1.1_14          VYGAEAEAQEAAAK                      family          Pasteurellaceae               
+12059.1.1_11         VLPGLAALTEK                         family          Streptococcaceae              
+6952.1.1_15          TGDEVEIVGIKDTAK                     family          Pasteurellaceae               
+8088.1.1_12          GTPEYNIALGQR                        family          Pasteurellaceae               
+6680.1.1_14          LDISSDSHPFYTGR                      family          Staphylococcaceae             
+4346.1.1_14          EGVATAEAEEIKAK                      family          Streptococcaceae              
+6581.1.1_14          LDISSDSHPFYTGR                      family          Staphylococcaceae             
+7828.1.1_12          SLNIETTQGLER                        family          Pasteurellaceae               
+7030.1.1_15          AEGYSEGTVPLHTLR                     family          Streptococcaceae              
+13641.1.1_14         VLVIPTDEELVIAR                      family          Streptococcaceae              
+9734.1.1_13          LEFFSPGANPSNK                       family          Streptococcaceae              
+10613.1.1_10         LPGLAALTEK                          family          Streptococcaceae              
+14357.1.1_15         VLIVDDLLATGGTVK                     family          Streptococcaceae              
+6805.1.1_14          AVLEGMNGKPVVVR                      family          Streptococcaceae              
+7359.1.1_17          LYDGSYHDVDSSETAFK                   family          Streptococcaceae              
+6706.1.1_20          EAAIHVSNVQVLDKNGVAGR                family          Streptococcaceae              
+4435.1.1_14          EGVATAEAEEIKAK                      family          Streptococcaceae              
+7334.1.1_17          LYDGSYHDVDSSETAFK                   family          Streptococcaceae              
+10673.1.1_17         SIIGGGDSAAAAINLGR                   family          Streptococcaceae              
+7318.1.1_14          DSFDVELTSAGDKK                      family          Streptococcaceae              
+7969.1.1_14          GALEGPSIMPGGQK                      family          Streptococcaceae              
+8734.1.1_15          AQGWSDTPLTAEGER                     family          Streptococcaceae              
+7065.1.1_15          AEGYSEGTVPLHTLR                     family          Streptococcaceae              
+7868.1.1_14          GALEGPSIMPGGQK                      family          Streptococcaceae              
+7276.1.1_17          LYDGSYHDVDSSETAFK                   family          Streptococcaceae              
+7392.1.1_13          ALAVEGLTDDVKK                       family          Streptococcaceae              
+5331.1.1_12          EGVATAEAEEIK                        family          Streptococcaceae              
+7993.1.1_12          GTPEYNIALGQR                        family          Pasteurellaceae               
+3321.1.1_12          ILAENSGQSMEK                        family          Streptococcaceae              
+8633.1.1_15          AQGWSDTPLTAEGER                     family          Streptococcaceae              
+9247.1.1_11          LSEYGLQLAEK                         family          Streptococcaceae              
+7406.1.1_14          DSFDVELTSAGDKK                      family          Streptococcaceae              
+5652.1.1_14          GALEGPSIMPGGQK                      family          Streptococcaceae              
+10769.1.1_17         SIIGGGDSAAAAINLGR                   family          Streptococcaceae              
+13264.1.1_15         NVVLEEQAVDAVLAK                     family          Pasteurellaceae               
+6968.1.1_15          AEGYSEGTVPLHTLR                     family          Streptococcaceae              
+9327.1.1_11          SAEELIDIDAK                         family          Streptococcaceae              
+10951.1.1_16         VYAFLGDGEMDEIESK                    family          Pasteurellaceae               
+10703.1.1_10         LPGLAALTEK                          family          Streptococcaceae              
+5418.1.1_12          EGVATAEAEEIK                        family          Streptococcaceae              
+4531.1.1_14          EGVATAEAEEIKAK                      family          Streptococcaceae              
+10698.1.1_17         SIIGGGDSAAAAINLGR                   family          Streptococcaceae              
+10947.1.1_9          IPFPALAER                           family          Streptococcaceae              
+13187.1.1_15         IGDIGAAIQEYAESR                     family          Streptococcaceae              
+6589.1.1_14          LDISSDSHPFYTGR                      family          Staphylococcaceae             
+7351.1.1_12          LPNMASGNVAMR                        genus           Streptococcus                 
+6006.1.1_11          SLAAWNSDDAK                         genus           Streptococcus                 
+3906.1.1_33          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANKK   genus           Streptococcus                 
+9751.1.1_16          AEAAEQFGDEQVHIWR                    genus           Streptococcus                 
+10776.1.1_13         FAILTTAGEIQGK                       genus           Streptococcus                 
+10867.1.1_11         LGYPLLDEETR                         genus           Streptococcus                 
+9956.1.1_17          ANLVVSEAFANEGPTMK                   genus           Streptococcus                 
+9286.1.1_14          GMVISNIDTGTDYR                      genus           Streptococcus                 
+10047.1.1_18         ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+8991.1.1_12          IELEDVSQNLNK                        genus           Streptococcus                 
+9905.1.1_13          NAQFVELVNTTAK                       genus           Streptococcus                 
+6154.1.1_13          SNFYSVSTSADGK                       genus           Streptococcus                 
+10874.1.1_15         KQLDEGLAGDNVGVL                     genus           Streptococcus                 
+11851.1.1_13         QAVTNPDTVISIK                       genus           Streptococcus                 
+7879.1.1_10          LPVDEIIEKR                          genus           Streptococcus                 
+11088.1.1_13         FMLDDMSITANGK                       genus           Streptococcus                 
+8794.1.1_19          LMAQHQTEEPTVAQMEELK                 genus           Streptococcus                 
+4445.1.1_25          TEQSEPSSTEAIASEKKEDESVTPK           genus           Streptococcus                 
+9945.1.1_17          IKVSQPVYFDTGLGDGR                   genus           Streptococcus                 
+8575.1.1_12          NEGYIIGDVEGK                        genus           Streptococcus                 
+8224.1.1_13          HTDTVAVFSDDIR                       genus           Streptococcus                 
+10687.1.1_12         EISNVLAVSVPK                        genus           Streptococcus                 
+9979.1.1_22          VLSNEEEPELSDEDLVGSTSAK              genus           Streptococcus                 
+7307.1.1_9           VLVADELTK                           genus           Streptococcus                 
+8866.1.1_11          AFVLDSTETVR                         genus           Streptococcus                 
+14295.1.1_15         ESPALGFIFNTDNVK                     genus           Streptococcus                 
+8217.1.1_16          EVINQVVEVGAPVTHK                    genus           Streptococcus                 
+3955.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+5340.1.1_10          APTLQLANGK                          genus           Streptococcus                 
+10558.1.1_11         FEANPSEELFR                         genus           Streptococcus                 
+7510.1.1_13          VFSYEPQPAGTVR                       genus           Streptococcus                 
+10515.1.1_11         VLSVTDFAEER                         genus           Streptococcus                 
+6396.1.1_18          SASAQGTTQELKVVAVGK                  genus           Streptococcus                 
+15269.1.1_11         MIPVVIEQTSR                         genus           Streptococcus                 
+12005.1.1_14         GQFEPIAEGQYFYK                      genus           Streptococcus                 
+9602.1.1_14          QIAEGGPVTVTDFR                      genus           Streptococcus                 
+4464.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+6309.1.1_14          SNNIIHQAEQDAQR                      genus           Streptococcus                 
+9695.1.1_15          KDYLVGDSLDLSEGR                     genus           Streptococcus                 
+9320.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+9066.1.1_22          VSAVVGPATSGATAAAVANATK              genus           Streptococcus                 
+9796.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+9076.1.1_12          NEVDQAIFATEK                        genus           Streptococcus                 
+7565.1.1_12          NVTVDEVNAAMK                        genus           Streptococcus                 
+12755.1.1_14         SFIAPALNEVEIDK                      genus           Streptococcus                 
+9901.1.1_16          AEYDFTDAYNGGNSLK                    genus           Streptococcus                 
+12776.1.1_14         DGVVIYDGELASLK                      genus           Streptococcus                 
+8509.1.1_10          ATLENVQFVK                          genus           Streptococcus                 
+8939.1.1_13          YLEGEEITNEELK                       genus           Streptococcus                 
+7881.1.1_19          VETNGASGVGNQLTAEDIR                 genus           Streptococcus                 
+11808.1.1_13         DIGTVVLPQAELK                       genus           Streptococcus                 
+5087.1.1_12          QAADAVAEEAVR                        genus           Streptococcus                 
+7817.1.1_13          TGTYSGIETDLAK                       genus           Streptococcus                 
+9261.1.1_17          VTAPSVNFDETTGDYSR                   genus           Streptococcus                 
+4162.1.1_11          QQAEADDVEIR                         genus           Streptococcus                 
+7718.1.1_12          SYVTEEELAAER                        genus           Streptococcus                 
+6628.1.1_11          AAASIVVVDAR                         genus           Streptococcus                 
+14351.1.1_25         DTSLPKPLAENIVPGATVIDSTFPK           genus           Streptococcus                 
+5868.1.1_13          KTSYAEGEDLDLR                       genus           Streptococcus                 
+10249.1.1_10         TVLALDPYAK                          genus           Streptococcus                 
+3295.1.1_13          VAAMSEIVSANNK                       genus           Streptococcus                 
+7830.1.1_19          KENPNLPAGQENIITAGVK                 genus           Streptococcus                 
+7944.1.1_21          HADQDAIYSIDVGNTTQTSTR               genus           Streptococcus                 
+4618.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+11156.1.1_17         TVETDGYNAIQVGFDDK                   genus           Streptococcus                 
+10903.1.1_21         AEDVSQDMYGSIDLVTDKIER               genus           Streptococcus                 
+10180.1.1_11         YIDIPLNEAAR                         genus           Streptococcus                 
+3626.1.1_11          EVVEAATAAAR                         genus           Streptococcus                 
+12020.1.1_13         AIIETVPAQYLYK                       genus           Streptococcus                 
+9155.1.1_14          QIAEAIGIDSATVR                      genus           Streptococcus                 
+6278.1.1_13          NSSQDALNVVAAK                       genus           Streptococcus                 
+8456.1.1_16          ELSYLHEEGVTTDNLR                    genus           Streptococcus                 
+7965.1.1_14          VLNMGVGEAVSNAK                      genus           Streptococcus                 
+11760.1.1_21         ANEMGIPSLTVTNVPGSTLSR               genus           Streptococcus                 
+3896.1.1_11          LISYNNQPANR                         genus           Streptococcus                 
+8314.1.1_13          LVINTAEGTYVSR                       genus           Streptococcus                 
+7649.1.1_12          NAQEAEAVVQFK                        genus           Streptococcus                 
+12308.1.1_18         IADELDAVGFNYSEDNYK                  genus           Streptococcus                 
+7736.1.1_12          NAQEAEAVVQFK                        genus           Streptococcus                 
+8223.1.1_14          VQVDYAGSFGDAAK                      genus           Streptococcus                 
+10341.1.1_15         MITMGAQLVGDELAK                     genus           Streptococcus                 
+5419.1.1_11          AGVASVDPSIK                         genus           Streptococcus                 
+9382.1.1_13          SADLPANLIQAQR                       genus           Streptococcus                 
+7952.1.1_12          VLEESPSIAIGK                        genus           Streptococcus                 
+5522.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+10723.1.1_11         SVNEFLGNLQR                         genus           Streptococcus                 
+5058.1.1_19          LMAQHQTEEPTVAQMEELK                 genus           Streptococcus                 
+5730.1.1_13          FQAATGQLEQTAR                       genus           Streptococcus                 
+6528.1.1_14          IVPFTGASAQTGSK                      genus           Streptococcus                 
+14726.1.1_23         TEGADIPIIGGMVAAWADTPSAR             genus           Streptococcus                 
+11705.1.1_12         LFAPDTITSLGK                        genus           Streptococcus                 
+7503.1.1_12          VVLSGGPELAAR                        genus           Streptococcus                 
+6865.1.1_18          ASITVNTGEKEVTTYTNK                  genus           Streptococcus                 
+7362.1.1_13          QNLTVEDGTDFDK                       genus           Streptococcus                 
+8700.1.1_15          ANGVEIDDAAIQGVK                     genus           Streptococcus                 
+6974.1.1_12          TNYQTDPIAVAR                        genus           Streptococcus                 
+11977.1.1_12         YPEFAQLEGQLK                        genus           Streptococcus                 
+3905.1.1_13          ANQDGALIANHVK                       genus           Streptococcus                 
+11277.1.1_16         EVINQVVEVGAPVTHK                    genus           Streptococcus                 
+7753.1.1_12          NVTVDEVNAAMK                        genus           Streptococcus                 
+6977.1.1_12          AITDATFEQETK                        genus           Streptococcus                 
+10522.1.1_12         GTEAVVLTALPK                        genus           Streptococcus                 
+11998.1.1_10         TEEIPFEVIK                          genus           Streptococcus                 
+12895.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+9160.1.1_12          TLEDLEIGASGR                        genus           Streptococcus                 
+8908.1.1_16          VVPISGDVSDFADAKR                    genus           Streptococcus                 
+9586.1.1_13          FMLDDMSITANGK                       genus           Streptococcus                 
+5856.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+8471.1.1_14          LSSVDPNLQNIPAR                      genus           Streptococcus                 
+12922.1.1_18         NADGQGWYNLDQGLNGIK                  genus           Streptococcus                 
+7177.1.1_11          IFTAINPDGSK                         genus           Streptococcus                 
+4841.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+11562.1.1_12         ISIVEDVEGVTR                        genus           Streptococcus                 
+13023.1.1_15         DAAANDAVVLFVGTK                     genus           Streptococcus                 
+12698.1.1_12         SIVTQVVESGFK                        genus           Streptococcus                 
+4663.1.1_14          VVGGGYAGQSGAIR                      genus           Streptococcus                 
+7948.1.1_16          HALDASILGDAGQAAK                    genus           Streptococcus                 
+9683.1.1_24          THYISVLTENGKTTETVLDSQVTK            genus           Streptococcus                 
+10259.1.1_13         SIPTEYLIDSQGK                       genus           Streptococcus                 
+8613.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+5644.1.1_11          KAELVDVVAEK                         genus           Streptococcus                 
+4601.1.1_8           VAPDYVPR                            genus           Streptococcus                 
+5623.1.1_9           EFSKDIEIR                           genus           Streptococcus                 
+13747.1.1_12         FSDSDLIGLPIR                        genus           Streptococcus                 
+7860.1.1_17          QVANNDAINTVIANQQK                   genus           Streptococcus                 
+12452.1.1_19         EAVFNLSQADDDISVEEAR                 genus           Streptococcus                 
+7155.1.1_18          QVTTAVGDGAIAGQEAYK                  genus           Streptococcus                 
+8537.1.1_31          EVINQVVEVGAPVTHKGDESGLAPTTEVKPR     genus           Streptococcus                 
+8533.1.1_12          LVGDSLDLSEGR                        genus           Streptococcus                 
+12676.1.1_14         ELGIQNPNFSYFGK                      genus           Streptococcus                 
+11522.1.1_10         YEAEELVPFR                          genus           Streptococcus                 
+10269.1.1_17         AGVPLISPSATQDGLTK                   genus           Streptococcus                 
+8428.1.1_15          EVIEDDAEVNEYEVK                     genus           Streptococcus                 
+7695.1.1_23          NEIASENYDEATDKYTSTTALQK             genus           Streptococcus                 
+10907.1.1_21         AEDVSQDMYGSIDLVTDKIER               genus           Streptococcus                 
+4532.1.1_13          HEVLEVPASNIKK                       genus           Streptococcus                 
+4091.1.1_12          MLDDMSITANGK                        genus           Streptococcus                 
+8170.1.1_10          IAVLQDGEIR                          genus           Streptococcus                 
+10068.1.1_22         VLSNEEEPELSDEDLVGSTSAK              genus           Streptococcus                 
+7766.1.1_15          ISQALEVAEPGVTNR                     genus           Streptococcus                 
+3498.1.1_16          TPVAEDKVPNKSHLLR                    genus           Streptococcus                 
+3822.1.1_33          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANKK   genus           Streptococcus                 
+7460.1.1_14          AGGLGIIGGGNAPK                      genus           Streptococcus                 
+6315.1.1_22          VSEGVEAVKGAANGVVSHENTR              genus           Streptococcus                 
+5581.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+4180.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+3520.1.1_11          LNMSEEAIESR                         genus           Streptococcus                 
+9947.1.1_15          VYMNSPVLSIDYDNK                     genus           Streptococcus                 
+2583.1.1_12          FFEKDATHPEAR                        genus           Streptococcus                 
+10193.1.1_15         MDTTTGYQFLSGSTK                     genus           Streptococcus                 
+11037.1.1_17         KGNVILLEPTVAEAVSR                   genus           Streptococcus                 
+8078.1.1_19          VETNGASGVGNQLTAEDIR                 genus           Streptococcus                 
+10973.1.1_12         AFEANPSEELFR                        genus           Streptococcus                 
+11668.1.1_12         SLALVAADLAAK                        genus           Streptococcus                 
+9554.1.1_17          FAEALKQDADGSFPIAR                   genus           Streptococcus                 
+3730.1.1_11          LREVVEAPTDR                         genus           Streptococcus                 
+11627.1.1_12         LFAPDTITSLGK                        genus           Streptococcus                 
+12330.1.1_11         EMSIIALAQGR                         genus           Streptococcus                 
+7357.1.1_18          IQDAGISITDNEGNPSAR                  genus           Streptococcus                 
+11123.1.1_15         ALLNNMVVGVSEGFK                     genus           Streptococcus                 
+10464.1.1_12         IVATLGPAVEIR                        genus           Streptococcus                 
+8176.1.1_12          DATIEALGQAAR                        genus           Streptococcus                 
+8437.1.1_20          NAEVLADENQAGPVGIANPK                genus           Streptococcus                 
+5160.1.1_12          VLSQAGMTLETR                        genus           Streptococcus                 
+3789.1.1_28          TEQSEPSSTEAIASEKKEDESVTPKEEK        genus           Streptococcus                 
+9978.1.1_22          VLSNEEEPELSDEDLVGSTSAK              genus           Streptococcus                 
+10095.1.1_18         GAQLAVDEINAAGGIDGK                  genus           Streptococcus                 
+11110.1.1_17         NMTSLDFAEITTSTPEK                   genus           Streptococcus                 
+10803.1.1_12         GTSITEVQIFAK                        genus           Streptococcus                 
+10263.1.1_15         AQAALQAGDLETFGR                     genus           Streptococcus                 
+10792.1.1_28         LWDENGAPLYDYKAGSMGPQASFDLLEK        genus           Streptococcus                 
+10060.1.1_17         ITQHRPLPVEVLELDPK                   genus           Streptococcus                 
+5657.1.1_11          KAELVDVVAEK                         genus           Streptococcus                 
+3113.1.1_16          AEVVTPTSAEKETANK                    genus           Streptococcus                 
+7652.1.1_12          TSYAEGEDLDLR                        genus           Streptococcus                 
+9857.1.1_14          IEYVDYKDTELLSR                      genus           Streptococcus                 
+10371.1.1_25         KAEQAGPETPTPATETVDIISDTSR           genus           Streptococcus                 
+2870.1.1_14          AAALKAEQNAEYAR                      genus           Streptococcus                 
+9102.1.1_17          VTAPSVNFDETTGDYSR                   genus           Streptococcus                 
+10170.1.1_13         SIPTEYLIDSQGK                       genus           Streptococcus                 
+8366.1.1_15          TGEIAAIMGPNGTGK                     genus           Streptococcus                 
+11761.1.1_21         ANEMGIPSLTVTNVPGSTLSR               genus           Streptococcus                 
+6290.1.1_12          SQIETTTSEFDR                        genus           Streptococcus                 
+10074.1.1_10         LNALTATVLR                          genus           Streptococcus                 
+8446.1.1_20          NAEVLADENQAGPVGIANPK                genus           Streptococcus                 
+9654.1.1_12          FVGGIESEVISR                        genus           Streptococcus                 
+10130.1.1_18         GAQLAVDEINAAGGIDGK                  genus           Streptococcus                 
+9584.1.1_19          VGDGMQDNLSGVENPVSVK                 genus           Streptococcus                 
+5405.1.1_11          GQGVQAIYGPK                         genus           Streptococcus                 
+5609.1.1_15          EVQEAYETLSDDQKR                     genus           Streptococcus                 
+7321.1.1_16          EISNVLAVSVPKDDRR                    genus           Streptococcus                 
+12066.1.1_12         YPEFAQLEGQLK                        genus           Streptococcus                 
+7382.1.1_12          VEIPTQTVQVEK                        genus           Streptococcus                 
+7337.1.1_15          SGNSPESVATVDLAK                     genus           Streptococcus                 
+8188.1.1_16          KPLAEVENNDFEDAEE                    genus           Haemophilus                   
+7529.1.1_10          LGPQDLTYGK                          genus           Streptococcus                 
+9486.1.1_13          EIVNAGVEEVTIR                       genus           Streptococcus                 
+4935.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+12933.1.1_18         NADGQGWYNLDQGLNGIK                  genus           Streptococcus                 
+10692.1.1_20         IANIYPLDSNGNPQDAQLER                genus           Streptococcus                 
+7549.1.1_15          LYDSAIGLSGGQQQR                     genus           Streptococcus                 
+8079.1.1_12          MLDDMSITANGK                        genus           Streptococcus                 
+12297.1.1_21         TEGGEGIEGMLNGTITSLSDK               genus           Streptococcus                 
+8711.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+9434.1.1_10          EEIPFTTVTR                          genus           Streptococcus                 
+3341.1.1_13          KQAADAVAEEAVR                       genus           Streptococcus                 
+5988.1.1_13          NLEVTYAGEGQGR                       genus           Streptococcus                 
+6626.1.1_12          NVVTSDNGTPWK                        genus           Streptococcus                 
+8863.1.1_21          VEDIPANGEIAVPNDATNESR               genus           Streptococcus                 
+7384.1.1_16          MYEKLDTESVNIPMAK                    genus           Streptococcus                 
+3266.1.1_12          GLGAGGQPEVGR                        genus           Streptococcus                 
+12166.1.1_11         GFIPASMLDTR                         genus           Streptococcus                 
+6183.1.1_20          VETNGASGVGNQLTAEDIRK                genus           Streptococcus                 
+11753.1.1_12         SLALVAADLAAK                        genus           Streptococcus                 
+5635.1.1_13          FQAATGQLEQTAR                       genus           Streptococcus                 
+10465.1.1_25         KAEQAGPETPTPATETVDIISDTSR           genus           Streptococcus                 
+13399.1.1_15         DVLPDPLYNSQLVTR                     genus           Streptococcus                 
+11158.1.1_29         FAVAYSNDTMEEHSFTDEGVEISGYDAQK       genus           Streptococcus                 
+4661.1.1_15          IIVASDNVAKDDLRK                     genus           Streptococcus                 
+12624.1.1_12         SIVTQVVESGFK                        genus           Streptococcus                 
+3373.1.1_13          IVTAAEAEAEKDR                       genus           Streptococcus                 
+5689.1.1_11          IQNVEGVEVTR                         genus           Streptococcus                 
+9003.1.1_16          VVPISGDVSDFADAKR                    genus           Streptococcus                 
+10123.1.1_17         TGDTATIETPVGSYDVK                   genus           Streptococcus                 
+11416.1.1_11         ESNFVLVSTLK                         genus           Streptococcus                 
+15258.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+11683.1.1_10         GLTVEDIEFR                          genus           Streptococcus                 
+6087.1.1_16          NYEQSDYGNDRVGWGK                    genus           Streptococcus                 
+3140.1.1_13          VAAMSEIVSANNK                       genus           Streptococcus                 
+7257.1.1_13          IASELDTTETTLK                       genus           Streptococcus                 
+9774.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+13285.1.1_18         AVGDALDLSHALAFTSPK                  genus           Streptococcus                 
+7845.1.1_17          IVNSDDVTSGVNVEVGK                   genus           Streptococcus                 
+3464.1.1_11          IKSVSLETGPK                         genus           Streptococcus                 
+6002.1.1_17          TVETETPATDKVASLPK                   genus           Streptococcus                 
+7123.1.1_12          DALTEENVEAVR                        genus           Streptococcus                 
+8640.1.1_15          SGEDTSLVSVDVTDR                     genus           Streptococcus                 
+8500.1.1_10          VLAALSIDSK                          genus           Streptococcus                 
+10144.1.1_15         GNALMGIGIGTGDER                     genus           Streptococcus                 
+9374.1.1_14          SIIDASDIDEAEDR                      genus           Streptococcus                 
+6490.1.1_9           LADAIIEGR                           genus           Streptococcus                 
+10881.1.1_12         GTSITEVQIFAK                        genus           Streptococcus                 
+6261.1.1_12          THYISVLTENGK                        genus           Streptococcus                 
+6561.1.1_17          SGYPNEGQPAFITGGKR                   genus           Streptococcus                 
+12090.1.1_13         FMLDDMSITANGK                       genus           Streptococcus                 
+8462.1.1_17          GIVRPVNIPLNDAETQK                   genus           Streptococcus                 
+9815.1.1_13          IIEQLEEQTLESR                       genus           Streptococcus                 
+8002.1.1_17          QSISNTAEYGDYVSGPR                   genus           Streptococcus                 
+5593.1.1_16          SNFYSVSTSADGKEVK                    genus           Streptococcus                 
+6516.1.1_14          IAAGSGNTFVEVNK                      genus           Streptococcus                 
+3218.1.1_14          AAVIGGANGTSNVR                      genus           Streptococcus                 
+8890.1.1_15          EISNVLAVSVPKDDR                     genus           Streptococcus                 
+8896.1.1_10          FIAYANDLAR                          genus           Streptococcus                 
+6724.1.1_11          AAASIVVVDAR                         genus           Streptococcus                 
+6030.1.1_10          VAAEMGVGIK                          genus           Streptococcus                 
+7953.1.1_19          KENPNLPAGQENIITAGVK                 genus           Streptococcus                 
+11752.1.1_10         FIQVDIDPYK                          genus           Streptococcus                 
+5694.1.1_13          KAVELITSTATVK                       genus           Streptococcus                 
+7848.1.1_11          IAGATFELNGK                         genus           Streptococcus                 
+6363.1.1_12          VNFDETTGDYSR                        genus           Streptococcus                 
+7926.1.1_17          VLLKPAVEGSGVAAGGA                   genus           Streptococcus                 
+10201.1.1_12         GQFAVEGINQLR                        genus           Streptococcus                 
+6578.1.1_9           LADAIIEGR                           genus           Streptococcus                 
+6395.1.1_10          TPFNQLASTK                          genus           Streptococcus                 
+13854.1.1_15         EGFFTGLDIGTSSVK                     genus           Streptococcus                 
+12321.1.1_18         IADELDAVGFNYSEDNYK                  genus           Streptococcus                 
+9844.1.1_15          FGFHDDVEPVLSTGK                     genus           Streptococcus                 
+4609.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+7047.1.1_18          AAQASNLGGGAEVDGFSK                  genus           Streptococcus                 
+6527.1.1_12          NVVTSDNGTPWK                        genus           Streptococcus                 
+10675.1.1_20         IANIYPLDSNGNPQDAQLER                genus           Streptococcus                 
+3980.1.1_15          GDESGLAPTTEVKPR                     genus           Streptococcus                 
+10416.1.1_15         VVPISGDVSDFADAK                     genus           Streptococcus                 
+6694.1.1_9           LAALSIDSK                           genus           Streptococcus                 
+12568.1.1_13         VTFLGNPVSFTGK                       genus           Streptococcus                 
+8296.1.1_14          IAEAQGAVGFTVDR                      genus           Streptococcus                 
+9036.1.1_12          SVVTVGEEIEVK                        genus           Streptococcus                 
+9527.1.1_10          EEIPFTTVTR                          genus           Streptococcus                 
+3463.1.1_14          AAGASAQVLGSEGK                      genus           Streptococcus                 
+8076.1.1_10          LGLSLTGTGK                          genus           Streptococcus                 
+11328.1.1_11         ESNFVLVSTLK                         genus           Streptococcus                 
+10378.1.1_16         TGHVITVPLITDATGK                    genus           Streptococcus                 
+13393.1.1_14         GIEEQLGEIVIAPR                      genus           Streptococcus                 
+4494.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+9847.1.1_21          ILIPVYTTNNVSHLNGSQSSR               genus           Streptococcus                 
+3405.1.1_11          TAHITVAVAEK                         genus           Streptococcus                 
+8351.1.1_9           KVFFLPEGK                           genus           Streptococcus                 
+4436.1.1_13          HEVLEVPASNIKK                       genus           Streptococcus                 
+10969.1.1_12         GTSITEVQIFAK                        genus           Streptococcus                 
+7360.1.1_12          VLDEDDQEVELR                        genus           Streptococcus                 
+7122.1.1_19          ALEEIESGNVTIHQDPEGK                 genus           Streptococcus                 
+7165.1.1_10          FEEAPAEFGR                          genus           Streptococcus                 
+4202.1.1_13          AAIVTDTGGVDDK                       genus           Streptococcus                 
+5412.1.1_13          DVTPEQPTAITSK                       genus           Streptococcus                 
+11671.1.1_10         FIQVDIDPYK                          genus           Streptococcus                 
+7255.1.1_12          NSENEAVLEEVR                        genus           Streptococcus                 
+10616.1.1_21         LVPMQPGDVPVTYADTSDLER               genus           Streptococcus                 
+9625.1.1_20          VKEVAEDAKDAVEGAVEGVK                genus           Streptococcus                 
+12970.1.1_13         FLLDDMTITANGK                       genus           Streptococcus                 
+5595.1.1_16          SNFYSVSTSADGKEVK                    genus           Streptococcus                 
+11437.1.1_11         TAAFGLPTLEK                         genus           Streptococcus                 
+9348.1.1_10          EEIPFTTVTR                          genus           Streptococcus                 
+3602.1.1_11          LNMSEEAIESR                         genus           Streptococcus                 
+12102.1.1_14         DYLVGDSLDLSEGR                      genus           Streptococcus                 
+3333.1.1_13          KQAADAVAEEAVR                       genus           Streptococcus                 
+8618.1.1_11          VVYNFASPEVK                         genus           Streptococcus                 
+8292.1.1_12          EITDQDVENVVK                        genus           Streptococcus                 
+11315.1.1_17         ANLVVSEAFANEGPTMK                   genus           Streptococcus                 
+8263.1.1_18          SDIVVVSGPSHAEETIVR                  genus           Streptococcus                 
+8345.1.1_31          EVINQVVEVGAPVTHKGDESGLAPTTEVKPR     genus           Streptococcus                 
+5798.1.1_13          KTSYAEGEDLDLR                       genus           Streptococcus                 
+8741.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+7292.1.1_20          NAVVGANEDGYHLTGVNPGR                genus           Streptococcus                 
+9397.1.1_13          EIVNAGVEEVTIR                       genus           Streptococcus                 
+9263.1.1_11          FAPDTITSLGK                         genus           Streptococcus                 
+14430.1.1_14         QFDVEVVSDTVSER                      genus           Streptococcus                 
+13254.1.1_16         GNVILLEPTVAEAVSR                    genus           Streptococcus                 
+4251.1.1_11          QQAEADDVEIR                         genus           Streptococcus                 
+9055.1.1_20          SAEEGLISIVNTNKEGENQR                genus           Streptococcus                 
+5919.1.1_11          SLAAWNSDDAK                         genus           Streptococcus                 
+15372.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+12445.1.1_15         AFDEYTPDVTAQIIR                     genus           Streptococcus                 
+13157.1.1_13         FVAVDALSFTAPK                       genus           Streptococcus                 
+7654.1.1_12          NVTVDEVNAAMK                        genus           Streptococcus                 
+4701.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+9232.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+4515.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+8692.1.1_12          REDGEIGLLEVK                        genus           Streptococcus                 
+3947.1.1_11          IADAGSVEYAK                         genus           Streptococcus                 
+10233.1.1_15         GNALMGIGIGTGDER                     genus           Streptococcus                 
+10391.1.1_16         EETVGPADYGNSLLSR                    genus           Streptococcus                 
+6786.1.1_12          NVTAGANPIGIR                        genus           Streptococcus                 
+8683.1.1_13          GSGLNVYNLGTGK                       genus           Streptococcus                 
+9075.1.1_11          TEEIPFEVIKK                         genus           Streptococcus                 
+11002.1.1_14         QFDVEVVSDTVSER                      genus           Streptococcus                 
+5608.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+11109.1.1_16         RDVLPDPLYNSQLVTR                    genus           Streptococcus                 
+4442.1.1_12          RIQNVEGVEVTR                        genus           Streptococcus                 
+4719.1.1_15          LAQTGQMPDASFQAK                     genus           Streptococcus                 
+15185.1.1_19         TADQAGMIIPVVISVYEDK                 genus           Streptococcus                 
+7790.1.1_11          VGEYISEAMEK                         genus           Streptococcus                 
+3168.1.1_16          AEVVTPTSAEKETANK                    genus           Streptococcus                 
+9675.1.1_22          SGSLDENEVAANVETRPELITR              genus           Streptococcus                 
+12645.1.1_15         QVGFVGGIESEVISR                     genus           Streptococcus                 
+7997.1.1_15          VYDYTKFEGEGAAVR                     genus           Streptococcus                 
+10462.1.1_36         LYEQAAAAQQAQEGAEGAQATGNAGDDVVDGEFTEK genus           Streptococcus                 
+9613.1.1_12          IIDGAFADYTGK                        genus           Streptococcus                 
+7398.1.1_12          EGITDADEYVAR                        genus           Streptococcus                 
+7495.1.1_12          DAAQAALDDLKK                        genus           Streptococcus                 
+3617.1.1_10          TGVEVHFSNK                          genus           Streptococcus                 
+4738.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+9812.1.1_16          AEYDFTDAYNGGNSLK                    genus           Streptococcus                 
+11204.1.1_16         RDVLPDPLYNSQLVTR                    genus           Streptococcus                 
+3609.1.1_13          IVDEEGNDVTPEK                       genus           Streptococcus                 
+9343.1.1_16          NQTTQVANFVISNNSK                    genus           Streptococcus                 
+9470.1.1_11          YNLDQGLNGIK                         genus           Streptococcus                 
+8812.1.1_13          GIQEGAANSILIK                       genus           Streptococcus                 
+9252.1.1_14          TVDLDNEQAVAFTK                      genus           Streptococcus                 
+6440.1.1_12          GLGSGFSTVQEK                        genus           Streptococcus                 
+9157.1.1_16          NQTTQVANFVISNNSK                    genus           Streptococcus                 
+5538.1.1_15          ATDPMTQAPSTVALK                     genus           Streptococcus                 
+3871.1.1_28          TEQSEPSSTEAIASEKKEDESVTPKEEK        genus           Streptococcus                 
+7609.1.1_10          IDVFGSEGKA                          genus           Streptococcus                 
+6540.1.1_20          SSDPGALNGVDADKLSASAK                genus           Streptococcus                 
+12368.1.1_15         AYSNASSVELFLNGK                     genus           Streptococcus                 
+12115.1.1_14         IFPEINFDDVDKTR                      genus           Streptococcus                 
+8094.1.1_22          TDQVLSTSTEVTKEPVNQQVIR              genus           Streptococcus                 
+7662.1.1_14          HEETGALAAVMQAK                      genus           Streptococcus                 
+12419.1.1_11         EMSIIALAQGR                         genus           Streptococcus                 
+5475.1.1_11          EVVGQTAAYVR                         genus           Streptococcus                 
+9880.1.1_15          ETSTVVVFTNGDAIK                     genus           Streptococcus                 
+7391.1.1_9           VLVADELTK                           genus           Streptococcus                 
+8165.1.1_16          SGYPNEGQPAFITGGK                    genus           Streptococcus                 
+5551.1.1_26          TEETPKAELQPEAPKTVETETPATDK          genus           Streptococcus                 
+10052.1.1_11         LFLEEEGLQSR                         genus           Streptococcus                 
+9943.1.1_17          TGDTATIETPVGSYDVK                   genus           Streptococcus                 
+4983.1.1_11          NTVSAEIAQAK                         genus           Streptococcus                 
+8146.1.1_11          AVGELLANQVR                         genus           Streptococcus                 
+6451.1.1_15          ELASEAGVNPNTIQR                     genus           Streptococcus                 
+10300.1.1_16         EETVGPADYGNSLLSR                    genus           Streptococcus                 
+10354.1.1_31         EVINQVVEVGAPVTHKGDESGLAPTTEVKPR     genus           Streptococcus                 
+5764.1.1_10          QTAPLAEQLK                          genus           Streptococcus                 
+9993.1.1_16          AEYDFTDAYNGGNSLK                    genus           Streptococcus                 
+10770.1.1_16         DAAANDAVVLFVGTKK                    genus           Streptococcus                 
+10572.1.1_12         MEISLLTDVGQK                        genus           Streptococcus                 
+5744.1.1_11          KAELVDVVAEK                         genus           Streptococcus                 
+9581.1.1_16          DFVWGSSTSGPQTEGR                    genus           Streptococcus                 
+5077.1.1_11          VGEYISEAMEK                         genus           Streptococcus                 
+7995.1.1_13          ALPNMASGNVAMR                       genus           Streptococcus                 
+7064.1.1_19          VLLKPAVEGSGVAAGGAVR                 genus           Streptococcus                 
+12825.1.1_19         DNAPVGTLAVDSIYTPVTK                 genus           Streptococcus                 
+7971.1.1_10          VTTVNDGIFR                          genus           Streptococcus                 
+9436.1.1_25          SKDIGLIPAINSPGHMDAMLVAMEK           genus           Streptococcus                 
+11143.1.1_12         AFEANPSEELFR                        genus           Streptococcus                 
+4542.1.1_12          RIQNVEGVEVTR                        genus           Streptococcus                 
+5934.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+7880.1.1_18          ATVGVVGNEQHGLVNLGK                  genus           Streptococcus                 
+4541.1.1_25          TEQSEPSSTEAIASEKKEDESVTPK           genus           Streptococcus                 
+7641.1.1_14          HEETGALAAVMQAK                      genus           Streptococcus                 
+11746.1.1_11         QAVEAAFEGVK                         genus           Streptococcus                 
+7878.1.1_18          ATVGVVGNEQHGLVNLGK                  genus           Streptococcus                 
+8448.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+11133.1.1_12         INDLTDPVMLAH                        genus           Streptococcus                 
+8048.1.1_17          WENGTPVTMTDNGSTYK                   genus           Streptococcus                 
+11957.1.1_17         LLNETGELFEPSMNESR                   genus           Streptococcus                 
+10212.1.1_17         TGDTATIETPVGSYDVK                   genus           Streptococcus                 
+9078.1.1_17          VTAPSVNFDETTGDYSR                   genus           Streptococcus                 
+10270.1.1_11         YIDIPLNEAAR                         genus           Streptococcus                 
+12879.1.1_15         EAGIEFDQAYTSVLK                     genus           Streptococcus                 
+13043.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+11434.1.1_10         YEAEELVPFR                          genus           Streptococcus                 
+8517.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+4552.1.1_10          VLEVNADAER                          genus           Streptococcus                 
+8722.1.1_12          REDGEIGLLEVK                        genus           Streptococcus                 
+3811.1.1_11          LREVVEAPTDR                         genus           Streptococcus                 
+5678.1.1_10          AGNVQAIIGK                          genus           Streptococcus                 
+6592.1.1_11          TVAAVQEDLPK                         genus           Streptococcus                 
+6647.1.1_13          SGLGSGFSTVQEK                       genus           Streptococcus                 
+7484.1.1_15          EAHYLANLYGSNAPK                     genus           Streptococcus                 
+10028.1.1_17         VATATTASVLDIANSDK                   genus           Streptococcus                 
+7468.1.1_10          AIITLTADSK                          genus           Streptococcus                 
+4638.1.1_16          SVKGDGPVNYQGTEIK                    genus           Streptococcus                 
+9686.1.1_15          KDYLVGDSLDLSEGR                     genus           Streptococcus                 
+12015.1.1_14         DYLVGDSLDLSEGR                      genus           Streptococcus                 
+8547.1.1_11          ELVDGAPALVK                         genus           Streptococcus                 
+4688.1.1_13          YADEYEGDAALKR                       genus           Streptococcus                 
+7011.1.1_14          TPIETDPKLDTLAK                      genus           Streptococcus                 
+8599.1.1_16          SEVNMGLSSAGVAVQR                    genus           Streptococcus                 
+9988.1.1_17          ITQHRPLPVEVLELDPK                   genus           Streptococcus                 
+13108.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+6688.1.1_15          YSASMGADVLDENGR                     genus           Streptococcus                 
+10707.1.1_21         LVPMQPGDVPVTYADTSDLER               genus           Streptococcus                 
+9085.1.1_12          IEDQLGEVAEYR                        genus           Streptococcus                 
+7885.1.1_11          VGEYISEAMEK                         genus           Streptococcus                 
+7016.1.1_19          ALEEIESGNVTIHQDPEGK                 genus           Streptococcus                 
+9278.1.1_12          VDLSPEELATAK                        genus           Streptococcus                 
+12735.1.1_17         VVSWYDNEMSYTAQLVR                   genus           Streptococcus                 
+8802.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+8562.1.1_14          GVYLNEDGSVNLSK                      genus           Streptococcus                 
+8824.1.1_10          WNDILDENGK                          genus           Streptococcus                 
+11503.1.1_13         GLIFQTTDEEALR                       genus           Streptococcus                 
+11368.1.1_13         DTSYIALASNAVR                       genus           Streptococcus                 
+5310.1.1_11          GAGISENYTVR                         genus           Streptococcus                 
+11448.1.1_12         DVMLLDLQATEK                        genus           Streptococcus                 
+8288.1.1_16          EVINQVVEVGAPVTHK                    genus           Streptococcus                 
+8255.1.1_13          VQITDEAVETAVK                       genus           Streptococcus                 
+6687.1.1_30          DNSTDEKTKENGGEITFDSASTEVPEQVKK      genus           Streptococcus                 
+8548.1.1_20          NAEVLADENQAGPVGIANPK                genus           Streptococcus                 
+6553.1.1_22          RLPSSVNQPKDYASIDAAPEER              genus           Streptococcus                 
+10232.1.1_15         IMVVDDEVVNNDIEK                     genus           Streptococcus                 
+10409.1.1_15         ELDAVGFNYSEDNYK                     genus           Streptococcus                 
+9836.1.1_25          DLGTQKEQTIVIQSNSGLTDEEIDR           genus           Streptococcus                 
+4898.1.1_11          NTVSAEIAQAK                         genus           Streptococcus                 
+4839.1.1_14          ADSVEVQDYDGNSR                      genus           Streptococcus                 
+8422.1.1_15          GNALMGIGIGTGDER                     genus           Streptococcus                 
+4503.1.1_14          EGFVEANAQSGTAR                      genus           Haemophilus                   
+4730.1.1_16          YINENVTDQQIENSKK                    genus           Streptococcus                 
+3979.1.1_11          LISYNNQPANR                         genus           Streptococcus                 
+8298.1.1_13          FAQAGANIVLNSR                       genus           Streptococcus                 
+6556.1.1_19          SVDNLSVGFHEDHGVGAPK                 genus           Streptococcus                 
+7834.1.1_10          DNYENTVFER                          genus           Streptococcus                 
+3932.1.1_11          ITELDASQTAR                         genus           Streptococcus                 
+4285.1.1_13          AAIVTDTGGVDDK                       genus           Streptococcus                 
+4118.1.1_13          AAIVTDTGGVDDK                       genus           Streptococcus                 
+7866.1.1_15          AADGQTVTGGSILYR                     genus           Streptococcus                 
+7294.1.1_12          VEIPTQTVQVEK                        genus           Streptococcus                 
+9544.1.1_14          DKGTEAVVLTALPK                      genus           Streptococcus                 
+8201.1.1_12          EITDQDVENVVK                        genus           Streptococcus                 
+10532.1.1_17         AAEELALISGQKPLITK                   genus           Streptococcus                 
+9059.1.1_12          SIVIGADAAGLR                        genus           Streptococcus                 
+4628.1.1_14          HEETGALAAVMQAK                      genus           Streptococcus                 
+9355.1.1_18          LRAEYDFTDAYNGGNSLK                  genus           Streptococcus                 
+12580.1.1_16         SNETVEFEGETYPLIR                    genus           Streptococcus                 
+4647.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+13185.1.1_18         AVGDALDLSHALAFTSPK                  genus           Streptococcus                 
+9195.1.1_12          QALAEKLDVDAR                        genus           Streptococcus                 
+3288.1.1_13          IVTAAEAEAEKDR                       genus           Streptococcus                 
+12835.1.1_14         SFIAPALNEVEIDK                      genus           Streptococcus                 
+9179.1.1_11          AEEPIEDNYFR                         genus           Streptococcus                 
+7374.1.1_10          AIITLTADSK                          genus           Streptococcus                 
+9452.1.1_11          LSEELSEDVLK                         genus           Streptococcus                 
+5506.1.1_16          SNFYSVSTSADGKEVK                    genus           Streptococcus                 
+3983.1.1_30          VADAENKPGQATADSQAEQPAQEAQASSVK      genus           Streptococcus                 
+13086.1.1_15         LEPTQASAFGDWDLR                     genus           Streptococcus                 
+10067.1.1_22         VLSNEEEPELSDEDLVGSTSAK              genus           Streptococcus                 
+9641.1.1_14          DKGTEAVVLTALPK                      genus           Streptococcus                 
+8519.1.1_11          NAQALLNEYGR                         genus           Streptococcus                 
+12352.1.1_21         LVPMQPGDVPVTYADTSDLER               genus           Streptococcus                 
+6598.1.1_11          QDADGSFPIAR                         genus           Streptococcus                 
+11278.1.1_13         DTSYIALASNAVR                       genus           Streptococcus                 
+10738.1.1_16         DAAANDAVVLFVGTKK                    genus           Streptococcus                 
+5887.1.1_14          EDVQNGAIYVNGDR                      genus           Streptococcus                 
+3342.1.1_12          GLGAGGQPEVGR                        genus           Streptococcus                 
+9311.1.1_13          ATVPGPWDGVEQK                       genus           Streptococcus                 
+3885.1.1_10          IGALSQAEAR                          genus           Streptococcus                 
+8550.1.1_12          QAADAVAEEAVR                        genus           Streptococcus                 
+9608.1.1_17          FAEALKQDADGSFPIAR                   genus           Streptococcus                 
+7211.1.1_15          VSNESPIGQALIGKK                     genus           Streptococcus                 
+14323.1.1_11         DLLTDQVFEIK                         genus           Streptococcus                 
+8523.1.1_11          DVPADAIAIGR                         genus           Streptococcus                 
+7856.1.1_16          HALDASILGDAGQAAK                    genus           Streptococcus                 
+12731.1.1_14         GEFPGGQVIVYSLK                      genus           Streptococcus                 
+10541.1.1_13         GQDVDLSYASIVK                       genus           Streptococcus                 
+4671.1.1_12          LVGREEEVVTVK                        genus           Streptococcus                 
+11035.1.1_16         DVVAADFGQEVADKVR                    genus           Streptococcus                 
+10050.1.1_13         YSESDGLVFDPAK                       genus           Streptococcus                 
+3928.1.1_11          EAVKDVTSLTK                         genus           Streptococcus                 
+7870.1.1_11          QDNGQFTFTPR                         genus           Haemophilus                   
+11061.1.1_12         AFEANPSEELFR                        genus           Streptococcus                 
+13119.1.1_15         IAFVSGPLVDDINGK                     genus           Streptococcus                 
+10988.1.1_14         SAEEGLISIVNTNK                      genus           Streptococcus                 
+8989.1.1_17          STLSAAIMGNPNYEVTK                   genus           Streptococcus                 
+7726.1.1_15          IVLNMGVGEAVSNAK                     genus           Streptococcus                 
+6173.1.1_12          LLDDMTITANGK                        genus           Streptococcus                 
+15218.1.1_15         SVADAIAILTFTPNK                     genus           Streptococcus                 
+8603.1.1_15          ESGLLGVSANSSDMR                     genus           Streptococcus                 
+4138.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+8777.1.1_13          GSGLNVYNLGTGK                       genus           Streptococcus                 
+5675.1.1_15          VGTSSLTNEDGSLSR                     genus           Streptococcus                 
+6699.1.1_14          EVQEAYETLSDDQK                      genus           Streptococcus                 
+8829.1.1_27          EGHTGGAYSAPTANYSAPTNSVPDFSR         genus           Streptococcus                 
+8953.1.1_12          LLDDMTITANGK                        genus           Streptococcus                 
+10943.1.1_14         ELADAAVSTIEIER                      genus           Streptococcus                 
+8214.1.1_20          QVTKEAVNQVVEVGAPVTHK                genus           Streptococcus                 
+8012.1.1_12          SNISTDLQDVEK                        genus           Streptococcus                 
+10322.1.1_11         LFLEEEGLQSR                         genus           Streptococcus                 
+4133.1.1_13          EAGITATQATVSR                       genus           Streptococcus                 
+10255.1.1_14         YVEGFAEGEVVYTR                      genus           Streptococcus                 
+11093.1.1_10         DFTAEYVDIR                          genus           Streptococcus                 
+8444.1.1_31          EVINQVVEVGAPVTHKGDESGLAPTTEVKPR     genus           Streptococcus                 
+10775.1.1_14         ELADAAVSTIEIER                      genus           Streptococcus                 
+6201.1.1_13          AEGFDASEEEIQK                       genus           Streptococcus                 
+5944.1.1_12          YSLASATEESAR                        genus           Streptococcus                 
+5782.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+10534.1.1_11         VQEIIVEELGK                         genus           Streptococcus                 
+4047.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+9168.1.1_10          LSDYEIQFQR                          genus           Streptococcus                 
+3425.1.1_12          GLGAGGQPEVGR                        genus           Streptococcus                 
+10406.1.1_16         GVNLADGQDGLFNADK                    genus           Streptococcus                 
+13173.1.1_19         DGFLPLQFDNPANPEVHER                 genus           Streptococcus                 
+7482.1.1_9           VLVADELTK                           genus           Streptococcus                 
+9780.1.1_12          DSQEFMAITSAR                        genus           Streptococcus                 
+6595.1.1_16          KVYDYTKFEGEGAAVR                    genus           Streptococcus                 
+12411.1.1_16         SNETVEFEGETYPLIR                    genus           Streptococcus                 
+14074.1.1_9          IDITDLLGR                           genus           Streptococcus                 
+9706.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+7882.1.1_24          AQVQEIAETKMPDLNAANVESAMR            genus           Streptococcus                 
+6212.1.1_11          SAEILYTEEGK                         genus           Streptococcus                 
+10324.1.1_12         NSDDFDVVIPSR                        genus           Streptococcus                 
+6083.1.1_14          AAMANQTEMGVLAK                      genus           Streptococcus                 
+8207.1.1_20          QVTKEAVNQVVEVGAPVTHK                genus           Streptococcus                 
+8980.1.1_11          TEEIPFEVIKK                         genus           Streptococcus                 
+8726.1.1_13          GIQEGAANSILIK                       genus           Streptococcus                 
+14349.1.1_15         TFSFDTAAAQGAVIK                     genus           Streptococcus                 
+4511.1.1_25          TEQSEPSSTEAIASEKKEDESVTPK           genus           Streptococcus                 
+3744.1.1_11          LREVVEAPTDR                         genus           Streptococcus                 
+10706.1.1_21         LVPMQPGDVPVTYADTSDLER               genus           Streptococcus                 
+10508.1.1_15         ELDAVGFNYSEDNYK                     genus           Streptococcus                 
+13234.1.1_13         FVAVDALSFTAPK                       genus           Streptococcus                 
+5753.1.1_11          KAELVDVVAEK                         genus           Streptococcus                 
+5691.1.1_12          GTQDILPAESAK                        genus           Streptococcus                 
+9180.1.1_19          GYTPGSLFSSGQGGDQGTR                 genus           Streptococcus                 
+10476.1.1_12         LGQDVVFPGVTR                        genus           Streptococcus                 
+10992.1.1_13         QIQMNDDLIQALR                       genus           Streptococcus                 
+7508.1.1_21          WVMDHAGAGGESVNDGLMNTK               genus           Streptococcus                 
+11880.1.1_20         MYQIGDKPDNLDELLANANK                genus           Streptococcus                 
+9196.1.1_14          VIDPLSINQQGNDR                      genus           Streptococcus                 
+14340.1.1_28         AIEEEFGVTAAAPVAVAAADAADAGAAK        genus           Streptococcus                 
+9692.1.1_14          DKGTEAVVLTALPK                      genus           Streptococcus                 
+10347.1.1_13         FLLDDMTITANGK                       genus           Streptococcus                 
+7789.1.1_13          VLINDMDPSPATK                       genus           Streptococcus                 
+4621.1.1_13          TNNQDYVNHYVNR                       genus           Streptococcus                 
+10032.1.1_17         TGDTATIETPVGSYDVK                   genus           Streptococcus                 
+7125.1.1_23          VTVDKDSTVIVEGAGNPEAISHR             genus           Streptococcus                 
+7500.1.1_16          SVGPYSTVTQQPLGGK                    genus           Streptococcus                 
+4556.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+9012.1.1_21          WVMDHAGAGGESVNDGLMNTK               genus           Streptococcus                 
+5192.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+8801.1.1_15          EISNVLAVSVPKDDR                     genus           Streptococcus                 
+9312.1.1_13          VIDENEVDGVIVR                       genus           Streptococcus                 
+11835.1.1_11         QAVEAAFEGVK                         genus           Streptococcus                 
+8197.1.1_19          LMAQHQTEEPTVAQMEELK                 genus           Streptococcus                 
+5474.1.1_11          ITDATFEQETK                         genus           Streptococcus                 
+3696.1.1_13          VPFTGASAQTGSK                       genus           Streptococcus                 
+11079.1.1_13         QIQMNDDLIQALR                       genus           Streptococcus                 
+7813.1.1_16          KPVITESSMAQLEAGK                    genus           Streptococcus                 
+13454.1.1_14         GIEEQLGEIVIAPR                      genus           Streptococcus                 
+6195.1.1_11          GAVEGAVEGLK                         genus           Streptococcus                 
+6691.1.1_11          VTSDDALALGR                         genus           Streptococcus                 
+5993.1.1_10          VLQTTATSWK                          genus           Streptococcus                 
+5672.1.1_10          QTAPLAEQLK                          genus           Streptococcus                 
+5928.1.1_9           IEIQVADAK                           genus           Streptococcus                 
+8624.1.1_11          DVPADAIAIGR                         genus           Streptococcus                 
+7028.1.1_23          VTVDKDSTVIVEGAGNPEAISHR             genus           Streptococcus                 
+10155.1.1_14         VVFTGSTVEEAIQK                      genus           Streptococcus                 
+4003.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+7724.1.1_12          TLNGDLVAPSVK                        genus           Streptococcus                 
+11237.1.1_13         SIIFGSLAEGETK                       genus           Streptococcus                 
+8539.1.1_11          DTDTVTYLVSK                         genus           Streptococcus                 
+8319.1.1_14          VQVDYAGSFGDAAK                      genus           Streptococcus                 
+3271.1.1_13          IVTAAEAEAEKDR                       genus           Streptococcus                 
+10644.1.1_11         FEANPSEELFR                         genus           Streptococcus                 
+8467.1.1_12          YSYDDGYALAER                        genus           Streptococcus                 
+11171.1.1_14         EFEVEVENDGIIAK                      genus           Streptococcus                 
+6476.1.1_17          VEQIGTPQEVYKNPVNK                   genus           Streptococcus                 
+5290.1.1_12          TIGVAQGSITQR                        genus           Streptococcus                 
+6534.1.1_10          LIEAGANTFR                          genus           Streptococcus                 
+8249.1.1_12          ILAAAGISEDVR                        genus           Streptococcus                 
+12727.1.1_17         IFNIGLDEYANDATDAK                   genus           Streptococcus                 
+8918.1.1_27          EGHTGGAYSAPTANYSAPTNSVPDFSR         genus           Streptococcus                 
+9597.1.1_18          AHVTDITLDKPITAQDWR                  genus           Streptococcus                 
+3831.1.1_10          LNEDGTFAEK                          genus           Streptococcus                 
+12004.1.1_13         FMLDDMSITANGK                       genus           Streptococcus                 
+10908.1.1_14         QFDVEVVSDTVSER                      genus           Streptococcus                 
+5986.1.1_16          NRTPIETDPKLDTLAK                    genus           Streptococcus                 
+6875.1.1_13          NKVVYNFASPEVK                       genus           Streptococcus                 
+12472.1.1_16         IGVISVVEGGDEALAK                    genus           Streptococcus                 
+9405.1.1_13          VIDENEVDGVIVR                       genus           Streptococcus                 
+5487.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+9623.1.1_18          TVETDGYNAIQVGFDDKR                  genus           Streptococcus                 
+8573.1.1_10          IGEIGAAVLK                          genus           Streptococcus                 
+7911.1.1_12          SNISTDLQDVEK                        genus           Streptococcus                 
+6216.1.1_14          ALQESINSSSATIR                      genus           Streptococcus                 
+8531.1.1_12          VDLSAEEEDIER                        genus           Streptococcus                 
+9800.1.1_11          MNEAWLDQDYK                         genus           Streptococcus                 
+5700.1.1_11          VGVPETAQITK                         genus           Streptococcus                 
+11030.1.1_17         NMTSLDFAEITTSTPEK                   genus           Streptococcus                 
+8368.1.1_31          EVINQVVEVGAPVTHKGDESGLAPTTEVKPR     genus           Streptococcus                 
+12143.1.1_15         SEAATTTFDWGMTVK                     genus           Streptococcus                 
+8257.1.1_16          SGYPNEGQPAFITGGK                    genus           Streptococcus                 
+6972.1.1_19          VLLKPAVEGSGVAAGGAVR                 genus           Streptococcus                 
+5884.1.1_12          QVAGVHTAEQIK                        genus           Streptococcus                 
+8742.1.1_15          EISNVLAVSVPKDDR                     genus           Streptococcus                 
+14717.1.1_23         TEGADIPIIGGMVAAWADTPSAR             genus           Streptococcus                 
+3345.1.1_13          IVTAAEAEAEKDR                       genus           Streptococcus                 
+12742.1.1_14         ETEVIPVLLGNPEK                      genus           Streptococcus                 
+3419.1.1_12          KGAGISENYTVR                        genus           Streptococcus                 
+4899.1.1_12          VTYADADKVEVR                        genus           Streptococcus                 
+10716.1.1_15         AFISNLYSGSVTDEK                     genus           Streptococcus                 
+8569.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+8114.1.1_19          VGDGMQDNLSGVENPVSVK                 genus           Streptococcus                 
+7831.1.1_12          NAQEAEAVVQFK                        genus           Streptococcus                 
+7285.1.1_20          FQLHGQGQLVGVDNGEQASR                genus           Streptococcus                 
+9289.1.1_11          GVGSIEDVIAK                         genus           Streptococcus                 
+8212.1.1_12          LLPSEINGAEVR                        genus           Streptococcus                 
+13053.1.1_15         IAFVSGPLVDDINGK                     genus           Streptococcus                 
+4080.1.1_15          GDESGLAPTTEVKPR                     genus           Streptococcus                 
+6881.1.1_19          VLLKPAVEGSGVAAGGAVR                 genus           Streptococcus                 
+3951.1.1_10          VLVEQGVNAR                          genus           Streptococcus                 
+6879.1.1_12          AITDATFEQETK                        genus           Streptococcus                 
+10072.1.1_18         ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+8712.1.1_11          VVYNFASPEVK                         genus           Streptococcus                 
+10208.1.1_12         ALDAELAEIDAK                        genus           Streptococcus                 
+9326.1.1_15          MITMGAQLVGDELAK                     genus           Streptococcus                 
+9717.1.1_14          VSNESPIGQALIGK                      genus           Streptococcus                 
+7968.1.1_12          AVELITSTATVK                        genus           Streptococcus                 
+6019.1.1_13          RKEPEEIFEEAAK                       genus           Streptococcus                 
+15266.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+5532.1.1_12          MLDDMSITANGK                        genus           Streptococcus                 
+5648.1.1_15          TGEIAAIMGPNGTGK                     genus           Streptococcus                 
+7224.1.1_17          VADHFAQIAQDEQDAER                   genus           Streptococcus                 
+9166.1.1_17          VTAPSVNFDETTGDYSR                   genus           Streptococcus                 
+6054.1.1_12          QKVEVDNADIER                        genus           Streptococcus                 
+5471.1.1_14          IFTAINPDGSKEEK                      genus           Streptococcus                 
+9866.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+7202.1.1_11          IQAIINTVGTK                         genus           Streptococcus                 
+13231.1.1_19         DGFLPLQFDNPANPEVHER                 genus           Streptococcus                 
+3265.1.1_13          KQAADAVAEEAVR                       genus           Streptococcus                 
+8886.1.1_13          VVESQAELYSLEK                       genus           Streptococcus                 
+6056.1.1_11          VLALAPDNGER                         genus           Streptococcus                 
+8239.1.1_11          GLTVEQDTVLR                         genus           Streptococcus                 
+10367.1.1_12         GYITGDQYILER                        genus           Streptococcus                 
+9639.1.1_15          SGFVSGAATEPILAK                     genus           Streptococcus                 
+12966.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+9701.1.1_18          VDKIVLNMGVGEAVSNAK                  genus           Streptococcus                 
+10236.1.1_15         GETGEGEYVVPFTAR                     genus           Streptococcus                 
+9435.1.1_14          MNADDTVTIYDVAR                      genus           Streptococcus                 
+11317.1.1_16         SLNNGIYLADDADTLR                    genus           Streptococcus                 
+6100.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+4358.1.1_11          TTDSVVSPVER                         genus           Streptococcus                 
+6761.1.1_15          ESGLLGVSANSSDMR                     genus           Streptococcus                 
+12808.1.1_26         QVQLQPGDTVIFSSSPIPGNTTSVNK          genus           Streptococcus                 
+9284.1.1_14          VIDPLSINQQGNDR                      genus           Streptococcus                 
+10071.1.1_18         DLDEGMDEDVIHVDDLEK                  genus           Streptococcus                 
+10615.1.1_21         LVPMQPGDVPVTYADTSDLER               genus           Streptococcus                 
+7843.1.1_14          VTASVNDVAESVER                      genus           Streptococcus                 
+8220.1.1_14          TLIAGNIATAEGAR                      genus           Streptococcus                 
+11164.1.1_15         QPDLDAHLVGEGIAR                     genus           Streptococcus                 
+12782.1.1_12         SIVTQVVESGFK                        genus           Streptococcus                 
+13932.1.1_19         TSPLFATMGIALPGGIAAK                 genus           Streptococcus                 
+8506.1.1_15          YSASMGADVLDENGR                     genus           Streptococcus                 
+7689.1.1_23          NEIASENYDEATDKYTSTTALQK             genus           Streptococcus                 
+8410.1.1_13          LVINTAEGTYVSR                       genus           Streptococcus                 
+10631.1.1_13         GQDVDLSYASIVK                       genus           Streptococcus                 
+6235.1.1_13          SNFYSVSTSADGK                       genus           Streptococcus                 
+12948.1.1_13         GATYYGIAVALAR                       genus           Streptococcus                 
+8646.1.1_12          QAADAVAEEAVR                        genus           Streptococcus                 
+10442.1.1_13         FLLDDMTITANGK                       genus           Streptococcus                 
+11155.1.1_17         VLNSAVANAENNFGLDK                   genus           Streptococcus                 
+7207.1.1_9           VEGIDLEAR                           genus           Streptococcus                 
+10599.1.1_20         IANIYPLDSNGNPQDAQLER                genus           Streptococcus                 
+9578.1.1_10          LGDLYGVDVR                          genus           Streptococcus                 
+5614.1.1_21          WVMDHAGAGGESVNDGLMNTK               genus           Streptococcus                 
+7987.1.1_10          FVTNTDYLAR                          genus           Streptococcus                 
+6630.1.1_12          MLDDMSITANGK                        genus           Streptococcus                 
+9275.1.1_14          EANINPNEFAIQEK                      genus           Streptococcus                 
+7958.1.1_21          HADQDAIYSIDVGNTTQTSTR               genus           Streptococcus                 
+13092.1.1_15         DAAANDAVVLFVGTK                     genus           Streptococcus                 
+11193.1.1_12         AVFVLDTDNTIR                        genus           Streptococcus                 
+9816.1.1_24          AQVQEIAETKMPDLNAANVESAMR            genus           Streptococcus                 
+9375.1.1_11          GVGSIEDVIAK                         genus           Streptococcus                 
+8246.1.1_16          TTFTIHTVESAPAEVK                    genus           Streptococcus                 
+6558.1.1_10          TPFNQLASTK                          genus           Streptococcus                 
+10112.1.1_17         VATATTASVLDIANSDK                   genus           Streptococcus                 
+7371.1.1_20          FQLHGQGQLVGVDNGEQASR                genus           Streptococcus                 
+7832.1.1_12          TSYAEGEDLDLR                        genus           Streptococcus                 
+7015.1.1_17          KNQTTQVANFVISNNSK                   genus           Streptococcus                 
+9685.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+7275.1.1_12          VLDEDDQEVELR                        genus           Streptococcus                 
+6693.1.1_11          QDADGSFPIAR                         genus           Streptococcus                 
+5978.1.1_10          QTYVLVDSSK                          genus           Streptococcus                 
+9455.1.1_14          TVDLDNEQAVAFTK                      genus           Streptococcus                 
+6912.1.1_15          AHEGQVVEMTLENGR                     genus           Streptococcus                 
+9504.1.1_18          AHVTDITLDKPITAQDWR                  genus           Streptococcus                 
+5299.1.1_14          SQIETTTSEFDREK                      genus           Streptococcus                 
+4641.1.1_15          STEHMEELNDQQIVR                     genus           Streptococcus                 
+5528.1.1_21          WVMDHAGAGGESVNDGLMNTK               genus           Streptococcus                 
+11764.1.1_15         MITMGAQLVGDELAK                     genus           Streptococcus                 
+6357.1.1_10          DLDELEAENK                          genus           Streptococcus                 
+10618.1.1_16         FDSILTDNGATVVESK                    genus           Streptococcus                 
+8859.1.1_20          IVNTDDKDHELVAEYQIVER                genus           Streptococcus                 
+7704.1.1_10          LGPQDLTYGK                          genus           Streptococcus                 
+4683.1.1_13          TREDAVIYEAHVR                       genus           Streptococcus                 
+4998.1.1_12          VINTAEGTYVSR                        genus           Streptococcus                 
+8434.1.1_12          EANAFAGYTEVR                        genus           Streptococcus                 
+4660.1.1_14          TGSTFDTSYRPEEK                      genus           Streptococcus                 
+7217.1.1_10          AGEVITELSR                          genus           Streptococcus                 
+14371.1.1_14         QFDVEVVSDTVSER                      genus           Streptococcus                 
+11937.1.1_13         AMADVFLQDPDFR                       genus           Streptococcus                 
+3366.1.1_14          VDGMEAHGNSQIVR                      genus           Streptococcus                 
+5176.1.1_12          QAADAVAEEAVR                        genus           Streptococcus                 
+7875.1.1_14          FGGSSLASASQLEK                      genus           Streptococcus                 
+8985.1.1_12          IEDQLGEVAEYR                        genus           Streptococcus                 
+8384.1.1_16          EVINQVVEVGAPVTHK                    genus           Streptococcus                 
+6779.1.1_12          AITDATFEQETK                        genus           Streptococcus                 
+10627.1.1_17         VYSGVLQSGSYVLNTSK                   genus           Streptococcus                 
+14475.1.1_11         VGEVLDVLVLR                         genus           Streptococcus                 
+9667.1.1_15          AEDATNLDEIYVNSR                     genus           Streptococcus                 
+12220.1.1_13         LVANMLEVAGVDR                       genus           Streptococcus                 
+7471.1.1_20          FQLHGQGQLVGVDNGEQASR                genus           Streptococcus                 
+7564.1.1_18          VDKIVLNMGVGEAVSNAK                  genus           Streptococcus                 
+6675.1.1_14          RQAVTNPDTVISIK                      genus           Streptococcus                 
+6627.1.1_10          LIEAGANTFR                          genus           Streptococcus                 
+14409.1.1_15         TFSFDTAAAQGAVIK                     genus           Streptococcus                 
+8602.1.1_10          ATLENVQFVK                          genus           Streptococcus                 
+10436.1.1_15         VSQPVYFDTGLGDGR                     genus           Streptococcus                 
+7982.1.1_10          LGLSLTGTGK                          genus           Streptococcus                 
+11881.1.1_15         IQEISASTPLILETK                     genus           Streptococcus                 
+8716.1.1_15          EISNVLAVSVPKDDR                     genus           Streptococcus                 
+8148.1.1_11          GLTVEQDTVLR                         genus           Streptococcus                 
+7218.1.1_12          SNIYDSANELSR                        genus           Streptococcus                 
+14791.1.1_21         VATGQLFTDALVEDSNIVQSK               genus           Streptococcus                 
+13044.1.1_13         FLLDDMTITANGK                       genus           Streptococcus                 
+9465.1.1_17          FAEALKQDADGSFPIAR                   genus           Streptococcus                 
+9960.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+3994.1.1_15          GDESGLAPTTEVKPR                     genus           Streptococcus                 
+9069.1.1_14          TVDLDNEQAVAFTK                      genus           Streptococcus                 
+7372.1.1_11          QQAEADDVEIR                         genus           Streptococcus                 
+8427.1.1_12          LVGDSLDLSEGR                        genus           Streptococcus                 
+5876.1.1_10          VAAEMGVGIK                          genus           Streptococcus                 
+8054.1.1_12          VLEESPSIAIGK                        genus           Streptococcus                 
+9930.1.1_11          ISFLINNTAGK                         genus           Streptococcus                 
+6594.1.1_12          SLEEAQALDATR                        genus           Streptococcus                 
+7643.1.1_13          SIAKFDEALTGAK                       genus           Streptococcus                 
+11003.1.1_21         AEDVSQDMYGSIDLVTDKIER               genus           Streptococcus                 
+7195.1.1_10          ILDLNEEEGR                          genus           Streptococcus                 
+6692.1.1_11          TVAAVQEDLPK                         genus           Streptococcus                 
+5706.1.1_15          NGTASQTFLTENQSK                     genus           Streptococcus                 
+13442.1.1_15         VGDDFFVTNTDYLAR                     genus           Streptococcus                 
+8109.1.1_16          MYEKLDTESVNIPMAK                    genus           Streptococcus                 
+8103.1.1_16          EVINQVVEVGAPVTHK                    genus           Streptococcus                 
+8983.1.1_12          NEVDQAIFATEK                        genus           Streptococcus                 
+9788.1.1_15          ETSTVVVFTNGDAIK                     genus           Streptococcus                 
+3312.1.1_12          GVISSVTDDKGR                        genus           Streptococcus                 
+9530.1.1_18          AHVTDITLDKPITAQDWR                  genus           Streptococcus                 
+9033.1.1_18          DATVVAHEIKGELTYEDK                  genus           Streptococcus                 
+9255.1.1_16          NQTTQVANFVISNNSK                    genus           Streptococcus                 
+13794.1.1_16         NSEMGDIAFPAFSLAK                    genus           Streptococcus                 
+8193.1.1_16          EVINQVVEVGAPVTHK                    genus           Streptococcus                 
+7546.1.1_11          AVELLQEAGAK                         genus           Streptococcus                 
+7340.1.1_12          VLSQAGMTLETR                        genus           Streptococcus                 
+5570.1.1_11          EVVGQTAAYVR                         genus           Streptococcus                 
+10447.1.1_15         MITMGAQLVGDELAK                     genus           Streptococcus                 
+14648.1.1_23         TEGADIPIIGGMVAAWADTPSAR             genus           Streptococcus                 
+10311.1.1_15         SEAATTTFDWGMTVK                     genus           Streptococcus                 
+7737.1.1_12          TSYAEGEDLDLR                        genus           Streptococcus                 
+8982.1.1_21          WVMDHAGAGGESVNDGLMNTK               genus           Streptococcus                 
+6478.1.1_15          ELASEAGVNPNTIQR                     genus           Streptococcus                 
+12204.1.1_15         VILEEGNEFAALSAR                     genus           Streptococcus                 
+7861.1.1_21          HADQDAIYSIDVGNTTQTSTR               genus           Streptococcus                 
+12499.1.1_16         SNETVEFEGETYPLIR                    genus           Streptococcus                 
+4022.1.1_11          ISESDVQEATK                         genus           Streptococcus                 
+4259.1.1_10          QNVEGVEVTR                          genus           Streptococcus                 
+10958.1.1_15         KQLDEGLAGDNVGVL                     genus           Streptococcus                 
+8647.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+6607.1.1_10          VGSSSEYILR                          genus           Streptococcus                 
+7597.1.1_16          SVGPYSTVTQQPLGGK                    genus           Streptococcus                 
+9446.1.1_18          NPSSAQWPDGTDFTATGK                  genus           Streptococcus                 
+9409.1.1_20          VKEVAEDAKDAVEGAVEGVK                genus           Streptococcus                 
+4374.1.1_10          IGTPGDLMGR                          genus           Streptococcus                 
+9678.1.1_18          TVETDGYNAIQVGFDDKR                  genus           Streptococcus                 
+4018.1.1_11          EAVKDVTSLTK                         genus           Streptococcus                 
+7124.1.1_12          SNIYDSANELSR                        genus           Streptococcus                 
+9364.1.1_12          VDLSPEELATAK                        genus           Streptococcus                 
+6601.1.1_10          SALEEELSNR                          genus           Streptococcus                 
+3919.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+8491.1.1_17          GIVRPVNIPLNDAETQK                   genus           Streptococcus                 
+6373.1.1_11          VGYGSTVIPNR                         genus           Streptococcus                 
+8833.1.1_15          EISNVLAVSVPKDDR                     genus           Streptococcus                 
+10405.1.1_14         LLTGSSSTTIYLPK                      genus           Streptococcus                 
+7014.1.1_23          VTVDKDSTVIVEGAGNPEAISHR             genus           Streptococcus                 
+4892.1.1_11          VGEYISEAMEK                         genus           Streptococcus                 
+7215.1.1_14          VDATGDITEEAPYK                      genus           Streptococcus                 
+9353.1.1_17          VTAPSVNFDETTGDYSR                   genus           Streptococcus                 
+11302.1.1_15         TFSFDTAAAQGAVIK                     genus           Streptococcus                 
+9906.1.1_12          EKYEAEELVPFR                        genus           Streptococcus                 
+8304.1.1_12          LQEIIEENGQLR                        genus           Streptococcus                 
+8900.1.1_13          GIQEGAANSILIK                       genus           Streptococcus                 
+7606.1.1_13          VFSYEPQPAGTVR                       genus           Streptococcus                 
+9739.1.1_10          NVPALYSEIR                          genus           Streptococcus                 
+8984.1.1_13          ITAYDTTPYLSAK                       genus           Streptococcus                 
+7464.1.1_18          VDKIVLNMGVGEAVSNAK                  genus           Streptococcus                 
+4744.1.1_14          ADSVEVQDYDGNSR                      genus           Streptococcus                 
+2964.1.1_11          MDVDENPNTAR                         genus           Streptococcus                 
+6873.1.1_23          TKENGGEITFDSASTEVPEQVKK             genus           Streptococcus                 
+12146.1.1_12         YPEFAQLEGQLK                        genus           Streptococcus                 
+9307.1.1_16          NQTTQVANFVISNNSK                    genus           Streptococcus                 
+7386.1.1_32          TEETPKAELQPEAPKTVETETPATDKVASLPK    genus           Streptococcus                 
+5589.1.1_26          TEETPKAELQPEAPKTVETETPATDK          genus           Streptococcus                 
+9000.1.1_17          DVEGVNNNGAEAVGLYR                   genus           Streptococcus                 
+7422.1.1_16          VAAVVLSNEESSEYAK                    genus           Streptococcus                 
+3828.1.1_15          VALDTANGAASTSAR                     genus           Streptococcus                 
+15174.1.1_19         TADQAGMIIPVVISVYEDK                 genus           Streptococcus                 
+12810.1.1_17         IFNIGLDEYANDATDAK                   genus           Streptococcus                 
+9186.1.1_18          RNMTSLDFAEITTSTPEK                  genus           Streptococcus                 
+5818.1.1_13          KTSYAEGEDLDLR                       genus           Streptococcus                 
+9721.1.1_19          EQTIVIQSNSGLTDEEIDR                 genus           Streptococcus                 
+8167.1.1_12          MLDDMSITANGK                        genus           Streptococcus                 
+8367.1.1_19          TREDVESAVSKLESSTSEK                 genus           Streptococcus                 
+11476.1.1_12         ISIVEDVEGVTR                        genus           Streptococcus                 
+13863.1.1_19         TSPLFATMGIALPGGIAAK                 genus           Streptococcus                 
+7113.1.1_15          LAQTGQMPDASFQAK                     genus           Streptococcus                 
+13295.1.1_20         ITTAIEAGTAPDVLFDAPGR                genus           Streptococcus                 
+7808.1.1_13          NGELNVIGVSNAK                       genus           Streptococcus                 
+15214.1.1_16         LSLGLFAPDTITSLGK                    genus           Streptococcus                 
+5610.1.1_19          LMAQHQTEEPTVAQMEELK                 genus           Streptococcus                 
+9538.1.1_18          NPSSAQWPDGTDFTATGK                  genus           Streptococcus                 
+10901.1.1_14         SAEEGLISIVNTNK                      genus           Streptococcus                 
+4270.1.1_11          TTDSVVSPVER                         genus           Streptococcus                 
+11471.1.1_17         ADVEAALANNDLAELKN                   genus           Streptococcus                 
+7110.1.1_12          ANYNALREELAK                        genus           Streptococcus                 
+13900.1.1_19         TSPLFATMGIALPGGIAAK                 genus           Streptococcus                 
+4069.1.1_11          QQAEADDVEIR                         genus           Streptococcus                 
+10326.1.1_12         ELAVQSQEELFR                        genus           Streptococcus                 
+8560.1.1_12          YSYDDGYALAER                        genus           Streptococcus                 
+6882.1.1_12          TNYQTDPIAVAR                        genus           Streptococcus                 
+8893.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+6906.1.1_10          FLEEEGLQSR                          genus           Streptococcus                 
+7088.1.1_14          EAAIHVSNVQVLDK                      genus           Streptococcus                 
+10358.1.1_15         AQAALQAGDLETFGR                     genus           Streptococcus                 
+9677.1.1_13          FMLDDMSITANGK                       genus           Streptococcus                 
+8352.1.1_16          SGYPNEGQPAFITGGK                    genus           Streptococcus                 
+8390.1.1_17          TTPFEIKDGIEANDDTR                   genus           Streptococcus                 
+10374.1.1_12         LGQDVVFPGVTR                        genus           Streptococcus                 
+10182.1.1_18         GAQLAVDEINAAGGIDGK                  genus           Streptococcus                 
+8376.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+10156.1.1_10         TVLALDPYAK                          genus           Streptococcus                 
+9963.1.1_13          YSESDGLVFDPAK                       genus           Streptococcus                 
+11911.1.1_10         TEEIPFEVIK                          genus           Streptococcus                 
+10724.1.1_11         VQEAAEILGLK                         genus           Streptococcus                 
+4807.1.1_11          TNLANISQTGR                         genus           Streptococcus                 
+15352.1.1_16         QLDEGLAGDNVGVLLR                    genus           Streptococcus                 
+10715.1.1_17         VYSGVLQSGSYVLNTSK                   genus           Streptococcus                 
+2993.1.1_16          ENVIAVHAVNKQPSSR                    genus           Streptococcus                 
+15220.1.1_17         VPTPTGSVTELVAVLEK                   genus           Streptococcus                 
+9882.1.1_11          VVLEAAVFNGK                         genus           Streptococcus                 
+11200.1.1_14         AVVELAGVADITSK                      genus           Streptococcus                 
+6071.1.1_13          NLEVTYAGEGQGR                       genus           Streptococcus                 
+10437.1.1_17         AAEELALISGQKPLITK                   genus           Streptococcus                 
+11301.1.1_19         ALNASDLGITPANDGSVIR                 genus           Streptococcus                 
+6399.1.1_17          VEQIGTPQEVYKNPVNK                   genus           Streptococcus                 
+10959.1.1_12         VAELIVTGFNQR                        genus           Streptococcus                 
+9224.1.1_13          ATVPGPWDGVEQK                       genus           Streptococcus                 
+10181.1.1_17         AGVPLISPSATQDGLTK                   genus           Streptococcus                 
+11941.1.1_16         LDAALQASQDELSVIR                    genus           Streptococcus                 
+9716.1.1_18          TVETDGYNAIQVGFDDKR                  genus           Streptococcus                 
+6016.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+3072.1.1_16          ENVIAVHAVNKQPSSR                    genus           Streptococcus                 
+12391.1.1_15         VTIQNLEVVQVVPEK                     genus           Streptococcus                 
+9349.1.1_14          MNADDTVTIYDVAR                      genus           Streptococcus                 
+6421.1.1_11          TVAAVQEDLPK                         genus           Streptococcus                 
+11874.1.1_16         YASLDDSVIPDAENLK                    genus           Streptococcus                 
+7041.1.1_10          LLVTQAAISK                          genus           Streptococcus                 
+3424.1.1_13          KQAADAVAEEAVR                       genus           Streptococcus                 
+6441.1.1_12          VNFDETTGDYSR                        genus           Streptococcus                 
+9932.1.1_17          VATATTASVLDIANSDK                   genus           Streptococcus                 
+4652.1.1_14          HEETGALAAVMQAK                      genus           Streptococcus                 
+10446.1.1_13         GQDVDLSYASIVK                       genus           Streptococcus                 
+11331.1.1_16         EAVPEPVQFDEIDASR                    genus           Streptococcus                 
+3275.1.1_11          VMTDDQTYETR                         genus           Streptococcus                 
+10859.1.1_14         ELADAAVSTIEIER                      genus           Streptococcus                 
+5961.1.1_12          QVAGVHTAEQIK                        genus           Streptococcus                 
+7820.1.1_15          IVLNMGVGEAVSNAK                     genus           Streptococcus                 
+7959.1.1_15          AADGQTVTGGSILYR                     genus           Streptococcus                 
+7729.1.1_14          VTASVNDVAESVER                      genus           Streptococcus                 
+10620.1.1_12         GTEAVVLTALPK                        genus           Streptococcus                 
+9404.1.1_13          ATVPGPWDGVEQK                       genus           Streptococcus                 
+13139.1.1_13         IEDIDAVVAEAVK                       genus           Streptococcus                 
+7407.1.1_12          DAAQAALDDLKK                        genus           Streptococcus                 
+8998.1.1_12          LDTESVNIPMAK                        genus           Streptococcus                 
+7540.1.1_10          SIVSTDLVTK                          genus           Streptococcus                 
+12369.1.1_14         DATVEWIDGNLGAK                      genus           Streptococcus                 
+9268.1.1_18          LRAEYDFTDAYNGGNSLK                  genus           Streptococcus                 
+10337.1.1_11         AEGFLFDESGK                         genus           Streptococcus                 
+12378.1.1_15         VTIQNLEVVQVVPEK                     genus           Streptococcus                 
+9642.1.1_10          NVPALYSEIR                          genus           Streptococcus                 
+7568.1.1_10          AIITLTADSK                          genus           Streptococcus                 
+10497.1.1_14         LLTGSSSTTIYLPK                      genus           Streptococcus                 
+6678.1.1_14          NETVDGYQLGSDGK                      genus           Streptococcus                 
+11606.1.1_10         YEAEELVPFR                          genus           Streptococcus                 
+10591.1.1_14         LLTGSSSTTIYLPK                      genus           Streptococcus                 
+12276.1.1_21         TEGGEGIEGMLNGTITSLSDK               genus           Streptococcus                 
+3376.1.1_14          AAGASAQVLGSEGK                      genus           Streptococcus                 
+9730.1.1_11          EMSIIALAQGR                         genus           Streptococcus                 
+9672.1.1_16          EQTVGGFVLAGSAQEK                    genus           Streptococcus                 
+5745.1.1_15          TGEIAAIMGPNGTGK                     genus           Streptococcus                 
+8609.1.1_15          ANGVEIDDAAIQGVK                     genus           Streptococcus                 
+4981.1.1_11          VGEYISEAMEK                         genus           Streptococcus                 
+12395.1.1_15         ENALLLNAIASEDAK                     genus           Streptococcus                 
+10431.1.1_11         AEGFLFDESGK                         genus           Streptococcus                 
+5517.1.1_16          SNFYSVSTSADGKEVK                    genus           Streptococcus                 
+8854.1.1_13          YLEGEEITNEELK                       genus           Streptococcus                 
+9996.1.1_13          NAQFVELVNTTAK                       genus           Streptococcus                 
+8588.1.1_15          AAQLAMTGEALTAEK                     genus           Streptococcus                 
+7998.1.1_27          AKDLGTQKEQTIVIQSNSGLTDEEIDR         genus           Streptococcus                 
+8792.1.1_13          VVESQAELYSLEK                       genus           Streptococcus                 
+9612.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+6702.1.1_10          SALEEELSNR                          genus           Streptococcus                 
+5024.1.1_32          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANK    genus           Streptococcus                 
+7554.1.1_14          AGGLGIIGGGNAPK                      genus           Streptococcus                 
+7079.1.1_12          DIEDEQISVSER                        genus           Streptococcus                 
+7431.1.1_11          QAVEAAFEGVK                         genus           Streptococcus                 
+10382.1.1_11         AVTMSYEDLVK                         genus           Streptococcus                 
+6880.1.1_12          NVTAGANPIGIR                        genus           Streptococcus                 
+9282.1.1_18          RNMTSLDFAEITTSTPEK                  genus           Streptococcus                 
+8425.1.1_15          GGGPTYEAITSQPLK                     genus           Streptococcus                 
+11154.1.1_17         NMTSLDFAEITTSTPEK                   genus           Streptococcus                 
+7986.1.1_24          AQVQEIAETKMPDLNAANVESAMR            genus           Streptococcus                 
+4626.1.1_10          VEVDNADIER                          genus           Streptococcus                 
+7896.1.1_16          HALDASILGDAGQAAK                    genus           Streptococcus                 
+9630.1.1_15          AAGADFVGEDDLVAK                     genus           Streptococcus                 
+9213.1.1_16          NQTTQVANFVISNNSK                    genus           Streptococcus                 
+10490.1.1_15         EIVPISALQGNNVSR                     genus           Streptococcus                 
+7898.1.1_19          VETNGASGVGNQLTAEDIR                 genus           Streptococcus                 
+10985.1.1_17         NMTSLDFAEITTSTPEK                   genus           Streptococcus                 
+10127.1.1_18         AEDVSQDMYGSIDLVTDK                  genus           Streptococcus                 
+5099.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+4308.1.1_9           VTNTDYLAR                           genus           Streptococcus                 
+15217.1.1_17         VPTPTGSVTELVAVLEK                   genus           Streptococcus                 
+8349.1.1_15          SAQDLVQATLTGDKK                     genus           Streptococcus                 
+9542.1.1_11          LSEELSEDVLK                         genus           Streptococcus                 
+9693.1.1_14          QIAEGGPVTVTDFR                      genus           Streptococcus                 
+9421.1.1_17          FAEALKQDADGSFPIAR                   genus           Streptococcus                 
+6914.1.1_12          EVDAIKVEGDLR                        genus           Streptococcus                 
+11209.1.1_13         ISGVPVVETLENR                       genus           Streptococcus                 
+6073.1.1_13          SNFYSVSTSADGK                       genus           Streptococcus                 
+5779.1.1_11          KLEGEITELSK                         genus           Streptococcus                 
+12655.1.1_14         EITPEVFSAIQDAK                      genus           Streptococcus                 
+8536.1.1_20          NAEVLADENQAGPVGIANPK                genus           Streptococcus                 
+5495.1.1_20          AELQPEAPKTVETETPATDK                genus           Streptococcus                 
+3513.1.1_12          KGAGISENYTVR                        genus           Streptococcus                 
+9924.1.1_15          EVINQVVEVGAPVTH                     genus           Streptococcus                 
+9819.1.1_15          ALDASILGDAGQAAK                     genus           Streptococcus                 
+11790.1.1_14         ASYTAELDLSDIGK                      genus           Streptococcus                 
+6499.1.1_11          TVAAVQEDLPK                         genus           Streptococcus                 
+5308.1.1_14          LNSSVIKEDNAAIR                      genus           Streptococcus                 
+9803.1.1_14          DQTIEAIESIDEHR                      genus           Streptococcus                 
+6474.1.1_10          TPFNQLASTK                          genus           Streptococcus                 
+5602.1.1_11          IQNVEGVEVTR                         genus           Streptococcus                 
+7116.1.1_17          KNQTTQVANFVISNNSK                   genus           Streptococcus                 
+4689.1.1_19          VPGGSSSGSAAAVASGQVR                 genus           Streptococcus                 
+10523.1.1_16         FDSILTDNGATVVESK                    genus           Streptococcus                 
+14369.1.1_15         SLGLFAPDTITSLGK                     genus           Streptococcus                 
+5693.1.1_12          TTETVLDSQVTK                        genus           Streptococcus                 
+5536.1.1_10          APDTITSLGK                          genus           Streptococcus                 
+8483.1.1_20          IEEKEQTVGGFVLAGSAQEK                genus           Streptococcus                 
+9291.1.1_14          SIIDASDIDEAEDR                      genus           Streptococcus                 
+13457.1.1_15         DVLPDPLYNSQLVTR                     genus           Streptococcus                 
+8476.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+6085.1.1_17          TVETETPATDKVASLPK                   genus           Streptococcus                 
+4090.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+9088.1.1_11          AEEPIEDNYFR                         genus           Streptococcus                 
+7996.1.1_12          LINPETIGQASR                        genus           Streptococcus                 
+10041.1.1_17         VATATTASVLDIANSDK                   genus           Streptococcus                 
+9001.1.1_11          GFIPASMLDTR                         genus           Streptococcus                 
+8650.1.1_32          TGQDRSNEPTTSTSPVTTETKAEEPIEDNYFR    genus           Streptococcus                 
+5732.1.1_13          KTSYAEGEDLDLR                       genus           Streptococcus                 
+3390.1.1_15          TDATATGASPEPYEK                     genus           Streptococcus                 
+4786.1.1_9           IETPENITK                           genus           Streptococcus                 
+7877.1.1_12          AVELITSTATVK                        genus           Streptococcus                 
+8987.1.1_10          FIAYANDLAR                          genus           Streptococcus                 
+12985.1.1_12         DVMLLDLQATEK                        genus           Streptococcus                 
+9763.1.1_16          EQTVGGFVLAGSAQEK                    genus           Streptococcus                 
+13194.1.1_15         IAFVSGPLVDDINGK                     genus           Streptococcus                 
+10530.1.1_15         VSQPVYFDTGLGDGR                     genus           Streptococcus                 
+3872.1.1_11          IADAGSVEYAK                         genus           Streptococcus                 
+9472.1.1_13          SADLPANLIQAQR                       genus           Streptococcus                 
+10704.1.1_16         FDSILTDNGATVVESK                    genus           Streptococcus                 
+9744.1.1_19          EQTIVIQSNSGLTDEEIDR                 genus           Streptococcus                 
+10291.1.1_15         SISEQTAYEIDEEVR                     genus           Streptococcus                 
+9100.1.1_12          VDLSPEELATAK                        genus           Streptococcus                 
+9687.1.1_11          TVVEAQDIFDK                         genus           Streptococcus                 
+7607.1.1_14          VSASAITTDSLTDR                      genus           Streptococcus                 
+11397.1.1_19         ALNASDLGITPANDGSVIR                 genus           Streptococcus                 
+12732.1.1_14         MNPLIQSLTEGQLR                      genus           Streptococcus                 
+14464.1.1_15         TFSFDTAAAQGAVIK                     genus           Streptococcus                 
+9322.1.1_16          IFNGSAIETTPDNLDK                    genus           Streptococcus                 
+6727.1.1_11          LNMSEEAIESR                         genus           Streptococcus                 
+11882.1.1_18         ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+11814.1.1_14         QQGAGLINVANALR                      genus           Streptococcus                 
+11031.1.1_12         NPLTSLDQIAGK                        genus           Streptococcus                 
+9091.1.1_22          VSAVVGPATSGATAAAVANATK              genus           Streptococcus                 
+3552.1.1_14          AAGASAQVLGSEGK                      genus           Streptococcus                 
+9606.1.1_15          KDYLVGDSLDLSEGR                     genus           Streptococcus                 
+8347.1.1_15          ELTNDRDADINDFVK                     genus           Streptococcus                 
+10355.1.1_36         LYEQAAAAQQAQEGAEGAQATGNAGDDVVDGEFTEK genus           Streptococcus                 
+7249.1.1_15          SGNSPESVATVDLAK                     genus           Streptococcus                 
+3941.1.1_28          TEQSEPSSTEAIASEKKEDESVTPKEEK        genus           Streptococcus                 
+5951.1.1_10          VAAEMGVGIK                          genus           Streptococcus                 
+6541.1.1_22          RLPSSVNQPKDYASIDAAPEER              genus           Streptococcus                 
+11175.1.1_17         DISPLMADGNAYSYAVR                   genus           Streptococcus                 
+10420.1.1_20         MSTTGIEVEGVESPAAGLSK                genus           Streptococcus                 
+11869.1.1_16         SFEMIALQQPVSQDLR                    genus           Streptococcus                 
+7787.1.1_23          NEIASENYDEATDKYTSTTALQK             genus           Streptococcus                 
+7940.1.1_11          AENGDILGEYR                         genus           Streptococcus                 
+8891.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+6497.1.1_10          LAVNESGIYK                          genus           Streptococcus                 
+12869.1.1_15         IIEVIALDGSSNFTK                     genus           Streptococcus                 
+4068.1.1_15          GDESGLAPTTEVKPR                     genus           Streptococcus                 
+7802.1.1_14          SLENKLEQATGAVK                      genus           Streptococcus                 
+7236.1.1_14          GMVISNIDTGTDYR                      genus           Streptococcus                 
+4272.1.1_15          TEETPKAELQPEAPK                     genus           Streptococcus                 
+8312.1.1_11          IVIGADAAGLR                         genus           Streptococcus                 
+3738.1.1_33          TEEKPQEEVSSTPSDKAEVVTPTSAEKETANKK   genus           Streptococcus                 
+11073.1.1_17         NMTSLDFAEITTSTPEK                   genus           Streptococcus                 
+6255.1.1_14          IIVASDNVAKDDLR                      genus           Streptococcus                 
+7732.1.1_19          KENPNLPAGQENIITAGVK                 genus           Streptococcus                 
+8113.1.1_20          GTQASNLEMHELPNTWTDSK                genus           Streptococcus                 
+12448.1.1_13         IFVLEDDFSQQTR                       genus           Streptococcus                 
+9410.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+9280.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+7393.1.1_12          GLTGDLQVATSK                        genus           Streptococcus                 
+9775.1.1_15          KDYLVGDSLDLSEGR                     genus           Streptococcus                 
+10306.1.1_25         AFIGMNGVDDGYYTTPDMEEGAVKR           genus           Streptococcus                 
+7719.1.1_13          NGELNVIGVSNAK                       genus           Streptococcus                 
+12381.1.1_16         IGVISVVEGGDEALAK                    genus           Streptococcus                 
+7409.1.1_10          NLEVSVDVEK                          genus           Streptococcus                 
+10600.1.1_12         VAVDALSFTAPK                        genus           Streptococcus                 
+3330.1.1_13          VDYLNDGDHSENR                       genus           Streptococcus                 
+13047.1.1_15         DAAANDAVVLFVGTK                     genus           Streptococcus                 
+8572.1.1_11          VAQEIGIELGK                         genus           Streptococcus                 
+9189.1.1_12          VDLSPEELATAK                        genus           Streptococcus                 
+8669.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+7343.1.1_13          QNLTVEDGTDFDK                       genus           Streptococcus                 
+9590.1.1_18          ENPNLPAGQENIITAGVK                  genus           Streptococcus                 
+7979.1.1_19          VETNGASGVGNQLTAEDIR                 genus           Streptococcus                 
+4734.1.1_12          QENGEPEFANPR                        genus           Streptococcus                 
+9589.1.1_15          KDYLVGDSLDLSEGR                     genus           Streptococcus                 
+9543.1.1_10          NVPALYSEIR                          genus           Streptococcus                 
+10237.1.1_12         NSDDFDVVIPSR                        genus           Streptococcus                 
+7778.1.1_14          FGGSSLASASQLEK                      genus           Streptococcus                 
+4591.1.1_16          HQRPTNELPQGGIIEK                    genus           Streptococcus                 
+7620.1.1_10          LGPQDLTYGK                          genus           Streptococcus                 
+10372.1.1_12         LVGSEIVSDGFR                        genus           Streptococcus                 
+9162.1.1_14          TVDLDNEQAVAFTK                      genus           Streptococcus                 
+8400.1.1_10          VLAALSIDSK                          genus           Streptococcus                 
+5302.1.1_12          TIGVAQGSITQR                        genus           Streptococcus                 
+9257.1.1_11          LGENVTAYISR                         genus           Streptococcus                 
+6750.1.1_10          YDAMTYNYGR                          genus           Streptococcus                 
+4726.1.1_14          HEETGALAAVMQAK                      genus           Streptococcus                 
+6325.1.1_13          SNFYSVSTSADGK                       genus           Streptococcus                 
+11365.1.1_12         DVMLLDLQATEK                        genus           Streptococcus                 
+4814.1.1_12          VTYADADKVEVR                        genus           Streptococcus                 
+12462.1.1_13         NPLIQSLTEGQLR                       genus           Streptococcus                 
+8208.1.1_14          IAEAQGAVGFTVDR                      genus           Streptococcus                 
+3026.1.1_16          AEVVTPTSAEKETANK                    genus           Streptococcus                 
+12744.1.1_19         DNAPVGTLAVDSIYTPVTK                 genus           Streptococcus                 
+10325.1.1_15         GETGEGEYVVPFTAR                     genus           Streptococcus                 
+11297.1.1_14         AVVELAGVADITSK                      genus           Streptococcus                 
+3802.1.1_20          QGTNAVHGAPLGADETASTR                genus           Streptococcus                 
+8905.1.1_11          GFIPASMLDTR                         genus           Streptococcus                 
+6434.1.1_10          DLDELEAENK                          genus           Streptococcus                 
+10213.1.1_16         EETVGPADYGNSLLSR                    genus           Streptococcus                 
+10142.1.1_15         IMVVDDEVVNNDIEK                     genus           Streptococcus                 
+7513.1.1_14          AAMANQTEMGVLAK                      genus           Streptococcus                 
+2300.1.1_17          AEVVTPTSAEKETANKK                   genus           Streptococcus                 
+10231.1.1_11         LFLEEEGLQSR                         genus           Streptococcus                 
+3531.1.1_13          IVDEEGNDVTPEK                       genus           Streptococcus                 
+8436.1.1_12          VSLLETSESTVR                        genus           Streptococcus                 
+11584.1.1_12         SLALVAADLAAK                        genus           Streptococcus                 
+7153.1.1_21          WVMDHAGAGGESVNDGLMNTK               genus           Streptococcus                 
+8592.1.1_10          VLAALSIDSK                          genus           Streptococcus                 
+5406.1.1_11          AGMTFETADGK                         genus           Streptococcus                 
+10381.1.1_15         IVLNMGVGEAVSNAK                     genus           Streptococcus                 
+3533.1.1_12          GLGAGGQPEVGR                        genus           Streptococcus                 
+2902.1.1_14          AAALKAEQNAEYAR                      genus           Streptococcus                 
+8806.1.1_11          VVYNFASPEVK                         genus           Streptococcus                 
+5965.1.1_14          EDVQNGAIYVNGDR                      genus           Streptococcus                 
+4455.1.1_10          VLEVNADAER                          genus           Streptococcus                 
+10328.1.1_19         HPETGAVIIGPNELITEDK                 genus           Streptococcus                 
+8635.1.1_11          DTDTVTYLVSK                         genus           Streptococcus                 
+10946.1.1_17         KQLDEGLAGDNVGVLLR                   genus           Streptococcus                 
+8554.1.1_15          YIASQVSVSDAGALR                     genus           Streptococcus                 
+8047.1.1_27          AKDLGTQKEQTIVIQSNSGLTDEEIDR         genus           Streptococcus                 
+4220.1.1_9           VTNTDYLAR                           genus           Streptococcus                 
+8385.1.1_13          SQVFSISGDDGVK                       genus           Streptococcus                 
+10748.1.1_17         LLNETGELFEPSMNESR                   genus           Streptococcus                 
+4725.1.1_11          LADDAQALTTK                         genus           Streptococcus                 
+9722.1.1_21          VVESQAELYSLEKNEDASLSK               genus           Streptococcus                 
+13098.1.1_16         IQGISAGFIPDTLDTK                    genus           Streptococcus                 
+6913.1.1_13          VAAMSEIVSANNK                       genus           Streptococcus                 
+6105.1.1_20          VETNGASGVGNQLTAEDIRK                genus           Streptococcus                 
+12470.1.1_18         AEDVSQDMYGSIDLVTDK                  genus           Streptococcus                 
+10429.1.1_14         MNADDTVTIYDVAR                      genus           Streptococcus                 
+9141.1.1_14          AVTNEEVNQMIEDR                      genus           Streptococcus                 
+8762.1.1_21          ENPNLPAGQENIITAGVKGER               genus           Streptococcus                 
+11385.1.1_16         EGEISPDGQGVLNFAR                    genus           Streptococcus                 
+5819.1.1_10          YETLDSTQIK                          genus           Streptococcus                 
+3705.1.1_28          TEQSEPSSTEAIASEKKEDESVTPKEEK        genus           Streptococcus                 
+11736.1.1_11         ETGFLLDGYPR                         genus           Streptococcus                 
+4523.1.1_27          TEEKPQEEVSSTPSDKAEVVTPTSAEK         genus           Streptococcus                 
+5716.1.1_11          LDDMTITANGK                         genus           Streptococcus                 
+7938.1.1_17          IVNSDDVTSGVNVEVGK                   genus           Streptococcus                 
+12844.1.1_18         NADGQGWYNLDQGLNGIK                  genus           Streptococcus                 
+7915.1.1_13          TGTYSGIETDLAK                       genus           Streptococcus                 
+10282.1.1_15         IVLNMGVGEAVSNAK                     genus           Streptococcus                 
+8551.1.1_16          VNDEIEIVGIKEETQK                    genus           Streptococcus                 
+8580.1.1_13          QAVTNPDTVISIK                       genus           Streptococcus                 
+11294.1.1_16         EGEISPDGQGVLNFAR                    genus           Streptococcus                 
+3101.1.1_16          AEVVTPTSAEKETANK                    genus           Streptococcus                 
+11906.1.1_18         FVQKELADAAVSTIEIER                  genus           Streptococcus                 
+9004.1.1_13          TIFEDEPVSEDVK                       genus           Streptococcus                 
+9512.1.1_17          FAEALKQDADGSFPIAR                   genus           Streptococcus                 
+12414.1.1_18         IADELDAVGFNYSEDNYK                  genus           Streptococcus                 
+7242.1.1_12          TGSSSTTIYLPK                        genus           Streptococcus                 
+11362.1.1_13         AAQTVYVLTDDLR                       genus           Streptococcus                 
+10557.1.1_19         YAEIVDSDAVAQDEVAIGK                 no rank         Streptococcus anginosus C1051 
+2595.1.1_14          EKPAEQQAEEDYAR                      no rank         Streptococcus pneumoniae P1031
+3347.1.1_13          VESEETEATRLEK                       no rank         Streptococcus pneumoniae P1031
+2704.1.1_14          EKPAEQQAEEDYAR                      no rank         Streptococcus pneumoniae P1031
+12228.1.1_9          ILELNDIVK                           no rank         Haemophilus somnus 2336       
+2652.1.1_14          EKPAEQQAEEDYAR                      no rank         Streptococcus pneumoniae P1031
+5682.1.1_10          STTPDITGYR                          no rank         Archaeoglobus fulgidus DSM 4304
+6735.1.1_11          VVAGVANALAH                         no rank         Thalassolituus oleivorans MIL-1
+2933.1.1_15          AKVESEETEATRLEK                     no rank         Streptococcus pneumoniae P1031
+4653.1.1_10          TVLTPEEEAR                          no rank         Agrobacterium radiobacter K84 
+2967.1.1_14          EKPAEQQAEEDYAR                      no rank         Streptococcus pneumoniae P1031
+2581.1.1_14          EKPAEQQAEEDYAR                      no rank         Streptococcus pneumoniae P1031
+2991.1.1_15          AKVESEETEATRLEK                     no rank         Streptococcus pneumoniae P1031
+11280.1.1_17         HMTGSDFAEITTSTPEK                   no rank         Lachnoclostridium phytofermentans ISDg
+2973.1.1_15          AKVESEETEATRLEK                     no rank         Streptococcus pneumoniae P1031
+5774.1.1_10          STTPDITGYR                          no rank         Archaeoglobus fulgidus DSM 4304
+10923.1.1_17         VESAVQPSLPEAIVTEK                   no rank         Streptococcus pneumoniae gamPNI0373
+2693.1.1_14          EKPAEQQAEEDYAR                      no rank         Streptococcus pneumoniae P1031
+6547.1.1_10          IPTNLEGYSK                          species         Streptococcus pneumoniae      
+9786.1.1_13          EAGDQATYFDEIR                       species         Streptococcus pneumoniae      
+7575.1.1_16          GIDESDSEDYVKEGLR                    species         Streptococcus pneumoniae      
+5465.1.1_25          LEKAEGVATASETAEAASAAKPEEK           species         Streptococcus pneumoniae      
+6531.1.1_16          IVSVSVSDRVPEEASR                    species         Streptococcus pneumoniae      
+8823.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+10063.1.1_15         TLELEIAESDVEVKK                     species         Streptococcus pneumoniae      
+3227.1.1_11          AELEKTEADLK                         species         Streptococcus pneumoniae      
+3917.1.1_12          KAELELVKEEAK                        species         Streptococcus pneumoniae      
+9599.1.1_22          LETELKGIDESDSEDYVKEGLR              species         Streptococcus pneumoniae      
+6268.1.1_10          ESLEALDAAK                          species         Streptococcus pneumoniae      
+8981.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+9564.1.1_18          VSDVAESTGEFTSEQFEK                  species         Streptococcus pneumoniae      
+10088.1.1_10         IAELENEVYR                          species         Streptococcus pneumoniae      
+3527.1.1_12          LELVKEEAKEPR                        species         Streptococcus pneumoniae      
+7432.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+7917.1.1_16          NSTFNNQNFTLANGQK                    species         Streptococcus pneumoniae      
+7667.1.1_16          GIDESDSEDYVKEGLR                    species         Streptococcus pneumoniae      
+5402.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+3143.1.1_15          VGEDQGSPEVTDGPK                     species         Streptococcus pneumoniae      
+7083.1.1_14          NVEIIEDDKQGVIR                      species         Streptococcus pneumoniae      
+10705.1.1_22         SIGGLVSQVNNSTISNSSYTGR              species         Streptococcus pneumoniae      
+6617.1.1_12          APQENTFYAGVK                        species         Haemophilus influenzae        
+2892.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+4768.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+6420.1.1_13          VRSEVIPSAEELK                       species         Streptococcus pneumoniae      
+3904.1.1_11          APLQSELDAKR                         species         Streptococcus pneumoniae      
+8549.1.1_34          EGDLSEKPGDTVLTQAKPEGVTGNTNSLPTPTER  species         Streptococcus pneumoniae      
+6041.1.1_9           TALNYNLNR                           species         Streptococcus pneumoniae      
+6457.1.1_14          NIGPNITVSNGQTR                      species         Streptococcus pneumoniae      
+11421.1.1_13         FAEYANTLAAMAK                       species         Streptococcus pneumoniae      
+4675.1.1_12          ITSINNQVVQGK                        species         Streptococcus pneumoniae      
+5385.1.1_12          AQQDTIDQAIAK                        species         Streptococcus pneumoniae      
+3559.1.1_14          AGEVVAETPSAEAK                      species         Streptococcus pneumoniae      
+8432.1.1_11          TEIQGLITTSR                         species         Streptococcus pneumoniae      
+9009.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+4051.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+6124.1.1_9           TALNYNLNR                           species         Streptococcus pneumoniae      
+5485.1.1_12          SEVIPSAEELKK                        species         Streptococcus pneumoniae      
+10905.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+9473.1.1_14          DIQKEEIPFTTVTR                      species         Streptococcus pneumoniae      
+7091.1.1_14          NVEIIEDDKQGVIR                      species         Streptococcus pneumoniae      
+4000.1.1_14          NKSQTEQGEINIER                      species         Streptococcus pneumoniae      
+5042.1.1_11          FYSVSTSADGK                         species         Streptococcus pneumoniae      
+2992.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+4514.1.1_26          IEQPSAEDTKPNNENTNTPEEMSIQK          species         Streptococcus pneumoniae      
+5497.1.1_19          EASKEEQAANLKYQQELVK                 species         Streptococcus pneumoniae      
+9611.1.1_10          TEEELLALEK                          species         Streptococcus pneumoniae      
+4218.1.1_11          APLQSELDAKR                         species         Streptococcus pneumoniae      
+9101.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+3075.1.1_15          VGEDQGSPEVTDGPK                     species         Streptococcus pneumoniae      
+9082.1.1_27          QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+5416.1.1_10          APLQSELDAK                          species         Streptococcus pneumoniae      
+8020.1.1_20          EYTGVQAGAIVEPEKVEAPK                species         Streptococcus pneumoniae      
+9662.1.1_18          VSDVAESTGEFTSEQFEK                  species         Streptococcus pneumoniae      
+15127.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+5453.1.1_11          TQGVGDFTAAR                         species         Streptococcus pneumoniae      
+6584.1.1_15          NLVDAMNSNPNGTFR                     species         Streptococcus pneumoniae      
+7286.1.1_27          NTTTLAQPLTDTAAGSGKNESDISSPR         species         Streptococcus pneumoniae      
+9565.1.1_15          NLVDAMNSNPNGTFR                     species         Streptococcus pneumoniae      
+11337.1.1_12         ISDPVETVTILK                        species         Streptococcus pneumoniae      
+6209.1.1_15          EDDAINRGSVVLASR                     species         Streptococcus pneumoniae      
+3757.1.1_12          TTSDFEVSNQEK                        species         Streptococcus pneumoniae      
+12709.1.1_10         QAQDLVEAIK                          species         Streptococcus pneumoniae      
+4198.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+4331.1.1_14          YTAESVTAVKEAEK                      species         Streptococcus pneumoniae      
+11482.1.1_23         DLENVETVIEKEDVETNASNGQR             species         Streptococcus pneumoniae      
+6543.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+7383.1.1_18          LEIPSQPAPSTAPAEESK                  species         Streptococcus pneumoniae      
+3654.1.1_13          ILKEVEEAEKEHK                       species         Streptococcus pneumoniae      
+7984.1.1_10          LDAVQAWDGK                          species         Haemophilus influenzae        
+2837.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+8595.1.1_19          DVVNPTPGQVLPEETSGTK                 species         Streptococcus pneumoniae      
+4141.1.1_13          RSEVIPSAEELKK                       species         Streptococcus pneumoniae      
+4801.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+11551.1.1_10         TNNLFDALEK                          species         Streptococcus pneumoniae      
+5132.1.1_11          FYSVSTSADGK                         species         Streptococcus pneumoniae      
+5597.1.1_10          VIPSAEELKK                          species         Streptococcus pneumoniae      
+4809.1.1_27          IEQPSAEDTKPNNENTNTPEEMSIQKK         species         Streptococcus pneumoniae      
+7152.1.1_12          DVAEAVTAAGVK                        species         Haemophilus influenzae        
+9178.1.1_27          QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+3149.1.1_11          AELEKTEADLK                         species         Streptococcus pneumoniae      
+9661.1.1_17          GESAVQPELPEAVVSDK                   species         Streptococcus pneumoniae      
+8724.1.1_32          TEEKPATEPTTSTSPVTTETKAEEPIEDNYFR    species         Streptococcus pneumoniae      
+4699.1.1_25          GVTTTTENQPTIHTVSDSPQSSENR           species         Streptococcus pneumoniae      
+10614.1.1_14         NKQAELDTLVANLK                      species         Streptococcus pneumoniae      
+3032.1.1_12          TDDQQAEEDYAR                        species         Streptococcus pneumoniae      
+5396.1.1_23          NMADFTGEAPQGNGENKPSETGK             species         Streptococcus pneumoniae      
+6629.1.1_13          ALPQDPAPVVTEK                       species         Streptococcus pneumoniae      
+6670.1.1_17          DLADKKAELEKTEADLK                   species         Streptococcus pneumoniae      
+9474.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+8913.1.1_19          LAEQAQQVQAVVEVVPEKK                 species         Streptococcus pneumoniae      
+2425.1.1_15          PAPAPQPAPAPKPEK                     species         Streptococcus pneumoniae      
+3085.1.1_28          KAVNEPEKPAEETPAPAPKPEQPAEQPK        species         Streptococcus pneumoniae      
+3909.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+2535.1.1_17          TEQSEPSSTEAIASEKK                   species         Streptococcus pneumoniae      
+8951.1.1_13          FSGTLSGVVAETK                       species         Streptococcus pneumoniae      
+3854.1.1_12          KAELELVKEEAK                        species         Streptococcus pneumoniae      
+6335.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+6579.1.1_13          TQQSETGVYTSFK                       species         Streptococcus pneumoniae      
+11234.1.1_12         TVTFESYEDFER                        species         Streptococcus pneumoniae      
+10791.1.1_14         NKQAELDTLVANLK                      species         Streptococcus pneumoniae      
+11357.1.1_12         VDPVATLALASR                        species         Streptococcus pneumoniae      
+3087.1.1_14          FSGDVAGKTDQDVR                      species         Streptococcus pneumoniae      
+11290.1.1_14         AGITYSEGLVFESK                      species         Streptococcus pneumoniae      
+11621.1.1_16         LQETVNNLTLTPEALK                    species         Streptococcus pneumoniae      
+8370.1.1_14          IETALLYANGQDSK                      species         Streptococcus pneumoniae      
+2326.1.1_15          PAPAPQPAPAPKPEK                     species         Streptococcus pneumoniae      
+6277.1.1_12          NFYSVSTSADGK                        species         Streptococcus pneumoniae      
+8380.1.1_19          EKLEENQDTEGNFDFDSVK                 species         Streptococcus pneumoniae      
+9723.1.1_28          DEPVFTSVNSSQEPALPMNQPSQSAGTK        species         Streptococcus pneumoniae      
+5229.1.1_11          FYSVSTSADGK                         species         Streptococcus pneumoniae      
+3628.1.1_23          NMADFTGEAPQGNGENKPSETGK             species         Streptococcus pneumoniae      
+9696.1.1_13          EAGDQATYFDEIR                       species         Streptococcus pneumoniae      
+4984.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+11220.1.1_25         VGEDQGSPEVTDGPKTEEELLALEK           species         Streptococcus pneumoniae      
+6298.1.1_15          EGLRAPLQSELDAKR                     species         Streptococcus pneumoniae      
+6063.1.1_16          LGKPNSQIEYTEDEVR                    species         Streptococcus pneumoniae      
+4282.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+3016.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+3183.1.1_16          RSEEEYNRLPQQQPPK                    species         Streptococcus pneumoniae      
+2718.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+3709.1.1_18          NGNYETAEGSEETSSEVK                  species         Streptococcus pneumoniae      
+5901.1.1_19          TPAVGNTFTTSFNTGHGKK                 species         Streptococcus pneumoniae      
+3864.1.1_10          ILKEVEEAEK                          species         Streptococcus pneumoniae      
+9513.1.1_12          HFDMAETVELPK                        species         Streptococcus pneumoniae      
+6717.1.1_12          HFDMAETVELPK                        species         Streptococcus pneumoniae      
+7265.1.1_14          LHFFADSGTDAPTK                      species         Streptococcus pneumoniae      
+15176.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+6661.1.1_13          AEQTEQYLAAAEK                       species         Streptococcus pneumoniae      
+8023.1.1_9           ELAPIIDGR                           species         Streptococcus pneumoniae      
+8478.1.1_12          DIEIESSSVEVR                        species         Streptococcus pneumoniae      
+7244.1.1_14          LHFFADSGTDAPTK                      species         Streptococcus pneumoniae      
+3734.1.1_13          ILKEVEEAEKEHK                       species         Streptococcus pneumoniae      
+9516.1.1_10          TEEELLALEK                          species         Streptococcus pneumoniae      
+9837.1.1_13          FEANGIQVEEIAR                       species         Streptococcus pneumoniae      
+6852.1.1_14          LLTADAAIAENNNK                      species         Streptococcus pneumoniae      
+5008.1.1_12          SQTEQGEINIER                        species         Streptococcus pneumoniae      
+3261.1.1_16          RSEEEYNRLPQQQPPK                    species         Streptococcus pneumoniae      
+4414.1.1_12          YKEEDDFVTGGK                        species         Streptococcus pneumoniae      
+10455.1.1_14         DVMLPVTSITNDTK                      species         Streptococcus pneumoniae      
+2565.1.1_15          PAPAPQPAPAPKPEK                     species         Streptococcus pneumoniae      
+4891.1.1_18          LTDKDNQEEVASLQASMK                  species         Streptococcus pneumoniae      
+8098.1.1_10          LSTLEELSDK                          species         Streptococcus pneumoniae      
+3506.1.1_16          DHEISTQDQVNDRLNK                    species         Streptococcus pneumoniae      
+9893.1.1_15          TLELEIAESDVEVKK                     species         Streptococcus pneumoniae      
+3842.1.1_12          KAELELVKEEAK                        species         Streptococcus pneumoniae      
+6187.1.1_12          NFYSVSTSADGK                        species         Streptococcus pneumoniae      
+10481.1.1_16         AGVAYVEATDIADATR                    species         Streptococcus pneumoniae      
+5458.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+5544.1.1_25          LEKAEGVATASETAEAASAAKPEEK           species         Streptococcus pneumoniae      
+3746.1.1_16          TEQSEPSSTEAIASEK                    species         Streptococcus pneumoniae      
+6380.1.1_14          NIGPNITVSNGQTR                      species         Streptococcus pneumoniae      
+4526.1.1_37          EETAVPENSGANTELVSGESEHSTNEADKQNEGEHTR species         Streptococcus pneumoniae      
+10214.1.1_20         VVNVVQEDDEILTKDSTVQR                species         Streptococcus pneumoniae      
+7797.1.1_11          SEVIPSAEELK                         species         Streptococcus pneumoniae      
+4369.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+6674.1.1_10          FQPEQELDAR                          species         Streptococcus pneumoniae      
+8001.1.1_10          LSTLEELSDK                          species         Streptococcus pneumoniae      
+7418.1.1_18          TPAVGNTFTTSFNTGHGK                  species         Streptococcus pneumoniae      
+6803.1.1_14          AIIIAADKAVEMDR                      species         Streptococcus pneumoniae      
+3681.1.1_16          TEQSEPSSTEAIASEK                    species         Streptococcus pneumoniae      
+7499.1.1_18          LTDKDNQEEVASLQASMK                  species         Streptococcus pneumoniae      
+4830.1.1_14          QEHENAEMLVGEQR                      species         Streptococcus pneumoniae      
+5274.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+3830.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+2644.1.1_17          TEQSEPSSTEAIASEKK                   species         Streptococcus pneumoniae      
+15202.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+7563.1.1_14          EGLRAPLQSELDAK                      species         Streptococcus pneumoniae      
+7186.1.1_14          NVEIIEDDKQGVIR                      species         Streptococcus pneumoniae      
+6215.1.1_13          VISVTSVNPGEGK                       species         Streptococcus pneumoniae      
+8648.1.1_34          EGDLSEKPGDTVLTQAKPEGVTGNTNSLPTPTER  species         Streptococcus pneumoniae      
+11805.1.1_21         TDAEQTEQYLAAAEKDLADKK               species         Streptococcus pneumoniae      
+2586.1.1_17          TEQSEPSSTEAIASEKK                   species         Streptococcus pneumoniae      
+7557.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+2873.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+12491.1.1_21         GLDVTDEEGDDVTNGIFVGAK               species         Streptococcus pneumoniae      
+2376.1.1_15          PAPAPQPAPAPKPEK                     species         Streptococcus pneumoniae      
+6156.1.1_12          AEIAQVAAVSSR                        species         Streptococcus suis            
+11243.1.1_27         QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+3825.1.1_18          TENQVVETEETPKEEAPK                  species         Streptococcus pneumoniae      
+7531.1.1_11          VAENEEGYVFR                         species         Streptococcus pneumoniae      
+6203.1.1_15          EGLRAPLQSELDAKR                     species         Streptococcus pneumoniae      
+9575.1.1_18          VSDVAESTGEFTSEQFEK                  species         Streptococcus pneumoniae      
+8003.1.1_13          VQYEGGTEDELIR                       species         Streptococcus pneumoniae      
+5336.1.1_12          GIDESDSEDYVK                        species         Streptococcus pneumoniae      
+12110.1.1_19         IDFQEEIQENPDLAEGTVR                 species         Streptococcus pneumoniae      
+5775.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+6600.1.1_23          NMQPSQLSYSSTASDNNTQSVAK             species         Streptococcus pneumoniae      
+9732.1.1_18          GVSIGENSVVAAGSVVTK                  species         Streptococcus pneumoniae      
+5661.1.1_29          EETAVPENSGANTELVSGESEHSTNEADK       species         Streptococcus pneumoniae      
+7220.1.1_27          NTTTLAQPLTDTAAGSGKNESDISSPR         species         Streptococcus pneumoniae      
+2276.1.1_15          PAPAPQPAPAPKPEK                     species         Streptococcus pneumoniae      
+9464.1.1_13          VTITDVAIDEAGK                       species         Streptococcus pneumoniae      
+5452.1.1_25          LEKAEGVATASETAEAASAAKPEEK           species         Streptococcus pneumoniae      
+4759.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+6572.1.1_17          DLADKKAELEKTEADLK                   species         Streptococcus pneumoniae      
+7115.1.1_12          TKLSTLEELSDK                        species         Streptococcus pneumoniae      
+3817.1.1_13          ILKEVEEAEKEHK                       species         Streptococcus pneumoniae      
+12273.1.1_9          IAFELLAAK                           species         Streptococcus pneumoniae      
+5124.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+10317.1.1_21         LQETVNNLTLTPEALKEEEAK               species         Streptococcus pneumoniae      
+6138.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+7720.1.1_15          VAESTGEFTSEQFEK                     species         Streptococcus pneumoniae      
+7708.1.1_11          SEVIPSAEELK                         species         Streptococcus pneumoniae      
+8455.1.1_34          EGDLSEKPGDTVLTQAKPEGVTGNTNSLPTPTER  species         Streptococcus pneumoniae      
+5698.1.1_13          EIISTSTTAPVSR                       species         Streptococcus pneumoniae      
+11106.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+4996.1.1_16          QNSVFGNDDTDTDSQR                    species         Streptococcus pneumoniae      
+4888.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+6458.1.1_10          IPTNLEGYSK                          species         Streptococcus pneumoniae      
+8122.1.1_20          EYTGVQAGAIVEPEKVEAPK                species         Streptococcus pneumoniae      
+9274.1.1_27          QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+7416.1.1_11          VEVGQAVYIEK                         species         Streptococcus pneumoniae      
+5851.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+6354.1.1_10          ESLEALDAAK                          species         Streptococcus pneumoniae      
+8785.1.1_19          DVVNPTPGQVLPEETSGTK                 species         Streptococcus pneumoniae      
+8454.1.1_18          LETELKGIDESDSEDYVK                  species         Streptococcus pneumoniae      
+3689.1.1_15          VEGTEITLHRPNDSK                     species         Streptococcus pneumoniae      
+5094.1.1_12          SQTEQGEINIER                        species         Streptococcus pneumoniae      
+4917.1.1_12          SQTEQGEINIER                        species         Streptococcus pneumoniae      
+9883.1.1_15          TLELEIAESDVEVKK                     species         Streptococcus pneumoniae      
+11052.1.1_25         VGEDQGSPEVTDGPKTEEELLALEK           species         Streptococcus pneumoniae      
+5187.1.1_12          SQTEQGEINIER                        species         Streptococcus pneumoniae      
+7354.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+5345.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+12192.1.1_19         IDFQEEIQENPDLAEGTVR                 species         Streptococcus pneumoniae      
+3504.1.1_10          ELYDSPSAQR                          species         Streptococcus pneumoniae      
+5900.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+6503.1.1_13          DLSAETAAGIDSK                       species         Streptococcus pneumoniae      
+7595.1.1_10          IDELDAEIAK                          species         Streptococcus pneumoniae      
+4829.1.1_12          SQTEQGEINIER                        species         Streptococcus pneumoniae      
+4676.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+11813.1.1_21         TDAEQTEQYLAAAEKDLADKK               species         Streptococcus pneumoniae      
+12855.1.1_13         QFSQAEMEELQAR                       species         Streptococcus pneumoniae      
+8355.1.1_18          LETELKGIDESDSEDYVK                  species         Streptococcus pneumoniae      
+6243.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+9745.1.1_17          LEENQDTEGNFDFDSVK                   species         Streptococcus pneumoniae      
+8903.1.1_9           LDTLVANLK                           species         Streptococcus pneumoniae      
+5180.1.1_10          FSVNNEEVSR                          species         Streptococcus pneumoniae      
+5386.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+4139.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+11659.1.1_12         GQDQDLIGLDLR                        species         Streptococcus pneumoniae      
+4585.1.1_12          ILKEVEEAEKEH                        species         Streptococcus pneumoniae      
+6106.1.1_12          NFYSVSTSADGK                        species         Streptococcus pneumoniae      
+8518.1.1_11          TATFLTQYDSK                         species         Streptococcus pneumoniae      
+6403.1.1_13          VRSEVIPSAEELK                       species         Streptococcus pneumoniae      
+6663.1.1_11          INNENIGQFER                         species         Streptococcus pneumoniae      
+7526.1.1_20          EYTGVQAGAIVEPEKVEPSK                species         Streptococcus pneumoniae      
+7180.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+3922.1.1_11          APLQSELDAKR                         species         Streptococcus pneumoniae      
+3741.1.1_13          ILKEVEEAEKEHK                       species         Streptococcus pneumoniae      
+9366.1.1_27          QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+9485.1.1_18          VSDVAESTGEFTSEQFEK                  species         Streptococcus pneumoniae      
+6793.1.1_11          IFSVNNEEVSR                         species         Streptococcus pneumoniae      
+4506.1.1_29          NANASLEKTEEKPATEPTTSTSPVTTETK       species         Streptococcus pneumoniae      
+4815.1.1_27          IEQPSAEDTKPNNENTNTPEEMSIQKK         species         Streptococcus pneumoniae      
+11381.1.1_14         AGITYSEGLVFESK                      species         Streptococcus pneumoniae      
+6593.1.1_41          DGVTTTTENQPTIHTVSDSPQSSENRTEETPKAELQPEAPK species         Streptococcus pneumoniae      
+5971.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+5422.1.1_12          IAPNTDLNSVDK                        species         Streptococcus pneumoniae      
+9270.1.1_16          IDTFGTGTVAESQLEK                    species         Streptococcus pneumoniae      
+5091.1.1_10          FSVNNEEVSR                          species         Streptococcus pneumoniae      
+5447.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+5667.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+7504.1.1_11          VEVGQAVYIEK                         species         Streptococcus pneumoniae      
+4437.1.1_15          SEEEYNRLPQQQPPK                     species         Streptococcus pneumoniae      
+7196.1.1_16          AVVYNNEGTNVELGGR                    species         Haemophilus influenzae        
+8155.1.1_14          KPLFGELNGATVEK                      species         Streptococcus pneumoniae      
+3900.1.1_13          ILKEVEEAEKEHK                       species         Streptococcus pneumoniae      
+10862.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+4004.1.1_11          APLQSELDAKR                         species         Streptococcus pneumoniae      
+7725.1.1_14          VTITDVAIDEAGKK                      species         Streptococcus pneumoniae      
+3096.1.1_11          AELEKTEADLK                         species         Streptococcus pneumoniae      
+4804.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+11382.1.1_13         DIILAQTEENLTR                       species         Streptococcus pneumoniae      
+6416.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+10456.1.1_15         IQEIEVPEVLPHQVK                     species         Streptococcus pneumoniae      
+7816.1.1_13          SDKIDELDAEIAK                       species         Streptococcus pneumoniae      
+12134.1.1_13         LLQVGQALELPTK                       species         Streptococcus pneumoniae      
+7063.1.1_12          TILGIEVSQKPK                        species         Streptococcus pneumoniae      
+8955.1.1_16          SNIVASNVNITSVENR                    species         Streptococcus pneumoniae      
+11304.1.1_23         DLENVETVIEKEDVETNASNGQR             species         Streptococcus pneumoniae      
+6887.1.1_22          APTVPTHPSQGVPASPADEIQR              species         Streptococcus pneumoniae      
+9614.1.1_13          VAYQPGTLEAIAR                       species         Streptococcus pneumoniae      
+8015.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+2856.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+10694.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+4328.1.1_12          YKEEDDFVTGGK                        species         Streptococcus pneumoniae      
+11395.1.1_23         DLENVETVIEKEDVETNASNGQR             species         Streptococcus pneumoniae      
+10413.1.1_21         LQETVNNLTLTPEALKEEEAK               species         Streptococcus pneumoniae      
+10336.1.1_14         VVNVVQEDDEILTK                      species         Streptococcus pneumoniae      
+10695.1.1_18         AEGVATVDSALFENDQEK                  species         Streptococcus pneumoniae      
+8619.1.1_12          AYQPGTLEAIAR                        species         Streptococcus pneumoniae      
+15003.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+10314.1.1_11         DLENVETVIEK                         species         Streptococcus pneumoniae      
+6415.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+11146.1.1_27         QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+7530.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+2789.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+6953.1.1_14          LLTADAAIAENNNK                      species         Streptococcus pneumoniae      
+6149.1.1_13          QFSQAEMEELQAR                       species         Streptococcus pneumoniae      
+8570.1.1_12          DIEIESSSVEVR                        species         Streptococcus pneumoniae      
+15046.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+3599.1.1_15          VEGTEITLHRPNDSK                     species         Streptococcus pneumoniae      
+5514.1.1_12          GIDESDSEDYVK                        species         Streptococcus pneumoniae      
+3988.1.1_11          APLQSELDAKR                         species         Streptococcus pneumoniae      
+6044.1.1_12          AEIAQVAAVSSR                        species         Streptococcus suis            
+11741.1.1_12         GQDQDLIGLDLR                        species         Streptococcus pneumoniae      
+8213.1.1_15          EGTVSNQVVADAIAK                     species         Haemophilus influenzae        
+5752.1.1_29          EETAVPENSGANTELVSGESEHSTNEADK       species         Streptococcus pneumoniae      
+10248.1.1_14         VVNVVQEDDEILTK                      species         Streptococcus pneumoniae      
+6757.1.1_12          HFDMAETVELPK                        species         Streptococcus pneumoniae      
+7469.1.1_14          GVAADAISATGYGK                      species         Haemophilus influenzae        
+9342.1.1_22          LQETVNNLTLTPEALKEEEAKR              species         Streptococcus pneumoniae      
+5344.1.1_12          IAPNTDLNSVDK                        species         Streptococcus pneumoniae      
+3208.1.1_13          NTPTENGGIGQVK                       species         Haemophilus influenzae        
+8459.1.1_11          QQDTIDQAIAK                         species         Streptococcus pneumoniae      
+5929.1.1_14          QEHENAEMLVGEQR                      species         Streptococcus pneumoniae      
+4587.1.1_15          KAELELVKEEAKEPR                     species         Streptococcus pneumoniae      
+7838.1.1_17          GSIESMHNLPVNLAGAR                   species         Streptococcus pneumoniae      
+7728.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+2231.1.1_15          PAPAPQPAPAPKPEK                     species         Streptococcus pneumoniae      
+10417.1.1_19         SENFKDVMLPVTSITNDTK                 species         Streptococcus pneumoniae      
+3768.1.1_16          TEQSEPSSTEAIASEK                    species         Streptococcus pneumoniae      
+8727.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+9572.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+3220.1.1_15          VGEDQGSPEVTDGPK                     species         Streptococcus pneumoniae      
+11774.1.1_14         DVMLPVTSITNDTK                      species         Streptococcus pneumoniae      
+7642.1.1_15          EYTGVQAGAIVEPEK                     species         Streptococcus pneumoniae      
+3650.1.1_13          ILKEVEEAEKEHK                       species         Streptococcus pneumoniae      
+12668.1.1_12         QAELDTLVANLK                        species         Streptococcus pneumoniae      
+6338.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+2360.1.1_16          DETLITHTAEKPKEEK                    species         Streptococcus pneumoniae      
+5359.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+3707.1.1_14          QEHENAEMLVGEQR                      species         Streptococcus pneumoniae      
+8334.1.1_18          LETELKGIDESDSEDYVK                  species         Streptococcus pneumoniae      
+3742.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+11369.1.1_14         SNSSALDNVIELGK                      species         Streptococcus pneumoniae      
+9975.1.1_15          TLELEIAESDVEVKK                     species         Streptococcus pneumoniae      
+10794.1.1_22         SIGGLVSQVNNSTISNSSYTGR              species         Streptococcus pneumoniae      
+8690.1.1_13          QFSQAEMEELQAR                       species         Streptococcus pneumoniae      
+6495.1.1_17          AQNTESTVVQLNNGDVK                   species         Streptococcus pneumoniae      
+8435.1.1_15          NAWVGTSYVGATGAK                     species         Streptococcus pneumoniae      
+6502.1.1_41          DGVTTTTENQPTIHTVSDSPQSSENRTEETPKAELQPEAPK species         Streptococcus pneumoniae      
+5558.1.1_11          AELELVKEEAK                         species         Streptococcus pneumoniae      
+9591.1.1_22          LETELKGIDESDSEDYVKEGLR              species         Streptococcus pneumoniae      
+7347.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+10909.1.1_13         TLITLGESEVESR                       species         Streptococcus pneumoniae      
+3638.1.1_14          AGEVVAETPSAEAK                      species         Streptococcus pneumoniae      
+3336.1.1_16          RSEEEYNRLPQQQPPK                    species         Streptococcus pneumoniae      
+7731.1.1_17          GSIESMHNLPVNLAGAR                   species         Streptococcus pneumoniae      
+7385.1.1_12          VLSETTIYADSR                        species         Streptococcus pneumoniae      
+3155.1.1_28          KAVNEPEKPAEETPAPAPKPEQPAEQPK        species         Streptococcus pneumoniae      
+7057.1.1_17          SLADAVTSSNEEDGVAR                   species         Streptococcus pneumoniae      
+8950.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+3310.1.1_28          KAVNEPEKPAEETPAPAPKPEQPAEQPK        species         Streptococcus pneumoniae      
+9469.1.1_18          VSDVAESTGEFTSEQFEK                  species         Streptococcus pneumoniae      
+5572.1.1_12          SEVIPSAEELKK                        species         Streptococcus pneumoniae      
+4716.1.1_11          QTEQGEINIER                         species         Streptococcus pneumoniae      
+4787.1.1_25          GVTTTTENQPTIHTVSDSPQSSENR           species         Streptococcus pneumoniae      
+3407.1.1_21          TEEKPATEPTTSTSPVTTETK               species         Streptococcus pneumoniae      
+9403.1.1_22          LQETVNNLTLTPEALKEEEAKR              species         Streptococcus pneumoniae      
+4413.1.1_14          YTAESVTAVKEAEK                      species         Streptococcus pneumoniae      
+5483.1.1_12          AQQDTIDQAIAK                        species         Streptococcus pneumoniae      
+8111.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+3584.1.1_10          VAVSYTTAEK                          species         Streptococcus pneumoniae      
+12212.1.1_14         TLELEIAESDVEVK                      species         Streptococcus pneumoniae      
+7111.1.1_14          KFSGTLSGVVAETK                      species         Streptococcus pneumoniae      
+3332.1.1_21          TEEKPATEPTTSTSPVTTETK               species         Streptococcus pneumoniae      
+3926.1.1_16          TEQSEPSSTEAIASEK                    species         Streptococcus pneumoniae      
+7293.1.1_12          VLSETTIYADSR                        species         Streptococcus pneumoniae      
+4613.1.1_37          EETAVPENSGANTELVSGESEHSTNEADKQNEGEHTR species         Streptococcus pneumoniae      
+8508.1.1_14          YGNLVETSSNLYNK                      species         Streptococcus pneumoniae      
+2913.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+5841.1.1_29          EETAVPENSGANTELVSGESEHSTNEADK       species         Streptococcus pneumoniae      
+9256.1.1_22          LQETVNNLTLTPEALKEEEAKR              species         Streptococcus pneumoniae      
+7749.1.1_16          GIDESDSEDYVKEGLR                    species         Streptococcus pneumoniae      
+6988.1.1_21          YNQLSSTAQNDNAGKPALFEK               species         Streptococcus pneumoniae      
+8689.1.1_19          DVVNPTPGQVLPEETSGTK                 species         Streptococcus pneumoniae      
+7102.1.1_16          AVVYNNEGTNVELGGR                    species         Haemophilus influenzae        
+12642.1.1_16         AIEAGQTVDFSDLAIK                    species         Streptococcus pneumoniae      
+3781.1.1_10          ILKEVEEAEK                          species         Streptococcus pneumoniae      
+8865.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+11949.1.1_13         NDYTIATANWIGR                       species         Streptococcus pneumoniae      
+7069.1.1_14          QEHENAEMLVGEQR                      species         Streptococcus pneumoniae      
+2845.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+6726.1.1_13          ALPQDPAPVVTEK                       species         Streptococcus pneumoniae      
+7166.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+5547.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+7645.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+11202.1.1_17         LGNNAEELEVSGVAIPR                   species         Streptococcus pneumoniae      
+4651.1.1_17          DSATKPDAPTVEKPEFK                   species         Streptococcus pneumoniae      
+9319.1.1_22          LQETVNNLTLTPEALKEEEAKR              species         Streptococcus pneumoniae      
+7434.1.1_11          VAENEEGYVFR                         species         Streptococcus pneumoniae      
+7698.1.1_14          EGLRAPLQSELDAK                      species         Streptococcus pneumoniae      
+15105.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+7421.1.1_14          LTYYDGSDQESLER                      species         Streptococcus pneumoniae      
+12191.1.1_19         IDFQEEIQENPDLAEGTVR                 species         Streptococcus pneumoniae      
+10414.1.1_15         SSALINMNFITDSSK                     species         Streptococcus pneumoniae      
+6250.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+3850.1.1_16          TEQSEPSSTEAIASEK                    species         Streptococcus pneumoniae      
+10318.1.1_15         SSALINMNFITDSSK                     species         Streptococcus pneumoniae      
+12002.1.1_13         IDELDAEIAKLEK                       species         Streptococcus pneumoniae      
+7126.1.1_12          TKLSTLEELSDK                        species         Streptococcus pneumoniae      
+5559.1.1_25          LEKAEGVATASETAEAASAAKPEEK           species         Streptococcus pneumoniae      
+3910.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+8125.1.1_15          SNPFASDVINQGNSK                     species         Streptococcus pneumoniae      
+10702.1.1_14         NKQAELDTLVANLK                      species         Streptococcus pneumoniae      
+5477.1.1_11          AELELVKEEAK                         species         Streptococcus pneumoniae      
+5505.1.1_14          AELELVKEEAKEPR                      species         Streptococcus pneumoniae      
+6857.1.1_11          TNELQAYAYSK                         species         Streptococcus pneumoniae      
+3990.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+6003.1.1_26          IEQPSAEDTKPNNENTNTPEEMSIQK          species         Streptococcus pneumoniae      
+11186.1.1_27         QEGASEQPLANETQLSGESSTLTDTEK         species         Streptococcus pneumoniae      
+9576.1.1_13          TVASYQIGGLVGK                       species         Streptococcus pneumoniae      
+5981.1.1_19          TPAVGNTFTTSFNTGHGKK                 species         Streptococcus pneumoniae      
+5246.1.1_12          GIDESDSEDYVK                        species         Streptococcus pneumoniae      
+7467.1.1_14          EGLRAPLQSELDAK                      species         Streptococcus pneumoniae      
+5535.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+11860.1.1_13         NDYTIATANWIGR                       species         Streptococcus pneumoniae      
+8447.1.1_11          YFQPEQELDAR                         species         Streptococcus pneumoniae      
+7389.1.1_27          NTTTLAQPLTDTAAGSGKNESDISSPR         species         Streptococcus pneumoniae      
+6545.1.1_22          KIENEYKPDPDGNSVYATNVVR              species         Streptococcus pneumoniae      
+8320.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+6429.1.1_10          ESLEALDAAK                          species         Streptococcus pneumoniae      
+3846.1.1_15          VLPKPTYQPASDQQK                     species         Streptococcus pneumoniae      
+15063.1.1_23         DSVQSGSTANLPADLATALATAK             species         Streptococcus pneumoniae      
+11130.1.1_25         VGEDQGSPEVTDGPKTEEELLALEK           species         Streptococcus pneumoniae      
+5342.1.1_9           YLDPSAVSR                           species         Streptococcus pneumoniae      
+9944.1.1_18          EVAEDAKDAVEGAVEGVK                  species         Streptococcus pneumoniae      
+5543.1.1_14          AELELVKEEAKEPR                      species         Streptococcus pneumoniae      
+4456.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+5257.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+7377.1.1_14          GVAADAISATGYGK                      species         Haemophilus influenzae        
+2678.1.1_18          AEKPAPAPKPEQPVPAPK                  species         Streptococcus pneumoniae      
+12740.1.1_12         QAELDTLVANLK                        species         Streptococcus pneumoniae      
+5303.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+6038.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+7819.1.1_10          IAELENEVYR                          species         Streptococcus pneumoniae      
+8238.1.1_13          FAEYANTLAAMAK                       species         Streptococcus pneumoniae      
+5956.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+9461.1.1_27          EKLPETGNSTSDSTLEEVPTVDPVQEK         species         Streptococcus pneumoniae      
+5243.1.1_10          APLQSELDAK                          species         Streptococcus pneumoniae      
+13143.1.1_20         TDAEQTEQYLAAAEKDLADK                species         Streptococcus pneumoniae      
+11800.1.1_12         NNVITYNVLLAK                        species         Streptococcus pneumoniae      
+7305.1.1_27          NTTTLAQPLTDTAAGSGKNESDISSPR         species         Streptococcus pneumoniae      
+3079.1.1_11          AELEKTEADLK                         species         Streptococcus pneumoniae      
+5335.1.1_10          APLQSELDAK                          species         Streptococcus pneumoniae      
+6796.1.1_12          VTEEILEEPQDK                        species         Streptococcus pneumoniae      
+5503.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+4081.1.1_11          LGAAEDAELQK                         species         Haemophilus influenzae        
+3257.1.1_21          TEEKPATEPTTSTSPVTTETK               species         Streptococcus pneumoniae      
+4598.1.1_15          KAELELVKEEAKEPR                     species         Streptococcus pneumoniae      
+4946.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+10782.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+4667.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+11698.1.1_16         LQETVNNLTLTPEALK                    species         Streptococcus pneumoniae      
+8649.1.1_19          DVVNPTPGQVLPEETSGTK                 species         Streptococcus pneumoniae      
+7900.1.1_10          LSTLEELSDK                          species         Streptococcus pneumoniae      
+4007.1.1_15          VLPKPTYQPASDQQK                     species         Streptococcus pneumoniae      
+3779.1.1_21          EANNNTHIDNVHADGAIAGER               species         Streptococcus pneumoniae      
+11224.1.1_13         IDSNSSLVSQLVR                       species         Streptococcus pneumoniae      
+8615.1.1_11          TATFLTQYDSK                         species         Streptococcus pneumoniae      
+5915.1.1_29          EETAVPENSGANTELVSGESEHSTNEADK       species         Streptococcus pneumoniae      
+7687.1.1_16          GIDESDSEDYVKEGLR                    species         Streptococcus pneumoniae      
+5937.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+9935.1.1_18          EVAEDAKDAVEGAVEGVK                  species         Streptococcus pneumoniae      
+11465.1.1_16         VLAWLANGAQPSDTVR                    species         Streptococcus pneumoniae      
+10340.1.1_14         SGNGPVLIESVTYR                      species         Streptococcus pneumoniae      
+4510.1.1_14          YTAESVTAVKEAEK                      species         Streptococcus pneumoniae      
+2958.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+6648.1.1_10          IPTNLEGYSK                          species         Streptococcus pneumoniae      
+2900.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+5273.1.1_32          DGVTTTTENQPTIHTVSDSPQSSENRTEETPK    species         Streptococcus pneumoniae      
+5415.1.1_12          GIDESDSEDYVK                        species         Streptococcus pneumoniae      
+3166.1.1_11          AELEKTEADLK                         species         Streptococcus pneumoniae      
+8433.1.1_18          LETELKGIDESDSEDYVK                  species         Streptococcus pneumoniae      
+7259.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+11755.1.1_12         VEDAGLEILEAR                        species         Streptococcus pneumoniae      
+10489.1.1_15         IQEIEVPEVLPHQVK                     species         Streptococcus pneumoniae      
+8911.1.1_15          TDAEQTEQYLAAAEK                     species         Streptococcus pneumoniae      
+2236.1.1_19          LTQQQPPKTEKPAQPSTPK                 species         Streptococcus pneumoniae      
+5541.1.1_18          AEGVATASETAEAASAAK                  species         Streptococcus pneumoniae      
+10546.1.1_11         LEQFAEELVAK                         species         Streptococcus pneumoniae      
+9707.1.1_13          VAYQPGTLEAIAR                       species         Streptococcus pneumoniae      
+6710.1.1_12          AQQDTIEQAIAK                        species         Streptococcus pneumoniae      
+5656.1.1_12          SEVIPSAEELKK                        species         Streptococcus pneumoniae      
+7489.1.1_21          IENEYKPDPDGNSVYATNVVR               species         Streptococcus pneumoniae      
+5493.1.1_10          NVPAVETLNK                          species         Streptococcus pneumoniae      
+2806.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+11745.1.1_14         YDANNIVAGIAYGR                      species         Haemophilus influenzae        
+2745.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+5224.1.1_32          DGVTTTTENQPTIHTVSDSPQSSENRTEETPK    species         Streptococcus pneumoniae      
+3476.1.1_14          AGEVVAETPSAEAK                      species         Streptococcus pneumoniae      
+6485.1.1_13          TQQSETGVYTSFK                       species         Streptococcus pneumoniae      
+12108.1.1_19         IDFQEEIQENPDLAEGTVR                 species         Streptococcus pneumoniae      
+5611.1.1_12          GIDESDSEDYVK                        species         Streptococcus pneumoniae      
+8329.1.1_13          FAEYANTLAAMAK                       species         Streptococcus pneumoniae      
+8251.1.1_12          QIPTVMVGGNVK                        species         Streptococcus pneumoniae      
+10737.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+7478.1.1_27          NTTTLAQPLTDTAAGSGKNESDISSPR         species         Streptococcus pneumoniae      
+3519.1.1_15          VEGTEITLHRPNDSK                     species         Streptococcus pneumoniae      
+5033.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+8566.1.1_17          IETSDGDMVAPIVVDSR                   species         Streptococcus pneumoniae      
+10699.1.1_22         SIGGLVSQVNNSTISNSSYTGR              species         Streptococcus pneumoniae      
+3844.1.1_11          APLQSELDAKR                         species         Streptococcus pneumoniae      
+3794.1.1_14          QEHENAEMLVGEQR                      species         Streptococcus pneumoniae      
+5982.1.1_22          AEGVATASETAEAASAAKPEEK              species         Streptococcus pneumoniae      
+7373.1.1_14          EGLRAPLQSELDAK                      species         Streptococcus pneumoniae      
+5449.1.1_14          AELELVKEEAKEPR                      species         Streptococcus pneumoniae      
+4712.1.1_14          VRSEVIPSAEELKK                      species         Streptococcus pneumoniae      
+5626.1.1_37          EETAVPENSGANTELVSGESEHSTNEADKQNEGEHTR species         Streptococcus pneumoniae      
+3827.1.1_18          TENEGSTQAATFSNMANK                  species         Streptococcus pneumoniae      
+8332.1.1_11          TEIQGLITTSR                         species         Streptococcus pneumoniae      
+9378.1.1_18          VSDVAESTGEFTSEQFEK                  species         Streptococcus pneumoniae      
+5010.1.1_18          VPEQPVQPTQAEQPSTPK                  species         Streptococcus pneumoniae      
+4945.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+13554.1.1_16         DLSVEWEEVPAENLTK                    species         Streptococcus pneumoniae      
+6890.1.1_11          IFSVNNEEVSR                         species         Streptococcus pneumoniae      
+12132.1.1_14         TLELEIAESDVEVK                      species         Streptococcus pneumoniae      
+4010.1.1_16          TEQSEPSSTEAIASEK                    species         Streptococcus pneumoniae      
+2735.1.1_18          AEKPAPAPKPEQPVPAPK                  species         Streptococcus pneumoniae      
+5305.1.1_12          AQQDTIDQAIAK                        species         Streptococcus pneumoniae      
+8210.1.1_19          QYGSELDDKEVDDTIAEEK                 species         Streptococcus pneumoniae      
+5372.1.1_26          DGVTTTTENQPTIHTVSDSPQSSENR          species         Streptococcus pneumoniae      
+4026.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+3695.1.1_10          ILKEVEEAEK                          species         Streptococcus pneumoniae      
+9558.1.1_27          EKLPETGNSTSDSTLEEVPTVDPVQEK         species         Streptococcus pneumoniae      
+7295.1.1_18          LEIPSQPAPSTAPAEESK                  species         Streptococcus pneumoniae      
+4718.1.1_37          EETAVPENSGANTELVSGESEHSTNEADKQNEGEHTR species         Streptococcus pneumoniae      
+15274.1.1_12         QAELDTLVANLK                        species         Streptococcus pneumoniae      
+6284.1.1_28          VEEEKEDSAEPAPVEEVGGEVESKPEEK        species         Streptococcus pneumoniae      
+10625.1.1_13         QFSQAEMEELQAR                       species         Streptococcus pneumoniae      
+5138.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+4740.1.1_12          SQTEQGEINIER                        species         Streptococcus pneumoniae      
+3230.1.1_28          KAVNEPEKPAEETPAPAPKPEQPAEQPK        species         Streptococcus pneumoniae      
+6612.1.1_16          TGTSNYTDEEIENHIK                    species         Streptococcus pneumoniae      
+7730.1.1_9           FDETLEDVR                           species         Streptococcus pneumoniae      
+9357.1.1_16          IDTFGTGTVAESQLEK                    species         Streptococcus pneumoniae      
+10701.1.1_14         NKQAELDTLVANLK                      species         Streptococcus pneumoniae      
+2756.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+11550.1.1_16         VLAWLANGAQPSDTVR                    species         Streptococcus pneumoniae      
+10829.1.1_15         LDIQKEEIPFTTVTR                     species         Streptococcus pneumoniae      
+5049.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+11291.1.1_13         DIILAQTEENLTR                       species         Streptococcus pneumoniae      
+8426.1.1_11          VIAVADNLVQR                         species         Streptococcus pneumoniae      
+3505.1.1_10          VAVSYTTAEK                          species         Streptococcus pneumoniae      
+9427.1.1_22          LQETVNNLTLTPEALKEEEAKR              species         Streptococcus pneumoniae      
+9487.1.1_13          TVASYQIGGLVGK                       species         Streptococcus pneumoniae      
+7786.1.1_13          VQYEGGTEDELIR                       species         Streptococcus pneumoniae      
+2774.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+7603.1.1_14          AWLANGAQPSDTVR                      species         Streptococcus pneumoniae      
+8631.1.1_32          TEEKPATEPTTSTSPVTTETKAEEPIEDNYFR    species         Streptococcus pneumoniae      
+10790.1.1_18         AEGVATVDSALFENDQEK                  species         Streptococcus pneumoniae      
+11274.1.1_14         SNSSALDNVIELGK                      species         Streptococcus pneumoniae      
+11265.1.1_12         VDPVATLALASR                        species         Streptococcus pneumoniae      
+7604.1.1_16          GIDESDSEDYVKEGLR                    species         Streptococcus pneumoniae      
+2949.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+7613.1.1_14          EGLRAPLQSELDAK                      species         Streptococcus pneumoniae      
+10139.1.1_12         QATIDAVSYLAK                        species         Streptococcus pneumoniae      
+9793.1.1_15          ANAQVAGVAGDITFK                     species         Streptococcus pneumoniae      
+4500.1.1_15          KAELELVKEEAKEPR                     species         Streptococcus pneumoniae      
+5363.1.1_14          ANPTGDSAAAIYNR                      species         Streptococcus pneumoniae      
+5244.1.1_12          NGVEVIQSEENR                        species         Streptococcus pneumoniae      
+7328.1.1_18          TPAVGNTFTTSFNTGHGK                  species         Streptococcus pneumoniae      
+4113.1.1_27          PAPAPQPAPAPKPEKTDDQQAEEDYAR         species         Streptococcus pneumoniae      
+7131.1.1_13          NTIKTEDFNFSSR                       species         Streptococcus pneumoniae      
+2822.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+7823.1.1_16          NSTFNNQNFTLANGQK                    species         Streptococcus pneumoniae      
+3923.1.1_15          VLPKPTYQPASDQQK                     species         Streptococcus pneumoniae      
+3108.1.1_13          YKEEDDFVTGGKR                       species         Streptococcus pneumoniae      
+3031.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+4741.1.1_14          QEHENAEMLVGEQR                      species         Streptococcus pneumoniae      
+10387.1.1_36         LYEQAAAAQQAAAGQEGAQTADNAGDDVVDGEFTEK species         Streptococcus suis            
+8526.1.1_11          TEIQGLITTSR                         species         Streptococcus pneumoniae      
+7772.1.1_16          GIDESDSEDYVKEGLR                    species         Streptococcus pneumoniae      
+7019.1.1_18          NTTTLAQPLTDTAAGSGK                  species         Streptococcus pneumoniae      
+2931.1.1_16          AGEVVAETPSAEAKPK                    species         Streptococcus pneumoniae      
+9760.1.1_13          IVPEIDPSQIDSR                       species         Streptococcus pneumoniae      
+5218.1.1_23          THYAFVYESAEKPQPAKPAPQNK             species         Streptococcus pneumoniae      
+7272.1.1_16          KTDAEQTEQYLAAAEK                    species         Streptococcus pneumoniae      
+2736.1.1_14          ILKEVEEAEKEHKK                      species         Streptococcus pneumoniae      
+9562.1.1_17          GESAVQPELPEAVVSDK                   species         Streptococcus pneumoniae      

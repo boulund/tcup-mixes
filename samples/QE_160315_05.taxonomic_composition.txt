@@ -1,0 +1,36 @@
+--------5.results/QE_160315_05/QE_160315_05.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1738       1153    98.86 genus                Streptococcus                           
+1781       43      98.23 family               Streptococcaceae                        
+581        570     96.51 species              Streptococcus pneumoniae                
+10         10      50.00 no rank              Streptococcus pneumoniae P1031          
+2          2       10.00 no rank              Archaeoglobus fulgidus DSM 4304         
+1          1        5.00 no rank              Agrobacterium radiobacter K84           
+1          0        5.00 no rank              Bacteroidetes/Chlorobi group            
+1          1        5.00 no rank              Haemophilus somnus 2336                 
+1          1        5.00 no rank              Lachnoclostridium phytofermentans ISDg  
+1          0        5.00 no rank              Rhizobium/Agrobacterium group           
+1          1        5.00 no rank              Streptococcus anginosus C1051           
+1          1        5.00 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        5.00 no rank              Thalassolituus oleivorans MIL-1         
+11         11       1.83 species              Haemophilus influenzae                  
+24         9        1.32 family               Pasteurellaceae                         
+14         3        0.80 genus                Haemophilus                             
+3          3        0.50 species              Streptococcus suis                      
+2          0        0.33 species              Archaeoglobus fulgidus                  
+1          0        0.17 species              Agrobacterium tumefaciens               
+1          0        0.17 species              Histophilus somni                       
+1          0        0.17 species              Lachnoclostridium phytofermentans       
+1          0        0.17 species              Streptococcus anginosus                 
+1          0        0.17 species              Thalassolituus oleivorans               
+3          3        0.17 family               Staphylococcaceae                       
+2          0        0.11 genus                Archaeoglobus                           
+2          0        0.11 family               Archaeoglobaceae                        
+1          0        0.06 genus                Agrobacterium                           
+1          0        0.06 genus                Histophilus                             
+1          0        0.06 genus                Lachnoclostridium                       
+1          0        0.06 genus                Thalassolituus                          
+1          0        0.06 family               Lachnospiraceae                         
+1          0        0.06 family               Oceanospirillaceae                      
+1          0        0.06 family               Rhizobiaceae                            

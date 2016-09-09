@@ -1,0 +1,22 @@
+-------5.results/QE_150611_131/QE_150611_131.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1637       53      99.76 family               Staphylococcaceae                       
+1584       1119    99.75 genus                Staphylococcus                          
+463        461     98.93 species              Staphylococcus aureus                   
+1          1       33.33 no rank              Aequorivita sublithincola DSM 14238     
+1          0       33.33 no rank              Bacteroidetes/Chlorobi group            
+1          1       33.33 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+1          0        0.21 species              Aequorivita sublithincola               
+1          1        0.21 species              Alicycliphilus denitrificans            
+1          1        0.21 species              Pseudomonas aeruginosa                  
+1          1        0.21 species              Staphylococcus argenteus                
+1          0        0.21 species              Staphylococcus saprophyticus            
+1          0        0.06 genus                Aequorivita                             
+1          0        0.06 genus                Alicycliphilus                          
+1          1        0.06 genus                Caldicellulosiruptor                    
+1          0        0.06 genus                Pseudomonas                             
+1          0        0.06 family               Comamonadaceae                          
+1          0        0.06 family               Flavobacteriaceae                       
+1          0        0.06 family               Pseudomonadaceae                        
+1          0        0.06 family               Thermoanaerobacterales Family III. Incertae Sedis

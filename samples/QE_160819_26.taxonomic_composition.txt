@@ -1,0 +1,88 @@
+--------5.results/QE_160819_26/QE_160819_26.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1176       1176    94.99 no rank              Moraxella catarrhalis BBH18             
+1176       0       45.01 species              Moraxella catarrhalis                   
+1895       1441    41.09 genus                Staphylococcus                          
+1993       98      36.37 family               Staphylococcaceae                       
+915        878     35.02 species              Haemophilus influenzae                  
+1710       615     31.20 family               Pasteurellaceae                         
+1176       0       25.50 genus                Moraxella                               
+1317       131     24.03 family               Moraxellaceae                           
+1091       176     23.66 genus                Haemophilus                             
+452        447     17.30 species              Staphylococcus aureus                   
+415        377      9.00 genus                Streptococcus                           
+439        24       8.01 family               Streptococcaceae                        
+31         31       2.50 no rank              Haemophilus influenzae 86-028NP         
+35         35       1.34 species              Streptococcus pneumoniae                
+5          0        0.40 no rank              Bacteroidetes/Chlorobi group            
+3          3        0.24 no rank              Gallibacterium anatis UMN179            
+5          5        0.19 species              Psychrobacter sp. PRwf-1                
+2          2        0.16 no rank              Anoxybacillus flavithermus WK1          
+2          2        0.16 no rank              Haemophilus influenzae R2846            
+2          2        0.16 no rank              Pseudomonas fulva 12-X                  
+2          2        0.16 no rank              Staphylococcus aureus subsp. aureus str. Newman
+2          2        0.16 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+6          0        0.13 genus                Psychrobacter                           
+3          3        0.11 species              Faecalibacterium prausnitzii            
+3          0        0.11 species              Gallibacterium anatis                   
+4          2        0.09 genus                Acinetobacter                           
+1          1        0.08 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        0.08 no rank              Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+1          1        0.08 no rank              Desulfotomaculum acetoxidans DSM 771    
+1          1        0.08 no rank              Haemophilus influenzae F3031            
+1          1        0.08 no rank              Haemophilus influenzae F3047            
+1          1        0.08 no rank              Haemophilus influenzae KR494            
+1          1        0.08 no rank              Haemophilus influenzae R2866            
+1          1        0.08 no rank              Psychrobacter arcticus 273-4            
+1          1        0.08 no rank              Staphylococcus aureus subsp. aureus 11819-97
+1          1        0.08 no rank              Streptococcus oligofermentans AS 1.3089 
+1          1        0.08 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+1          1        0.08 no rank              Thiocystis violascens DSM 198           
+1          0        0.08 no rank              unclassified Betaproteobacteria         
+2          2        0.08 species              Acinetobacter sp. ADP1                  
+2          0        0.08 species              Anoxybacillus flavithermus              
+2          2        0.08 species              Mycoplasma putrefaciens                 
+2          2        0.08 species              Paenibacillus sp. JDR-2                 
+2          0        0.08 species              Pseudomonas fulva                       
+2          0        0.08 species              Staphylococcus saprophyticus            
+2          2        0.08 species              Streptococcus suis                      
+3          0        0.07 genus                Faecalibacterium                        
+3          0        0.07 genus                Gallibacterium                          
+3          1        0.07 genus                Mycoplasma                              
+3          0        0.05 family               Bacillaceae                             
+3          0        0.05 family               Mycoplasmataceae                        
+3          0        0.05 family               Ruminococcaceae                         
+2          0        0.04 genus                Anoxybacillus                           
+2          0        0.04 genus                Paenibacillus                           
+2          0        0.04 genus                Pseudomonas                             
+1          1        0.04 species              Actinoplanes sp. SE50/110               
+1          0        0.04 species              Aggregatibacter actinomycetemcomitans   
+1          1        0.04 species              Anaerostipes hadrus                     
+1          0        0.04 species              Candidatus Accumulibacter phosphatis    
+1          0        0.04 species              Desulfotomaculum acetoxidans            
+1          1        0.04 species              Nitrosomonas sp. Is79A3                 
+1          0        0.04 species              Psychrobacter arcticus                  
+1          0        0.04 species              Streptococcus oligofermentans           
+1          0        0.04 species              Thermoanaerobacterium thermosaccharolyticum
+1          0        0.04 species              Thiocystis violascens                   
+2          0        0.04 family               Paenibacillaceae                        
+2          0        0.04 family               Pseudomonadaceae                        
+1          0        0.02 genus                Actinoplanes                            
+1          0        0.02 genus                Aggregatibacter                         
+1          0        0.02 genus                Anaerostipes                            
+1          0        0.02 genus                Candidatus Accumulibacter               
+1          0        0.02 genus                Desulfotomaculum                        
+1          1        0.02 genus                Geobacillus                             
+1          0        0.02 genus                Nitrosomonas                            
+1          1        0.02 genus                Serratia                                
+1          0        0.02 genus                Thermoanaerobacterium                   
+1          0        0.02 genus                Thiocystis                              
+1          1        0.02 family               Burkholderiaceae                        
+1          0        0.02 family               Chromatiaceae                           
+1          0        0.02 family               Enterobacteriaceae                      
+1          0        0.02 family               Lachnospiraceae                         
+1          0        0.02 family               Micromonosporaceae                      
+1          0        0.02 family               Nitrosomonadaceae                       
+1          0        0.02 family               Peptococcaceae                          
+1          0        0.02 family               Thermoanaerobacterales Family III. Incertae Sedis
