@@ -1,0 +1,44 @@
+--------5.results/QE_151117_19/QE_151117_19.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1973       642     99.50 family               Pasteurellaceae                         
+1328       200     99.25 genus                Haemophilus                             
+1128       1066    99.21 species              Haemophilus influenzae                  
+43         43      59.72 no rank              Haemophilus influenzae 86-028NP         
+5          5        6.94 no rank              Haemophilus influenzae F3047            
+4          4        5.56 no rank              Haemophilus influenzae R2866            
+2          2        2.78 no rank              Haemophilus influenzae 10810            
+2          2        2.78 no rank              Haemophilus influenzae KR494            
+2          2        2.78 no rank              Haemophilus influenzae PittEE           
+2          2        2.78 no rank              Haemophilus influenzae PittGG           
+2          2        2.78 no rank              Haemophilus influenzae R2846            
+2          2        2.78 no rank              Slackia heliotrinireducens DSM 20476    
+1          1        1.39 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        1.39 no rank              Aggregatibacter aphrophilus NJ8700      
+1          0        1.39 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        1.39 no rank              aphid secondary symbionts               
+1          1        1.39 no rank              Collimonas fungivorans Ter331           
+1          1        1.39 no rank              Desulfobacca acetoxidans DSM 11109      
+1          1        1.39 no rank              Pseudomonas fulva 12-X                  
+1          0        1.39 no rank              unclassified Enterobacteriaceae         
+2          0        0.18 species              Slackia heliotrinireducens              
+2          0        0.15 genus                Aggregatibacter                         
+2          1        0.15 genus                Pseudomonas                             
+2          0        0.15 genus                Slackia                                 
+2          0        0.10 family               Eggerthellaceae                         
+2          0        0.10 family               Enterobacteriaceae                      
+2          0        0.10 family               Pseudomonadaceae                        
+2          2        0.10 family               Vibrionaceae                            
+1          0        0.09 species              Aggregatibacter actinomycetemcomitans   
+1          0        0.09 species              Aggregatibacter aphrophilus             
+1          0        0.09 species              Collimonas fungivorans                  
+1          0        0.09 species              Desulfobacca acetoxidans                
+1          1        0.09 species              Pantoea sp. At-9b                       
+1          0        0.09 species              Pseudomonas fulva                       
+1          1        0.09 species              secondary endosymbiont of Ctenarytaina eucalypti
+1          1        0.07 genus                Actinobacillus                          
+1          0        0.07 genus                Collimonas                              
+1          0        0.07 genus                Desulfobacca                            
+1          0        0.07 genus                Pantoea                                 
+1          0        0.05 family               Oxalobacteraceae                        
+1          0        0.05 family               Syntrophaceae                           

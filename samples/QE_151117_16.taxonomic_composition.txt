@@ -1,0 +1,43 @@
+--------5.results/QE_151117_16/QE_151117_16.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2304       780     99.65 family               Pasteurellaceae                         
+1520       229     99.22 genus                Haemophilus                             
+1289       1225    99.00 species              Haemophilus influenzae                  
+46         46      63.01 no rank              Haemophilus influenzae 86-028NP         
+6          6        8.22 no rank              Haemophilus influenzae F3047            
+5          5        6.85 no rank              Haemophilus influenzae R2866            
+3          3        4.11 no rank              Haemophilus influenzae R2846            
+2          2        2.74 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+2          2        2.74 no rank              Haemophilus influenzae PittEE           
+1          1        1.37 no rank              Achromobacter xylosoxidans A8           
+1          1        1.37 no rank              Aggregatibacter aphrophilus NJ8700      
+1          1        1.37 no rank              Candidatus Accumulibacter phosphatis clade IIA str. UW-1
+1          1        1.37 no rank              Haemophilus ducreyi 35000HP             
+1          1        1.37 no rank              Haemophilus influenzae 10810            
+1          1        1.37 no rank              Haemophilus influenzae PittGG           
+1          1        1.37 no rank              Haemophilus parainfluenzae T3T1         
+1          1        1.37 no rank              Thioalkalivibrio sulfidiphilus HL-EbGr7 
+1          0        1.37 no rank              unclassified Betaproteobacteria         
+3          0        0.20 genus                Aggregatibacter                         
+4          1        0.17 family               Enterobacteriaceae                      
+2          0        0.15 species              Aggregatibacter actinomycetemcomitans   
+2          2        0.15 species              Arcobacter sp. L                        
+2          2        0.15 species              Pantoea sp. At-9b                       
+2          0        0.13 genus                Arcobacter                              
+2          0        0.13 genus                Pantoea                                 
+2          0        0.09 family               Campylobacteraceae                      
+1          0        0.08 species              [Haemophilus] ducreyi                   
+1          0        0.08 species              Achromobacter xylosoxidans              
+1          0        0.08 species              Aggregatibacter aphrophilus             
+1          0        0.08 species              Candidatus Accumulibacter phosphatis    
+1          1        0.08 species              Erwinia pyrifoliae                      
+1          0        0.08 species              Haemophilus parainfluenzae              
+1          0        0.08 species              Thioalkalivibrio sulfidiphilus          
+1          0        0.07 genus                Achromobacter                           
+1          1        0.07 genus                Actinobacillus                          
+1          0        0.07 genus                Candidatus Accumulibacter               
+1          0        0.07 genus                Erwinia                                 
+1          0        0.07 genus                Thioalkalivibrio                        
+1          0        0.04 family               Alcaligenaceae                          
+1          0        0.04 family               Ectothiorhodospiraceae                  

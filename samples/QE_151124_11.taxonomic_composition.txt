@@ -1,0 +1,73 @@
+--------5.results/QE_151124_11/QE_151124_11.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2617       2617    99.24 no rank              Moraxella catarrhalis BBH18             
+2827       204     99.05 family               Moraxellaceae                           
+2617       0       98.87 species              Moraxella catarrhalis                   
+2617       0       98.79 genus                Moraxella                               
+6          6        0.23 no rank              Gallibacterium anatis UMN179            
+6          6        0.23 species              Faecalibacterium prausnitzii            
+6          0        0.23 species              Gallibacterium anatis                   
+6          0        0.23 genus                Faecalibacterium                        
+6          0        0.23 genus                Gallibacterium                          
+6          0        0.21 family               Pasteurellaceae                         
+6          0        0.21 family               Ruminococcaceae                         
+3          3        0.11 species              Psychrobacter sp. PRwf-1                
+3          2        0.11 genus                Acinetobacter                           
+3          0        0.11 genus                Psychrobacter                           
+2          0        0.08 no rank              Bacteroidetes/Chlorobi group            
+2          1        0.07 family               Flavobacteriaceae                       
+1          1        0.04 no rank              Acholeplasma palmae J233                
+1          1        0.04 no rank              Actinosynnema mirum DSM 43827           
+1          1        0.04 no rank              Heliobacterium modesticaldum Ice1       
+1          1        0.04 no rank              Methanococcus vannielii SB              
+1          1        0.04 no rank              Oscillatoria acuminata PCC 6304         
+1          1        0.04 no rank              Pararhodospirillum photometricum DSM 122
+1          1        0.04 no rank              Pelobacter propionicus DSM 2379         
+1          1        0.04 no rank              Streptococcus oligofermentans AS 1.3089 
+1          1        0.04 no rank              Streptomyces albus J1074                
+1          1        0.04 no rank              Thermoanaerobacterium thermosaccharolyticum DSM 571
+1          0        0.04 no rank              unclassified Flavobacteriaceae          
+1          1        0.04 no rank              Variovorax paradoxus EPS                
+1          0        0.04 species              Acholeplasma palmae                     
+1          1        0.04 species              Acinetobacter sp. ADP1                  
+1          0        0.04 species              Actinosynnema mirum                     
+1          1        0.04 species              Candidatus Pelagibacter sp. IMCC9063    
+1          1        0.04 species              Flavobacteriaceae bacterium 3519-10     
+1          0        0.04 species              Heliobacterium modesticaldum            
+1          0        0.04 species              Methanococcus vannielii                 
+1          1        0.04 species              Mycoplasma putrefaciens                 
+1          0        0.04 species              Oscillatoria acuminata                  
+1          0        0.04 species              Pararhodospirillum photometricum        
+1          0        0.04 species              Pelobacter propionicus                  
+1          0        0.04 species              Streptococcus oligofermentans           
+1          0        0.04 species              Streptomyces albus                      
+1          0        0.04 species              Thermoanaerobacterium thermosaccharolyticum
+1          0        0.04 species              Variovorax paradoxus                    
+1          0        0.04 genus                Acholeplasma                            
+1          0        0.04 genus                Actinosynnema                           
+1          0        0.04 genus                Candidatus Pelagibacter                 
+1          0        0.04 genus                Heliobacterium                          
+1          0        0.04 genus                Methanococcus                           
+1          0        0.04 genus                Mycoplasma                              
+1          0        0.04 genus                Oscillatoria                            
+1          0        0.04 genus                Pararhodospirillum                      
+1          0        0.04 genus                Pelobacter                              
+1          1        0.04 genus                Rickettsia                              
+1          0        0.04 genus                Streptococcus                           
+1          0        0.04 genus                Streptomyces                            
+1          0        0.04 genus                Thermoanaerobacterium                   
+1          0        0.04 genus                Variovorax                              
+1          0        0.04 family               Acholeplasmataceae                      
+1          0        0.04 family               Comamonadaceae                          
+1          0        0.04 family               Heliobacteriaceae                       
+1          0        0.04 family               Methanococcaceae                        
+1          0        0.04 family               Mycoplasmataceae                        
+1          0        0.04 family               Pelagibacteraceae                       
+1          0        0.04 family               Pelobacteraceae                         
+1          0        0.04 family               Pseudonocardiaceae                      
+1          0        0.04 family               Rhodospirillaceae                       
+1          0        0.04 family               Rickettsiaceae                          
+1          0        0.04 family               Streptococcaceae                        
+1          0        0.04 family               Streptomycetaceae                       
+1          0        0.04 family               Thermoanaerobacterales Family III. Incertae Sedis

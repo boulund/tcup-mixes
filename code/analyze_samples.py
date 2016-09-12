@@ -132,24 +132,14 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
 
 
     if options.multibars:
-        import seaborn as sns
-        g = sns.factorplot(data=dpeps.sort_values("Proportion", ascending=False),
-                x="Species",
-                y="Proportion",
-                hue="Sample",
-                kind="bar",
-                palette="muted",
-                legend=False,
-                #legend_out=True,
-                )
-        g.despine()
-        g.set_ylabels("Uncorrected proportion")
-        g.set_titles("Uncorrected proportions")
-        g.set_xticklabels(rotation=0)
-        plt.subplots_adjust(top=1.9)
-        g.fig.suptitle("Uncorrected proportions\n"+mixture_ratio)
-        plt.tight_layout()
-        g.savefig(mixture_ratio+"_uncorrected.png", size=[10,15])
+        make_factorplot(dpeps,
+                "Species",
+                "Proportion",
+                "Sample",
+                "Proportion",
+                "Uncorrected proportion",
+                "Uncorrected proportions\n"+mixture_ratio,
+                mixture_ratio+"_uncorrected.png")
     else:
         fig1, ax1 = plt.subplots(1,1)
         average_uncorrected_compositions.Proportion['mean'].plot(kind="bar",
@@ -184,25 +174,14 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
     print(average_normalized_compositions)
 
     if options.multibars:
-        import seaborn as sns
-        g = sns.factorplot(data=dpeps.sort_values("Normalized", ascending=False),
-                x="Species",
-                y="Normalized",
-                hue="Sample",
-                kind="bar",
-                palette="muted",
-                legend=False,
-                legend_out=True,
-                )
-        g.despine()
-        g.set_ylabels("Proportion")
-        g.set_titles("Normalized proportions")
-        g.set_xticklabels(rotation=0)
-        plt.subplots_adjust(top=1.9)
-        g.fig.suptitle("Normalized proportions\n"+mixture_ratio)
-        plt.tight_layout()
-        g.savefig(mixture_ratio+"_normalized.png", size=[10,15])
-        plt.show()
+        make_factorplot(dpeps, 
+                "Species", 
+                "Normalized", 
+                "Sample", 
+                "Proportion", 
+                "Normalized proportions", 
+                "Normalized estimated composition\n"+mixture_ratio,
+                mixture_ratio+"_normalized.png")
     else:
         fig2, ax2 = plt.subplots(1,1)
         average_normalized_compositions.Normalized['mean'].plot(kind="bar",
@@ -218,8 +197,38 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
 
 
 
-
-
+def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, filename):
+    import seaborn as sns
+    sns.set_style("white")
+    sns.set_context("notebook", font_scale=0.8)
+    g = sns.factorplot(data=dpeps.sort_values(ydata, ascending=False),
+            x=xdata,
+            y=ydata,
+            hue=huedata,
+            kind="bar",
+            palette="muted",
+            legend=False,
+            legend_out=True,
+            #color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725),
+            )
+    g.despine()
+    g.set_ylabels("Proportion")
+    g.set_titles("Normalized proportions")
+    g.set_xticklabels(rotation=0)
+    for axe in g.fig.get_axes():
+        new_xticklabels = []
+        xticklabels = axe.get_xticklabels()
+        for label in xticklabels:
+            genus_letter = label.get_text().split()[0][0]+"."
+            spname = label.get_text().split()[1]
+            new_xticklabels.append(" ".join([genus_letter, spname]))
+    g.fig.get_axes()[0].set_xticklabels(new_xticklabels)
+    plt.subplots_adjust(top=1.9)
+    g.fig.suptitle(suptitle)
+    plt.tight_layout()
+    g.savefig(filename, 
+            dpi=150,
+            figsize=[15,10])
 
 
 
@@ -238,5 +247,5 @@ if __name__ == "__main__":
 
     for ratio, triplicate in triplicates.items():
         triplicate_samples = samples[samples.Sample.isin(triplicate)]
-        triplicate_dpeps = dpeps[dpeps.Species.isin(triplicate_samples.Species.unique()) & dpeps.Sample.isin(triplicate)]
+        triplicate_dpeps = dpeps[dpeps.Species.isin(triplicate_samples.Species.unique()) & dpeps.Sample.isin(triplicate)].copy()
         analyze_triplicate(ratio, triplicate_samples, triplicate_dpeps, correction_factors)

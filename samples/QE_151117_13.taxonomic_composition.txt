@@ -1,0 +1,63 @@
+--------5.results/QE_151117_13/QE_151117_13.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2358       791     99.33 family               Pasteurellaceae                         
+1562       249     98.92 genus                Haemophilus                             
+1312       1256    98.72 species              Haemophilus influenzae                  
+37         37      52.11 no rank              Haemophilus influenzae 86-028NP         
+7          7        9.86 no rank              Haemophilus influenzae F3047            
+4          4        5.63 no rank              Haemophilus influenzae R2866            
+3          3        4.23 no rank              Haemophilus influenzae PittGG           
+2          2        2.82 no rank              Aggregatibacter aphrophilus NJ8700      
+2          2        2.82 no rank              Haemophilus influenzae PittEE           
+2          2        2.82 no rank              Haemophilus influenzae R2846            
+2          2        2.82 no rank              Moraxella catarrhalis BBH18             
+1          1        1.41 no rank              Achromobacter xylosoxidans A8           
+1          1        1.41 no rank              Actinobacillus succinogenes 130Z        
+1          1        1.41 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          0        1.41 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          0        1.41 no rank              aphid secondary symbionts               
+1          1        1.41 no rank              Haemophilus influenzae 10810            
+1          1        1.41 no rank              Haemophilus parainfluenzae T3T1         
+1          1        1.41 no rank              Methylomonas methanica MC09             
+1          1        1.41 no rank              Shewanella violacea DSS12               
+1          1        1.41 no rank              Streptococcus agalactiae ILRI112        
+1          1        1.41 no rank              Thermosediminibacter oceani DSM 16646   
+1          0        1.41 no rank              unclassified Enterobacteriaceae         
+3          0        0.19 genus                Aggregatibacter                         
+2          0        0.15 species              Aggregatibacter aphrophilus             
+2          2        0.15 species              Arcobacter sp. L                        
+2          0        0.15 species              Moraxella catarrhalis                   
+2          1        0.13 genus                Actinobacillus                          
+2          0        0.13 genus                Arcobacter                              
+2          0        0.13 genus                Moraxella                               
+3          1        0.13 family               Enterobacteriaceae                      
+3          1        0.13 family               Moraxellaceae                           
+2          0        0.08 family               Campylobacteraceae                      
+1          0        0.08 species              Achromobacter xylosoxidans              
+1          0        0.08 species              Actinobacillus succinogenes             
+1          0        0.08 species              Aggregatibacter actinomycetemcomitans   
+1          0        0.08 species              Haemophilus parainfluenzae              
+1          0        0.08 species              Methylomonas methanica                  
+1          1        0.08 species              Pantoea sp. At-9b                       
+1          1        0.08 species              Pseudovibrio sp. FO-BEG1                
+1          1        0.08 species              secondary endosymbiont of Ctenarytaina eucalypti
+1          0        0.08 species              Shewanella violacea                     
+1          0        0.08 species              Streptococcus agalactiae                
+1          0        0.08 species              Thermosediminibacter oceani             
+1          0        0.06 genus                Achromobacter                           
+1          1        0.06 genus                Aeromonas                               
+1          0        0.06 genus                Methylomonas                            
+1          0        0.06 genus                Pantoea                                 
+1          0        0.06 genus                Pseudovibrio                            
+1          0        0.06 genus                Shewanella                              
+1          0        0.06 genus                Streptococcus                           
+1          0        0.06 genus                Thermosediminibacter                    
+1          0        0.04 family               Aeromonadaceae                          
+1          0        0.04 family               Alcaligenaceae                          
+1          0        0.04 family               Methylococcaceae                        
+1          0        0.04 family               Rhodobacteraceae                        
+1          0        0.04 family               Shewanellaceae                          
+1          0        0.04 family               Streptococcaceae                        
+1          0        0.04 family               Thermoanaerobacterales Family III. Incertae Sedis
+1          1        0.04 family               Vibrionaceae                            
