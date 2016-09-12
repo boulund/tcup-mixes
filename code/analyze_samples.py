@@ -128,7 +128,7 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
 
     print(mixture_ratio)
     #print(dpeps)
-    print(average_uncorrected_compositions)
+    #print(average_uncorrected_compositions)
 
 
     if options.multibars:
@@ -139,7 +139,7 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
                 "Proportion",
                 "Uncorrected proportion",
                 "Uncorrected proportions\n"+mixture_ratio,
-                mixture_ratio+"_uncorrected.png")
+                mixture_ratio+"_uncorrected")
     else:
         fig1, ax1 = plt.subplots(1,1)
         average_uncorrected_compositions.Proportion['mean'].plot(kind="bar",
@@ -161,7 +161,7 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
     #print(dpeps)
 
     average_corrected_compositions = dpeps.groupby("Species").agg([np.mean, scipy.stats.sem])
-    print(average_corrected_compositions)
+    #print(average_corrected_compositions)
 
     # Normalize within each sample
     sample_normalization = dpeps.groupby("Sample").sum().Corrected
@@ -181,7 +181,7 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
                 "Proportion", 
                 "Normalized proportions", 
                 "Normalized estimated composition\n"+mixture_ratio,
-                mixture_ratio+"_normalized.png")
+                mixture_ratio+"_normalized")
     else:
         fig2, ax2 = plt.subplots(1,1)
         average_normalized_compositions.Normalized['mean'].plot(kind="bar",
@@ -226,7 +226,10 @@ def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, file
     plt.subplots_adjust(top=1.9)
     g.fig.suptitle(suptitle)
     plt.tight_layout()
-    g.savefig(filename, 
+    g.savefig(filename+".png", 
+            dpi=150,
+            figsize=[15,10])
+    g.savefig(filename+".pdf", 
             dpi=150,
             figsize=[15,10])
 
