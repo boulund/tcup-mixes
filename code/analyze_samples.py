@@ -192,9 +192,20 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors, show_p
        plt.show()
 
 
+def rename_xticks(ax):
+    xticklabels = ax.get_xticklabels()
+    new_xticklabels = []
+    for label in xticklabels:
+        genus_letter = label.get_text().split()[0][0]+"."
+        spname = label.get_text().split()[1]
+        new_xticklabels.append(" ".join([genus_letter, spname]))
+    ax.set_xticklabels(new_xticklabels)
+    return ax
+
+
 
 def make_barplot(data, column, title, filename):
-    fig, ax = plt.subplots(1,1)
+    fig, ax = plt.subplots(1,1, figsize=(6,6))
     data[column]['mean'].sort_values(ascending=False).plot(kind="bar",
             ax=ax,
             title=title,
@@ -204,6 +215,8 @@ def make_barplot(data, column, title, filename):
             color="steelblue",
             error_kw={"elinewidth":1.5,
                       "capsize":4},
+            linewidth=1,
+            edgecolor="k"
             )
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
@@ -215,6 +228,8 @@ def make_barplot(data, column, title, filename):
     ax.get_yaxis().tick_left()
     ax.set_axis_bgcolor("white")
     ax.set_ylim([0,.60])
+    ax.yaxis.set_ticks(np.arange(0, 0.61, 0.05))
+    rename_xticks(ax)
     #fig.tight_layout()
     fig.savefig(filename+".png")
     fig.savefig(filename+".pdf")
