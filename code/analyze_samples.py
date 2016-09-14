@@ -13,9 +13,6 @@ import numpy as np
 import scipy.stats
 import matplotlib.pyplot as plt
 
-#import seaborn as sns
-#sns.set_style("white")
-#sns.set_context("notebook", font_scale=1.0)
 
 os.environ["KMP_AFFINITY"] = "disabled"
 plt.style.use("ggplot")
@@ -203,9 +200,9 @@ def make_barplot(data, column, title, filename):
             title=title,
             yerr=data[column]['sem'],
             rot=0,
-            width=.45,
+            width=.40,
             color="steelblue",
-            error_kw={"elinewidth":2,
+            error_kw={"elinewidth":1.5,
                       "capsize":4},
             )
     ax.spines["top"].set_visible(False)
@@ -217,7 +214,8 @@ def make_barplot(data, column, title, filename):
     ax.get_xaxis().tick_bottom()
     ax.get_yaxis().tick_left()
     ax.set_axis_bgcolor("white")
-    fig.tight_layout()
+    ax.set_ylim([0,.60])
+    #fig.tight_layout()
     fig.savefig(filename+".png")
     fig.savefig(filename+".pdf")
     return fig, ax
@@ -225,6 +223,9 @@ def make_barplot(data, column, title, filename):
 
 
 def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, filename):
+    import seaborn as sns
+    sns.set_style("white")
+    sns.set_context("notebook", font_scale=1.0)
     g = sns.factorplot(data=dpeps.sort_values(ydata, ascending=False),
             x=xdata,
             y=ydata,
