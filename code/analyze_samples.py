@@ -60,6 +60,9 @@ def parse_commandline(argv):
     parser.add_argument("-m", "--multibars", action="store_true", dest="multibars",
             default=False,
             help="Print multiple bars instead of averages with SEM")
+    parser.add_argument("-p", "--show-plots", dest="show_plots", action="store_true",
+            default=False,
+            help="Show plots using matplotlib.pyplot.show()")
 
     #if len(argv) < 2:
     #    parser.print_help()
@@ -113,7 +116,7 @@ def parse_correction_factors(fn):
     return correction_factors
 
 
-def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
+def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors, show_plots):
     species = samples.Species.unique()
     sample_colors = samples.Sample.unique()
 
@@ -193,6 +196,9 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors):
                           "capsize":4},
                 )
         fig2.savefig(mixture_ratio+"_normalized.png")
+   
+    if show_plots:
+       plt.show()
 
 
 
@@ -251,4 +257,4 @@ if __name__ == "__main__":
     for ratio, triplicate in triplicates.items():
         triplicate_samples = samples[samples.Sample.isin(triplicate)]
         triplicate_dpeps = dpeps[dpeps.Species.isin(triplicate_samples.Species.unique()) & dpeps.Sample.isin(triplicate)].copy()
-        analyze_triplicate(ratio, triplicate_samples, triplicate_dpeps, correction_factors)
+        analyze_triplicate(ratio, triplicate_samples, triplicate_dpeps, correction_factors, options.show_plots)
