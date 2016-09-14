@@ -233,6 +233,7 @@ def make_barplot(data, column, title, filename):
     #fig.tight_layout()
     fig.savefig(filename+".png")
     fig.savefig(filename+".pdf")
+    fig.savefig(filename+".svg")
     return fig, ax
 
 
@@ -240,7 +241,7 @@ def make_barplot(data, column, title, filename):
 def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, filename):
     import seaborn as sns
     sns.set_style("white")
-    sns.set_context("notebook", font_scale=1.0)
+    sns.set_context("notebook", font_scale=0.8)
     g = sns.factorplot(data=dpeps.sort_values(ydata, ascending=False),
             x=xdata,
             y=ydata,
@@ -256,6 +257,7 @@ def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, file
     g.set_ylabels("Proportion")
     g.set_titles("Normalized proportions")
     g.set_xticklabels(rotation=0)
+    g.fig.get_axes()[0].set_ylim([0, 0.61])
     for axe in g.fig.get_axes():
         new_xticklabels = []
         xticklabels = axe.get_xticklabels()
