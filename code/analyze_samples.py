@@ -13,6 +13,10 @@ import numpy as np
 import scipy.stats
 import matplotlib.pyplot as plt
 
+#import seaborn as sns
+#sns.set_style("white")
+#sns.set_context("notebook", font_scale=1.0)
+
 os.environ["KMP_AFFINITY"] = "disabled"
 plt.style.use("ggplot")
 logging.basicConfig(level=logging.DEBUG)
@@ -144,16 +148,11 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors, show_p
                 "Uncorrected proportions\n"+mixture_ratio,
                 mixture_ratio+"_uncorrected")
     else:
-        fig1, ax1 = plt.subplots(1,1)
-        average_uncorrected_compositions.Proportion['mean'].plot(kind="bar",
-                ax=ax1,
+        make_barplot(data=average_uncorrected_compositions, 
+                column="Proportion",
                 title="Uncorrected composition estimation\n"+mixture_ratio,
-                yerr=average_uncorrected_compositions.Proportion['sem'],
-                rot=0,
-                error_kw={"elinewidth":2,
-                          "capsize":4}
+                filename=mixture_ratio+"_uncorrected",
                 )
-        plt.savefig(mixture_ratio+"_uncorrected.png")
 
     
     # Correct the compositions for each species using the correction factors
@@ -186,27 +185,46 @@ def analyze_triplicate(mixture_ratio, samples, dpeps, correction_factors, show_p
                 "Normalized estimated composition\n"+mixture_ratio,
                 mixture_ratio+"_normalized")
     else:
-        fig2, ax2 = plt.subplots(1,1)
-        average_normalized_compositions.Normalized['mean'].plot(kind="bar",
-                ax=ax2,
+        make_barplot(data=average_normalized_compositions, 
+                column="Normalized",
                 title="Normalized composition estimation\n"+mixture_ratio,
-                yerr=average_normalized_compositions.Normalized['sem'],
-                rot=0,
-                error_kw={"elinewidth":2,
-                          "capsize":4},
+                filename=mixture_ratio+"_normalized",
                 )
-        fig2.savefig(mixture_ratio+"_normalized.png")
    
     if show_plots:
        plt.show()
 
 
 
+def make_barplot(data, column, title, filename):
+    fig, ax = plt.subplots(1,1)
+    data[column]['mean'].sort_values(ascending=False).plot(kind="bar",
+            ax=ax,
+            title=title,
+            yerr=data[column]['sem'],
+            rot=0,
+            width=.45,
+            color="steelblue",
+            error_kw={"elinewidth":2,
+                      "capsize":4},
+            )
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["bottom"].set_visible(True)
+    ax.spines["left"].set_visible(True)
+    ax.spines["left"].set_color("black")
+    ax.spines["bottom"].set_color("black")
+    ax.get_xaxis().tick_bottom()
+    ax.get_yaxis().tick_left()
+    ax.set_axis_bgcolor("white")
+    fig.tight_layout()
+    fig.savefig(filename+".png")
+    fig.savefig(filename+".pdf")
+    return fig, ax
+
+
 
 def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, filename):
-    import seaborn as sns
-    sns.set_style("white")
-    sns.set_context("notebook", font_scale=0.8)
     g = sns.factorplot(data=dpeps.sort_values(ydata, ascending=False),
             x=xdata,
             y=ydata,
@@ -215,6 +233,7 @@ def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, file
             palette="muted",
             legend=False,
             legend_out=True,
+            ci=None, # Disable the bootstrapped CI-based error bar
             #color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725),
             )
     g.despine()
@@ -238,6 +257,7 @@ def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, file
     g.savefig(filename+".pdf", 
             dpi=150,
             figsize=[15,10])
+    return g
 
 
 
