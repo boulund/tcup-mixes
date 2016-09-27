@@ -13,7 +13,7 @@ import numpy as np
 import scipy.stats
 import matplotlib.pyplot as plt
 
-os.environ["KMP_AFFINITY"] = "disabled"
+os.environ["KMP_AFFINITY"] = "disabled" # Intel MKL is broken on LXSS
 plt.style.use("ggplot")
 logging.basicConfig(level=logging.DEBUG)
 pd.options.display.width = None
@@ -32,6 +32,12 @@ data  = [
     ("Streptococcus pneumoniae"   ,"QE_150508_38"   ,3283   ,356    ,329),
     ("Streptococcus pneumoniae"   ,"QE_150508_35"   ,3313   ,381    ,367),
     ("Streptococcus pneumoniae"   ,"QE_150508_32"   ,3491   ,417    ,401),
+    ("Escherichia coli"   ,"QE_150611_140"   ,1996   ,262    ,253),
+    ("Escherichia coli"   ,"QE_150611_143"   ,2825   ,316    ,294),
+    ("Escherichia coli"   ,"QE_150611_146"   ,2911   ,331    ,311),
+    ("Pseudomonas aeruginosa"   ,"QE_150611_152"   ,2756   ,1317    ,1303),
+    #("Pseudomonas aeruginosa"   ,"QE_150611_155"   ,3268   ,1547    ,844),  # Weak sample; exclude!
+    ("Pseudomonas aeruginosa"   ,"QE_150611_158"   ,1779   ,854    ,1527),
     ]
 
 
