@@ -1,0 +1,48 @@
+-------5.results/QE_150611_152/QE_150611_152.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1881       508     99.58 genus                Pseudomonas                             
+2059       178     99.28 family               Pseudomonadaceae                        
+1303       1294    98.94 species              Pseudomonas aeruginosa                  
+3          3       11.54 no rank              Pseudomonas aeruginosa B136-33          
+3          3       11.54 no rank              Pseudomonas aeruginosa PA7              
+3          3       11.54 no rank              Pseudomonas putida W619                 
+1          1        3.85 no rank              Akkermansia muciniphila ATCC BAA-835    
+1          0        3.85 no rank              Buchnera aphidicola (Acyrthosiphon kondoi)
+1          1        3.85 no rank              Buchnera aphidicola (Acyrthosiphon pisum)
+1          1        3.85 no rank              Buchnera aphidicola str. Ak (Acyrthosiphon kondoi)
+1          0        3.85 no rank              Chlamydiae/Verrucomicrobia group        
+1          1        3.85 no rank              Pseudomonas aeruginosa PAO1             
+1          1        3.85 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        3.85 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        3.85 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        3.85 no rank              Pseudomonas entomophila L48             
+1          1        3.85 no rank              Pseudomonas fulva 12-X                  
+1          0        3.85 no rank              Pseudomonas syringae pv. syringae       
+1          1        3.85 no rank              Pseudomonas syringae pv. syringae B728a 
+1          0        3.85 no rank              Sinorhizobium fredii group              
+1          1        3.85 no rank              Sinorhizobium fredii NGR234             
+1          0        3.85 no rank              Sinorhizobium/Ensifer group             
+1          1        3.85 no rank              Sorangium cellulosum So0157-2           
+10         6        0.48 family               Enterobacteriaceae                      
+3          0        0.23 species              Pseudomonas putida                      
+2          0        0.15 species              Buchnera aphidicola                     
+2          2        0.15 species              Escherichia coli                        
+2          0        0.11 genus                Buchnera                                
+2          0        0.11 genus                Escherichia                             
+1          0        0.08 species              Akkermansia muciniphila                 
+1          0        0.08 species              Pseudomonas denitrificans               
+1          0        0.08 species              Pseudomonas entomophila                 
+1          0        0.08 species              Pseudomonas fulva                       
+1          0        0.08 species              Pseudomonas syringae                    
+1          0        0.08 species              Sinorhizobium fredii                    
+1          0        0.08 species              Sorangium cellulosum                    
+1          0        0.05 genus                Akkermansia                             
+1          0        0.05 genus                Bacillus                                
+1          0        0.05 genus                Sinorhizobium                           
+1          0        0.05 genus                Sorangium                               
+1          0        0.05 family               Akkermansiaceae                         
+1          1        0.05 family               Alcaligenaceae                          
+1          0        0.05 family               Bacillaceae                             
+1          0        0.05 family               Polyangiaceae                           
+1          0        0.05 family               Rhizobiaceae                            

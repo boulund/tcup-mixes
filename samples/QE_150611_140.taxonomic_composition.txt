@@ -1,0 +1,44 @@
+-------5.results/QE_150611_140/QE_150611_140.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1307       882     99.02 family               Enterobacteriaceae                      
+253        248     96.56 species              Escherichia coli                        
+423        169     96.36 genus                Escherichia                             
+4          3       28.57 no rank              Escherichia coli K-12                   
+1          0        7.14 no rank              Bacteroidetes/Chlorobi group            
+1          1        7.14 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        7.14 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        7.14 no rank              Escherichia coli ED1a                   
+1          1        7.14 no rank              Escherichia coli str. K-12 substr. DH10B
+1          1        7.14 no rank              Escherichia fergusonii ATCC 35469       
+1          1        7.14 no rank              Flavobacterium indicum GPTSA100-9 = DSM 17447
+1          1        7.14 no rank              Morganella morganii subsp. morganii KT  
+1          1        7.14 no rank              Streptomyces davawensis JCM 4913        
+1          1        7.14 no rank              Tolumonas auensis DSM 9187              
+6          6        1.37 genus                Staphylococcus                          
+6          0        0.45 family               Staphylococcaceae                       
+1          1        0.38 species              Achromobacter xylosoxidans              
+1          0        0.38 species              Cyanobacterium stanieri                 
+1          0        0.38 species              Enterobacter cloacae                    
+1          0        0.38 species              Escherichia fergusonii                  
+1          0        0.38 species              Flavobacterium indicum                  
+1          1        0.38 species              Glaciecola sp. 4H-3-7+YE-5              
+1          0        0.38 species              Morganella morganii                     
+1          0        0.38 species              Streptomyces davawensis                 
+1          0        0.38 species              Tolumonas auensis                       
+1          0        0.23 genus                Achromobacter                           
+1          1        0.23 genus                Alteromonas                             
+1          0        0.23 genus                Cyanobacterium                          
+1          0        0.23 genus                Enterobacter                            
+1          0        0.23 genus                Flavobacterium                          
+1          0        0.23 genus                Glaciecola                              
+1          0        0.23 genus                Morganella                              
+1          1        0.23 genus                Streptococcus                           
+1          0        0.23 genus                Streptomyces                            
+1          0        0.23 genus                Tolumonas                               
+2          0        0.15 family               Alteromonadaceae                        
+1          0        0.08 family               Aeromonadaceae                          
+1          0        0.08 family               Alcaligenaceae                          
+1          0        0.08 family               Flavobacteriaceae                       
+1          0        0.08 family               Streptococcaceae                        
+1          0        0.08 family               Streptomycetaceae                       

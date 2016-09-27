@@ -1,0 +1,1323 @@
+------------------Discriminative peptides-------------------
+Peptide              Sequence                            Rank            Description                   
+9831.1.1_12          LADSGLNIIAAK                        family          Enterobacteriaceae            
+9859.1.1_12          INALETVTIASK                        family          Enterobacteriaceae            
+10455.1.1_15         QHVPVFVTDEMVGHK                     family          Enterobacteriaceae            
+9102.1.1_17          VAALEGDVLGSYQHGAR                   family          Enterobacteriaceae            
+7234.1.1_11          VKAALELAEQR                         family          Enterobacteriaceae            
+7210.1.1_17          TPEGYASGSLGPTTAGR                   family          Enterobacteriaceae            
+11044.1.1_16         QSNPEDPESVLTEMAK                    family          Enterobacteriaceae            
+4736.1.1_18          YQQHGMSPLTQEQKPVAK                  family          Enterobacteriaceae            
+10146.1.1_14         SPVTLEYDLDDAGR                      family          Enterobacteriaceae            
+11503.1.1_17         SGSAAQGFQLLDEAELK                   family          Enterobacteriaceae            
+6678.1.1_13          EIGDADHGLNMNR                       family          Enterobacteriaceae            
+8364.1.1_15          VGEEVEIVGIKETQK                     family          Enterobacteriaceae            
+8733.1.1_13          AMHDIIASDTFDK                       family          Enterobacteriaceae            
+5315.1.1_11          EEEAVSPHLQK                         family          Enterobacteriaceae            
+8097.1.1_24          NNGSEVQSLDPHKIEGVPESNISR            family          Enterobacteriaceae            
+8661.1.1_23          VMTVGTHGTTYGGNPLASAVAGK             family          Enterobacteriaceae            
+8718.1.1_12          SLAVEYAQSGIR                        family          Enterobacteriaceae            
+5021.1.1_11          GQNEDQNVGIK                         family          Enterobacteriaceae            
+11084.1.1_11         YIAETFLEDAR                         family          Enterobacteriaceae            
+8147.1.1_10          VSEIVEMEGR                          family          Enterobacteriaceae            
+9950.1.1_18          VATYDLQPEMSSAELTEK                  family          Enterobacteriaceae            
+8994.1.1_10          EFVESLETPR                          family          Enterobacteriaceae            
+9250.1.1_18          IAEAAWQVNESTENIGAR                  family          Enterobacteriaceae            
+8110.1.1_13          VAEPGEVLAAGGR                       family          Enterobacteriaceae            
+11684.1.1_15         NVALEEQAVEAVLAK                     family          Enterobacteriaceae            
+6919.1.1_12          RGGVVQYVDASR                        family          Enterobacteriaceae            
+11741.1.1_11         LVPFLDGQVIK                         family          Enterobacteriaceae            
+6624.1.1_17          LANELSDAAENKGTAVK                   family          Enterobacteriaceae            
+8698.1.1_19          VAGAPAQAAGNNDLDNELD                 family          Enterobacteriaceae            
+7126.1.1_11          NMNVPGEDQYR                         family          Enterobacteriaceae            
+7504.1.1_11          AFNEMQPIVDR                         family          Enterobacteriaceae            
+11152.1.1_11         VGFFNPIASEK                         family          Enterobacteriaceae            
+9818.1.1_18          AAPDVQLLMNDSQNDQSK                  family          Enterobacteriaceae            
+9790.1.1_11          MQQLDSIISAK                         family          Enterobacteriaceae            
+10330.1.1_14         HAVIALTSIYGVGK                      family          Enterobacteriaceae            
+11799.1.1_14         DMSLYGLEDYTVVR                      family          Enterobacteriaceae            
+7968.1.1_24          DAGIEASQIGYVNAHGTSTPAGDK            family          Enterobacteriaceae            
+6477.1.1_13          YSSTISDPDTNVK                       family          Enterobacteriaceae            
+5137.1.1_9           YISSLKDQR                           family          Enterobacteriaceae            
+11966.1.1_12         QVAILAVAGAEK                        family          Enterobacteriaceae            
+7211.1.1_11          YTSLGDAAVGR                         family          Enterobacteriaceae            
+7291.1.1_23          ADYADSLTENGTHGSDSVESAAR             family          Enterobacteriaceae            
+6053.1.1_11          LHDYYKDEVVK                         family          Enterobacteriaceae            
+11877.1.1_16         NDIAMGPLINAAALER                    family          Enterobacteriaceae            
+10383.1.1_13         AILAAAGIAEDVK                       family          Enterobacteriaceae            
+6867.1.1_15          VKPNQQVTIIDSEGK                     family          Enterobacteriaceae            
+10277.1.1_16         IFEDNSLTIGHTPLVR                    family          Enterobacteriaceae            
+8939.1.1_13          ILEDEVVGVEAQR                       family          Enterobacteriaceae            
+8438.1.1_13          IKEELFYPSNEEK                       family          Enterobacteriaceae            
+9153.1.1_20          MISGQEQPDSGTITLGETVK                family          Enterobacteriaceae            
+9393.1.1_20          GTVSTESGVLNQQPYGFNTR                family          Enterobacteriaceae            
+3979.1.1_10          TNELKADEER                          family          Enterobacteriaceae            
+9197.1.1_14          ILTEPNASITVQYK                      family          Enterobacteriaceae            
+9727.1.1_14          IGIVAAGYADGYPR                      family          Enterobacteriaceae            
+10230.1.1_16         LIPAADISEQISTAGK                    family          Enterobacteriaceae            
+8671.1.1_13          HLDALVADEDLSR                       family          Enterobacteriaceae            
+11426.1.1_14         GVLVVMNDTVLDGR                      family          Enterobacteriaceae            
+5950.1.1_14          RAEITPANADTVTR                      family          Enterobacteriaceae            
+11374.1.1_11         PFLADAELLSK                         family          Enterobacteriaceae            
+4022.1.1_11          LAQEASQEAAR                         family          Enterobacteriaceae            
+4892.1.1_14          EQAAAQESANLSSK                      family          Enterobacteriaceae            
+6379.1.1_13          KALEEAGAEVEVK                       family          Enterobacteriaceae            
+11574.1.1_12         QAIVAEVSEVAK                        family          Enterobacteriaceae            
+8726.1.1_12          YYLGNADEIAAK                        family          Enterobacteriaceae            
+11494.1.1_16         GISYETATFPWAASGR                    family          Enterobacteriaceae            
+4929.1.1_14          QAEDESDREVEGGR                      family          Enterobacteriaceae            
+6604.1.1_12          LNIDQNPGTAPK                        family          Enterobacteriaceae            
+11079.1.1_17         VKDDLQELAVVESFPTK                   family          Enterobacteriaceae            
+11411.1.1_15         YETIDAPQIDDLMAR                     family          Enterobacteriaceae            
+11495.1.1_10         YLSLLPYTDR                          family          Enterobacteriaceae            
+11480.1.1_13         IVTIQNPYSLLNR                       family          Enterobacteriaceae            
+8894.1.1_15          SSAASIPLNVEAQTR                     family          Enterobacteriaceae            
+11748.1.1_13         VMLLFTNPTDVER                       family          Enterobacteriaceae            
+11671.1.1_18         LLMAIGEPVMVDTAQEPR                  family          Enterobacteriaceae            
+2915.1.1_11          AVESGDKKPLR                         family          Enterobacteriaceae            
+10454.1.1_18         AVQLGGVALGTTQVINSK                  family          Enterobacteriaceae            
+6750.1.1_9           FDSQQTFTR                           family          Enterobacteriaceae            
+11434.1.1_12         GFLDSYIPEPER                        family          Enterobacteriaceae            
+5358.1.1_13          EKTEEVIAENPGK                       family          Enterobacteriaceae            
+3719.1.1_11          QEAAAPAPAAK                         family          Enterobacteriaceae            
+3239.1.1_14          SHQTGVNGENNSVR                      family          Enterobacteriaceae            
+8616.1.1_14          SEQNNTEMTFQIQR                      family          Enterobacteriaceae            
+10269.1.1_9          FPAIIYGGK                           family          Enterobacteriaceae            
+6012.1.1_26          ADSGAQSNNGQANAATDAGQVAPDAR          family          Enterobacteriaceae            
+6910.1.1_9           IDNYEVVGK                           family          Enterobacteriaceae            
+8355.1.1_24          KIAAGDTSNLGDTSTLADPGVVEK            family          Enterobacteriaceae            
+9871.1.1_20          KGYINSLGALTGGQALQQAK                family          Enterobacteriaceae            
+3674.1.1_14          QAEDESDREVEGGR                      family          Enterobacteriaceae            
+12094.1.1_13         GYYYPPTLLLDVR                       family          Enterobacteriaceae            
+8299.1.1_13          GFTSEITVTSNGK                       family          Enterobacteriaceae            
+6248.1.1_12          EAEAYTNEVQPR                        family          Enterobacteriaceae            
+11128.1.1_15         SVEFAVFAGPANDPK                     family          Enterobacteriaceae            
+8006.1.1_16          FGVAAGSAATLNQGTR                    family          Enterobacteriaceae            
+9149.1.1_17          TLAEGQNVEFEIQDGQK                   family          Enterobacteriaceae            
+5102.1.1_10          VSAINAASEK                          family          Enterobacteriaceae            
+9719.1.1_17          VYSGVVNSGDTVLNSVK                   family          Enterobacteriaceae            
+6878.1.1_15          VKPNQQVTIIDSEGK                     family          Enterobacteriaceae            
+7054.1.1_13          GETVGQELAGNPK                       family          Enterobacteriaceae            
+7278.1.1_11          SSALNTLTNQK                         family          Enterobacteriaceae            
+10618.1.1_14         EGETLVLLDGTEAK                      family          Enterobacteriaceae            
+9991.1.1_12          VLEMVEAGSELR                        family          Enterobacteriaceae            
+8508.1.1_18          EHVTKPVVGYIAGVTAPK                  family          Enterobacteriaceae            
+3843.1.1_12          MQAASGQLQQSH                        family          Enterobacteriaceae            
+10671.1.1_19         KVVADIAGVPAQINIAEVR                 family          Enterobacteriaceae            
+9994.1.1_11          LILSQLGEEGR                         family          Enterobacteriaceae            
+8969.1.1_15          EGIEPDQPGVVGPIK                     family          Enterobacteriaceae            
+7024.1.1_12          YGEMDGYSAEAR                        family          Enterobacteriaceae            
+10389.1.1_15         TLVAVMENYQQADGR                     family          Enterobacteriaceae            
+6148.1.1_11          LAEGDYQQVEK                         family          Enterobacteriaceae            
+8906.1.1_11          FPNDVDPIETR                         family          Enterobacteriaceae            
+11474.1.1_14         VGVENLVNAVPQLK                      family          Enterobacteriaceae            
+11650.1.1_11         IALESVLLGDK                         family          Enterobacteriaceae            
+11657.1.1_16         NDIAMGPLINAAALER                    family          Enterobacteriaceae            
+10854.1.1_19         EGDVLLGISTSGNSANVIK                 family          Enterobacteriaceae            
+11746.1.1_15         QLAEDPFNNWVALNK                     family          Enterobacteriaceae            
+8701.1.1_13          ALAEHGIVFGEPK                       family          Enterobacteriaceae            
+11615.1.1_11         QVIGQVAADLR                         family          Enterobacteriaceae            
+7753.1.1_11          GLEGINSPVAK                         family          Enterobacteriaceae            
+10037.1.1_12         GVYNTYIEDNLR                        family          Enterobacteriaceae            
+6684.1.1_12          LSASYVGEDNER                        family          Enterobacteriaceae            
+11707.1.1_14         DAEVVLVEGLVPTR                      family          Enterobacteriaceae            
+3676.1.1_10          QEGDDEQAVR                          family          Enterobacteriaceae            
+10658.1.1_20         QANELPGAPSQEEAVIAFGK                family          Enterobacteriaceae            
+10651.1.1_14         LLSEQLGEGEIELR                      family          Enterobacteriaceae            
+11444.1.1_12         LIEVPVEYIAGK                        family          Enterobacteriaceae            
+7871.1.1_21          STFQQLPGTGVKPDQFHSQTR               family          Enterobacteriaceae            
+5937.1.1_14          RAEITPANADTVTR                      family          Enterobacteriaceae            
+10772.1.1_14         LLQEEEEGLPLVGR                      family          Enterobacteriaceae            
+10152.1.1_12         SDIALIQIQNPK                        family          Enterobacteriaceae            
+6931.1.1_11          ITLSTQPADAR                         family          Enterobacteriaceae            
+9105.1.1_27          LAQMQQLSHQDDDSAAAAALAAQTGER         family          Enterobacteriaceae            
+10187.1.1_13         AILAAAGIAEDVK                       family          Enterobacteriaceae            
+4222.1.1_10          TREELDQEAR                          family          Enterobacteriaceae            
+10452.1.1_15         DIADAVTAAGVEVAK                     family          Enterobacteriaceae            
+4763.1.1_15          PTGATTQDAEVDDAK                     family          Enterobacteriaceae            
+5249.1.1_14          QAAAQAAAGDSLDK                      family          Enterobacteriaceae            
+10647.1.1_15         DIADAVTAAGVEVAK                     family          Enterobacteriaceae            
+10166.1.1_14         NKVTDAEIAEVLAR                      family          Enterobacteriaceae            
+7027.1.1_16          PEGYASGSLGPTTAGR                    family          Enterobacteriaceae            
+11793.1.1_14         TVPMFNEALAELNK                      family          Enterobacteriaceae            
+8081.1.1_13          MQVSVETTQGLGR                       family          Enterobacteriaceae            
+3974.1.1_9           YVVHNVAHR                           family          Enterobacteriaceae            
+5712.1.1_14          AAEQLGQANSAVSR                      family          Enterobacteriaceae            
+10341.1.1_12         RAQSVVDYLISK                        family          Enterobacteriaceae            
+8504.1.1_19          MHENQQPQTEAFELSAAER                 family          Enterobacteriaceae            
+4268.1.1_15          KEAAPAAAPAAAAAK                     family          Enterobacteriaceae            
+5458.1.1_14          REEESAAAAEVEER                      family          Enterobacteriaceae            
+9145.1.1_17          TLAEGQNVEFEIQDGQK                   family          Enterobacteriaceae            
+8792.1.1_20          MISGQEQPDSGTITLGETVK                family          Enterobacteriaceae            
+5673.1.1_14          REEESAAAAEVEER                      family          Enterobacteriaceae            
+5756.1.1_13          GATPAASDIQEAK                       family          Enterobacteriaceae            
+10493.1.1_18         DTTTIIDGVGEEAAIQGR                  family          Enterobacteriaceae            
+8731.1.1_16          GDVISDGPEAPHDILR                    family          Enterobacteriaceae            
+11506.1.1_14         DSAIVPVYYYVNAR                      family          Enterobacteriaceae            
+4550.1.1_10          DNVTDKNELR                          family          Enterobacteriaceae            
+7317.1.1_13          INDNQVIEGAESR                       family          Enterobacteriaceae            
+5778.1.1_11          QGNEFGATTGR                         family          Enterobacteriaceae            
+7814.1.1_17          LAESEASNDQAPVQMPR                   family          Enterobacteriaceae            
+4940.1.1_15          DKGEAENEAKPIDVK                     family          Enterobacteriaceae            
+5408.1.1_9           QVADNLAQR                           family          Enterobacteriaceae            
+8447.1.1_16          ELGEMDDAPDENEALK                    family          Enterobacteriaceae            
+10210.1.1_12         SAYPDPQALIGR                        family          Enterobacteriaceae            
+10381.1.1_15         MASVSSGMQLPPGFK                     family          Enterobacteriaceae            
+8461.1.1_16          FIDQSISANTNYDPSR                    family          Enterobacteriaceae            
+6062.1.1_9           LSSLTDAEK                           family          Enterobacteriaceae            
+11531.1.1_15         GGYVEPEYVQAMLDR                     family          Enterobacteriaceae            
+9023.1.1_15          LLEDPVEVSANPSTR                     family          Enterobacteriaceae            
+8249.1.1_16          NEIIPTGGHDADGVLK                    family          Enterobacteriaceae            
+11570.1.1_12         GVQWIPDWGQAR                        family          Enterobacteriaceae            
+8575.1.1_17          QIGIYSPNGQQYTPQDR                   family          Enterobacteriaceae            
+6417.1.1_11          ELAESEGAIER                         family          Enterobacteriaceae            
+6041.1.1_11          FNSSLSEDGQR                         family          Enterobacteriaceae            
+6705.1.1_11          EFRPGIETTER                         family          Enterobacteriaceae            
+9515.1.1_12          DGSVVVLGYTDR                        family          Enterobacteriaceae            
+8569.1.1_14          DRFNVPVSDADIEK                      family          Enterobacteriaceae            
+10990.1.1_13         FLSELTAAEGLER                       family          Enterobacteriaceae            
+10766.1.1_18         VTAEDVLKPGTADILVPR                  family          Enterobacteriaceae            
+3937.1.1_14          GGESVNDQGAEDQR                      family          Enterobacteriaceae            
+8788.1.1_16          DLVESAPAALKEGVSK                    family          Enterobacteriaceae            
+8458.1.1_22          VSDAASNDTESLAGAEQAAGVK              family          Enterobacteriaceae            
+6337.1.1_13          VNEVNFDKPENAR                       family          Enterobacteriaceae            
+6577.1.1_13          TDDTANAQQAEWR                       family          Enterobacteriaceae            
+8133.1.1_13          LNADTLVIADHNK                       family          Enterobacteriaceae            
+10247.1.1_13         AAVLPANLIQAQR                       family          Enterobacteriaceae            
+5164.1.1_10          LADEVDESAK                          family          Enterobacteriaceae            
+10980.1.1_17         ILLINPTDSDAVGNAVK                   family          Enterobacteriaceae            
+10718.1.1_16         QGNALGWATAGGSGFR                    family          Enterobacteriaceae            
+9504.1.1_22          KATIVNAGSSDFLEGEQVEYSR              family          Enterobacteriaceae            
+10464.1.1_15         DIADAVTAAGVEVAK                     family          Enterobacteriaceae            
+4549.1.1_10          DNVTDKNELR                          family          Enterobacteriaceae            
+11038.1.1_14         LLASAAQENEPFWR                      family          Enterobacteriaceae            
+10369.1.1_14         IYALPEMSEEDGYK                      family          Enterobacteriaceae            
+7819.1.1_19          GVGEDISDGGNAISGAATK                 family          Enterobacteriaceae            
+11541.1.1_15         LTGLEGEQLGIVSLR                     family          Enterobacteriaceae            
+10989.1.1_19         GYINSLGALTGGQALQQAK                 family          Enterobacteriaceae            
+6070.1.1_10          LKEYQYQEVK                          family          Enterobacteriaceae            
+9822.1.1_13          ELDAETAQAIISR                       family          Enterobacteriaceae            
+4976.1.1_12          TEEVIAENPGKK                        family          Enterobacteriaceae            
+8522.1.1_13          ITVPVDATEEQVR                       family          Enterobacteriaceae            
+10314.1.1_26         GGGRPDMAQAGGTDAAALPAALASVK          family          Enterobacteriaceae            
+5313.1.1_13          EASVATATQVQGK                       family          Enterobacteriaceae            
+10548.1.1_14         IDLTEWETNPESTR                      family          Enterobacteriaceae            
+10660.1.1_16         AAAFEGELIPASQIDR                    family          Enterobacteriaceae            
+10970.1.1_15         ALTGLSPDEIVNQVK                     family          Enterobacteriaceae            
+6429.1.1_10          FTDEDEQGLR                          family          Enterobacteriaceae            
+9481.1.1_14          LDYQGIYTPDQVER                      family          Enterobacteriaceae            
+9444.1.1_16          VPYVGVDKDNLAEFSK                    family          Enterobacteriaceae            
+11607.1.1_14         TAWENIIAPQLDAR                      family          Enterobacteriaceae            
+10357.1.1_19         VEVETPEENTGDVIGDLSR                 family          Enterobacteriaceae            
+9205.1.1_13          TLDAAAALAAANK                       family          Enterobacteriaceae            
+4843.1.1_14          TQMSAAHTPEQITR                      family          Enterobacteriaceae            
+6950.1.1_10          VAVDSEVTVR                          family          Enterobacteriaceae            
+11448.1.1_15         MQSDEGEINPVDILR                     family          Enterobacteriaceae            
+9530.1.1_14          DALPTEEEQFAAYK                      family          Enterobacteriaceae            
+11117.1.1_13         AQPEWEALPAIER                       family          Enterobacteriaceae            
+8166.1.1_12          LNQLSNQVDNLR                        family          Enterobacteriaceae            
+11164.1.1_13         LTAADLADPQLLR                       family          Enterobacteriaceae            
+10788.1.1_17         VTDIMGEIASASDEQSR                   family          Enterobacteriaceae            
+7703.1.1_15          GSASSTDLSPQAIAR                     family          Enterobacteriaceae            
+7280.1.1_11          FNIDADKVNPR                         family          Enterobacteriaceae            
+9038.1.1_15          ALSNPDLYEGDGELR                     family          Enterobacteriaceae            
+9327.1.1_12          TGVSNTLENEFK                        family          Enterobacteriaceae            
+9532.1.1_19          AIMASDLGLNPNSAGSDIR                 family          Enterobacteriaceae            
+6349.1.1_12          EYLPASYHEGSK                        family          Enterobacteriaceae            
+5596.1.1_10          LNAPVDEQGR                          family          Enterobacteriaceae            
+7261.1.1_10          LLSPEVANDK                          family          Enterobacteriaceae            
+11959.1.1_14         QILPEANSQIVGFR                      family          Enterobacteriaceae            
+8875.1.1_16          SDVMVVGFDGTPDGEK                    family          Enterobacteriaceae            
+8388.1.1_12          NIVTVGNDIETR                        family          Enterobacteriaceae            
+7357.1.1_14          NIPVGSTVHNVEMK                      family          Enterobacteriaceae            
+7673.1.1_12          VADNADNDALLR                        family          Enterobacteriaceae            
+7728.1.1_12          EHEGEIITGVVK                        family          Enterobacteriaceae            
+9968.1.1_13          ELDAQPTGFLDSR                       family          Enterobacteriaceae            
+8501.1.1_9           LDTTGLIDR                           family          Enterobacteriaceae            
+5395.1.1_11          GQNEDQNVGIK                         family          Enterobacteriaceae            
+10597.1.1_15         QAQEILDTDHYGLER                     family          Enterobacteriaceae            
+7250.1.1_13          GETVGQELAGNPK                       family          Enterobacteriaceae            
+5831.1.1_14          TQMSAAHTPEQITR                      family          Enterobacteriaceae            
+10432.1.1_13         LVGVIPEDQSVLR                       family          Enterobacteriaceae            
+8331.1.1_18          GAVPGATGSDLIVKPAVK                  family          Enterobacteriaceae            
+7795.1.1_12          AEAQVIIEQANK                        family          Enterobacteriaceae            
+4514.1.1_10          MVEEDPAHPR                          family          Enterobacteriaceae            
+5450.1.1_12          GEEDDTSGHYLR                        family          Enterobacteriaceae            
+6990.1.1_13          MQVSVETTQGLGR                       family          Enterobacteriaceae            
+5201.1.1_11          LLNNGQNPPAR                         family          Enterobacteriaceae            
+11465.1.1_16         ALLNSMVIGVTEGFTK                    family          Enterobacteriaceae            
+7613.1.1_17          LAESEASNDQAPVQMPR                   family          Enterobacteriaceae            
+6928.1.1_12          VQAVSTELGGER                        family          Enterobacteriaceae            
+7382.1.1_13          LMPGEEEVAENPR                       family          Enterobacteriaceae            
+10512.1.1_16         LPTPEEYQTYVAQVDK                    family          Enterobacteriaceae            
+11629.1.1_13         LAFDEFDELAGDR                       family          Enterobacteriaceae            
+10670.1.1_13         SDNDELQQIAHLR                       family          Enterobacteriaceae            
+9511.1.1_14          MNIIEANVATPDAR                      family          Enterobacteriaceae            
+11837.1.1_15         EEFGGELIDGGPWLK                     family          Enterobacteriaceae            
+5631.1.1_14          REEESAAAAEVEER                      family          Enterobacteriaceae            
+10530.1.1_22         AEGGTGDAISGFEGSVPNPYVK              family          Enterobacteriaceae            
+11599.1.1_17         AIASAGLPALVSNSFSK                   family          Enterobacteriaceae            
+10055.1.1_19         AGIAGGADSSSVLPIGVSK                 family          Enterobacteriaceae            
+8450.1.1_18          AAPDVQLLMNDSQNDQSK                  family          Enterobacteriaceae            
+11042.1.1_17         VKDDLQELAVVESFPTK                   family          Enterobacteriaceae            
+11197.1.1_12         LIDEALLDQYAR                        family          Enterobacteriaceae            
+6142.1.1_11          LAAITAQDSQR                         family          Enterobacteriaceae            
+9010.1.1_12          EKPTWLEVDAGK                        family          Enterobacteriaceae            
+4244.1.1_10          TEQQYENATR                          family          Enterobacteriaceae            
+11553.1.1_14         ILFAGDLQDDLPAR                      family          Enterobacteriaceae            
+7328.1.1_23          ADYADSLTENGTHGSDSVESAAR             family          Enterobacteriaceae            
+9004.1.1_18          ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+5873.1.1_13          ATVTGDGLSQEAK                       family          Enterobacteriaceae            
+11165.1.1_13         ELAENNPLGDYLR                       family          Enterobacteriaceae            
+8485.1.1_14          DGYADGWAQAGTAR                      family          Enterobacteriaceae            
+9357.1.1_12          NQIADLVGADPR                        family          Enterobacteriaceae            
+8743.1.1_12          FGDDEAFEENVR                        family          Enterobacteriaceae            
+6580.1.1_15          LVGQNQTYTVQEGDK                     family          Enterobacteriaceae            
+10946.1.1_17         AASEEYNWDLNYGEIAK                   family          Enterobacteriaceae            
+6935.1.1_10          TNTTDVATFK                          family          Enterobacteriaceae            
+9045.1.1_14          VANLGSLGDQVNVK                      family          Enterobacteriaceae            
+10825.1.1_12         IMNVLGEPVDMK                        family          Enterobacteriaceae            
+11121.1.1_12         VTDAEIAEVLAR                        family          Enterobacteriaceae            
+7109.1.1_15          DAVNGTISYTNEAGK                     family          Enterobacteriaceae            
+9701.1.1_13          NFPIQLSGGEQQR                       family          Enterobacteriaceae            
+8664.1.1_18          TVTHMQDEAANFPDPVDR                  family          Enterobacteriaceae            
+9963.1.1_15          GLVAQVTDEEALAER                     family          Enterobacteriaceae            
+9409.1.1_10          LGADGNALFR                          family          Enterobacteriaceae            
+9608.1.1_18          QQASLEEQNNDALSPAIR                  family          Enterobacteriaceae            
+6433.1.1_14          IDPNGENDRYPLQK                      family          Enterobacteriaceae            
+9168.1.1_15          SAIYPLTPEQDAAAR                     family          Enterobacteriaceae            
+9728.1.1_12          AQIVGMNVGTLK                        family          Enterobacteriaceae            
+9201.1.1_20          IGAPAAVQIQYQGKPVDLSR                family          Enterobacteriaceae            
+9311.1.1_18          ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+4196.1.1_11          LAQEASQEAAR                         family          Enterobacteriaceae            
+10620.1.1_9          FNVEVVAIR                           family          Enterobacteriaceae            
+11700.1.1_15         TGGLTEALALATEAR                     family          Enterobacteriaceae            
+10420.1.1_16         TQTLSQLENSGAFIER                    family          Enterobacteriaceae            
+9344.1.1_13          SYQVSPNDVVSIR                       family          Enterobacteriaceae            
+4755.1.1_10          LRPSPVDEAK                          family          Enterobacteriaceae            
+8936.1.1_14          LSGSVTVGETPVIR                      family          Enterobacteriaceae            
+11288.1.1_13         LGFFETVDTDTQR                       family          Enterobacteriaceae            
+9697.1.1_14          VGDEVEILATAPAK                      family          Enterobacteriaceae            
+3119.1.1_11          IEQAPGQHGAR                         family          Enterobacteriaceae            
+11122.1.1_16         TAAQDGDMIFFGADNK                    family          Enterobacteriaceae            
+8577.1.1_16          DDDVVDAEFEEVKDKK                    family          Enterobacteriaceae            
+10298.1.1_18         DTTTIIDGVGEEAAIQGR                  family          Enterobacteriaceae            
+7640.1.1_16          NYTAGGEGGATLINDK                    family          Enterobacteriaceae            
+6042.1.1_11          SQPEVNDAITK                         family          Enterobacteriaceae            
+8296.1.1_15          QDVPSFRPGDTVEVK                     family          Enterobacteriaceae            
+7668.1.1_14          IAHWVGQGATISDR                      family          Enterobacteriaceae            
+6977.1.1_10          EILQDSTVTR                          family          Enterobacteriaceae            
+8268.1.1_16          DANYIAQNAEGVTVNR                    family          Enterobacteriaceae            
+5924.1.1_11          TDAEQAQELAR                         family          Enterobacteriaceae            
+10271.1.1_17         TPLIISGPAEDSSEMYK                   family          Enterobacteriaceae            
+10652.1.1_13         SNLEDGVAFAIEK                       family          Enterobacteriaceae            
+9275.1.1_18          IAEAAWQVNESTENIGAR                  family          Enterobacteriaceae            
+10044.1.1_17         TAQDNGDVDFGQNLIAR                   family          Enterobacteriaceae            
+6516.1.1_9           VVMTADAVK                           family          Enterobacteriaceae            
+9367.1.1_12          LTDDDMTIIEGK                        family          Enterobacteriaceae            
+3619.1.1_9           IDPNGENDR                           family          Enterobacteriaceae            
+8541.1.1_16          AINEDAAGNYIHYGVR                    family          Enterobacteriaceae            
+11390.1.1_16         GELGIMGTELNSELAK                    family          Enterobacteriaceae            
+9775.1.1_17          AAGAELVGMEDLADQIK                   family          Enterobacteriaceae            
+9333.1.1_17          YRPETDMADLDNFDSAK                   family          Enterobacteriaceae            
+9128.1.1_17          VAALEGDVLGSYQHGAR                   family          Enterobacteriaceae            
+8053.1.1_18          AIAQVGTISANSDETVGK                  family          Enterobacteriaceae            
+11279.1.1_18         FTGEVSLTGQPFVMEPSK                  family          Enterobacteriaceae            
+11159.1.1_15         LPGLYYIETDSTGER                     family          Enterobacteriaceae            
+8054.1.1_12          VDQLSNDVNAMR                        family          Enterobacteriaceae            
+7214.1.1_12          IIPQDELGSSEK                        family          Enterobacteriaceae            
+10288.1.1_13         YQAFTQADLTNLR                       family          Enterobacteriaceae            
+10309.1.1_15         VALIENAEFVEGSDK                     family          Enterobacteriaceae            
+11077.1.1_15         ASVEDWETMIDTNNK                     family          Enterobacteriaceae            
+8510.1.1_14          IDQLSSDVQTLNAK                      family          Enterobacteriaceae            
+6856.1.1_12          LLANQEEGTQIR                        family          Enterobacteriaceae            
+9036.1.1_14          MAVAESGMGIVEDK                      family          Enterobacteriaceae            
+4261.1.1_15          KEAAPAAAPAAAAAK                     family          Enterobacteriaceae            
+8011.1.1_12          ADVPAGVTLAEK                        family          Enterobacteriaceae            
+11658.1.1_11         ELPELTAEFIK                         family          Enterobacteriaceae            
+8988.1.1_15          AYEDAETVTGVINGK                     family          Enterobacteriaceae            
+6834.1.1_9           TYVPADDYR                           family          Enterobacteriaceae            
+5108.1.1_13          AVGDGVAVKPTDK                       family          Enterobacteriaceae            
+10908.1.1_13         DLSDVTLGQFAGK                       family          Enterobacteriaceae            
+10944.1.1_11         QGEEDFLAFSR                         family          Enterobacteriaceae            
+4948.1.1_10          HTMIHEQITR                          family          Enterobacteriaceae            
+7061.1.1_10          TLNLSEEESR                          family          Enterobacteriaceae            
+6683.1.1_12          LDDTSSEFNTQR                        family          Enterobacteriaceae            
+7352.1.1_10          GEMPSDFDAK                          family          Enterobacteriaceae            
+9419.1.1_9           WLDTLGSAK                           family          Enterobacteriaceae            
+7958.1.1_14          AINALANPTTNSYK                      family          Enterobacteriaceae            
+8243.1.1_11          LGDLPTSGQIR                         family          Enterobacteriaceae            
+2905.1.1_11          AVESGDKKPLR                         family          Enterobacteriaceae            
+9173.1.1_15          VPVFAGDSEDDITAR                     family          Enterobacteriaceae            
+9371.1.1_18          NPSISTHLLGSNASSVIR                  family          Enterobacteriaceae            
+7551.1.1_12          EYASFTQEQVDK                        family          Enterobacteriaceae            
+9219.1.1_18          LVDKVIGITNEEAISTAR                  family          Enterobacteriaceae            
+6055.1.1_9           IAPYPQAEK                           family          Enterobacteriaceae            
+11728.1.1_20         AEAAPAATGGGIPGMLPWPK                family          Enterobacteriaceae            
+8224.1.1_15          LGDTSTLADPGVVEK                     family          Enterobacteriaceae            
+11603.1.1_13         SPAFDSIMAETLK                       family          Enterobacteriaceae            
+9027.1.1_23          IAAGDTSNLGDTSTLADPGVVEK             family          Enterobacteriaceae            
+6759.1.1_11          VQAQIQGDEIR                         family          Enterobacteriaceae            
+8381.1.1_25          VTETYPANPNGSPNGITAVTTESGR           family          Enterobacteriaceae            
+9439.1.1_16          VPYVGVDKDNLAEFSK                    family          Enterobacteriaceae            
+11433.1.1_23         IITIGSVVGTMGNGGQANYAAAK             family          Enterobacteriaceae            
+7345.1.1_14          VLEQSAESVPEYGK                      family          Enterobacteriaceae            
+9377.1.1_18          EGSSLLGSDAGELAGAGK                  family          Enterobacteriaceae            
+8764.1.1_13          VPVLIGTGGTNAR                       family          Enterobacteriaceae            
+9449.1.1_17          MIQEQTMLNVADNSGAR                   family          Enterobacteriaceae            
+10410.1.1_14         VPEGIGETAIVQIR                      family          Enterobacteriaceae            
+11758.1.1_16         ITTVQAAIDYINGHQA                    family          Enterobacteriaceae            
+11378.1.1_14         EFASEPVWFGDSDR                      family          Enterobacteriaceae            
+10051.1.1_12         INALETVTIASK                        family          Enterobacteriaceae            
+7904.1.1_14          QDIESNLQYDAGDK                      family          Enterobacteriaceae            
+11736.1.1_16         TILVPIDISDSELTQR                    family          Enterobacteriaceae            
+9866.1.1_18          ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+10304.1.1_15         ASQVAILNANYIASR                     family          Enterobacteriaceae            
+9062.1.1_12          MPEEVEELEQQR                        family          Enterobacteriaceae            
+7647.1.1_11          IITNLTEGASR                         family          Enterobacteriaceae            
+5067.1.1_13          VLSGPQAQPAGDK                       family          Enterobacteriaceae            
+9209.1.1_18          LVDKVIGITNEEAISTAR                  family          Enterobacteriaceae            
+7924.1.1_16          GEVVSHIASDNVLGGK                    family          Enterobacteriaceae            
+3895.1.1_11          QEAAAPAPAAK                         family          Enterobacteriaceae            
+9779.1.1_15          DISFEAPNAPHVFQK                     family          Enterobacteriaceae            
+5156.1.1_11          KIYADKLEQEK                         family          Enterobacteriaceae            
+10207.1.1_13         TEPLQITTELPGR                       family          Enterobacteriaceae            
+7178.1.1_12          VLPSGVESNVAR                        family          Enterobacteriaceae            
+12197.1.1_13         AQPEWEALPAIER                       family          Enterobacteriaceae            
+8786.1.1_14          VATEFSETAPATLK                      family          Enterobacteriaceae            
+11363.1.1_14         DMSLYGLEDYTVVR                      family          Enterobacteriaceae            
+4634.1.1_9           IPDDSPQPK                           family          Enterobacteriaceae            
+8446.1.1_16          AAATQEMTLVDTPNAK                    family          Enterobacteriaceae            
+7740.1.1_13          VYDALEVQNGNER                       family          Enterobacteriaceae            
+10046.1.1_15         SGAYQSWIEQNYEGR                     family          Enterobacteriaceae            
+4990.1.1_12          TEEVIAENPGKK                        family          Enterobacteriaceae            
+10563.1.1_20         GQYGHVVIDMYPLEPGSNPK                family          Enterobacteriaceae            
+11591.1.1_14         ANLPPLLSVPVGEK                      family          Enterobacteriaceae            
+12580.1.1_16         NDIAMGPLINAAALER                    family          Enterobacteriaceae            
+12032.1.1_13         WANDPFPIVALDR                       family          Enterobacteriaceae            
+11594.1.1_15         VLLFGQAIQTAGTVK                     family          Enterobacteriaceae            
+4220.1.1_13          AITSSAGNQTPEK                       family          Enterobacteriaceae            
+9348.1.1_14          VDEAGFEAAMEEQR                      family          Enterobacteriaceae            
+9375.1.1_14          LDDNTIEISVTPNR                      family          Enterobacteriaceae            
+11408.1.1_17         YNGLPSMEILGQAAPGK                   family          Enterobacteriaceae            
+12030.1.1_12         LDGLSDAFSVFR                        family          Enterobacteriaceae            
+6474.1.1_10          IKPGNTLPMR                          family          Enterobacteriaceae            
+7052.1.1_15          RQDIESNLQYDAGDK                     family          Enterobacteriaceae            
+11730.1.1_15         LTEGIATLGAAFYPK                     family          Enterobacteriaceae            
+11356.1.1_17         LVDLPGYGYAEVPEEMK                   family          Enterobacteriaceae            
+6132.1.1_13          GYAGDTATTSEIK                       family          Enterobacteriaceae            
+9925.1.1_16          AAELAGNDTIPVEITR                    family          Enterobacteriaceae            
+4745.1.1_13          VINESTNQNAAVK                       family          Enterobacteriaceae            
+11525.1.1_14         PMGPNDYMVIGLAR                      family          Enterobacteriaceae            
+8232.1.1_13          DGNLNLTGQAPYK                       family          Enterobacteriaceae            
+10063.1.1_14         VILAGEVTTPVTVR                      family          Enterobacteriaceae            
+6488.1.1_15          LVNTNVDQAAAASGR                     family          Enterobacteriaceae            
+10087.1.1_14         MPGDLSEYSVIQTK                      family          Enterobacteriaceae            
+10114.1.1_14         KVSQALDILTYTNK                      family          Enterobacteriaceae            
+5034.1.1_12          DAGMVNSDEPAK                        family          Enterobacteriaceae            
+7230.1.1_13          AIISDVNASDEDR                       family          Enterobacteriaceae            
+10856.1.1_16         AAAFEGELIPASQIDR                    family          Enterobacteriaceae            
+6286.1.1_13          EEESAAAAEVEER                       family          Enterobacteriaceae            
+9617.1.1_13          IIGTGSYLPEQVR                       family          Enterobacteriaceae            
+9214.1.1_15          GADKQVIGQVAADLR                     family          Enterobacteriaceae            
+10910.1.1_20         EEQHTPVSDISALTVGQALK                family          Enterobacteriaceae            
+10236.1.1_14         VTLSGTEGALDSLR                      family          Enterobacteriaceae            
+11716.1.1_18         GESTEALLPNMVATSLAK                  family          Enterobacteriaceae            
+8860.1.1_16          YTDTPAGAALVAAGPK                    family          Enterobacteriaceae            
+10881.1.1_16         NDIAMGPLINAAALER                    family          Enterobacteriaceae            
+7196.1.1_13          VGLIAGSGGGSPR                       family          Enterobacteriaceae            
+3262.1.1_11          IEQAPGQHGAR                         family          Enterobacteriaceae            
+6857.1.1_15          VVASMQDPNPQVAGR                     family          Enterobacteriaceae            
+6253.1.1_12          GEAASNPEVIAR                        family          Enterobacteriaceae            
+9083.1.1_19          HDGEAEDVAVALNEQYQPR                 family          Enterobacteriaceae            
+6401.1.1_15          RYEGEIIQSDRPGEN                     family          Enterobacteriaceae            
+8594.1.1_20          QIYEHGVPQAPLAVTGETEK                family          Enterobacteriaceae            
+10930.1.1_16         QGNALGWATAGGSGFR                    family          Enterobacteriaceae            
+9382.1.1_18          TQTFIPGKDAALEDSIAR                  family          Enterobacteriaceae            
+7385.1.1_15          QEVTTEGGLDVAGQR                     family          Enterobacteriaceae            
+10302.1.1_16         WTQPGNIVTNGAYTLK                    family          Enterobacteriaceae            
+11957.1.1_15         LYPDQPVEVLAADLR                     family          Enterobacteriaceae            
+7392.1.1_13          VGLIAGSGGGSPR                       family          Enterobacteriaceae            
+8695.1.1_12          LYTSLGDAAVGR                        family          Enterobacteriaceae            
+9883.1.1_20          KGYINSLGALTGGQALQQAK                family          Enterobacteriaceae            
+11324.1.1_16         LLDNAAADLAAISGQK                    family          Enterobacteriaceae            
+6814.1.1_13          ANAVVMATGGAGR                       family          Enterobacteriaceae            
+8424.1.1_18          QQASLEEQNNDALSPAIR                  family          Enterobacteriaceae            
+8919.1.1_15          AGVDVLGISTDKPEK                     family          Enterobacteriaceae            
+6099.1.1_11          VANLAEAQPDR                         family          Enterobacteriaceae            
+5208.1.1_11          GQNEDQNVGIK                         family          Enterobacteriaceae            
+6589.1.1_13          QKEIADGLASAER                       family          Enterobacteriaceae            
+7309.1.1_23          ADYADSLTENGTHGSDSVESAAR             family          Enterobacteriaceae            
+6913.1.1_11          QLASVTVEDSR                         family          Enterobacteriaceae            
+11156.1.1_13         QFIDGLALPEEEK                       family          Enterobacteriaceae            
+11423.1.1_14         AFTGVGGTPLFIEK                      family          Enterobacteriaceae            
+6522.1.1_13          EEESAAAAEVEER                       family          Enterobacteriaceae            
+4320.1.1_10          KAVLAETEQK                          family          Enterobacteriaceae            
+6539.1.1_10          MNSPEMVAAK                          family          Enterobacteriaceae            
+10130.1.1_11         FGEIEEVELGR                         family          Enterobacteriaceae            
+6622.1.1_12          TVVADGVGQGYK                        family          Enterobacteriaceae            
+11442.1.1_18         VVADIAGVPAQINIAEVR                  family          Enterobacteriaceae            
+7316.1.1_23          AEEHISSSHGDVDYAQASAELAK             family          Enterobacteriaceae            
+4760.1.1_10          IQTMDNQADR                          family          Enterobacteriaceae            
+8023.1.1_17          IEDNVVIHENNVENMTR                   family          Enterobacteriaceae            
+9579.1.1_13          IGSLGMDVYENER                       family          Enterobacteriaceae            
+10564.1.1_15         EAGVQEADFLANVDK                     family          Enterobacteriaceae            
+6869.1.1_12          LANELSDAAENK                        family          Enterobacteriaceae            
+4394.1.1_11          AVVTDDATGQK                         family          Enterobacteriaceae            
+7512.1.1_14          TTSSAAIATGLAQK                      family          Enterobacteriaceae            
+8992.1.1_15          TAVGQTIQIGSGITK                     family          Enterobacteriaceae            
+9455.1.1_17          MIQEQTMLNVADNSGAR                   family          Enterobacteriaceae            
+7435.1.1_17          SGEQTAVAQDSVAAHLR                   family          Enterobacteriaceae            
+9990.1.1_12          DVDTLGMADIEK                        family          Enterobacteriaceae            
+8924.1.1_13          KLADSGLNIIAAK                       family          Enterobacteriaceae            
+8250.1.1_18          AIAQVGTISANSDETVGK                  family          Enterobacteriaceae            
+10336.1.1_15         LAATIAQLPDQIGAK                     family          Enterobacteriaceae            
+9586.1.1_15          GQNVPVVFFNKEPSR                     family          Enterobacteriaceae            
+7229.1.1_13          DSGQNDLIDEDTR                       family          Enterobacteriaceae            
+11228.1.1_15         AAVVVPDNVLFEGGK                     family          Enterobacteriaceae            
+8740.1.1_12          APVVVPAGVDVK                        family          Enterobacteriaceae            
+5895.1.1_10          YNPDVDDAPR                          family          Enterobacteriaceae            
+5181.1.1_16          AKDEADEKDAIATVNK                    family          Enterobacteriaceae            
+9471.1.1_14          LTTDIGPVIDSEAK                      family          Enterobacteriaceae            
+5972.1.1_12          HVDPAAAIQQGK                        family          Enterobacteriaceae            
+3725.1.1_9           AGQEHLVAK                           family          Enterobacteriaceae            
+8632.1.1_18          TVTHMQDEAANFPDPVDR                  family          Enterobacteriaceae            
+10802.1.1_14         IVNAYEAWEEAEQK                      family          Enterobacteriaceae            
+2887.1.1_9           KDDQEETVR                           family          Enterobacteriaceae            
+11158.1.1_20         AAPSYEELSNSQELLETGIK                family          Enterobacteriaceae            
+9061.1.1_14          ETVDFVDNYDGTEK                      family          Enterobacteriaceae            
+9507.1.1_14          IQTESWSPLAQGGK                      family          Enterobacteriaceae            
+8653.1.1_18          ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+10977.1.1_13         VSQALDILTYTNK                       family          Enterobacteriaceae            
+5731.1.1_11          MNPETNSIANR                         family          Enterobacteriaceae            
+5603.1.1_11          QGNEFGATTGR                         family          Enterobacteriaceae            
+9827.1.1_14          LLINGELVSGEGEK                      family          Enterobacteriaceae            
+5578.1.1_11          VAEETPHLIHK                         family          Enterobacteriaceae            
+11412.1.1_18         APVIVQFSNGGASFIAGK                  family          Enterobacteriaceae            
+3766.1.1_14          GGESVNDQGAEDQR                      family          Enterobacteriaceae            
+10359.1.1_14         SINEPEQFWAEQAR                      family          Enterobacteriaceae            
+6728.1.1_15          QAPISSVGSGSVEDR                     family          Enterobacteriaceae            
+8680.1.1_14          DGYADGWAQAGTAR                      family          Enterobacteriaceae            
+10267.1.1_15         ETSAADVPLAIDHFR                     family          Enterobacteriaceae            
+9253.1.1_22          AVGESVQKPLEYYDNNVNGTLR              family          Enterobacteriaceae            
+11232.1.1_15         LSFSLPADMTDQSGK                     family          Enterobacteriaceae            
+10688.1.1_23         VIGTATSENGAQAISDYLGANGK             family          Enterobacteriaceae            
+6115.1.1_11          YSYVDENGETK                         family          Enterobacteriaceae            
+7906.1.1_14          ANEAYLQGQLGNPK                      family          Enterobacteriaceae            
+7075.1.1_12          LEDAQVQLENNR                        family          Enterobacteriaceae            
+5875.1.1_13          ALGGASGGYTAAR                       family          Enterobacteriaceae            
+7830.1.1_12          YANNDMQELEAR                        family          Enterobacteriaceae            
+9164.1.1_15          EGIEPDQPGVVGPIK                     family          Enterobacteriaceae            
+11025.1.1_16         FVTDLNQPVSVYMTPK                    family          Enterobacteriaceae            
+11696.1.1_12         DQGPPDLDDIFR                        family          Enterobacteriaceae            
+10592.1.1_17         ELTPAAVTGTLTTPVGR                   family          Enterobacteriaceae            
+11654.1.1_10         YPPTLLLDVR                          family          Enterobacteriaceae            
+8412.1.1_18          QQASLEEQNNDALSPAIR                  family          Enterobacteriaceae            
+4719.1.1_10          ADMDAETAPK                          family          Enterobacteriaceae            
+7037.1.1_10          FGEEEDDIAR                          family          Enterobacteriaceae            
+10108.1.1_14         VVVPAAIAPEINDK                      family          Enterobacteriaceae            
+5253.1.1_13          VLSGPQAQPAGDK                       family          Enterobacteriaceae            
+10391.1.1_14         QEAEADDYSYDLLR                      family          Enterobacteriaceae            
+11509.1.1_14         LQTVLFQQQLGTLR                      family          Enterobacteriaceae            
+9098.1.1_11          FPNDVDPIETR                         family          Enterobacteriaceae            
+11596.1.1_15         LASLSSALLNSALQK                     family          Enterobacteriaceae            
+6270.1.1_10          AAYAVVDDGK                          family          Enterobacteriaceae            
+11649.1.1_18         ALAINLVDPAAAGTVIEK                  family          Enterobacteriaceae            
+7846.1.1_19          TSVVNASISGDTSQQGLAR                 family          Enterobacteriaceae            
+8584.1.1_13          GDEVLTNGGLVGR                       family          Enterobacteriaceae            
+10453.1.1_14         IAELAGFSVPENTK                      family          Enterobacteriaceae            
+10186.1.1_17         YLQDYGMGPETPLGEPK                   family          Enterobacteriaceae            
+4954.1.1_13          HDASDFETNTEDK                       family          Enterobacteriaceae            
+7255.1.1_9           IDSLTAVSR                           family          Enterobacteriaceae            
+11566.1.1_11         DAIDALFDANR                         family          Enterobacteriaceae            
+11563.1.1_14         GLIEEMASAYEDPK                      family          Enterobacteriaceae            
+5023.1.1_14          EAAPAAAPAAAAAK                      family          Enterobacteriaceae            
+7639.1.1_10          LDPSEYANVK                          family          Enterobacteriaceae            
+11043.1.1_21         AEQQLDKDSAIVPVYYYVNAR               family          Enterobacteriaceae            
+4767.1.1_12          ESDPVDTNAESR                        family          Enterobacteriaceae            
+7749.1.1_16          NTGNPQAPGTLIGASR                    family          Enterobacteriaceae            
+11502.1.1_17         FSPDMTPEDPIVMESIK                   family          Enterobacteriaceae            
+10358.1.1_15         VATLEDATEMVNLYR                     family          Enterobacteriaceae            
+6879.1.1_12          TQQEIPNAETMK                        family          Enterobacteriaceae            
+8332.1.1_13          EGVNSTESGLQFR                       family          Enterobacteriaceae            
+11656.1.1_13         NYLGIDGIPEFGR                       family          Enterobacteriaceae            
+10062.1.1_18         ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+11548.1.1_13         LDGVIPGWTEGLK                       family          Enterobacteriaceae            
+8554.1.1_22          GKGTVSTESGVLNQQPYGFNTR              family          Enterobacteriaceae            
+10579.1.1_12         ADHDTFWFDTTR                        family          Enterobacteriaceae            
+9350.1.1_18          NPSISTHLLGSNASSVIR                  family          Enterobacteriaceae            
+10505.1.1_15         LTIVPAQTSAEDVLK                     family          Enterobacteriaceae            
+11999.1.1_15         VAAPESLAVLFNPAR                     family          Enterobacteriaceae            
+4228.1.1_11          MGSGVASGEDR                         family          Enterobacteriaceae            
+7981.1.1_10          ELIVASSYSK                          family          Enterobacteriaceae            
+9783.1.1_18          ISELSEGQIDTLRDEVAK                  family          Enterobacteriaceae            
+7824.1.1_14          EVPGVQLTNEGDNR                      family          Enterobacteriaceae            
+11023.1.1_15         SLGQFNLDGINPAPR                     family          Enterobacteriaceae            
+5340.1.1_12          ISQATGSTEIDR                        family          Enterobacteriaceae            
+3910.1.1_9           LAAEEQAQR                           family          Enterobacteriaceae            
+8629.1.1_11          SAGTYVQIVAR                         family          Enterobacteriaceae            
+5682.1.1_9           VKLDEAGVR                           family          Enterobacteriaceae            
+10568.1.1_14         ELGSVNDFIVDGNR                      family          Enterobacteriaceae            
+8670.1.1_14          QQLGLSPQDSLGTR                      family          Enterobacteriaceae            
+10372.1.1_11         AAEAVIIDTIR                         family          Enterobacteriaceae            
+11309.1.1_13         MLFGLAQEGVAPK                       family          Enterobacteriaceae            
+6495.1.1_12          LSASYVGEDNER                        family          Enterobacteriaceae            
+5911.1.1_12          YANNDMQELEAR                        family          Enterobacteriaceae            
+10667.1.1_15         NQLTFNQIALEEAGR                     family          Enterobacteriaceae            
+9283.1.1_12          FNVPVSDADIEK                        family          Enterobacteriaceae            
+8890.1.1_14          VAISGQDADLAGIK                      family          Enterobacteriaceae            
+5759.1.1_16          VPTGATTQDAEVDDAK                    family          Enterobacteriaceae            
+4934.1.1_13          AAIAAAQANPNAK                       family          Enterobacteriaceae            
+9615.1.1_15          QDVPSFRPGDTVEVK                     family          Enterobacteriaceae            
+7232.1.1_11          GKVPMNIVAQR                         family          Enterobacteriaceae            
+11456.1.1_16         GLAQGTDVSFGSFGLK                    family          Enterobacteriaceae            
+7723.1.1_14          IAHWVGQGATISDR                      family          Enterobacteriaceae            
+5519.1.1_12          KAGNVAADGVIK                        family          Enterobacteriaceae            
+7358.1.1_11          YGIDQQETSLK                         family          Enterobacteriaceae            
+6974.1.1_12          MKGEMPSDFDAK                        family          Enterobacteriaceae            
+9550.1.1_14          VIELQGIAGTSAAR                      family          Enterobacteriaceae            
+7208.1.1_11          LLQQSGTFDSR                         family          Enterobacteriaceae            
+10308.1.1_14         HAVIALTSIYGVGK                      family          Enterobacteriaceae            
+9573.1.1_12          HGYAFNELDLGK                        family          Enterobacteriaceae            
+7983.1.1_15          GEMPQTIGGGIGQSR                     family          Enterobacteriaceae            
+5700.1.1_13          KTVVADGVGQGYK                       family          Enterobacteriaceae            
+10324.1.1_21         LTDTPAIVSTDADEMSTQMAK               family          Enterobacteriaceae            
+4177.1.1_10          TQEVVAQEQK                          family          Enterobacteriaceae            
+6418.1.1_14          IDPNGENDRYPLQK                      family          Enterobacteriaceae            
+10695.1.1_23         VIGTATSENGAQAISDYLGANGK             family          Enterobacteriaceae            
+10531.1.1_12         QDIGEILIDNPK                        family          Enterobacteriaceae            
+7887.1.1_13          TIASNAITINGEK                       family          Enterobacteriaceae            
+8708.1.1_14          GAVPGATGSDLIVK                      family          Enterobacteriaceae            
+3570.1.1_10          LQAAATSAQK                          family          Enterobacteriaceae            
+4832.1.1_12          HGTAADPEDAVR                        family          Enterobacteriaceae            
+5987.1.1_11          TMNLGTVSEER                         family          Enterobacteriaceae            
+7443.1.1_12          ALEEAGAEVEVK                        family          Enterobacteriaceae            
+5419.1.1_11          AAYAVVDDGKR                         family          Enterobacteriaceae            
+8748.1.1_14          VETGSGIGFGATVK                      family          Enterobacteriaceae            
+4553.1.1_11          AALAAGGEAAK                         family          Enterobacteriaceae            
+11749.1.1_12         VIPYWNETILPR                        family          Enterobacteriaceae            
+6784.1.1_15          MQAASGQLQQSHLLK                     family          Enterobacteriaceae            
+9930.1.1_14          SEQNNTEMTFQIQR                      family          Enterobacteriaceae            
+11141.1.1_14         SIAGGFPLAGVTGR                      family          Enterobacteriaceae            
+4175.1.1_11          EELNETNSETK                         family          Enterobacteriaceae            
+10076.1.1_14         VPQDVSLIGYDNVR                      family          Enterobacteriaceae            
+7301.1.1_11          LGDSELYDQSR                         family          Enterobacteriaceae            
+4582.1.1_14          EKTEEVIAENPGKK                      family          Enterobacteriaceae            
+10386.1.1_19         VEVETPEENTGDVIGDLSR                 family          Enterobacteriaceae            
+6715.1.1_13          AEITPANADTVTR                       family          Enterobacteriaceae            
+11428.1.1_23         IITIGSVVGTMGNGGQANYAAAK             family          Enterobacteriaceae            
+10730.1.1_15         AIGIISNNPEFADVR                     family          Enterobacteriaceae            
+9401.1.1_19          HESGVVTDPQTVLPTTTLR                 family          Enterobacteriaceae            
+6119.1.1_16          NNWGQTEQQQEPSAAR                    family          Enterobacteriaceae            
+9349.1.1_15          VSGQTQFNGVNVLAK                     family          Enterobacteriaceae            
+7631.1.1_12          ALEEAGAEVEVK                        family          Enterobacteriaceae            
+10299.1.1_13         MAFAEQGITELSK                       family          Enterobacteriaceae            
+9605.1.1_15          NVPFESGIDSVGSAR                     family          Enterobacteriaceae            
+11191.1.1_17         GNNQQVLLEQLENQGIR                   family          Enterobacteriaceae            
+9297.1.1_14          QSPNTMSDMAAFEK                      family          Enterobacteriaceae            
+7439.1.1_12          LANELSDAAENK                        family          Enterobacteriaceae            
+9256.1.1_14          TAIIWEGDDASQSK                      family          Enterobacteriaceae            
+11443.1.1_16         GSLPIALDEVITDGHK                    family          Enterobacteriaceae            
+5675.1.1_11          AYYDTDDATTK                         family          Enterobacteriaceae            
+10821.1.1_17         VATTDEEPILGQTYLPR                   family          Enterobacteriaceae            
+11221.1.1_11         AQSVVDYLISK                         family          Enterobacteriaceae            
+8825.1.1_11          AVAAALEQMPR                         family          Enterobacteriaceae            
+9663.1.1_17          NMINVALNNGTLQHPVK                   family          Enterobacteriaceae            
+6671.1.1_13          VGDAVQADVDEAR                       family          Enterobacteriaceae            
+9632.1.1_19          LNSAAISDYAPNGLQVEGK                 family          Enterobacteriaceae            
+7008.1.1_11          VEETEDADAFR                         family          Enterobacteriaceae            
+9921.1.1_17          ITANQNLIIAGVPESEK                   family          Enterobacteriaceae            
+12224.1.1_14         GNTGENLLALLEGR                      family          Enterobacteriaceae            
+6231.1.1_14          NPQTGKEITIAAAK                      family          Enterobacteriaceae            
+11583.1.1_11         WTDDDLYGIIR                         family          Enterobacteriaceae            
+5345.1.1_13          EKTEEVIAENPGK                       family          Enterobacteriaceae            
+8818.1.1_13          AVGNLELANDEVR                       family          Enterobacteriaceae            
+12009.1.1_14         TGAIVDFFSPGALK                      family          Enterobacteriaceae            
+8804.1.1_16          DLVESAPAALKEGVSK                    family          Enterobacteriaceae            
+10483.1.1_19         TGNTDSLALQNIGLETDSR                 family          Enterobacteriaceae            
+11605.1.1_12         IALESVLLGDKE                        family          Enterobacteriaceae            
+11355.1.1_16         QEDANFSNNAMAEAFK                    family          Enterobacteriaceae            
+11367.1.1_14         YPTLALVDSTQELR                      family          Enterobacteriaceae            
+9767.1.1_16          YDANNIYLAANYGETR                    family          Enterobacteriaceae            
+8838.1.1_23          SQTVHFQGNPVTVANSIPQAGSK             family          Enterobacteriaceae            
+9966.1.1_13          YAMIGDPTGALTR                       family          Enterobacteriaceae            
+10864.1.1_18         VGYINDQYVLNPTQDELK                  family          Enterobacteriaceae            
+8841.1.1_15          NGALNAAIVGQPAYK                     family          Enterobacteriaceae            
+8468.1.1_16          AVVMDHDANIISVSQR                    family          Enterobacteriaceae            
+8611.1.1_14          EMAHQQIGMEVLNR                      family          Enterobacteriaceae            
+6775.1.1_11          VSQASDSYYYR                         family          Enterobacteriaceae            
+9761.1.1_13          INDPQVADDILSR                       family          Enterobacteriaceae            
+11573.1.1_15         VAVATIGAVLPGDFK                     family          Enterobacteriaceae            
+6618.1.1_11          SQTGFGVEQGR                         family          Enterobacteriaceae            
+11416.1.1_14         LDAPLIVVATQGGK                      family          Enterobacteriaceae            
+7760.1.1_18          ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+9308.1.1_18          EIGNGFSELNDAEDQAQR                  family          Enterobacteriaceae            
+9242.1.1_22          IHVAVAQEVPGTGVDTPEDLER              family          Enterobacteriaceae            
+5584.1.1_16          VPTGATTQDAEVDDAK                    family          Enterobacteriaceae            
+8660.1.1_12          IVVSPAAGTIVK                        family          Enterobacteriaceae            
+11450.1.1_18         VVADIAGVPAQINIAEVR                  family          Enterobacteriaceae            
+5782.1.1_11          KVYAAIEAGDK                         family          Enterobacteriaceae            
+11014.1.1_14         GLIDSSDLPLNVSR                      family          Enterobacteriaceae            
+11675.1.1_18         LLMAIGEPVMVDTAQEPR                  family          Enterobacteriaceae            
+5188.1.1_16          AKDEADEKDAIATVNK                    family          Enterobacteriaceae            
+11620.1.1_15         VATLEDATEMVNLYR                     family          Enterobacteriaceae            
+11466.1.1_15         EIEEGLINNQILDVR                     family          Enterobacteriaceae            
+9740.1.1_13          TLTLLGENTEEGR                       family          Enterobacteriaceae            
+10162.1.1_16         QEDANFSNNAMAEAFK                    family          Enterobacteriaceae            
+9212.1.1_13          ADVAPSNLAIVGR                       family          Enterobacteriaceae            
+11318.1.1_11         AIWEQELTDMR                         family          Enterobacteriaceae            
+10290.1.1_23         VVINKDTTTIIDGVGEEAAIQGR             family          Enterobacteriaceae            
+10566.1.1_12         AVETLILDEADR                        family          Enterobacteriaceae            
+5041.1.1_11          EESEAEQAVAR                         family          Enterobacteriaceae            
+7976.1.1_15          LTAAPGNGASIGGLK                     family          Enterobacteriaceae            
+7313.1.1_11          VGDIVVSDEAR                         family          Enterobacteriaceae            
+7237.1.1_11          KEEVVGAEMMR                         family          Enterobacteriaceae            
+10147.1.1_15         LMTEFNYNSVMQVPR                     family          Enterobacteriaceae            
+10198.1.1_13         TLPPEVMANIEAK                       family          Enterobacteriaceae            
+8782.1.1_14          VIGITNEEAISTAR                      family          Enterobacteriaceae            
+10276.1.1_11         DIALGEEFVNK                         family          Enterobacteriaceae            
+7239.1.1_15          VIDQGTGETMGDMTK                     family          Enterobacteriaceae            
+6724.1.1_11          DDVTGEELTTR                         family          Enterobacteriaceae            
+8039.1.1_12          YANNDMQELEAR                        family          Enterobacteriaceae            
+8895.1.1_17          MIQEQTMLNVADNSGAR                   family          Enterobacteriaceae            
+9649.1.1_12          IMNVLGEPVDMK                        family          Enterobacteriaceae            
+11173.1.1_18         VVNIASYQVSPNDVVSIR                  family          Enterobacteriaceae            
+6328.1.1_23          WTDNAEPTEDSSDYHVTTSQHAR             family          Enterobacteriaceae            
+10665.1.1_14         QILPEANSQIVGFR                      family          Enterobacteriaceae            
+8372.1.1_25          VTETYPANPNGSPNGITAVTTESGR           family          Enterobacteriaceae            
+8712.1.1_14          IAEAAVVGIPHNIK                      family          Enterobacteriaceae            
+11186.1.1_14         TVPMFNEALAELNK                      family          Enterobacteriaceae            
+8067.1.1_19          HNEPYYPPVEPARPVGDLK                 family          Enterobacteriaceae            
+10201.1.1_12         AMEIVYDEADLR                        family          Enterobacteriaceae            
+9641.1.1_15          GQNVPVVFFNKEPSR                     family          Enterobacteriaceae            
+7396.1.1_11          QPSQEELSIAR                         family          Enterobacteriaceae            
+9784.1.1_18          DLSGFVDGTENPAGEETR                  family          Enterobacteriaceae            
+10535.1.1_23         EGTRPAVVIPTNEELVIAQDASR             family          Enterobacteriaceae            
+7853.1.1_18          AIAQVGTISANSDETVGK                  family          Enterobacteriaceae            
+6674.1.1_12          KWEPGMAEEETR                        family          Enterobacteriaceae            
+4973.1.1_10          AQIHVEDTER                          family          Enterobacteriaceae            
+6496.1.1_12          LDDTSSEFNTQR                        family          Enterobacteriaceae            
+9496.1.1_15          TDSTNLSQDAVNMVR                     family          Enterobacteriaceae            
+10976.1.1_18         VVNIASYQVSPNDVVSIR                  family          Enterobacteriaceae            
+9433.1.1_15          TEIIEESEGEVAGIK                     family          Enterobacteriaceae            
+8507.1.1_11          AAIEYAIANDR                         family          Enterobacteriaceae            
+8139.1.1_13          ADSAEVSMIPSTK                       family          Enterobacteriaceae            
+6380.1.1_15          RYEGEIIQSDRPGEN                     family          Enterobacteriaceae            
+8958.1.1_14          SLIGPDGEQYKLPR                      family          Enterobacteriaceae            
+12031.1.1_15         DATGIDPVSLIAFDK                     family          Enterobacteriaceae            
+9337.1.1_11          ELANVQDLTVR                         family          Enterobacteriaceae            
+8105.1.1_16          SISVVVNNDDATTGVR                    family          Enterobacteriaceae            
+7529.1.1_11          ISPETAEPIPR                         family          Enterobacteriaceae            
+7781.1.1_14          SAGGIVLTGSAAAK                      family          Enterobacteriaceae            
+9705.1.1_12          NVTVMAMDSVPR                        family          Enterobacteriaceae            
+10633.1.1_20         MAQENPGVDVPVYGVPINTR                family          Enterobacteriaceae            
+10739.1.1_13         DVLEAMQADSGIR                       family          Enterobacteriaceae            
+5932.1.1_11          YSYVDENGETK                         family          Enterobacteriaceae            
+4258.1.1_11          QVQDGSYQGER                         family          Enterobacteriaceae            
+7284.1.1_15          MQAASGQLQQSHLLK                     family          Enterobacteriaceae            
+11405.1.1_11         VAPEALTLLAR                         family          Enterobacteriaceae            
+9187.1.1_12          EFADVQVVAPDR                        family          Enterobacteriaceae            
+7860.1.1_21          STFQQLPGTGVKPDQFHSQTR               family          Enterobacteriaceae            
+3752.1.1_10          IKADAEEAAR                          family          Enterobacteriaceae            
+5401.1.1_12          RLNTLSPAEGSK                        family          Enterobacteriaceae            
+11592.1.1_17         AAGAELVGMEDLADQIK                   family          Enterobacteriaceae            
+4146.1.1_11          LKQGIESATQK                         family          Enterobacteriaceae            
+4727.1.1_10          GQESEVTGVK                          family          Enterobacteriaceae            
+11431.1.1_16         GSLPIALDEVITDGHK                    family          Enterobacteriaceae            
+10666.1.1_20         DSMGAIDVPADKLWGAQTQR                family          Enterobacteriaceae            
+5207.1.1_10          AVAYNSSDVK                          family          Enterobacteriaceae            
+10675.1.1_18         IVINNQVGFTTSNPLDAR                  family          Enterobacteriaceae            
+11638.1.1_16         NDIAMGPLINAAALER                    family          Enterobacteriaceae            
+3444.1.1_12          SDVQAAKDDAAR                        family          Enterobacteriaceae            
+9981.1.1_16          SDVMVVGFDGTPDGEK                    family          Enterobacteriaceae            
+8420.1.1_17          SGALAGTVLNDANNQAK                   family          Enterobacteriaceae            
+9060.1.1_10          IPTIATPVPR                          family          Enterobacteriaceae            
+12385.1.1_13         AQPEWEALPAIER                       family          Enterobacteriaceae            
+10099.1.1_13         LDNNDMIDQLEAR                       family          Enterobacteriaceae            
+11632.1.1_11         TASSDLYQLFR                         family          Enterobacteriaceae            
+9857.1.1_15          IASYQVSPNDVVSIR                     family          Enterobacteriaceae            
+9466.1.1_13          DDLPEGVYNEQFK                       family          Enterobacteriaceae            
+7592.1.1_12          SFVPLAHTNEAR                        family          Enterobacteriaceae            
+11452.1.1_12         DSGVVSELFDER                        family          Enterobacteriaceae            
+6679.1.1_12          LANELSDAAENK                        family          Enterobacteriaceae            
+9723.1.1_14          AQMDGLEGYPVYTR                      family          Enterobacteriaceae            
+8319.1.1_18          GAVPGATGSDLIVKPAVK                  family          Enterobacteriaceae            
+4557.1.1_11          DKWAHTSVQDR                         family          Enterobacteriaceae            
+5452.1.1_14          REEESAAAAEVEER                      family          Enterobacteriaceae            
+7462.1.1_13          LVDIEQVSSTHAK                       family          Enterobacteriaceae            
+9517.1.1_14          QEIVTDPLEQEVNK                      family          Enterobacteriaceae            
+8196.1.1_15          IALTQSGGLDAAQAR                     family          Enterobacteriaceae            
+10441.1.1_10         TQLIDVIAEK                          family          Enterobacteriaceae            
+7805.1.1_11          MVAPVDGTIGK                         family          Enterobacteriaceae            
+9429.1.1_12          FGVEDGSVEGLR                        family          Enterobacteriaceae            
+9018.1.1_17          QSNWLSGQHGEEGGSMR                   family          Enterobacteriaceae            
+4798.1.1_12          MQAASGQLQQSH                        family          Enterobacteriaceae            
+10780.1.1_17         VTDIMGEIASASDEQSR                   family          Enterobacteriaceae            
+7619.1.1_13          MLEDQNLISAHGK                       family          Enterobacteriaceae            
+11407.1.1_17         LIQLMNETVDGDYQTFK                   family          Enterobacteriaceae            
+7763.1.1_15          FTGANTLEVEGENGK                     family          Enterobacteriaceae            
+11619.1.1_13         MQAVGLDLPFQTR                       family          Enterobacteriaceae            
+6891.1.1_22          FTDNVNQTQSDKPVENPGIAAR              family          Enterobacteriaceae            
+7616.1.1_13          DASESDVEASLDR                       family          Enterobacteriaceae            
+7426.1.1_17          SGEQTAVAQDSVAAHLR                   family          Enterobacteriaceae            
+10790.1.1_19         LSPEMVSASTLAGDPITAR                 family          Enterobacteriaceae            
+7422.1.1_13          AIISDVNASDEDR                       family          Enterobacteriaceae            
+9610.1.1_15          AGYNLVASATEGQMR                     family          Enterobacteriaceae            
+8933.1.1_12          APVVVPAGVDVK                        family          Enterobacteriaceae            
+11136.1.1_18         YLLLQQFSNPANPEIHEK                  family          Enterobacteriaceae            
+11352.1.1_20         IGAVHSVIFGGFSPEAVAGR                family          Enterobacteriaceae            
+6510.1.1_11          TMLDTMNHGGR                         family          Enterobacteriaceae            
+11617.1.1_16         EDEPMPLTSGEFAVLK                    family          Enterobacteriaceae            
+11224.1.1_16         QMEGAWLGSDLVDQGK                    family          Enterobacteriaceae            
+8060.1.1_16          GPAIAQAFDAEGKPSK                    family          Enterobacteriaceae            
+5337.1.1_11          RNDVNPEITDR                         family          Enterobacteriaceae            
+8079.1.1_13          VWTGGGDEAALAR                       family          Enterobacteriaceae            
+7041.1.1_14          GSENYALTTNQGVR                      family          Enterobacteriaceae            
+8840.1.1_11          SAGTYVQIVAR                         family          Enterobacteriaceae            
+10981.1.1_18         VVNIASYQVSPNDVVSIR                  family          Enterobacteriaceae            
+8211.1.1_10          MAGTADIEIR                          family          Enterobacteriaceae            
+10119.1.1_13         LIDGTVFDSSVAR                       family          Enterobacteriaceae            
+8347.1.1_14          DFDVTTNATPEQVR                      family          Enterobacteriaceae            
+9107.1.1_14          LLSENGYDPVYGAR                      family          Enterobacteriaceae            
+4742.1.1_11          ISAAAHNELTK                         family          Enterobacteriaceae            
+8915.1.1_14          LAEVEPALAEVAHK                      family          Enterobacteriaceae            
+9647.1.1_13          EVTTTPLAADDWK                       family          Enterobacteriaceae            
+6500.1.1_13          SVDEAANSDIVDK                       family          Enterobacteriaceae            
+6555.1.1_14          SMQEVAMSSQEASK                      family          Enterobacteriaceae            
+8648.1.1_15          QAQEILDTDHYGLER                     family          Enterobacteriaceae            
+7181.1.1_27          LPPASSSTTSGASNTSSTSQGDIMDQR         family          Enterobacteriaceae            
+4749.1.1_11          VDGTKPVAEVR                         family          Enterobacteriaceae            
+6272.1.1_12          VINQGEGAIPAR                        family          Enterobacteriaceae            
+8831.1.1_12          LDQLAEIVKPQR                        family          Enterobacteriaceae            
+8879.1.1_12          SLGITNPEEIDR                        family          Enterobacteriaceae            
+7253.1.1_12          ALEEAGAEVEVK                        family          Enterobacteriaceae            
+11176.1.1_16         DATSATTTTSLGGLFK                    family          Enterobacteriaceae            
+11085.1.1_14         GLGTPVGSLLVGNR                      family          Enterobacteriaceae            
+9751.1.1_17          ADISSDQIAAIGITNQR                   family          Enterobacteriaceae            
+4144.1.1_10          VEVADTNESK                          family          Enterobacteriaceae            
+6258.1.1_10          LQEDESFTNK                          family          Enterobacteriaceae            
+6972.1.1_10          IAALMDKPVK                          family          Enterobacteriaceae            
+11714.1.1_18         ATGTSEMAPALVAAFGGK                  family          Enterobacteriaceae            
+8700.1.1_13          LVTAENFDENAVR                       family          Enterobacteriaceae            
+8609.1.1_18          QQASLEEQNNDALSPAIR                  family          Enterobacteriaceae            
+7790.1.1_13          AIISDVNASDEDR                       family          Enterobacteriaceae            
+8205.1.1_9           IIGEQLGVK                           family          Enterobacteriaceae            
+10810.1.1_17         AVGDSLEAQQYGIAFPK                   family          Enterobacteriaceae            
+5951.1.1_13          GYPNSQYTTDATK                       family          Enterobacteriaceae            
+5335.1.1_11          FIATNPDTHGR                         family          Enterobacteriaceae            
+10237.1.1_19         AIMASDLGLNPNSAGSDIR                 family          Enterobacteriaceae            
+4698.1.1_9           LDQLPADKK                           family          Enterobacteriaceae            
+8814.1.1_12          EKPTWLEVDAGK                        family          Enterobacteriaceae            
+7098.1.1_12          LANELSDAAENK                        family          Enterobacteriaceae            
+11527.1.1_12         IGVPFVDGGVIK                        family          Enterobacteriaceae            
+6091.1.1_12          ASSGLNEDEIQK                        family          Enterobacteriaceae            
+9438.1.1_12          QAIVAEVSEVAK                        family          Enterobacteriaceae            
+9998.1.1_15          GETQALVTATLGTAR                     family          Enterobacteriaceae            
+9868.1.1_14          LQPDEGVDIQVLNK                      family          Enterobacteriaceae            
+8074.1.1_14          APLDNDIGVSEATR                      family          Enterobacteriaceae            
+9001.1.1_10          GKPFAPLLEK                          family          Enterobacteriaceae            
+11792.1.1_16         SVAEAANTPVALVFGR                    family          Enterobacteriaceae            
+8530.1.1_20          AGTHDSHGAPLGDAEIALTR                family          Enterobacteriaceae            
+6309.1.1_11          RVVLPEGEEAR                         family          Enterobacteriaceae            
+7221.1.1_15          AGAAGLHIEDQVGAK                     family          Enterobacteriaceae            
+8283.1.1_14          DGYADGWAQAGTAR                      family          Enterobacteriaceae            
+11881.1.1_11         EQLLEVGDFLK                         family          Enterobacteriaceae            
+6353.1.1_13          MQEQYRPEEIESK                       family          Enterobacteriaceae            
+11316.1.1_13         AQPEWEALPAIER                       family          Enterobacteriaceae            
+5019.1.1_12          VLYPNDNHTAGK                        family          Enterobacteriaceae            
+6007.1.1_14          NGSQSGATLYASSR                      family          Enterobacteriaceae            
+8580.1.1_14          VATEFSETAPATLK                      family          Enterobacteriaceae            
+5689.1.1_10          LGAVPGGTER                          family          Enterobacteriaceae            
+10471.1.1_11         DIALGEEFVNK                         family          Enterobacteriaceae            
+6295.1.1_13          SVDEAANSDIVDK                       family          Enterobacteriaceae            
+4523.1.1_14          HDASDFETNTEDKR                      family          Enterobacteriaceae            
+6156.1.1_12          SRDPQLQVVTNK                        family          Enterobacteriaceae            
+9293.1.1_11          AFNEMQPIVDR                         family          Enterobacteriaceae            
+4364.1.1_11          LAQEASQEAAR                         family          Enterobacteriaceae            
+9627.1.1_14          IIVVSDEVAADTVR                      family          Enterobacteriaceae            
+6439.1.1_10          LIDSQDVETR                          family          Enterobacteriaceae            
+11606.1.1_16         EIPFLYASSAATYGGR                    family          Enterobacteriaceae            
+8561.1.1_16          AINEDAAGNYIHYGVR                    family          Enterobacteriaceae            
+4731.1.1_12          KAVDALAGQSAK                        family          Enterobacteriaceae            
+11672.1.1_13         DLPDLVYMTEAEK                       family          Enterobacteriaceae            
+8739.1.1_12          DLEHPIEVPVGK                        family          Enterobacteriaceae            
+9478.1.1_13          TLEEEEIAATVAK                       family          Enterobacteriaceae            
+10792.1.1_12         SDLFNVNAGIVK                        family          Enterobacteriaceae            
+11789.1.1_15         ESAEPEELVEPFLTR                     family          Enterobacteriaceae            
+10173.1.1_11         GTLGQDVIDIR                         family          Enterobacteriaceae            
+10662.1.1_14         MANQANIPVITLDR                      family          Enterobacteriaceae            
+6911.1.1_11          DDVTGEELTTR                         family          Enterobacteriaceae            
+6424.1.1_11          SQTGFGVEQGR                         family          Enterobacteriaceae            
+10518.1.1_19         VTPVGTPVTEEDFLQPGNK                 family          Enterobacteriaceae            
+11319.1.1_20         VSSTTPSSGEYLLEMSGINK                family          Enterobacteriaceae            
+10418.1.1_16         QGNALGWATAGGSGFR                    family          Enterobacteriaceae            
+6160.1.1_11          AQVGTMPVGSK                         family          Enterobacteriaceae            
+10321.1.1_18         ATIDGLENMNSPEMVAAK                  family          Enterobacteriaceae            
+8168.1.1_13          VTGETGEAIDDLR                       family          Enterobacteriaceae            
+11348.1.1_11         VGFFNPIASEK                         family          Enterobacteriaceae            
+4359.1.1_11          EELNETNSETK                         family          Enterobacteriaceae            
+10488.1.1_12         EGFEVTYLAPQR                        family          Enterobacteriaceae            
+7822.1.1_11          SLIGPDGEQYK                         family          Enterobacteriaceae            
+5308.1.1_11          EYAATQVDGQR                         family          Enterobacteriaceae            
+7739.1.1_12          APAPEYVPEAPR                        family          Enterobacteriaceae            
+10463.1.1_19         TGNTDSLALQNIGLETDSR                 family          Enterobacteriaceae            
+10759.1.1_11         MEQVVIVDAIR                         family          Enterobacteriaceae            
+6346.1.1_13          VNEVNFDKPENAR                       family          Enterobacteriaceae            
+6345.1.1_23          WTDNAEPTEDSSDYHVTTSQHAR             family          Enterobacteriaceae            
+11477.1.1_17         IVTGVTASQALLDEAVR                   family          Enterobacteriaceae            
+11737.1.1_12         GITDILVVDNLK                        family          Enterobacteriaceae            
+6101.1.1_13          EEESAAAAEVEER                       family          Enterobacteriaceae            
+3046.1.1_11          AVESGDKKPLR                         family          Enterobacteriaceae            
+9717.1.1_11          EFADNLDSDFK                         family          Enterobacteriaceae            
+8627.1.1_21          LDSAVTNLNNTTTNLSEAQSR               family          Enterobacteriaceae            
+8409.1.1_13          ISTVPEAVEMQSR                       family          Enterobacteriaceae            
+11729.1.1_21         DAFVGPTLIAYSMEHPGAAAR               family          Enterobacteriaceae            
+7642.1.1_15          VVLASNGSQVTVSPR                     family          Enterobacteriaceae            
+10160.1.1_13         DLGSMDVNEVIEK                       family          Enterobacteriaceae            
+10333.1.1_14         GTADAVTQNLDIIR                      family          Enterobacteriaceae            
+6279.1.1_12          ASSGLNEDEIQK                        family          Enterobacteriaceae            
+10954.1.1_12         SGLPQAALNYIK                        family          Enterobacteriaceae            
+10168.1.1_14         NKVTDAEIAEVLAR                      family          Enterobacteriaceae            
+7674.1.1_15          IKPYLLNNGQNPPAR                     family          Enterobacteriaceae            
+6716.1.1_12          QQEATQPDDVIR                        family          Enterobacteriaceae            
+5397.1.1_12          TAQTPGGTGALR                        family          Enterobacteriaceae            
+5886.1.1_18          YQQHGMAPLTQEQKPVAK                  family          Enterobacteriaceae            
+8809.1.1_17          TGIPDADKVNIQIADGK                   genus           Escherichia                   
+10300.1.1_11         FVGAVSIDSLK                         genus           Escherichia                   
+11092.1.1_19         LVGVGFFTSGGNGAQQAGK                 genus           Escherichia                   
+11938.1.1_19         ATAAEVFGLPLETVTSEQR                 genus           Escherichia                   
+7946.1.1_12          GQDSFTIQPGER                        genus           Escherichia                   
+11283.1.1_16         AVAAVNGPIAQALIGK                    genus           Escherichia                   
+9811.1.1_19          SEQHAQGADAVVDLNNELK                 genus           Escherichia                   
+7463.1.1_12          TLQSDEPMPVAR                        genus           Escherichia                   
+9008.1.1_17          NVEILNEDETTQTALQK                   genus           Staphylococcus                
+3956.1.1_10          SANHAVEEVR                          genus           Escherichia                   
+8455.1.1_10          LTQEQLDNFR                          genus           Escherichia                   
+7507.1.1_11          HADNTLTFGPR                         genus           Escherichia                   
+11463.1.1_13         LFDYLTDTGNLPR                       genus           Escherichia                   
+5899.1.1_11          VLTNSETNSIK                         genus           Escherichia                   
+7759.1.1_15          NEYTVPTAPAEDAPR                     genus           Escherichia                   
+11066.1.1_13         YLNFNQLSQYTEK                       genus           Escherichia                   
+5459.1.1_9           FKDDVQDVR                           genus           Alteromonas                   
+4637.1.1_11          VYGGEADAADK                         genus           Escherichia                   
+9626.1.1_11          MLNQLDNLTER                         genus           Escherichia                   
+10546.1.1_17         GITGGNGILADDYDIAR                   genus           Staphylococcus                
+8151.1.1_13          NADALTLQAPAQR                       genus           Escherichia                   
+7650.1.1_24          DVRPPAGWEEPGASNNSGDNGSPK            genus           Escherichia                   
+10939.1.1_15         YYGPASQVVPEFVEK                     genus           Escherichia                   
+7595.1.1_14          TNSSVVVEDNPAIR                      genus           Staphylococcus                
+8146.1.1_14          WNTGQSEEAWQGAK                      genus           Escherichia                   
+6011.1.1_26          ADSGAQTNNGQANAAADAGQVAPDAR          genus           Escherichia                   
+4847.1.1_23          NAPPPTKPVETQTQSTVPDKNDR             genus           Escherichia                   
+8137.1.1_17          ADVLPLDSNHVNTEEAR                   genus           Escherichia                   
+9801.1.1_16          ADQIQWSAGIEPGDPR                    genus           Escherichia                   
+5963.1.1_9           VTIAPDDER                           genus           Escherichia                   
+9366.1.1_14          LLESAGIAYTVNQR                      genus           Escherichia                   
+7455.1.1_20          RDDDSYDEDVEDDEGVGEVR                genus           Escherichia                   
+10539.1.1_16         YDEAPSNVAQAVIEAR                    genus           Escherichia                   
+4649.1.1_13          SGQAETLADHEGR                       genus           Escherichia                   
+8362.1.1_26          ASPVSLGVPSEATANNGQQQQVQEQR          genus           Escherichia                   
+8157.1.1_22          EILTNDISDNSGLGQHTTTAAR              genus           Escherichia                   
+8101.1.1_17          ADVLPLDSNHVNTEEAR                   genus           Escherichia                   
+11901.1.1_15         ITAILPVTEFEEGVK                     genus           Escherichia                   
+11528.1.1_17         SDDVALPLEFTDAAANK                   genus           Escherichia                   
+10142.1.1_13         TDLTAQEPAWQTR                       genus           Escherichia                   
+3837.1.1_12          KVEVMNTDAEGR                        genus           Escherichia                   
+9851.1.1_14          DSVPMTLSEDEIAR                      genus           Escherichia                   
+10370.1.1_19         NAALLAEVPHSVPAVTVNR                 genus           Escherichia                   
+5623.1.1_14          YHFEQSSTTTQPAR                      genus           Escherichia                   
+10527.1.1_22         LKEYNAAPPLQGFGISAPDQVK              genus           Escherichia                   
+6061.1.1_11          YTAAITGAEGK                         genus           Escherichia                   
+7641.1.1_19          NGDSVAQSYDMIDNAPEEK                 genus           Staphylococcus                
+6403.1.1_15          QAGYTVVTTSSEQGK                     genus           Escherichia                   
+9428.1.1_13          DDDTADILTAASR                       genus           Escherichia                   
+7303.1.1_12          VQSMPEINDADK                        genus           Escherichia                   
+7855.1.1_22          AATAGNGNEAAIEAQAAGVEQR              genus           Escherichia                   
+10011.1.1_11         AELDALQAEIR                         genus           Escherichia                   
+4371.1.1_22          AQEVTADNNQQAASGAQPEQSK              genus           Escherichia                   
+9648.1.1_14          LQTMVSHFTIDPSR                      genus           Escherichia                   
+8426.1.1_13          TDLTAQEPAWQTR                       genus           Escherichia                   
+11635.1.1_12         QVPFSGEIWIDR                        genus           Escherichia                   
+10022.1.1_14         EAEYKDWTIEQITR                      genus           Escherichia                   
+12093.1.1_12         TTDELDAIFFGR                        genus           Escherichia                   
+8160.1.1_13          IGSLVANDADSYR                       genus           Escherichia                   
+6245.1.1_11          YTAAITGAEGK                         genus           Escherichia                   
+7698.1.1_11          HADNTLTFGPR                         genus           Escherichia                   
+10714.1.1_16         YDEAPSNVAQAVIEAR                    genus           Escherichia                   
+6973.1.1_12          GAISAQQLDDDR                        genus           Escherichia                   
+5117.1.1_17          VYGGEADAADKAEAANK                   genus           Escherichia                   
+4431.1.1_11          VYGGEADAADK                         genus           Escherichia                   
+4859.1.1_15          TKEQHEADSVSLQDR                     genus           Streptococcus                 
+6714.1.1_15          NNSLSQEVQNAQHQR                     genus           Escherichia                   
+10850.1.1_15         VLIEQAIEQPLDPQR                     genus           Escherichia                   
+11238.1.1_18         LLNTTAGMDPAWDAAIQR                  genus           Escherichia                   
+7752.1.1_13          LLAEHNLDASAIK                       genus           Escherichia                   
+4846.1.1_23          NAPPPTKPVETQTQSTVPDKNDR             genus           Escherichia                   
+11551.1.1_15         LAADVTGVPTLLVAR                     genus           Escherichia                   
+9536.1.1_18          GASPLSAGDVTNDLSHVR                  genus           Escherichia                   
+8486.1.1_13          YPADVPTEINPDR                       genus           Escherichia                   
+3661.1.1_13          GGNGNMSSEEQAR                       genus           Escherichia                   
+5748.1.1_11          EEPQSIEVHPR                         genus           Escherichia                   
+6720.1.1_13          DNSAGLDLANEHR                       genus           Escherichia                   
+6006.1.1_26          ADSGAQTNNGQANAAADAGQVAPDAR          genus           Escherichia                   
+4939.1.1_18          SDEEQTSTTTDTPATPAR                  genus           Escherichia                   
+4792.1.1_13          AAADAGQVAPDAR                       genus           Escherichia                   
+7755.1.1_11          LNAIESNYVGK                         genus           Escherichia                   
+4597.1.1_12          EPIKNEANNGLK                        genus           Escherichia                   
+8184.1.1_11          GQFENAFNSER                         genus           Escherichia                   
+11576.1.1_17         MVLVLGQEYEGLPDAAR                   genus           Escherichia                   
+6933.1.1_15          VETRPIVASQAIGDK                     genus           Escherichia                   
+7969.1.1_15          LKDLVNQDGGENWAK                     genus           Escherichia                   
+6134.1.1_11          VAAMQEEDVER                         genus           Escherichia                   
+10959.1.1_15         ASGTDEAVVLVPPIR                     genus           Escherichia                   
+7877.1.1_11          SGAQGDAFLAR                         genus           Escherichia                   
+8035.1.1_13          AQTILEAQGEVAR                       genus           Escherichia                   
+7193.1.1_10          VIASELGEER                          genus           Escherichia                   
+7741.1.1_9           GIPADLEDR                           genus           Escherichia                   
+11892.1.1_16         GLTDAAQQVVAAVEGK                    genus           Escherichia                   
+8846.1.1_13          TLTISDNGVGMTR                       genus           Escherichia                   
+10257.1.1_14         LAAEELQLPTSTYR                      genus           Escherichia                   
+5091.1.1_13          QLQQNATQAEVNR                       genus           Escherichia                   
+7094.1.1_13          IGSDAYNQGLSER                       genus           Escherichia                   
+7944.1.1_17          VVASPGQGQQFEIQASK                   genus           Escherichia                   
+6437.1.1_11          YTAAITGAEGK                         genus           Escherichia                   
+10971.1.1_18         FAPALNVSEEEVTTGLDR                  genus           Escherichia                   
+10968.1.1_14         LPIVVYTPDNVDVK                      genus           Escherichia                   
+10826.1.1_13         TPLSNFNVGAIAR                       genus           Escherichia                   
+3728.1.1_11          VSDSQSDQVER                         genus           Escherichia                   
+11256.1.1_15         EALYPYSDDLTIVTK                     genus           Escherichia                   
+10384.1.1_17         NDLQGATLAIVPGDPDR                   genus           Escherichia                   
+8601.1.1_12          TSEDINDALNYR                        genus           Escherichia                   
+10522.1.1_16         YDEAPSNVAQAVIEAR                    genus           Escherichia                   
+9139.1.1_14          DGNTIEYDGMTMER                      genus           Escherichia                   
+9547.1.1_18          GASPLSAGDVTNDLSHVR                  genus           Escherichia                   
+4869.1.1_10          INAQYQGADR                          genus           Escherichia                   
+9482.1.1_12          AVDLISNVAGDR                        genus           Escherichia                   
+8985.1.1_16          TLEEVTGDQMGVTGVR                    genus           Escherichia                   
+7224.1.1_16          IGDISTSNEMSTADAK                    genus           Escherichia                   
+7287.1.1_10          SDNGASNLLR                          genus           Escherichia                   
+9215.1.1_18          TGGGLTSLPANEATLSAR                  genus           Escherichia                   
+4739.1.1_14          STSDDIHNTTATGK                      genus           Escherichia                   
+4105.1.1_13          AQTQAEVEAQQQK                       genus           Escherichia                   
+8402.1.1_13          GDATVLVVGADDK                       genus           Escherichia                   
+8136.1.1_18          AIAGDSVSGLGTGGMSTK                  genus           Escherichia                   
+11366.1.1_13         ATFPNELSLSELK                       genus           Escherichia                   
+6481.1.1_18          TEQTQPAAPAKPTSDIPN                  genus           Escherichia                   
+7599.1.1_10          LVITSDEGVR                          genus           Escherichia                   
+9807.1.1_19          SEQHAQGADAVVDLNNELK                 genus           Escherichia                   
+9926.1.1_14          ALQLGIEASNINPK                      genus           Escherichia                   
+7123.1.1_12          IASLSDSVSNAR                        genus           Escherichia                   
+9598.1.1_12          YEYSVAEYYTER                        genus           Escherichia                   
+5048.1.1_12          ESDENDAQIAER                        genus           Escherichia                   
+8871.1.1_12          EILGDEADQYVK                        genus           Escherichia                   
+3827.1.1_14          SDDNSHSSDTISNK                      genus           Escherichia                   
+9347.1.1_18          DTINAPAEELGPSQLAQR                  genus           Escherichia                   
+9640.1.1_14          ETYKYADMLAMSAK                      genus           Escherichia                   
+7016.1.1_12          EVHIEGYTPEDK                        genus           Escherichia                   
+4172.1.1_11          LDDGTTAESTR                         genus           Escherichia                   
+9526.1.1_15          LQQLGGGEAIPLEGR                     genus           Escherichia                   
+10598.1.1_15         LGDDVLEAEMPVDTR                     genus           Escherichia                   
+9229.1.1_14          AIISSGGNVDSLVK                      genus           Escherichia                   
+4839.1.1_11          LAQSLANNDQK                         genus           Escherichia                   
+8610.1.1_18          VHVDEYDVDVIDSQSASK                  genus           Escherichia                   
+6329.1.1_14          KGDVIIGANQQAVK                      genus           Escherichia                   
+5798.1.1_14          VQTGDGINNDVDTK                      genus           Escherichia                   
+5112.1.1_13          GLTSSTPTGDATK                       genus           Escherichia                   
+7889.1.1_22          AATAGNGNEAAIEAQAAGVEQR              genus           Escherichia                   
+4365.1.1_22          AQEVTADNNQQAASGAQPEQSK              genus           Escherichia                   
+9609.1.1_12          FDVLQDPEVNSR                        genus           Escherichia                   
+11510.1.1_16         TVEVPVQLVGEAVGAK                    genus           Staphylococcus                
+10835.1.1_19         LEEGLNPNAILVPQQGVTR                 genus           Escherichia                   
+9678.1.1_14          LQTMVSHFTIDPSR                      genus           Escherichia                   
+7970.1.1_39          QGGGAPAGGNIGGGQPQGGWGQPQQPQGGNQFSGGAQSR genus           Escherichia                   
+8842.1.1_11          QLYNAPTIVER                         genus           Escherichia                   
+11549.1.1_19         ETPYEPMPENVEEIVAQAK                 genus           Escherichia                   
+9971.1.1_19          LYTTNADGELITIDTADNK                 genus           Escherichia                   
+5306.1.1_12          KVEVMNTDAEGR                        genus           Escherichia                   
+7348.1.1_12          VQGEIPENADLK                        genus           Escherichia                   
+9548.1.1_9           LNDMVNWGR                           genus           Escherichia                   
+6367.1.1_25          LMEIAQQQHAQQQTAGADASANNAK           genus           Escherichia                   
+6265.1.1_12          IAKEEMATEMER                        genus           Escherichia                   
+6189.1.1_25          DSEAQTNNGQANAAADAGQVAPDAR           genus           Escherichia                   
+5225.1.1_12          LVHGEEGLQAAK                        genus           Escherichia                   
+9594.1.1_13          YLYSVTSPDDSLR                       genus           Escherichia                   
+5922.1.1_14          SPVEPVQSTAPQPK                      genus           Escherichia                   
+6779.1.1_13          IGSDAYNQGLSER                       genus           Escherichia                   
+11577.1.1_18         LFETSENGLDYFTSVPAR                  genus           Escherichia                   
+4642.1.1_13          SGQAETLADHEGR                       genus           Escherichia                   
+7864.1.1_15          GDGAILTATQNGYGK                     genus           Escherichia                   
+6402.1.1_20          TQTQLQQQHLENQINNNSQR                genus           Escherichia                   
+11089.1.1_11         GLLEEDAFIER                         genus           Escherichia                   
+10215.1.1_14         EAEYKDWTIEQITR                      genus           Escherichia                   
+11857.1.1_10         IGIFQDLVDR                          genus           Escherichia                   
+7011.1.1_16          EVAAQQVSDQQLETAR                    genus           Escherichia                   
+7265.1.1_11          QLEAATQLEGK                         genus           Escherichia                   
+9730.1.1_14          LINDAYDSEYFATK                      genus           Escherichia                   
+5607.1.1_14          VQTGDGINNDVDTK                      genus           Escherichia                   
+8076.1.1_11          AYPQEAAEFTR                         genus           Escherichia                   
+5832.1.1_11          PSANYVGPEDR                         genus           Escherichia                   
+3580.1.1_10          TEEPHDAVAR                          genus           Escherichia                   
+11458.1.1_14         NFDVLDEATGLAQR                      genus           Staphylococcus                
+4409.1.1_11          KNNQHDVAIVR                         genus           Escherichia                   
+9421.1.1_13          QIVGIIGPNGAGK                       no rank         Cyanobacterium stanieri PCC 7202
+9483.1.1_15          AIAIAQFNDDSPEAR                     no rank         Enterobacter cloacae subsp. cloacae NCTC 9394
+11539.1.1_13         LVEPEWFGWSQEK                       no rank         Escherichia fergusonii ATCC 35469
+12072.1.1_13         LGAFAFAGALVDR                       no rank         Streptomyces davawensis JCM 4913
+4049.1.1_11          TVKPEAGHFAK                         no rank         Flavobacterium indicum GPTSA100-9 = DSM 17447
+6409.1.1_13          QVPAEAEEMGGEK                       no rank         Escherichia coli K-12         
+11029.1.1_15         TQMSETIWLEPASER                     no rank         Escherichia coli ED1a         
+10998.1.1_15         AVIDPLTGPMPYQGR                     no rank         Morganella morganii subsp. morganii KT
+8164.1.1_13          VAKPGEVLAAGGR                       no rank         Escherichia coli K-12         
+5775.1.1_14          SNPFGDTTAENDKK                      no rank         Escherichia coli str. K-12 substr. DH10B
+5278.1.1_14          VEEVAAEQAPNDEK                      no rank         Escherichia coli K-12         
+12028.1.1_17         ELLSEYDFPGDDTPVIR                   no rank         Tolumonas auensis DSM 9187    
+10985.1.1_16         TVPLAQQQADALLNVK                    species         Escherichia coli              
+4179.1.1_11          ADSPDHEELAK                         species         Escherichia coli              
+6595.1.1_15          GTSEISAGNADLSSR                     species         Escherichia coli              
+3830.1.1_14          AVQAVVHHNETADR                      species         Escherichia coli              
+11991.1.1_15         ISPEDIVIAMSSGSK                     species         Escherichia coli              
+8492.1.1_17          ELGYAAVDDETTQQTMR                   species         Escherichia coli              
+7498.1.1_16          SGSGTLTVSNTTLTQK                    species         Escherichia coli              
+10744.1.1_18         SADASLADMNDPSLITVR                  species         Escherichia coli              
+10799.1.1_16         SISEITQDSLVQGLGK                    species         Escherichia coli              
+4190.1.1_10          QAQQLAEQQR                          species         Escherichia coli              
+8466.1.1_12          AEYLESPTIDER                        species         Escherichia coli              
+3673.1.1_14          AVQAVVHHNETADR                      species         Escherichia coli              
+9599.1.1_15          TLQEQYPNDTDLLGR                     species         Escherichia coli              
+6079.1.1_15          HYTAADGSEISLHGR                     species         Escherichia coli              
+5723.1.1_9           VNNLSEQYK                           species         Escherichia coli              
+9725.1.1_16          LGEAMQAVQFGNPAER                    species         Escherichia coli              
+6567.1.1_13          NYLTEHPEATDPR                       species         Escherichia coli              
+7049.1.1_20          GPVAAASAEATPATAAPVAK                species         Escherichia coli              
+5148.1.1_14          NVVAGDPSPDGQGR                      species         Escherichia coli              
+5496.1.1_12          VLAQASTENTVK                        species         Escherichia coli              
+12237.1.1_14         SNDVSLPILVLTAR                      species         Escherichia coli              
+4659.1.1_10          YSQDLATKPR                          species         Escherichia coli              
+6540.1.1_22          APAKESAPAAAAPAAQPALAAR              species         Escherichia coli              
+3913.1.1_12          DEQAAEEPQASR                        species         Escherichia coli              
+3593.1.1_12          SATDAANAAQNR                        species         Escherichia coli              
+6243.1.1_11          ISDNTVMTTSR                         species         Escherichia coli              
+5127.1.1_12          METTQTSTIASK                        species         Escherichia coli              
+6411.1.1_14          TGGDAPDQTTTIVR                      species         Escherichia coli              
+9341.1.1_14          VANLEAQLAEAQTR                      species         Escherichia coli              
+12551.1.1_16         LGEAMQAVQFGNPAER                    species         Escherichia coli              
+7437.1.1_14          NLLAQPAAGTTEAK                      species         Escherichia coli              
+10931.1.1_19         ADGINPEELLGNSSAAAPR                 species         Escherichia coli              
+7714.1.1_19          AAHQDEPQFGAQSTPLDER                 species         Escherichia coli              
+7991.1.1_19          AQGNMPAYGYTPPYTDGAK                 species         Escherichia coli              
+5289.1.1_12          MDNMQTEAQPTR                        species         Escherichia coli              
+3774.1.1_11          IPDGQAEDARK                         species         Escherichia coli              
+9533.1.1_16          TGDEMHSVMEAGPMLR                    species         Escherichia coli              
+8662.1.1_21          VVDQQNAGDPAYRPMAGNFAN               species         Escherichia coli              
+8864.1.1_12          EAPLAIELDHDK                        species         Escherichia coli              
+6420.1.1_15          VAMVSMTGSVSAGEK                     species         Escherichia coli              
+3654.1.1_14          AVQAVVHHNETADR                      species         Escherichia coli              
+8333.1.1_15          LQVDAGGTATNVTLK                     species         Escherichia coli              
+9093.1.1_19          EGDALLQGGSLTGNGSVEK                 species         Escherichia coli              
+7308.1.1_11          QAVQFGNPAER                         species         Escherichia coli              
+4668.1.1_15          LEPDATATGNNDNEK                     species         Escherichia coli              
+5430.1.1_11          DIDGHDAASIK                         species         Escherichia coli              
+7252.1.1_14          LTAADYEDNVAQDK                      species         Escherichia coli              
+9829.1.1_19          VTDVLLASHENTAQIIDAR                 species         Escherichia coli              
+11768.1.1_18         GDAWIDVVNPATEAVISR                  species         Escherichia coli              
+3293.1.1_12          GRPGQAEPVAQK                        species         Escherichia coli              
+11361.1.1_12         VNYGVTVLPTFK                        species         Escherichia coli              
+9081.1.1_16          LGEAMQAVQFGNPAER                    species         Escherichia coli              
+8163.1.1_15          TNGSLNAAEATETLR                     species         Escherichia coli              
+5885.1.1_12          SVPVKDTEVVER                        species         Escherichia coli              
+3898.1.1_13          NGGVAGNTTVNQK                       species         Escherichia coli              
+6146.1.1_11          MQQASEDEFNR                         species         Escherichia coli              
+8123.1.1_19          DDDSYDEDVEDDEGVGEVR                 species         Escherichia coli              
+7402.1.1_13          AIPEGAVDNGQLR                       species         Escherichia coli              
+11481.1.1_14         VVNIINAMEPEMEK                      species         Escherichia coli              
+4713.1.1_10          IPDGQAEDAR                          species         Escherichia coli              
+8475.1.1_11          LAEVLAAANAR                         species         Escherichia coli              
+9030.1.1_13          LATIIDAEEDSTR                       species         Escherichia coli              
+9560.1.1_17          LHEEAMALPSEEEFAER                   species         Escherichia coli              
+4162.1.1_12          VRPDMAQNNADR                        species         Escherichia coli              
+10447.1.1_18         SGNANTDYNAAIALVQDK                  species         Escherichia coli              
+5806.1.1_10          ANPEQLEEQR                          species         Escherichia coli              
+9672.1.1_14          SDTYGWQEDSTYIR                      species         Escherichia coli              
+10921.1.1_20         TILNLVNAGNSASGLATSGK                species         Escherichia coli              
+8298.1.1_19          KVEIPGVATTASPSSEVGR                 species         Escherichia coli              
+4163.1.1_13          ATPPQSGAQPPAR                       species         Escherichia coli              
+8544.1.1_23          VNPGGSVSDTVISAGGGQSLQGR             species         Escherichia coli              
+3758.1.1_11          IPDGQAEDARK                         species         Escherichia coli              
+3260.1.1_11          EKDGAVEAEDR                         species         Escherichia coli              
+12364.1.1_16         LGEAMQAVQFGNPAER                    species         Escherichia coli              
+10373.1.1_28         NGGTATTVSMGNGGVLLADSGAAVSGTR        species         Escherichia coli              
+8923.1.1_17          MAERPEVQDALSAEGLK                   species         Escherichia coli              
+11762.1.1_15         VNGIAPGAILTDALK                     species         Escherichia coli              
+9193.1.1_18          VEIPGVATTASPSSEVGR                  species         Escherichia coli              
+11030.1.1_14         NFDEIVHDLAPENR                      species         Escherichia coli              
+8089.1.1_16          IVQSPDVIPADSEAGR                    species         Escherichia coli              
+6810.1.1_11          GAEAMQAAGLK                         species         Escherichia coli              
+10013.1.1_23         SEKPAIVGEPEMPSTIADVAQEK             species         Escherichia coli              
+8348.1.1_15          VAMVSMTGSVSAGEK                     species         Escherichia coli              
+10520.1.1_15         TSSTGLVYQVVEAGK                     species         Escherichia coli              
+10318.1.1_17         EIFGSSDTDADPVAVVR                   species         Escherichia coli              
+4187.1.1_11          PASEQPPAQPR                         species         Escherichia coli              
+8344.1.1_12          EQVQASLENMAK                        species         Escherichia coli              
+6554.1.1_14          VVADDQAPAEQSLR                      species         Escherichia coli              
+4437.1.1_11          LGEVATDSKPR                         species         Escherichia coli              
+10436.1.1_14         ASEISALIVEEGGK                      species         Escherichia coli              
+4053.1.1_16          DANGGNGNMSSEEQAR                    species         Escherichia coli              
+6939.1.1_12          DNLAAANPQVVK                        species         Escherichia coli              
+5891.1.1_10          AETNIQYEGR                          species         Escherichia coli              
+3847.1.1_9           MASPGQEDR                           species         Escherichia coli              
+7176.1.1_18          ESAPAAAAPAAQPALAAR                  species         Escherichia coli              
+8030.1.1_14          MPAADPEVEEEEER                      species         Escherichia coli              
+11445.1.1_16         ADAPLIQWDATSATLK                    species         Escherichia coli              
+4064.1.1_13          NGGVAGNTTVNQK                       species         Escherichia coli              
+3598.1.1_19          QENQTDEAPKENANSAQAR                 species         Escherichia coli              
+9653.1.1_13          GANEAIDFNDELR                       species         Escherichia coli              
+5708.1.1_10          AETNIQYEGR                          species         Escherichia coli              
+7783.1.1_12          NLNGQNGTISLR                        species         Escherichia coli              
+5203.1.1_14          EAVDTTSQPVATEK                      species         Escherichia coli              
+4282.1.1_12          METTQTSTIASK                        species         Escherichia coli              
+2645.1.1_10          QAQQQTAETR                          species         Escherichia coli              
+11967.1.1_13         LVPLQGFELDSLR                       species         Escherichia coli              
+8295.1.1_19          KVEIPGVATTASPSSEVGR                 species         Escherichia coli              
+11254.1.1_18         GEPQINFDDIELDDTDDR                  species         Escherichia coli              
+7136.1.1_18          ESAPAAAAPAAQPALAAR                  species         Escherichia coli              
+8721.1.1_17          ATELTPEQAAAVKPFDR                   species         Escherichia coli              
+4537.1.1_10          IPDGQAEDAR                          species         Escherichia coli              
+9658.1.1_12          VNEDLGLLSEEK                        species         Escherichia coli              
+6704.1.1_18          NGNPSGEGFTSGVTNNGR                  species         Escherichia coli              
+5106.1.1_11          EQTSGVQQQIR                         species         Escherichia coli              
+9405.1.1_16          LGEAMQAVQFGNPAER                    species         Escherichia coli              
+4709.1.1_12          TITEAVHQEGGK                        species         Escherichia coli              
+9513.1.1_16          TGDEMHSVMEAGPMLR                    species         Escherichia coli              
+5897.1.1_16          QEAAPAAAPAPAAGVK                    species         Escherichia coli              
+8092.1.1_12          TLASVQTLDESR                        species         Escherichia coli              
+6039.1.1_15          HYTAADGSEISLHGR                     species         Escherichia coli              
+5359.1.1_11          TTPESEQALQR                         species         Escherichia coli              
+11518.1.1_17         EAPDGVATEMLDEGLVR                   species         Escherichia coli              
+5901.1.1_12          SVPVKDTEVVER                        species         Escherichia coli              
+4507.1.1_16          GSEDTAYSEDDQQQNR                    species         Escherichia coli              
+4119.1.1_10          MTGDNPDAPR                          species         Escherichia coli              
+10550.1.1_11         SVFDTLATAAK                         species         Escherichia coli              
+3462.1.1_14          EAAATAGEKEDAPR                      species         Escherichia coli              
+10926.1.1_13         AAFDPDGLLNPGK                       species         Escherichia coli              
+11869.1.1_13         NLLGLMQGTLQEK                       species         Escherichia coli              
+10967.1.1_10         YIDGQFVTWR                          species         Escherichia coli              
+7046.1.1_12          MQDYTLEADEGR                        species         Escherichia coli              
+4233.1.1_10          VISHVEEEAK                          species         Escherichia coli              
+11874.1.1_15         ALVSPEAIGSLIVTK                     species         Escherichia coli              
+11406.1.1_13         ESVIWVVDGGNIK                       species         Escherichia coli              
+11676.1.1_16         VLEWPVVVSPEGTAPR                    species         Escherichia coli              
+7334.1.1_18          ESAPAAAAPAAQPALAAR                  species         Escherichia coli              
+6538.1.1_10          DVDGDQTYMR                          species         Escherichia coli              
+7097.1.1_11          IDGWENAEAAK                         species         Glaciecola sp. 4H-3-7+YE-5    
+5579.1.1_11          TQPDYDYQDGK                         species         Escherichia coli              
+6089.1.1_11          LVVDQEDADGR                         species         Escherichia coli              
+11375.1.1_16         VVMTEELLPAPIPASK                    species         Escherichia coli              
+6423.1.1_13          AEQTVEAPSVDAR                       species         Escherichia coli              
+7951.1.1_18          LGTQANNMHVWSDATGQK                  species         Escherichia coli              
+8912.1.1_19          AQGNMPAYGYTPPYTDGAK                 species         Escherichia coli              
+4096.1.1_12          RTEPAAPVASTK                        species         Escherichia coli              
+10313.1.1_16         LGEAMQAVQFGNPAER                    species         Escherichia coli              
+11958.1.1_16         TITSTEALLPVLDQVR                    species         Escherichia coli              
+3670.1.1_10          ADSSGPDVSR                          species         Achromobacter xylosoxidans    
+6388.1.1_11          SYEEELAKDPR                         species         Escherichia coli              
+8396.1.1_16          LGEAMQAVQFGNPAER                    species         Escherichia coli              
+2890.1.1_15          VNHAPANAQEHEAAR                     species         Escherichia coli              
+10040.1.1_16         GDVAALNVDALTENQK                    species         Escherichia coli              
+4697.1.1_9           TSAVVEETR                           species         Escherichia coli              
+6366.1.1_25          ETATTAPVQTASPAQTTATPAAGAK           species         Escherichia coli              
+9424.1.1_17          FSAVLEQGAIAAGSDDK                   species         Escherichia coli              
+10128.1.1_26         AQPEAEVVAQPEPVVEETPEPVAIER          species         Escherichia coli              
+8832.1.1_14          HNDIDAIAFTGSTR                      species         Escherichia coli              
+10083.1.1_16         LGEAMQAVQFGNPAER                    species         Escherichia coli              
+9693.1.1_16          LGEAMQAVQFGNPAER                    species         Escherichia coli              
+11002.1.1_14         NFDEIVHDLAPENR                      species         Escherichia coli              
+10775.1.1_20         VDDDGETMVVTASSVEQNLK                species         Escherichia coli              
+9527.1.1_12          LQAGAFNYSLNR                        species         Escherichia coli              
+8536.1.1_23          VNPGGSVSDTVISAGGGQSLQGR             species         Escherichia coli              
+11642.1.1_15         GPVVDENALIAALQK                     species         Escherichia coli              
+11217.1.1_14         MSPEAFEESVDAIR                      species         Escherichia coli              
+8650.1.1_13          LQGVDSVMTPPER                       species         Escherichia coli              
+9313.1.1_14          VADVINNDPLVGDK                      species         Escherichia coli              
+5694.1.1_23          NSGDAPAAAPGNNETTEPVGTTK             species         Escherichia coli              
+10801.1.1_15         AGQNAMDATVLEITK                     species         Escherichia coli              
+4891.1.1_10          IPDGQAEDAR                          species         Escherichia coli              
+8300.1.1_19          EAQLDIQSQSQPPTEEQLR                 species         Escherichia coli              
+10466.1.1_16         TNVAFSDFTPTEYSTK                    species         Escherichia coli              
+9407.1.1_18          QGGALVTSTAATVTGINR                  species         Escherichia coli              
+11056.1.1_17         SVMIDASHLPFAQNISR                   species         Escherichia coli              
+6592.1.1_13          TNLQEAQPLGNGK                       species         Escherichia coli              
+10982.1.1_21         AETSSATTAQQMPSLAPMLEK               species         Escherichia coli              
+8358.1.1_14          EMDDNEGSLTLATR                      species         Escherichia coli              
+4726.1.1_15          METTQTSTIASKDSR                     species         Escherichia coli              
+4856.1.1_17          NTEATHDQNEALTTGAR                   species         Escherichia coli              
+4092.1.1_17          NREEENDAEAESEKTEE                   species         Escherichia coli              
+11016.1.1_14         WYGPNDPVSLADVR                      species         Escherichia coli              
+4000.1.1_12          VRPDMAQNNADR                        species         Escherichia coli              
+8189.1.1_17          ETQDSETLDTADALEQK                   species         Escherichia coli              
+11323.1.1_17         ALLEFDDQEPQLQNEIR                   species         Escherichia coli              
+7499.1.1_13          QLQDAYALSSQQK                       species         Escherichia coli              
+10636.1.1_14         ASEISALIVEEGGK                      species         Escherichia coli              
+10763.1.1_19         AGVNGGSGIALTGSPITLR                 species         Escherichia coli              
+7957.1.1_18          PYTAPVAATAPVAASGPK                  species         Escherichia coli              
+5490.1.1_13          ANSSTTTAAEPLK                       species         Escherichia coli              
+11340.1.1_18         NAIPSGIPDESVPLYLQR                  species         Escherichia coli              
+9715.1.1_14          LIDQATAEIVETAK                      species         Escherichia coli              
+9907.1.1_14          LIDQATAEIVETAK                      species         Escherichia coli              
+11586.1.1_18         KEEDAAVEDLLAEVSQPK                  species         Escherichia coli              
+4985.1.1_12          GAENISQAEQAK                        species         Escherichia coli              
+6434.1.1_13          KISADQVDQEVER                       species         Escherichia coli              
+9885.1.1_16          LGEAMQAVQFGNPAER                    species         Escherichia coli              
+7154.1.1_16          VDSSGFQTEPVAADGK                    species         Escherichia coli              
+5709.1.1_10          GVTDAQVVSR                          species         Escherichia coli              
+5105.1.1_18          QASQLAQSASDTAQHGGK                  species         Escherichia coli              
+3627.1.1_11          VVNDNAPQTAK                         species         Escherichia coli              
+11724.1.1_15         VLELINTPEMLNGVK                     species         Escherichia coli              
+11459.1.1_14         SDVTPALSEMMQMK                      species         Escherichia coli              
+10117.1.1_14         VAFSGGEFQLNADR                      species         Escherichia coli              
+8326.1.1_15          TNAALDTANTISSVK                     species         Escherichia coli              
+10134.1.1_19         SDDMSMGLPSSAGEHGVLR                 species         Escherichia coli              
+10742.1.1_17         DANGNLLADGDSVTIIK                   species         Escherichia coli              
+6005.1.1_12          LSGNTASGLPAR                        species         Escherichia coli              
+4044.1.1_11          VHVHVEEGSPK                         species         Escherichia coli              
+8170.1.1_18          AAAQLQQGLADTSDENLK                  species         Escherichia coli              
+11784.1.1_18         GDAWIDVVNPATEAVISR                  species         Escherichia coli              
+3781.1.1_11          LTGGSAEDAAK                         species         Escherichia coli              
+5120.1.1_13          TAQEAVSPDEAAR                       species         Escherichia coli              
+8556.1.1_14          GEISPDINTAMTSR                      species         Escherichia coli              
+12140.1.1_16         LGEAMQAVQFGNPAER                    species         Escherichia coli              
+4854.1.1_12          FEEHLQHEAQER                        species         Escherichia coli              
+8275.1.1_11          LAEVLAAANAR                         species         Escherichia coli              
+9006.1.1_18          IAPSPSSVMVVGESGTGK                  species         Escherichia coli              
+5261.1.1_10          IPDGQAEDAR                          species         Escherichia coli              
+9106.1.1_19          HIAAPNETVSTMGFEAATR                 species         Escherichia coli              
+9078.1.1_22          VPLPVVAQTAPEQQEENNADNR              species         Escherichia coli              
+10244.1.1_18         ASNQGEPVILDINADAGK                  species         Escherichia coli              
+6680.1.1_15          HIINNTQDSVVNVDK                     species         Escherichia coli              
+6339.1.1_25          ETATTAPVQTASPAQTTATPAAGAK           species         Escherichia coli              
+9737.1.1_14          LIDQATAEIVETAK                      species         Escherichia coli              
+10852.1.1_20         TILNLVNAGNSASGLATSGK                species         Escherichia coli              
+7451.1.1_14          LTAADYEDNVAQDK                      species         Escherichia coli              
+6966.1.1_17          SAPAAAAPAAQPALAAR                   species         Escherichia coli              
+5483.1.1_14          ANPEQLEEQREETR                      species         Escherichia coli              
+4670.1.1_13          NTSDKDMSGLQGK                       species         Escherichia coli              
+6952.1.1_15          VAMVSMTGSVSAGEK                     species         Escherichia coli              
+8675.1.1_11          ALDDAIASVDK                         species         Escherichia coli              
+4956.1.1_18          MNTEATHDQNEALTTGAR                  species         Escherichia coli              
+10593.1.1_15         TNNDTTLQLSSVLNR                     species         Escherichia coli              
+7730.1.1_17          ALNVEEQSVQETEQEER                   species         Escherichia coli              
+11519.1.1_22         SGAPDDESTELGPLSSLAHLER              species         Escherichia coli              
+9597.1.1_14          IQAQYPQEVITTVR                      species         Escherichia coli              
+5076.1.1_10          IPDGQAEDAR                          species         Escherichia coli              
+10414.1.1_15         DLNNESTPMAFENIK                     species         Escherichia coli              
+6201.1.1_13          LADDEQVVTNGGR                       species         Escherichia coli              
+9516.1.1_15          DAGVDIDAGNALVGR                     species         Escherichia coli              
+11437.1.1_18         GDAWIDVENPATEAVISR                  species         Escherichia coli              
+4103.1.1_17          ALHAQNQPTETANAGQR                   species         Escherichia coli              
+9192.1.1_15          GAFVSQVLPNSSAAK                     species         Escherichia coli              
+3990.1.1_12          VRPDMAQNNADR                        species         Escherichia coli              
+10263.1.1_19         LIAAAPTAVAPEESGFYAR                 species         Escherichia coli              
+9544.1.1_19          MPPAEGETGGQVLGSQVLK                 species         Escherichia coli              
+4274.1.1_14          AVQQPIKAEEKPGR                      species         Escherichia coli              
+4108.1.1_25          KDEPTQSSDPGSQPNSEEQAGGEER           species         Escherichia coli              
+4109.1.1_12          RTEPAAPVASTK                        species         Escherichia coli              
+4483.1.1_12          TSQAAPVQAQPR                        species         Escherichia coli              

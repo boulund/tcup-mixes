@@ -1,0 +1,1280 @@
+------------------Discriminative peptides-------------------
+Peptide              Sequence                            Rank            Description                   
+8172.1.1_16          QIVANAGDEPSVVVDK                    family          Pseudomonadaceae              
+9407.1.1_12          SGELAVADDFGR                        family          Pseudomonadaceae              
+11491.1.1_14         FLAEASLVEQPFVK                      family          Pseudomonadaceae              
+7090.1.1_12          ATEEAIKELQER                        family          Pseudomonadaceae              
+11536.1.1_18         STGEVMGVGDSFAEAFAK                  family          Pseudomonadaceae              
+8637.1.1_14          LIDQSTQEIVETAK                      family          Pseudomonadaceae              
+7586.1.1_9           QDLEQEALR                           family          Pseudomonadaceae              
+7851.1.1_14          IALGSGTQVQDVGR                      family          Pseudomonadaceae              
+5395.1.1_13          VQTGSTVVSTSTR                       family          Pseudomonadaceae              
+9086.1.1_17          MIQTQSMLDVADNSGAR                   family          Pseudomonadaceae              
+6466.1.1_14          KAGNIAAEGSIAVK                      family          Pseudomonadaceae              
+8457.1.1_18          GIILAGGPESVHEADSPR                  family          Pseudomonadaceae              
+7745.1.1_14          ILTEPHASLTEQYR                      family          Pseudomonadaceae              
+9859.1.1_16          QIVANAGDEPSVVVDK                    family          Pseudomonadaceae              
+6477.1.1_10          GEDIYNNVSR                          family          Pseudomonadaceae              
+11340.1.1_12         ALDAIAPLVEVK                        family          Pseudomonadaceae              
+9856.1.1_16          QIVANAGDEPSVVVDK                    family          Pseudomonadaceae              
+10355.1.1_13         QLLEFDDVANEQR                       family          Pseudomonadaceae              
+9738.1.1_18          QIVANAGDEPSVVVDKVK                  family          Pseudomonadaceae              
+11321.1.1_18         GLDIFGPTAGAAQLEGSK                  family          Pseudomonadaceae              
+10029.1.1_9          LLAELSTIK                           family          Pseudomonadaceae              
+7440.1.1_10          LGAASVDLGK                          family          Pseudomonadaceae              
+7933.1.1_10          VSTVFVNEGR                          family          Pseudomonadaceae              
+11118.1.1_16         AEFPEGIASYGTDALR                    family          Pseudomonadaceae              
+5442.1.1_12          RSVLEAENSAER                        family          Pseudomonadaceae              
+9403.1.1_15          ATPATAENVAAFEAR                     family          Pseudomonadaceae              
+9834.1.1_13          ATEFDPYSLSAAK                       family          Pseudomonadaceae              
+9904.1.1_15          ATPATAENVAAFEAR                     family          Pseudomonadaceae              
+10651.1.1_12         PDVTLTTLQGLK                        family          Pseudomonadaceae              
+11455.1.1_15         ATPATAENVAAFEAR                     family          Pseudomonadaceae              
+5589.1.1_11          TAALEYHAQPR                         family          Pseudomonadaceae              
+10594.1.1_18         SAGQLPTGFEPGELYNSR                  family          Pseudomonadaceae              
+7691.1.1_17          TAGGIVLPGSAAEKPNR                   family          Pseudomonadaceae              
+7869.1.1_18          AIAQVGTISANSDETVGK                  family          Enterobacteriaceae            
+10293.1.1_12         FELEQGTLGQIR                        family          Pseudomonadaceae              
+4969.1.1_13          AGNMGQANYSAAK                       family          Pseudomonadaceae              
+6270.1.1_13          FRPATDEGDYQVK                       family          Alcaligenaceae                
+9995.1.1_11          VGMDELAAEMK                         family          Pseudomonadaceae              
+8740.1.1_23          ADFAVSIDENAVHGSDSEASAAR             family          Pseudomonadaceae              
+8197.1.1_18          QIVANAGDEPSVVVDKVK                  family          Pseudomonadaceae              
+11937.1.1_15         GDELETVILSVDPER                     family          Pseudomonadaceae              
+6635.1.1_10          VLASASTLDK                          family          Pseudomonadaceae              
+9473.1.1_9           EALDNLVVR                           family          Pseudomonadaceae              
+7015.1.1_10          VLASASTLDK                          family          Pseudomonadaceae              
+11228.1.1_11         LTLYVANLAPR                         family          Pseudomonadaceae              
+11048.1.1_19         SAPLNMVITETGAATAAAK                 family          Pseudomonadaceae              
+9622.1.1_17          MIQTQSMLDVADNSGAR                   family          Pseudomonadaceae              
+9263.1.1_18          EIANAYSELNDAEDQAER                  family          Pseudomonadaceae              
+7999.1.1_11          GAIDFETQETR                         family          Pseudomonadaceae              
+8004.1.1_12          MADDALNEQLEK                        family          Pseudomonadaceae              
+10673.1.1_17         VYSGVLSSGDSVLNSVK                   family          Pseudomonadaceae              
+7713.1.1_10          VNGGLLVQSR                          family          Pseudomonadaceae              
+11864.1.1_13         IPLELVDVADQLK                       family          Pseudomonadaceae              
+7974.1.1_16          QIVANAGDEPSVVVDK                    family          Pseudomonadaceae              
+8700.1.1_14          SDDPDYPLQAPVGR                      family          Pseudomonadaceae              
+7086.1.1_11          EIVSQQEMVDR                         family          Pseudomonadaceae              
+8358.1.1_14          GAIVGVIGGNGAGK                      family          Pseudomonadaceae              
+8129.1.1_10          VSTVFVNEGR                          family          Pseudomonadaceae              
+7519.1.1_17          MIQTQSMLDVADNSGAR                   family          Pseudomonadaceae              
+10484.1.1_12         TILDQYVIGQER                        family          Pseudomonadaceae              
+10357.1.1_15         MQLSSLTAVSPVDGR                     family          Pseudomonadaceae              
+11086.1.1_12         SSPLETLQQAVR                        family          Pseudomonadaceae              
+7931.1.1_15          LIDQSTQEIVETAKR                     family          Pseudomonadaceae              
+3747.1.1_14          HQNMAGSDIGDNHK                      family          Pseudomonadaceae              
+10056.1.1_17         AITVNGQTVNIPSYQVK                   family          Pseudomonadaceae              
+11712.1.1_14         IATDPFVGTLTFAR                      family          Pseudomonadaceae              
+9941.1.1_12          MQSSVNEFLTPR                        family          Pseudomonadaceae              
+11249.1.1_13         VLTQFEAAGLVVR                       family          Pseudomonadaceae              
+2448.1.1_13          GQDNTHGNSVSHR                       family          Pseudomonadaceae              
+9934.1.1_19          RPVTTDLLAADSGVTLDER                 family          Pseudomonadaceae              
+11914.1.1_13         QLLEFDDVANEQR                       family          Pseudomonadaceae              
+9714.1.1_11          MGEPGDYLIER                         family          Pseudomonadaceae              
+11345.1.1_11         MPAYPWLVENK                         family          Pseudomonadaceae              
+7244.1.1_10          AVAQSYLQAR                          family          Pseudomonadaceae              
+11604.1.1_20         TQGQEPGLPTPVIITVYSDR                family          Pseudomonadaceae              
+7707.1.1_17          TAGGIVLPGSAAEKPNR                   family          Pseudomonadaceae              
+5574.1.1_13          VQTGSTVVSTSTR                       family          Pseudomonadaceae              
+7470.1.1_17          VVNASISGDTSAGGLAR                   family          Pseudomonadaceae              
+5371.1.1_11          VQADSAELDDK                         family          Pseudomonadaceae              
+8965.1.1_14          SGEAISLVAPDEEK                      family          Pseudomonadaceae              
+9419.1.1_14          TTTSAAIGTGLALR                      family          Pseudomonadaceae              
+9901.1.1_13          GGQGVIAMVTNER                       family          Pseudomonadaceae              
+10061.1.1_14         EALLESLQEGQQVK                      family          Pseudomonadaceae              
+8450.1.1_14          LIDQSTQEIVETAK                      family          Pseudomonadaceae              
+10398.1.1_13         YLALLPYTDSHGR                       family          Pseudomonadaceae              
+6130.1.1_14          MEAGNGSTEDLTGR                      family          Pseudomonadaceae              
+6822.1.1_10          VLASASTLDK                          family          Pseudomonadaceae              
+4611.1.1_10          LYDPNKDETR                          family          Pseudomonadaceae              
+10758.1.1_10         TLVAPYELVK                          family          Pseudomonadaceae              
+8626.1.1_16          QIVANAGDEPSVVVDK                    family          Pseudomonadaceae              
+9821.1.1_17          GGDLNYDVVIASPDAMR                   family          Pseudomonadaceae              
+11080.1.1_11         AIPPLAGALVK                         family          Pseudomonadaceae              
+11623.1.1_15         SVVLEEQVVDTVLQK                     family          Pseudomonadaceae              
+2648.1.1_10          KPEAPADSGK                          family          Pseudomonadaceae              
+11578.1.1_12         FVALLGDLQGPK                        family          Pseudomonadaceae              
+11252.1.1_11         AIWEQELADMR                         family          Enterobacteriaceae            
+4798.1.1_11          VKTVLNQQAGK                         family          Pseudomonadaceae              
+10463.1.1_14         DASTTEETYMEVIR                      family          Pseudomonadaceae              
+10406.1.1_15         AASAGLASLTPQQFR                     family          Pseudomonadaceae              
+8851.1.1_12          GGLGVSIVSTNK                        family          Pseudomonadaceae              
+6045.1.1_11          SVLEAENSAER                         family          Pseudomonadaceae              
+9081.1.1_13          SETNEIYIPAGPR                       family          Pseudomonadaceae              
+10747.1.1_19         AIMTSDLGLNPATAGTTIR                 family          Pseudomonadaceae              
+8056.1.1_14          ALNGFTNPSTNSYK                      family          Pseudomonadaceae              
+5582.1.1_13          SQTGLGASGAVAH                       family          Pseudomonadaceae              
+4971.1.1_11          VKTVLNQQAGK                         family          Pseudomonadaceae              
+9474.1.1_12          MQSSVNEFLTPR                        family          Pseudomonadaceae              
+10719.1.1_17         GGDLNYDVVIASPDAMR                   family          Pseudomonadaceae              
+11300.1.1_16         EIPAFAPGDTVIVQVK                    family          Pseudomonadaceae              
+8828.1.1_14          LIDQSTQEIVETAK                      family          Pseudomonadaceae              
+3783.1.1_13          AGNMGQANYSAAK                       family          Pseudomonadaceae              
+11600.1.1_20         TQGQEPGLPTPVIITVYSDR                family          Pseudomonadaceae              
+8476.1.1_15          AENVGETTMSTTLVK                     family          Pseudomonadaceae              
+5561.1.1_10          LIEPDPSKPR                          family          Pseudomonadaceae              
+8391.1.1_11          AGQAALEYGLK                         family          Pseudomonadaceae              
+8310.1.1_12          FDEESNLQLASR                        family          Pseudomonadaceae              
+5405.1.1_11          ASNTVAFKPGK                         family          Pseudomonadaceae              
+10854.1.1_12         ISNEESISAMFR                        family          Pseudomonadaceae              
+7236.1.1_10          NALLVDNTGK                          genus           Pseudomonas                   
+6981.1.1_9           LSETPVEYR                           genus           Pseudomonas                   
+10798.1.1_10         QIPDWNIEVR                          genus           Pseudomonas                   
+11263.1.1_12         EEFDSQMLVLAR                        genus           Pseudomonas                   
+5101.1.1_11          VQAFVSQHGNR                         genus           Pseudomonas                   
+5156.1.1_13          SQSQSTEDADLAR                       genus           Pseudomonas                   
+9353.1.1_13          LTDGTVFDSSIER                       genus           Pseudomonas                   
+6399.1.1_12          LTAESAQLTQAK                        genus           Pseudomonas                   
+10545.1.1_12         EAALALAGLTAK                        genus           Pseudomonas                   
+10088.1.1_14         GPVATVLVQDGTLR                      genus           Pseudomonas                   
+8477.1.1_23          YLHPNNDVNMAQSTNDAYPTAIR             genus           Pseudomonas                   
+5178.1.1_11          NQGDALVHATR                         genus           Pseudomonas                   
+7752.1.1_12          DEAVTEQSEMLK                        genus           Pseudomonas                   
+5690.1.1_11          LKPSNPAELDK                         genus           Pseudomonas                   
+10162.1.1_15         AAQNDDQLNIDFVGK                     genus           Pseudomonas                   
+11067.1.1_14         GDNEEQNVGIALLR                      genus           Pseudomonas                   
+7766.1.1_16          SSQHIYAQVIAADGGK                    genus           Pseudomonas                   
+7822.1.1_14          GAVVDVKPQYDITR                      genus           Pseudomonas                   
+10935.1.1_11         VLFAVSEAIDK                         genus           Pseudomonas                   
+9435.1.1_13          ILVAVDGSPVSDR                       genus           Pseudomonas                   
+9643.1.1_16          QLDPLVIGQDHYDTAR                    genus           Pseudomonas                   
+11971.1.1_14         QSDTPAIFWLDPER                      genus           Pseudomonas                   
+8897.1.1_21          GDPLDTETMVGAQASQQQYEK               genus           Pseudomonas                   
+9644.1.1_13          APEDVTLMDVSPK                       genus           Pseudomonas                   
+8198.1.1_8           ALPAYIEK                            genus           Pseudomonas                   
+5461.1.1_16          TGAVKEGDEVVGSETR                    genus           Pseudomonas                   
+10290.1.1_13         NPLLEDVNLQGAR                       genus           Pseudomonas                   
+11582.1.1_18         VEELVGAPIDIISTGPDR                  genus           Pseudomonas                   
+6269.1.1_10          VIGNYAQAAR                          genus           Pseudomonas                   
+11726.1.1_14         YFADFLLENPNEAK                      genus           Pseudomonas                   
+10754.1.1_15         PMPGINVGYLPQEPK                     genus           Pseudomonas                   
+4738.1.1_14          QYKNPHTGEVIETK                      genus           Pseudomonas                   
+10439.1.1_13         VGAVLVNINPAYR                       genus           Pseudomonas                   
+5964.1.1_14          LAQGDAAQAEQVAR                      genus           Pseudomonas                   
+7859.1.1_11          TENNADFVYAR                         genus           Pseudomonas                   
+11518.1.1_15         DLGINLIDTAPAYGR                     genus           Pseudomonas                   
+9550.1.1_13          NEGAIVNISSISR                       genus           Pseudomonas                   
+11482.1.1_16         MVVTLIAPIAMEDGLR                    genus           Pseudomonas                   
+10028.1.1_11         VSQAAVDELLK                         genus           Pseudomonas                   
+11073.1.1_14         MEDDAVIVLDPVNR                      genus           Pseudomonas                   
+5112.1.1_9           LEAPGSAPK                           genus           Pseudomonas                   
+10873.1.1_14         GDNEEQNVGIALLR                      genus           Pseudomonas                   
+10414.1.1_16         ISDEELNQAMGTIAQR                    genus           Pseudomonas                   
+6894.1.1_9           VALAQEVTK                           genus           Pseudomonas                   
+5797.1.1_11          RDEAVTEQSEM                         genus           Pseudomonas                   
+11007.1.1_20         TDPVEEFAFEEETDGADSSK                genus           Pseudomonas                   
+5460.1.1_14          INHTVEVQDTPENR                      genus           Pseudomonas                   
+10647.1.1_13         NLLTGAGTETVFK                       genus           Pseudomonas                   
+7760.1.1_11          EIDDQINQMER                         genus           Pseudomonas                   
+11224.1.1_13         TEISPDDTILELR                       genus           Pseudomonas                   
+7118.1.1_10          QVEVTGLDGK                          genus           Pseudomonas                   
+6393.1.1_13          GDEVVTSGGIAGK                       genus           Pseudomonas                   
+10693.1.1_13         EGITSEQLIDAVR                       genus           Pseudomonas                   
+7838.1.1_14          QVTVTFTDANGEQK                      genus           Pseudomonas                   
+9514.1.1_11          ILQMLDSAEQR                         genus           Pseudomonas                   
+5892.1.1_13          LSGEASGEPLQGK                       genus           Pseudomonas                   
+11420.1.1_13         GEDIAPLLADVDR                       genus           Pseudomonas                   
+9289.1.1_10          FIEVTEESLK                          genus           Pseudomonas                   
+8414.1.1_12          ATIATPNLPEAR                        genus           Pseudomonas                   
+8817.1.1_10          ENPPELATLR                          genus           Pseudomonas                   
+9673.1.1_22          GQVAGQTALSTVGQEGAGLTYR              genus           Pseudomonas                   
+7541.1.1_17          ANVDDALTNPETSSVQK                   genus           Pseudomonas                   
+3948.1.1_10          KVSAPGEAPR                          genus           Pseudomonas                   
+10144.1.1_14         IGVVAMGYADGYPR                      genus           Pseudomonas                   
+9933.1.1_13          AVPGVETNLLNPR                       genus           Pseudomonas                   
+10492.1.1_13         DDGIDGISADIVR                       genus           Pseudomonas                   
+7178.1.1_11          ADSSADNTFMR                         genus           Pseudomonas                   
+11415.1.1_11         DLAGQPDLLFR                         genus           Pseudomonas                   
+6380.1.1_14          QYVADQENPSAEVR                      genus           Pseudomonas                   
+7733.1.1_15          ATGQLGQSHLLSQVK                     genus           Pseudomonas                   
+7210.1.1_14          SHDALESNALSVEK                      genus           Pseudomonas                   
+6021.1.1_12          QEELKPVAPAPR                        genus           Pseudomonas                   
+9299.1.1_12          LEAAGIPTQFDK                        genus           Pseudomonas                   
+11126.1.1_12         NSVDAMPDLPFK                        genus           Pseudomonas                   
+3455.1.1_12          SKDVDDEKDAMK                        genus           Pseudomonas                   
+5585.1.1_11          PSAEYTGVEQR                         genus           Pseudomonas                   
+9969.1.1_19          GFVAGQAGPNYPAPVEAIK                 genus           Pseudomonas                   
+9629.1.1_11          VQEEVEIVGIK                         genus           Pseudomonas                   
+8954.1.1_13          TNVVDGQEVVIVR                       genus           Pseudomonas                   
+9220.1.1_12          YGLSVEEAGLAK                        genus           Pseudomonas                   
+8969.1.1_18          TEQVGAGASQVAALPAVR                  genus           Pseudomonas                   
+7614.1.1_19          DIDGDDVTVDGNHPLAGQR                 genus           Pseudomonas                   
+7755.1.1_15          ATGQLGQSHLLSQVK                     genus           Pseudomonas                   
+11368.1.1_16         QLDPLVIGQDHYDTAR                    genus           Pseudomonas                   
+6055.1.1_14          AGQPASEGVHWSSK                      genus           Pseudomonas                   
+11595.1.1_18         FGQQPATVLFSGLSGAGK                  genus           Pseudomonas                   
+3762.1.1_10          AQESAQQIQK                          genus           Pseudomonas                   
+7105.1.1_12          VAGHGEPLEQLR                        genus           Pseudomonas                   
+8816.1.1_12          AENSTVWDVEGR                        genus           Pseudomonas                   
+9647.1.1_22          GQVAGQTALSTVGQEGAGLTYR              genus           Pseudomonas                   
+9778.1.1_11          NGTLIMIDDER                         genus           Pseudomonas                   
+10676.1.1_14         GDNEEQNVGIALLR                      genus           Pseudomonas                   
+4020.1.1_9           EDPAEEEAR                           genus           Pseudomonas                   
+8113.1.1_22          RGDPLDTETMVGAQASQQQYEK              genus           Pseudomonas                   
+9963.1.1_11          GQSEAIAWNLR                         genus           Pseudomonas                   
+7727.1.1_16          SSQHIYAQVIAADGGK                    genus           Pseudomonas                   
+8653.1.1_11          QQAETGDILQR                         genus           Pseudomonas                   
+9050.1.1_15          VVGEGGNLGMTQLAR                     genus           Pseudomonas                   
+10898.1.1_13         AEDYDALLIPGGR                       genus           Pseudomonas                   
+8940.1.1_17          AASPTSANFVEVGQSVK                   genus           Pseudomonas                   
+7479.1.1_12          DSSGISVDDVAK                        genus           Pseudomonas                   
+9521.1.1_16          LVAIGTSTGGPVALQR                    genus           Pseudomonas                   
+6493.1.1_13          VVETGGNSFAAER                       genus           Pseudomonas                   
+9535.1.1_10          IGLPVVEGAK                          genus           Pseudomonas                   
+9764.1.1_14          ISQLNGTVNVFSQK                      genus           Pseudomonas                   
+5009.1.1_10          RDPEMISGSR                          genus           Pseudomonas                   
+9731.1.1_10          IGLPVVEGAK                          genus           Pseudomonas                   
+10141.1.1_15         AQAQAEIEQELNSVK                     genus           Pseudomonas                   
+11798.1.1_16         VISVGPDDTLLTAFQR                    genus           Pseudomonas                   
+5719.1.1_13          VTSPNGTTEAAIK                       genus           Pseudomonas                   
+8703.1.1_12          NNPDAQLIYEAR                        genus           Pseudomonas                   
+8973.1.1_12          GDFNDEIDAGIK                        genus           Pseudomonas                   
+7779.1.1_15          NQAEAYANGVVPEAR                     genus           Pseudomonas                   
+6279.1.1_10          LNAEAEGLGK                          genus           Pseudomonas                   
+8986.1.1_13          ILVAVDGSPVSDR                       genus           Pseudomonas                   
+9215.1.1_18          LAADSPVGVTSLPDDAER                  genus           Pseudomonas                   
+5713.1.1_14          ADATQTPGGTGALR                      genus           Pseudomonas                   
+7246.1.1_13          GAVVASPSIDEAR                       genus           Pseudomonas                   
+11650.1.1_15         AGSAGPFPFPFDEGK                     genus           Pseudomonas                   
+11795.1.1_12         DETFGPLAPVFR                        genus           Pseudomonas                   
+9812.1.1_10          IVGPDELDLR                          genus           Pseudomonas                   
+9229.1.1_12          LEDFVVEPQEGK                        genus           Pseudomonas                   
+11426.1.1_12         TFIEVFDEEATK                        genus           Pseudomonas                   
+11344.1.1_11         LGFPMATPELR                         genus           Pseudomonas                   
+3891.1.1_15          GASHPHTAQQPQELK                     genus           Pseudomonas                   
+10547.1.1_14         IAGLLEAQGIQVAR                      genus           Pseudomonas                   
+5305.1.1_14          INHTVEVQDTPENR                      genus           Pseudomonas                   
+10969.1.1_15         ILLNEVVQAGDMTEK                     genus           Pseudomonas                   
+9037.1.1_13          FGLDPAPVSDNTR                       genus           Pseudomonas                   
+4468.1.1_12          GASPVVHTPQGK                        genus           Pseudomonas                   
+9439.1.1_13          AMQGITSLEEVNR                       genus           Pseudomonas                   
+6954.1.1_13          AIIANPNSSAEER                       genus           Pseudomonas                   
+6328.1.1_21          VNAVGYGESRPVADNATAEGR               genus           Pseudomonas                   
+6494.1.1_12          VIQEGNTFEGEK                        genus           Pseudomonas                   
+6179.1.1_16          AVVDGAPGVVKEGASK                    genus           Pseudomonas                   
+6624.1.1_10          VAQLLKDAAK                          genus           Pseudomonas                   
+9976.1.1_11          VQSVQFFPNPK                         genus           Pseudomonas                   
+5142.1.1_13          TTMTQNNNFTTGR                       genus           Pseudomonas                   
+3452.1.1_10          REDPAEEEAR                          genus           Pseudomonas                   
+9386.1.1_12          NQGQIEEFDAIR                        genus           Pseudomonas                   
+11082.1.1_14         KVGEALNLLAFSSK                      genus           Pseudomonas                   
+10782.1.1_17         IGVMGGEQAAGVLAQVK                   genus           Pseudomonas                   
+10345.1.1_16         AGQVANINGAPWVIQK                    genus           Pseudomonas                   
+11605.1.1_12         IDEVVVFEPLAR                        genus           Pseudomonas                   
+7201.1.1_13          AIIANPNSSAEER                       genus           Pseudomonas                   
+4702.1.1_10          NTIPVTHEAR                          genus           Pseudomonas                   
+8416.1.1_12          ELAQVVDTPVER                        genus           Pseudomonas                   
+4525.1.1_11          ATAPQNVEGER                         genus           Pseudomonas                   
+8211.1.1_14          MNALSQASTPLAQK                      genus           Pseudomonas                   
+8520.1.1_10          MLEAEELAQR                          genus           Pseudomonas                   
+6941.1.1_10          ADGSDGNFIR                          genus           Pseudomonas                   
+11266.1.1_12         TLLEWDDVTDPR                        genus           Pseudomonas                   
+10184.1.1_18         LLPDATVAISDPSWENHR                  genus           Pseudomonas                   
+6531.1.1_17          NQYQVSEAGSVQEAQER                   genus           Pseudomonas                   
+11161.1.1_18         FLAQGTIYPDVIESAGAK                  genus           Pseudomonas                   
+3687.1.1_10          LGDAAAQPHR                          genus           Pseudomonas                   
+8365.1.1_13          MDEVIDGEYQNYK                       genus           Pseudomonas                   
+10763.1.1_15         DVQGSDPVSLIAYDK                     genus           Pseudomonas                   
+6365.1.1_13          AIIANPNSSAEER                       genus           Pseudomonas                   
+10420.1.1_13         ILIVDDSPTEMYK                       genus           Pseudomonas                   
+6182.1.1_13          AIIANPNSSAEER                       genus           Pseudomonas                   
+9298.1.1_14          LGVPYTDEDIAGAR                      genus           Pseudomonas                   
+9661.1.1_11          SLVPDDDYLTR                         genus           Pseudomonas                   
+8786.1.1_15          ELAQSVGVEGPTLAR                     genus           Pseudomonas                   
+6227.1.1_13          TTMTQNNNFTTGR                       genus           Pseudomonas                   
+9367.1.1_15          ALTVNTNIASLNTQR                     genus           Pseudomonas                   
+10571.1.1_11         IFTTPEYAGWR                         genus           Pseudomonas                   
+3613.1.1_10          REDPAEEEAR                          genus           Pseudomonas                   
+3752.1.1_15          GASHPHTAQQPQELK                     genus           Pseudomonas                   
+9110.1.1_12          LGTAAISAPELR                        genus           Pseudomonas                   
+9911.1.1_13          SNQYAVFIDSTGR                       genus           Pseudomonas                   
+11250.1.1_10         IDMPWPVTGR                          genus           Pseudomonas                   
+6675.1.1_12          IDGEAFAGGSAK                        genus           Pseudomonas                   
+9584.1.1_14          EANEAYEVLSDASK                      genus           Pseudomonas                   
+9028.1.1_15          SGTLYIVSAPSGAGK                     genus           Pseudomonas                   
+9898.1.1_12          DAAGVILYSAER                        genus           Pseudomonas                   
+4337.1.1_15          AQPVSAGSVSSEHEK                     genus           Pseudomonas                   
+7920.1.1_12          MPQAAIDEEVAR                        genus           Pseudomonas                   
+11905.1.1_15         AVEGTQFDVLNDVFK                     genus           Pseudomonas                   
+3816.1.1_10          YTGTEQQHLK                          genus           Pseudomonas                   
+4866.1.1_15          RINHTVEVQDTPENR                     genus           Pseudomonas                   
+8279.1.1_9           VYYNPEPLR                           genus           Pseudomonas                   
+7662.1.1_13          MLTQEQDQQLVER                       genus           Pseudomonas                   
+3727.1.1_15          GASHPHTAQQPQELK                     genus           Pseudomonas                   
+10066.1.1_14         LAQDAGVALEEIEK                      genus           Pseudomonas                   
+6499.1.1_13          RDEAVTEQSEMLK                       genus           Pseudomonas                   
+6676.1.1_13          VVETGGNSFAAER                       genus           Pseudomonas                   
+10161.1.1_14         TPGGDVEYEIVEVR                      genus           Pseudomonas                   
+10228.1.1_15         VMEDMAGVNPPAFPR                     genus           Pseudomonas                   
+6174.1.1_11          EDPGNPNFETR                         genus           Pseudomonas                   
+10866.1.1_17         DSVGNVLQDGDTITVIK                   genus           Pseudomonas                   
+5794.1.1_14          VTEAYPANPNGSPR                      genus           Pseudomonas                   
+10821.1.1_12         DAQLLDTLEGER                        genus           Pseudomonas                   
+6549.1.1_13          AIIANPNSSAEER                       genus           Pseudomonas                   
+6903.1.1_14          VVTTQAVGGTGALK                      genus           Pseudomonas                   
+6942.1.1_11          VEGWGNADAAR                         genus           Pseudomonas                   
+5277.1.1_12          ELEHQFNDSGAK                        genus           Pseudomonas                   
+10115.1.1_20         VAGIGEGEITSGSFSPTLNK                genus           Pseudomonas                   
+8938.1.1_21          GDPLDTETMVGAQASQQQYEK               genus           Pseudomonas                   
+5578.1.1_10          LVTNDSESYR                          genus           Pseudomonas                   
+9931.1.1_15          VVYDVYDSNEVLEAK                     genus           Pseudomonas                   
+6835.1.1_14          IIRPSAEYTGVEQR                      genus           Pseudomonas                   
+11216.1.1_13         VVADMLTVVGVNR                       genus           Pseudomonas                   
+7226.1.1_11          EQVLENAETYK                         genus           Pseudomonas                   
+3898.1.1_12          AQSLNASSDSGR                        genus           Pseudomonas                   
+8721.1.1_14          LTPVGEGIVAQAQK                      genus           Pseudomonas                   
+8194.1.1_11          TAVDVMYEANR                         genus           Pseudomonas                   
+10050.1.1_10         SDDSFVIMAR                          genus           Pseudomonas                   
+5826.1.1_12          AIAQAHPDELER                        genus           Pseudomonas                   
+7235.1.1_12          NTTTDQFAGVAR                        genus           Pseudomonas                   
+6427.1.1_10          VMQDLAQEGR                          genus           Pseudomonas                   
+10493.1.1_12         LDELSEQLPQLR                        genus           Pseudomonas                   
+9703.1.1_12          TLDTPLVGINNR                        genus           Pseudomonas                   
+11592.1.1_10         DLPLIASNWR                          genus           Pseudomonas                   
+8780.1.1_11          DSGPDVFVHYR                         genus           Pseudomonas                   
+9760.1.1_15          DLAPGEAVYITEEGK                     genus           Pseudomonas                   
+9016.1.1_14          VILVGNVGGDPETR                      genus           Pseudomonas                   
+3867.1.1_17          GGGRPDMAQGGGTDAAK                   genus           Pseudomonas                   
+11117.1.1_17         DAGTQEVVGIDYPDLVK                   genus           Pseudomonas                   
+6798.1.1_11          QLVQGQEAVVR                         genus           Pseudomonas                   
+7434.1.1_10          NALLVDNTGK                          genus           Pseudomonas                   
+10372.1.1_9          LPLATSFVK                           genus           Pseudomonas                   
+5275.1.1_12          IIANPNSSAEER                        genus           Pseudomonas                   
+10271.1.1_13         LVEAASIAELEAR                       genus           Pseudomonas                   
+11227.1.1_11         LFDLDIESGAR                         genus           Pseudomonas                   
+11219.1.1_14         DGNPEIYVMDLGSR                      genus           Pseudomonas                   
+9965.1.1_16          DGVTTTASGLQYEIVK                    genus           Pseudomonas                   
+10797.1.1_18         FLPDTSAPVNVEWGEENR                  genus           Pseudomonas                   
+8810.1.1_12          SDQPLQDDVLAR                        genus           Pseudomonas                   
+11182.1.1_25         AGVPTVPGSDGPLPEDEETALAIAR           genus           Pseudomonas                   
+11290.1.1_9          LASNLFQFR                           genus           Pseudomonas                   
+7288.1.1_15          STGTGLTTLPANEQR                     genus           Pseudomonas                   
+7208.1.1_14          SHDALESNALSVEK                      genus           Pseudomonas                   
+5724.1.1_9           LGQAEEIAK                           genus           Pseudomonas                   
+9840.1.1_16          QLDPLVIGQDHYDTAR                    genus           Pseudomonas                   
+3963.1.1_11          VAVSSNADAAK                         genus           Pseudomonas                   
+9369.1.1_12          IDVAIADDQLDR                        genus           Pseudomonas                   
+10591.1.1_11         TEYNAPILSIR                         genus           Pseudomonas                   
+9247.1.1_20          VYSQAEVGSPPMSVPHLDTR                genus           Pseudomonas                   
+10072.1.1_16         TLLVTSGSEAVENAVK                    genus           Pseudomonas                   
+9855.1.1_15          SAGDNALEGGEIGWR                     genus           Pseudomonas                   
+7149.1.1_11          QQAETGDILQR                         genus           Pseudomonas                   
+8666.1.1_15          ALDHAMIELDGTENK                     genus           Pseudomonas                   
+6420.1.1_13          GGVAEADIATQEK                       genus           Pseudomonas                   
+9665.1.1_12          FYEEQGLLSPER                        genus           Pseudomonas                   
+7670.1.1_13          VTKEDVVAAVEAK                       genus           Pseudomonas                   
+6689.1.1_10          VDVLNDDEGK                          genus           Pseudomonas                   
+9866.1.1_20          EAPSYADQAGGNELLETGIK                genus           Pseudomonas                   
+7101.1.1_14          EVFGDKAPAISSTK                      genus           Pseudomonas                   
+9875.1.1_10          ALAELEDNFR                          genus           Pseudomonas                   
+9818.1.1_11          VQEEVEIVGIK                         genus           Pseudomonas                   
+5558.1.1_10          LAEEPNMQGK                          genus           Pseudomonas                   
+9896.1.1_16          AIQEAFSQPGELDINR                    genus           Pseudomonas                   
+8201.1.1_13          EAAPGIAEAYEAR                       genus           Pseudomonas                   
+5736.1.1_9           APETAANFK                           genus           Pseudomonas                   
+10661.1.1_13         LFSGGEALPAELR                       genus           Pseudomonas                   
+10639.1.1_10         VMLDAYLEGR                          genus           Pseudomonas                   
+9662.1.1_14          GEGMAFADLQEVDR                      genus           Pseudomonas                   
+11708.1.1_14         YAEAPSNIVEALVK                      genus           Pseudomonas                   
+7557.1.1_12          NMGIEQQAAEVR                        genus           Pseudomonas                   
+12173.1.1_16         MVVTLIAPIAMEDGLR                    genus           Pseudomonas                   
+5451.1.1_16          TGAVKEGDEVVGSETR                    genus           Pseudomonas                   
+4842.1.1_12          AVSADDSDAVAR                        genus           Pseudomonas                   
+7562.1.1_12          DEAVTEQSEMLK                        genus           Pseudomonas                   
+10465.1.1_11         DIVEEAVGQIK                         genus           Pseudomonas                   
+5052.1.1_14          GDSYTAQGGTNTMK                      genus           Pseudomonas                   
+9256.1.1_11          YSLESVEIANR                         genus           Pseudomonas                   
+6217.1.1_10          VINAGDYEQR                          genus           Pseudomonas                   
+8353.1.1_13          SVTVDFTQPEGQR                       genus           Pseudomonas                   
+11002.1.1_13         DGLAEGNVLAIYK                       genus           Pseudomonas                   
+10166.1.1_16         VIGQDEAVVAVSNAVR                    genus           Pseudomonas                   
+6496.1.1_13          RDEAVTEQSEMLK                       genus           Pseudomonas                   
+9843.1.1_14          AAIETGVATLPYPK                      genus           Pseudomonas                   
+10695.1.1_15         ILTEGSTTADWPLSR                     genus           Pseudomonas                   
+7976.1.1_12          DAVEGVDYDVAR                        genus           Pseudomonas                   
+7146.1.1_12          AMAANDTTGLVK                        genus           Pseudomonas                   
+7069.1.1_14          QVIGHLANANPEYR                      genus           Pseudomonas                   
+4574.1.1_10          AVENTEQMDR                          genus           Pseudomonas                   
+5188.1.1_13          RDEAVTEQSEMLK                       genus           Pseudomonas                   
+8945.1.1_15          AASGTDYAMYAVANR                     genus           Pseudomonas                   
+8562.1.1_12          IVAPDVNNSEFR                        genus           Pseudomonas                   
+11314.1.1_14         ALFEAAGFPVQNYR                      genus           Pseudomonas                   
+9195.1.1_11          QSVLPVEVGAR                         genus           Pseudomonas                   
+6621.1.1_12          LNIDENQDTPPK                        genus           Pseudomonas                   
+9723.1.1_11          DIDSMAADVYR                         genus           Pseudomonas                   
+10343.1.1_14         VSVPDMDAAEAFGK                      genus           Pseudomonas                   
+7705.1.1_16          LEVIPASNAPNDQTSK                    genus           Pseudomonas                   
+6756.1.1_13          AIIANPNSSAEER                       genus           Pseudomonas                   
+4029.1.1_10          YRAEDAAEER                          genus           Pseudomonas                   
+8189.1.1_17          APQVSYDGPGTAADGLR                   genus           Pseudomonas                   
+9852.1.1_20          EAPSYADQAGGNELLETGIK                genus           Pseudomonas                   
+5034.1.1_12          LYNTNEANANAR                        genus           Pseudomonas                   
+10989.1.1_10         QIPDWNIEVR                          genus           Pseudomonas                   
+6701.1.1_11          HIDVQVVSQTR                         genus           Pseudomonas                   
+9614.1.1_15          GDLPSGMGMASGELR                     genus           Pseudomonas                   
+11149.1.1_11         VLEQIANLVAR                         genus           Pseudomonas                   
+11328.1.1_18         AEGVEVNVGTFPFAASGR                  genus           Pseudomonas                   
+2855.1.1_12          EGASKEEAEAAK                        genus           Pseudomonas                   
+8539.1.1_12          YLETPPSAAELK                        genus           Pseudomonas                   
+8854.1.1_12          ELLDNVQYSPTR                        genus           Pseudomonas                   
+5975.1.1_12          AMAANDTTGLVK                        genus           Pseudomonas                   
+10980.1.1_12         SIQDNNETLFFR                        genus           Pseudomonas                   
+11430.1.1_11         LSLLYLAQQGR                         genus           Pseudomonas                   
+11579.1.1_11         TFTFENFVEGK                         genus           Pseudomonas                   
+11622.1.1_14         TSVPGVFAIGDVVR                      genus           Pseudomonas                   
+9733.1.1_14          ELPDFNSSLAPSGK                      genus           Pseudomonas                   
+11543.1.1_15         LGEGSGAALAVPLIR                     no rank         Pseudomonas entomophila L48   
+10913.1.1_12         MIELMEVDEEAR                        no rank         Pseudomonas putida W619       
+4638.1.1_12          AMGGSDADVGGR                        no rank         Pseudomonas aeruginosa PA7    
+4548.1.1_17          ASAGASPAPASTSAAPK                   no rank         Pseudomonas aeruginosa UCBPP-PA14
+3802.1.1_11          TAVQAQAQAQR                         no rank         Pseudomonas aeruginosa PAO1   
+8214.1.1_25          ESIRENSQAADTTPDLAATAPGQLR           no rank         Pseudomonas stutzeri DSM 10701
+9438.1.1_14          AQLSEAMTLASGLK                      no rank         Pseudomonas aeruginosa B136-33
+6311.1.1_17          STQEDTSAEADDAPVVR                   no rank         Pseudomonas aeruginosa B136-33
+3922.1.1_9           APNNSSVPR                           no rank         Pseudomonas putida W619       
+10970.1.1_14         AQLSEAMTLASGLK                      no rank         Pseudomonas aeruginosa B136-33
+8620.1.1_11          ELVWSEEQQGR                         no rank         Pseudomonas putida W619       
+10927.1.1_11         GELVDELVAVR                         no rank         Pseudomonas mendocina ymp     
+11627.1.1_13         FGSQDGPFTDFIR                       no rank         Pseudomonas putida W619       
+10578.1.1_12         TIVVLLPDTGDR                        no rank         Akkermansia muciniphila ATCC BAA-835
+4385.1.1_14          GLSGGDQDNGVSQR                      no rank         Pseudomonas aeruginosa PA7    
+3758.1.1_9           QTQNYGTGR                           no rank         Buchnera aphidicola (Acyrthosiphon pisum)
+3364.1.1_10          PASAPQSAAR                          no rank         Sinorhizobium fredii NGR234   
+10755.1.1_11         EVFPEQQALFK                         species         Pseudomonas aeruginosa        
+3859.1.1_23          ERPNDNAEGADGDDNSDSDNADE             species         Pseudomonas aeruginosa        
+9194.1.1_15          ATVATAENVAAFEAR                     species         Pseudomonas aeruginosa        
+5385.1.1_12          SADHSLDDAAVR                        species         Pseudomonas aeruginosa        
+8333.1.1_12          IEPSNPVPLEAR                        species         Pseudomonas aeruginosa        
+8176.1.1_11          AGVDPAYLGAR                         species         Pseudomonas aeruginosa        
+9525.1.1_13          QGDPEVLAQLQER                       species         Pseudomonas aeruginosa        
+11657.1.1_13         VLLALDFSPTSTR                       species         Pseudomonas aeruginosa        
+8438.1.1_12          QSETLADIHALR                        species         Pseudomonas aeruginosa        
+7915.1.1_10          ELESDAELYR                          species         Pseudomonas aeruginosa        
+4820.1.1_11          EGATGNIDAAK                         species         Pseudomonas aeruginosa        
+9388.1.1_17          NTIDNLTNISENATNAR                   species         Pseudomonas aeruginosa        
+6109.1.1_15          NASQAAAYAESQGAK                     species         Pseudomonas aeruginosa        
+8584.1.1_13          NQLAGNDYSQLVK                       species         Pseudomonas aeruginosa        
+9805.1.1_12          VEGDVVSLQTLK                        species         Pseudomonas aeruginosa        
+6649.1.1_10          VDEIEAQQMR                          species         Pseudomonas aeruginosa        
+7629.1.1_11          DLAEEEVAEAR                         species         Pseudomonas aeruginosa        
+6921.1.1_14          QAIADGTYQVDSER                      species         Pseudomonas aeruginosa        
+11484.1.1_14         LSETGTPLSLVSIR                      species         Pseudomonas aeruginosa        
+4990.1.1_12          LNPGSTPATTGR                        species         Pseudomonas aeruginosa        
+7601.1.1_11          SELNLTTDEAR                         species         Pseudomonas aeruginosa        
+9998.1.1_17          KQEVESAGPTTIGDLIR                   species         Pseudomonas aeruginosa        
+8819.1.1_16          SLDAAEAYNPEGIAQR                    species         Pseudomonas aeruginosa        
+11738.1.1_12         IAELPLFAAEER                        species         Pseudomonas aeruginosa        
+9773.1.1_18          EAPLHVSNVAIFNTETSK                  species         Pseudomonas aeruginosa        
+9286.1.1_15          VVEEAPAPGLGAELR                     species         Pseudomonas aeruginosa        
+8686.1.1_13          AYDVESDGGVAFR                       species         Pseudomonas aeruginosa        
+3735.1.1_15          AAGITSGSARPNSQK                     species         Pseudomonas aeruginosa        
+11446.1.1_13         ALAVLTAVAAAER                       species         Pseudomonas aeruginosa        
+10413.1.1_14         QIIENSMLNGEVIR                      species         Pseudomonas aeruginosa        
+6778.1.1_15          EKVEASNVEGATFDR                     species         Pseudomonas aeruginosa        
+8074.1.1_16          QAEGKDPSDATLDVIR                    species         Pseudomonas aeruginosa        
+11050.1.1_17         DFATPVQFVNASAQSDR                   species         Pseudomonas aeruginosa        
+11188.1.1_13         SYDNTIPLFSPSR                       species         Pseudomonas aeruginosa        
+5915.1.1_13          GVSPDDETVEDER                       species         Pseudomonas aeruginosa        
+11103.1.1_15         AMVLVAAPEGIEAVR                     species         Pseudomonas aeruginosa        
+4473.1.1_11          SEAVTPQDDAR                         species         Pseudomonas aeruginosa        
+6186.1.1_14          NYSHVLAPATTNGK                      species         Pseudomonas aeruginosa        
+7688.1.1_16          AAADDLGVEVSNDQAR                    species         Pseudomonas aeruginosa        
+5956.1.1_12          YLPEQSAPEQNR                        species         Pseudomonas aeruginosa        
+10981.1.1_10         VEDIAEIISR                          species         Pseudomonas aeruginosa        
+7515.1.1_21          LNAVSAGGNDGLQAAPAAEPK               species         Pseudomonas aeruginosa        
+10777.1.1_11         LDSTQVLEAIR                         species         Pseudomonas aeruginosa        
+5374.1.1_11          YYDAASNGVNR                         species         Pseudomonas aeruginosa        
+7460.1.1_18          GAVPGATGGDVIVRPAAK                  species         Pseudomonas aeruginosa        
+8413.1.1_14          VSEPESELESVSGR                      species         Pseudomonas aeruginosa        
+10247.1.1_21         LLLDYAQAYNSGNVSDDQASK               species         Pseudomonas aeruginosa        
+7121.1.1_13          PAAPAAASVQDIK                       species         Pseudomonas aeruginosa        
+4120.1.1_11          KSVSQAEGNIR                         species         Pseudomonas aeruginosa        
+6730.1.1_13          HAEGAYVLDEDDK                       species         Pseudomonas aeruginosa        
+4956.1.1_15          AAPAAAQAVAQGHDK                     species         Pseudomonas aeruginosa        
+11128.1.1_11         TEEEPFIDTFR                         species         Pseudomonas aeruginosa        
+10529.1.1_14         ANENGEPFDVLTER                      species         Pseudomonas aeruginosa        
+4205.1.1_10          LSPTGNQNPR                          species         Pseudomonas aeruginosa        
+7973.1.1_14          AGENISNYTQAYEK                      species         Pseudomonas aeruginosa        
+6996.1.1_9           IGPLSDSER                           species         Pseudomonas aeruginosa        
+10650.1.1_13         LDLNDPEADSILK                       species         Pseudomonas aeruginosa        
+6513.1.1_11          NIAIAAGDSAK                         species         Pseudomonas aeruginosa        
+11711.1.1_11         QAGAEIVSFVR                         species         Pseudomonas aeruginosa        
+10696.1.1_14         DTIYYDAYAPLAGK                      species         Pseudomonas aeruginosa        
+10567.1.1_12         VALDALGVVGDR                        species         Pseudomonas aeruginosa        
+7103.1.1_15          SGDEEGAQWQDGAVR                     species         Pseudomonas aeruginosa        
+7810.1.1_14          AMQDIAQGEGDLTK                      species         Pseudomonas aeruginosa        
+3857.1.1_23          ERPNDNAEGADGDDNSDSDNADE             species         Pseudomonas aeruginosa        
+8115.1.1_16          DGVKEALQEAGYEDGK                    species         Pseudomonas aeruginosa        
+5167.1.1_11          DPDDSTQVIHR                         species         Pseudomonas aeruginosa        
+7232.1.1_11          QNLASLDGDAR                         species         Pseudomonas aeruginosa        
+6612.1.1_11          DGTEEQAALVR                         species         Pseudomonas aeruginosa        
+10904.1.1_14         DGLAVMNPISGTYR                      species         Pseudomonas aeruginosa        
+10231.1.1_13         DADTVYLATDLDR                       species         Pseudomonas aeruginosa        
+3366.1.1_10          IGGNAQNAAR                          species         Pseudomonas aeruginosa        
+9318.1.1_17          AADDVVDAEFEEVKDNK                   species         Pseudomonas aeruginosa        
+6385.1.1_10          AADTQAMLQR                          species         Pseudomonas aeruginosa        
+6297.1.1_12          NQAVIEQDGMSR                        species         Pseudomonas aeruginosa        
+4152.1.1_9           KTVEDAGIK                           species         Pseudomonas aeruginosa        
+4817.1.1_11          NGAGSTEEIAR                         species         Pseudomonas aeruginosa        
+5348.1.1_11          LTGVSVKPAAK                         species         Pseudomonas aeruginosa        
+10368.1.1_15         NVLGWSDANSTEFDK                     species         Pseudomonas aeruginosa        
+11076.1.1_18         NGINDGTEASIDAALLGK                  species         Pseudomonas aeruginosa        
+11354.1.1_18         IPINESADDTSQIEEFIR                  species         Pseudomonas aeruginosa        
+6435.1.1_13          AEPSLGQANPEDR                       species         Pseudomonas aeruginosa        
+6132.1.1_11          EVAAQQAELTR                         species         Pseudomonas aeruginosa        
+4039.1.1_23          ERPNDNAEGADGDDNSDSDNADE             species         Pseudomonas aeruginosa        
+8583.1.1_14          TGETAIATTVAYAK                      species         Pseudomonas aeruginosa        
+3716.1.1_12          DESSADEQPSPR                        species         Pseudomonas aeruginosa        
+10093.1.1_12         FIGIGEVTDDGR                        species         Pseudomonas aeruginosa        
+10707.1.1_11         TTVADIVSTMK                         species         Pseudomonas aeruginosa        
+5932.1.1_11          TIEGQGSLAER                         species         Pseudomonas aeruginosa        
+10443.1.1_16         VIGQQEAITAVSDAVR                    species         Pseudomonas aeruginosa        
+10994.1.1_17         GVAAGDQLISGIGAPIK                   species         Pseudomonas aeruginosa        
+8341.1.1_13          IKDLSDEQIDQLR                       species         Pseudomonas aeruginosa        
+7743.1.1_18          KLAEEAGIDPNSIAGTGK                  species         Pseudomonas aeruginosa        
+11396.1.1_16         VASFDSNPPFGFVDAK                    species         Pseudomonas aeruginosa        
+5532.1.1_10          MAAIGDENAK                          species         Pseudomonas aeruginosa        
+7311.1.1_13          SVAVELAGGGSQR                       species         Pseudomonas aeruginosa        
+10535.1.1_10         IVVIAELGER                          species         Pseudomonas aeruginosa        
+8251.1.1_13          AVNSTFMPGEPSR                       species         Pseudomonas aeruginosa        
+6443.1.1_18          SEQTPEQPSTAPNPALQR                  species         Pseudomonas aeruginosa        
+10030.1.1_15         LTSADVNYADALGYR                     species         Pseudomonas aeruginosa        
+9512.1.1_12          QGADFGQLAISR                        species         Pseudomonas aeruginosa        
+8850.1.1_14          GGTLDEAGMQFANR                      species         Pseudomonas aeruginosa        
+7483.1.1_14          LAEQTAQDEALVGR                      species         Pseudomonas aeruginosa        
+10119.1.1_17         GGANEVGEAIVDSQALR                   species         Pseudomonas aeruginosa        
+10891.1.1_16         LEEDPQYAEELAELDR                    species         Pseudomonas aeruginosa        
+4292.1.1_11          QLAESESAANR                         species         Pseudomonas aeruginosa        
+3729.1.1_15          AAGITSGSARPNSQK                     species         Pseudomonas aeruginosa        
+10158.1.1_14         LAPSLLNDEAEIDR                      species         Pseudomonas aeruginosa        
+9061.1.1_16          DSAADVQVDLGAGEVR                    species         Pseudomonas aeruginosa        
+6765.1.1_12          EQLGGQITTAAK                        species         Pseudomonas aeruginosa        
+5195.1.1_10          DQVQHVEMAR                          species         Pseudomonas aeruginosa        
+11186.1.1_15         NSLDPSNILDAEGIR                     species         Pseudomonas aeruginosa        
+10823.1.1_15         SGYDVVVPSNSFLAK                     species         Pseudomonas aeruginosa        
+11105.1.1_11         FDYQVLTPGLR                         species         Pseudomonas aeruginosa        
+4278.1.1_13          GKPVEASVTGSAK                       species         Pseudomonas aeruginosa        
+9027.1.1_14          YIDQSGATVWSEPR                      species         Pseudomonas aeruginosa        
+10939.1.1_13         YPQPALLSSDPLR                       species         Pseudomonas aeruginosa        
+9664.1.1_12          GAVTDEQFEAFR                        species         Pseudomonas aeruginosa        
+7551.1.1_11          ESSQQIILNGR                         species         Pseudomonas aeruginosa        
+8270.1.1_12          TGSSGTTELFTR                        species         Pseudomonas aeruginosa        
+4202.1.1_11          QGGGVPADNPR                         species         Pseudomonas aeruginosa        
+8818.1.1_14          VVLADINAEAGAAK                      species         Pseudomonas aeruginosa        
+8563.1.1_13          DVNAATLGAAAVR                       species         Pseudomonas aeruginosa        
+12075.1.1_13         QAIGQVAQSLFAK                       species         Pseudomonas aeruginosa        
+6877.1.1_17          TIQDDGQLYGGGQASSR                   species         Pseudomonas aeruginosa        
+5993.1.1_13          DGAFEVKPASNGK                       species         Pseudomonas aeruginosa        
+10238.1.1_11         NGENEFSLVVR                         species         Pseudomonas aeruginosa        
+9138.1.1_13          EVGPGEVGELTVR                       species         Pseudomonas aeruginosa        
+8931.1.1_19          PVAIDKPVPDFTAPATSGK                 species         Pseudomonas aeruginosa        
+5749.1.1_25          NAAPATGAGASAGGGSASASDLGSR           species         Pseudomonas aeruginosa        
+11417.1.1_13         SNPWEDFSSQFNK                       species         Pseudomonas aeruginosa        
+10501.1.1_13         DDEQVALVEAYAR                       species         Pseudomonas aeruginosa        
+3347.1.1_11          AENVPGQHGQR                         species         Pseudomonas aeruginosa        
+9469.1.1_15          NGSSWSAINPEYAAR                     species         Pseudomonas aeruginosa        
+5805.1.1_16          NAGAASDVAQPHPSIR                    species         Pseudomonas aeruginosa        
+7543.1.1_10          FTAVSEQLDK                          species         Pseudomonas aeruginosa        
+6678.1.1_12          FLPNAEGNAGER                        species         Pseudomonas aeruginosa        
+7618.1.1_13          QGQMPAQEPYLGK                       species         Pseudomonas aeruginosa        
+10198.1.1_15         QFQFGQSTVTLETGR                     species         Pseudomonas aeruginosa        
+6079.1.1_12          EVLAGNGVGPNK                        species         Pseudomonas aeruginosa        
+9374.1.1_9           IVDLPMETR                           species         Pseudomonas aeruginosa        
+6906.1.1_39          LKVEGAAPAAEEQPAAAPAQAAAPAAEQKPAAAAPAPAK species         Pseudomonas aeruginosa        
+8329.1.1_15          VHPSVEVIQDSGELR                     species         Pseudomonas aeruginosa        
+3604.1.1_9           VPDSSPENR                           species         Pseudomonas aeruginosa        
+6964.1.1_14          VITYGADRDEALAR                      species         Pseudomonas aeruginosa        
+8336.1.1_11          LTDAAPLVEAR                         species         Pseudomonas aeruginosa        
+5419.1.1_18          TQSAGDVMTQAPGSVDGK                  species         Pseudomonas aeruginosa        
+8830.1.1_16          IPAIQVEPAAPAAPSK                    species         Pseudomonas aeruginosa        
+4343.1.1_13          YAETVEHGDDAAR                       species         Pseudomonas aeruginosa        
+7472.1.1_13          QLLKEPQLTSSAK                       species         Pseudomonas aeruginosa        
+10770.1.1_15         NLGPEPLTDAFAGQR                     species         Pseudomonas aeruginosa        
+9871.1.1_18          VANSSGASLADVEAMAGK                  species         Pseudomonas aeruginosa        
+3745.1.1_10          LAAGESHVTR                          species         Pseudomonas aeruginosa        
+10403.1.1_14         VFAEGSPVQEPLLR                      species         Pseudomonas aeruginosa        
+11147.1.1_12         EPLDDLALQGLK                        species         Pseudomonas aeruginosa        
+9526.1.1_12          IVDLDEQPEIVR                        species         Pseudomonas aeruginosa        
+6278.1.1_13          NGQVQAITQDGPK                       species         Pseudomonas aeruginosa        
+9539.1.1_14          LTPAVDAGLVEEAR                      species         Pseudomonas aeruginosa        
+8417.1.1_14          LDSPDQAEFYTSGR                      species         Pseudomonas aeruginosa        
+5741.1.1_19          VVDNTVQGSATQAAAPAQR                 species         Pseudomonas aeruginosa        
+6707.1.1_14          VAPGFEGGQQPLHR                      species         Pseudomonas aeruginosa        
+8535.1.1_13          LSNQISGLNVATR                       species         Pseudomonas aeruginosa        
+8179.1.1_25          ADEQQTLDQQTPEQPTGAAEDLTAR           species         Pseudomonas aeruginosa        
+5838.1.1_15          SDSPEQESADDALKR                     species         Pseudomonas aeruginosa        
+11635.1.1_17         AGTLSFIVGGPAEGFAR                   species         Pseudomonas aeruginosa        
+9463.1.1_13          EAELAEALSSAQR                       species         Pseudomonas aeruginosa        
+7804.1.1_13          ILQEGYEAGLSQK                       species         Pseudomonas aeruginosa        
+4127.1.1_12          AEAPAPAPSESK                        species         Pseudomonas aeruginosa        
+4423.1.1_12          AESGEADADVER                        species         Pseudomonas aeruginosa        
+10684.1.1_15         GMFSYTGLSPQQVAR                     species         Pseudomonas aeruginosa        
+9921.1.1_13          LGVTVADLTAEQR                       species         Pseudomonas aeruginosa        
+6192.1.1_11          VEHYVDQEELK                         species         Pseudomonas aeruginosa        
+11513.1.1_13         IGGDGEAIEYLLK                       species         Pseudomonas aeruginosa        
+6246.1.1_11          SNPAALAEGEK                         species         Pseudomonas aeruginosa        
+4994.1.1_11          EGATGNIDAAK                         species         Pseudomonas aeruginosa        
+10960.1.1_16         ADAPHVSDEELPVLLR                    species         Pseudomonas aeruginosa        
+4299.1.1_19          KPAEEPSPSAGEARPEPAK                 species         Pseudomonas aeruginosa        
+4436.1.1_10          GEGPQVAAEK                          species         Pseudomonas aeruginosa        
+7091.1.1_15          LVGSVQYASAEQAGK                     species         Pseudomonas aeruginosa        
+5994.1.1_15          LKSDGQPVEIGGTEK                     species         Pseudomonas aeruginosa        
+7594.1.1_13          VNVNGSVASLGQR                       species         Pseudomonas aeruginosa        
+6101.1.1_13          GVSPDDETVEDER                       species         Pseudomonas aeruginosa        
+11064.1.1_10         LFANIAEDIR                          species         Pseudomonas aeruginosa        
+5732.1.1_13          GYSGLQASGDGDR                       species         Pseudomonas aeruginosa        
+11346.1.1_11         ALFEAYEALAK                         species         Pseudomonas aeruginosa        
+9864.1.1_11          GEEPFDEVQLR                         species         Pseudomonas aeruginosa        
+8421.1.1_17          LGAVVIGTATSASGAEK                   species         Pseudomonas aeruginosa        
+5564.1.1_15          PAESAGDVPAAPEQK                     species         Pseudomonas aeruginosa        
+4909.1.1_12          LEGEAVAQGGNR                        species         Pseudomonas aeruginosa        
+11385.1.1_12         SVPAQELIDSIR                        species         Pseudomonas aeruginosa        
+11593.1.1_9          VGFFPEDFR                           species         Pseudomonas aeruginosa        
+9399.1.1_14          AMVIGTTGFSADEK                      species         Pseudomonas aeruginosa        
+5320.1.1_12          QAESHGTLIDGR                        species         Pseudomonas aeruginosa        
+3429.1.1_17          DQPAAKPAETSKPAAER                   species         Pseudomonas aeruginosa        
+4000.1.1_10          AAESAPAAPK                          species         Pseudomonas aeruginosa        
+7903.1.1_15          IVEANMNLTDQEGEK                     species         Pseudomonas aeruginosa        
+3920.1.1_10          VAAPTTGGEK                          species         Pseudomonas aeruginosa        
+5718.1.1_15          TSTSTPSPVAPDASR                     species         Pseudomonas aeruginosa        
+5706.1.1_17          VKNASQAAAYAESQGAK                   species         Pseudomonas aeruginosa        
+6127.1.1_10          GVEQGGFEAR                          species         Pseudomonas aeruginosa        
+4523.1.1_10          NNLDAASAEK                          species         Pseudomonas aeruginosa        
+5098.1.1_13          ASSGVGSVAQTTR                       species         Pseudomonas aeruginosa        
+7488.1.1_11          DKDGYLVVEGR                         species         Pseudomonas aeruginosa        
+5977.1.1_10          APGEVNEQLR                          species         Pseudomonas aeruginosa        
+7949.1.1_13          FASVISDDQDAAR                       species         Pseudomonas aeruginosa        
+6567.1.1_13          AITDTYASGEVNK                       species         Pseudomonas aeruginosa        
+11162.1.1_13         SFSSLGLSEALAR                       species         Pseudomonas aeruginosa        
+6240.1.1_12          EASPEQQAAFAK                        species         Pseudomonas aeruginosa        
+7596.1.1_17          GGVGAPGYDGLDGASGK                   species         Pseudomonas aeruginosa        
+8832.1.1_13          LVGDVEYEVAAQR                       species         Pseudomonas aeruginosa        
+5507.1.1_10          AAGAPEEEYR                          species         Pseudomonas aeruginosa        
+8999.1.1_15          ATVATAENVAAFEAR                     species         Pseudomonas aeruginosa        
+9726.1.1_15          YASAELTPAGVEVVR                     species         Pseudomonas aeruginosa        
+3835.1.1_9           VDEGKGELR                           species         Pseudomonas aeruginosa        
+5735.1.1_13          GVSPDDETVEDER                       species         Pseudomonas aeruginosa        
+9319.1.1_10          VGPDLEPLAR                          species         Pseudomonas aeruginosa        
+5508.1.1_19          QAQPATAPNATAAAPNAAR                 species         Pseudomonas aeruginosa        
+8177.1.1_15          DSAGVDEGMAGLSTR                     species         Pseudomonas aeruginosa        
+10625.1.1_15         DIAEAVSAAGYPLEK                     species         Pseudomonas aeruginosa        
+6129.1.1_13          LDDEAAGSVEEAR                       species         Pseudomonas aeruginosa        
+10192.1.1_13         VGSAQGLDLGPLR                       species         Pseudomonas aeruginosa        
+8461.1.1_18          VQYSSLNYKDALSASGNR                  species         Pseudomonas aeruginosa        
+4310.1.1_14          SEAPEAGAPAADSK                      species         Pseudomonas aeruginosa        
+5336.1.1_17          GYGKEYPVASNGTSSGR                   species         Pseudomonas aeruginosa        
+11473.1.1_15         APLAEGAVALDPLVR                     species         Pseudomonas aeruginosa        
+11335.1.1_14         SGFTFVGPTAEVIR                      species         Pseudomonas aeruginosa        
+9649.1.1_18          ENTTIIDGAGVQADIEAR                  species         Pseudomonas aeruginosa        
+8904.1.1_17          NGTLKVPAINVNDSVTK                   species         Pseudomonas aeruginosa        
+7059.1.1_13          AVGGQQEVAVDVR                       species         Pseudomonas aeruginosa        
+11316.1.1_17         VIGPSFSAAEVPAVIER                   species         Pseudomonas aeruginosa        
+10435.1.1_17         VQELEEQLAAAQDQALR                   species         Pseudomonas aeruginosa        
+9989.1.1_13          FAVDESTLPDNLR                       species         Pseudomonas aeruginosa        
+11258.1.1_13         LFVPDAGNPLVPR                       species         Pseudomonas aeruginosa        
+8147.1.1_13          IKDLSDEQIDQLR                       species         Pseudomonas aeruginosa        
+7135.1.1_15          GVEAGNAYPQYSIHR                     species         Pseudomonas aeruginosa        
+10472.1.1_15         VEYPLLPASTETTPR                     species         Pseudomonas aeruginosa        
+7193.1.1_14          LFQSVTSDGGQEGK                      species         Pseudomonas aeruginosa        
+5563.1.1_15          VVIVADHQQTATTAK                     species         Pseudomonas aeruginosa        
+4522.1.1_10          EQLQAAQAQR                          species         Pseudomonas aeruginosa        
+5517.1.1_14          ANADQGEGDQNEFR                      species         Pseudomonas aeruginosa        
+6627.1.1_12          TDMPATADEPVR                        species         Pseudomonas aeruginosa        
+6620.1.1_10          ISDTTTFGGR                          species         Pseudomonas aeruginosa        
+11468.1.1_11         LIDLLEEAESR                         species         Pseudomonas aeruginosa        
+10376.1.1_13         EAVGLLDASTLGK                       species         Pseudomonas aeruginosa        
+5409.1.1_11          NNNVVTSIHGR                         species         Pseudomonas aeruginosa        
+6897.1.1_14          VAPGFEGGQQPLHR                      species         Pseudomonas aeruginosa        
+8165.1.1_16          EHQAQIQNDLADVDYK                    species         Pseudomonas aeruginosa        
+7737.1.1_12          GAEFDYSAAAAR                        species         Pseudomonas aeruginosa        
+4475.1.1_11          EGATGNIDAAK                         species         Pseudomonas aeruginosa        
+8139.1.1_13          DAGQIALVDGDSK                       species         Pseudomonas aeruginosa        
+4700.1.1_13          VQGSDGKFEAAAK                       species         Pseudomonas aeruginosa        
+7928.1.1_12          GAEFDYSAAAAR                        species         Pseudomonas aeruginosa        
+7573.1.1_10          LAADYESLDK                          species         Pseudomonas aeruginosa        
+5705.1.1_14          AWNEPGDNSNNNDR                      species         Pseudomonas aeruginosa        
+10569.1.1_13         VDLTVVSFGGANK                       species         Pseudomonas aeruginosa        
+3924.1.1_10          EVSVEEGDKR                          species         Pseudomonas aeruginosa        
+7726.1.1_12          TMIVANDEHWSR                        species         Pseudomonas aeruginosa        
+8921.1.1_17          LSNAQVIDVTAIPHSGK                   species         Pseudomonas aeruginosa        
+4709.1.1_12          EALESAGHTNVR                        species         Pseudomonas aeruginosa        
+8495.1.1_13          SGLATSEWVGNQK                       species         Pseudomonas aeruginosa        
+10235.1.1_11         QAGAEIVSFVR                         species         Pseudomonas aeruginosa        
+7254.1.1_17          EVLVSSVSTGGSGGEDR                   species         Pseudomonas aeruginosa        
+9557.1.1_12          VEGDVVSLQTLK                        species         Pseudomonas aeruginosa        
+11291.1.1_16         GVETIPFDPAALPAEK                    species         Pseudomonas aeruginosa        
+4837.1.1_10          VIAAASTPDK                          species         Pseudomonas aeruginosa        
+5204.1.1_12          NPEEVQPGEAPK                        species         Pseudomonas aeruginosa        
+11362.1.1_11         SLPNDVLIDIR                         species         Pseudomonas aeruginosa        
+5450.1.1_9           TPLSPEQTR                           species         Pseudomonas aeruginosa        
+9636.1.1_11          VEWVEVDLDKK                         species         Pseudomonas aeruginosa        
+11434.1.1_13         IEIPEVGPIEISR                       species         Pseudomonas aeruginosa        
+10285.1.1_12         MGLSLVEASAPR                        species         Pseudomonas aeruginosa        
+5039.1.1_10          EEQLDGAEER                          species         Pseudomonas aeruginosa        
+11054.1.1_22         SGGAGATGGAGIPPIPEVDFSK              species         Pseudomonas aeruginosa        
+8443.1.1_13          VPMVNEDSPITER                       species         Pseudomonas aeruginosa        
+10347.1.1_20         GIDDPSLAVGSTSTFVSPAR                species         Pseudomonas aeruginosa        
+7291.1.1_11          QLFSDASGEQR                         species         Pseudomonas aeruginosa        
+3231.1.1_12          VNQNAPKPANPK                        species         Pseudomonas aeruginosa        
+8693.1.1_12          ELDGAQLEQLQR                        species         Pseudomonas aeruginosa        
+9266.1.1_14          GAAQVAEYEQYAIK                      species         Pseudomonas aeruginosa        
+4997.1.1_24          DAQASNPDSNVAAAQDGTEKPAGK            species         Pseudomonas aeruginosa        
+9436.1.1_16          IQSPTGDVNLSQDLAR                    species         Pseudomonas aeruginosa        
+5117.1.1_10          MNNSNLAAAR                          species         Pseudomonas aeruginosa        
+10256.1.1_17         IGMVYNPGEANSVVVVK                   species         Pseudomonas aeruginosa        
+6670.1.1_16          DLALQSANGSNSDADR                    species         Pseudomonas aeruginosa        
+7982.1.1_13          SLSQEGMDDLDSK                       species         Pseudomonas aeruginosa        
+4800.1.1_11          KQLEAYGDDSR                         species         Pseudomonas aeruginosa        
+6000.1.1_12          AGQQLGVEEEAK                        species         Pseudomonas aeruginosa        
+3740.1.1_12          ATGSQVTSPRPR                        species         Pseudomonas aeruginosa        
+3422.1.1_17          DQPAAKPAETSKPAAER                   species         Pseudomonas aeruginosa        
+7649.1.1_14          KGEPLSFDTDEQPR                      species         Pseudomonas aeruginosa        
+4732.1.1_10          PADVAAAAQR                          species         Pseudomonas aeruginosa        
+9278.1.1_16          GHLNLPAQPGLPEAVR                    species         Pseudomonas aeruginosa        
+11868.1.1_15         ATVATAENVAAFEAR                     species         Pseudomonas aeruginosa        
+5991.1.1_14          LNAAGTNAQLGASR                      species         Pseudomonas aeruginosa        
+7425.1.1_15          ADDDAPSGEPDVTIR                     species         Pseudomonas aeruginosa        
+11071.1.1_14         EQYGSETVESWLQR                      species         Pseudomonas aeruginosa        
+9104.1.1_12          QALLDAAAEATR                        species         Pseudomonas aeruginosa        
+10230.1.1_16         LSLADLSQNDASSGLK                    species         Pseudomonas aeruginosa        
+6558.1.1_23          DQPAAQPAQPLNQPHTIDAQAQK             species         Pseudomonas aeruginosa        
+9592.1.1_15          ATVATAENVAAFEAR                     species         Pseudomonas aeruginosa        
+10174.1.1_14         YLEDNPEIGSVLEK                      species         Pseudomonas aeruginosa        
+9255.1.1_15          GYDSAGVAVFDNEGR                     species         Pseudomonas aeruginosa        
+8532.1.1_11          VLLVANGEDVK                         species         Pseudomonas aeruginosa        
+5588.1.1_15          EANEAQVAEGADDPR                     species         Pseudomonas aeruginosa        
+10272.1.1_12         GVDPTMSLGELR                        species         Pseudomonas aeruginosa        
+4589.1.1_11          TTAPAGSDTYR                         species         Pseudomonas aeruginosa        
+6241.1.1_9           YVIQDDEDR                           species         Pseudomonas aeruginosa        
+11692.1.1_13         DMTPAEVLTELNR                       species         Pseudomonas aeruginosa        
+8479.1.1_11          GKADPLETFEK                         species         Pseudomonas aeruginosa        
+6105.1.1_12          LNPAGSPSVEPK                        species         Pseudomonas aeruginosa        
+9987.1.1_13          EAQDEFAVASLTR                       species         Pseudomonas aeruginosa        
+10733.1.1_15         DIAEAVSAAGYPLEK                     species         Pseudomonas aeruginosa        
+9475.1.1_15          YNPEITAADLNDVEK                     species         Pseudomonas aeruginosa        
+9142.1.1_20          TEQATNGAADEQQPQFSLQR                species         Pseudomonas aeruginosa        
+8699.1.1_12          IATLENQLEGER                        species         Pseudomonas aeruginosa        
+6341.1.1_13          GVSPDDETVEDER                       species         Pseudomonas aeruginosa        
+6772.1.1_12          QAESHGTLIDGR                        species         Pseudomonas aeruginosa        
+7113.1.1_18          GAVPGATGGDVIVRPAAK                  species         Pseudomonas aeruginosa        
+8966.1.1_12          HDEQAVPVIGLR                        species         Pseudomonas aeruginosa        
+7894.1.1_16          DHGEGGTLVGAPLSGR                    species         Pseudomonas aeruginosa        
+7837.1.1_11          LEAEPVDTGLR                         species         Pseudomonas aeruginosa        
+7330.1.1_17          QGASGLYANAQVSAAQR                   species         Pseudomonas aeruginosa        
+6164.1.1_16          TESPADAPGVADGTHA                    species         Pseudomonas aeruginosa        
+11163.1.1_14         ALEFLPSDEELAER                      species         Pseudomonas aeruginosa        
+8120.1.1_17          VSTVEVSGNGAAFAEGR                   species         Pseudomonas aeruginosa        
+5316.1.1_10          AAGAPEEEYR                          species         Pseudomonas aeruginosa        
+11480.1.1_10         FGVALDAWPR                          species         Pseudomonas aeruginosa        
+9844.1.1_11          AAEQTIVAALR                         species         Pseudomonas aeruginosa        
+10776.1.1_12         GNDFVALVADQR                        species         Pseudomonas aeruginosa        
+10002.1.1_23         AATMDAAAELASAAAPDDALDAK             species         Pseudomonas aeruginosa        
+6751.1.1_15          LRDLETQSQDGTFDK                     species         Pseudomonas aeruginosa        
+9573.1.1_12          DTAFNFASDATR                        species         Pseudomonas aeruginosa        
+3484.1.1_11          SAAPVSANGGK                         species         Pseudomonas aeruginosa        
+8466.1.1_11          QPVQLASGETR                         species         Pseudomonas aeruginosa        
+2570.1.1_10          NQVDKDDSQR                          species         Pseudomonas aeruginosa        
+11522.1.1_11         SLPNPAELLPR                         species         Pseudomonas aeruginosa        
+11778.1.1_14         IGFFNPVATGGEVR                      species         Pseudomonas aeruginosa        
+4921.1.1_13          EAAVAVQEGANGK                       species         Pseudomonas aeruginosa        
+5629.1.1_20          TVAPQQPAPQHTEAPVEPAK                species         Pseudomonas aeruginosa        
+11463.1.1_14         EGVDADAVNAFMLR                      species         Pseudomonas aeruginosa        
+10379.1.1_14         IAFDADSEILQGER                      species         Pseudomonas aeruginosa        
+11091.1.1_13         QAIGQVAQSLFAK                       species         Pseudomonas aeruginosa        
+11403.1.1_14         AAQQLAAAIEAAAQ                      species         Pseudomonas aeruginosa        
+9688.1.1_9           YEALADFTR                           species         Pseudomonas aeruginosa        
+4805.1.1_14          VYKNPNNGEVVETK                      species         Pseudomonas aeruginosa        
+10955.1.1_23         AATMDAAAELASAAAPDDALDAK             species         Pseudomonas aeruginosa        
+7855.1.1_21          AELTQPGGKPVPLDQSQIDTR               species         Pseudomonas aeruginosa        
+7413.1.1_12          NPTATFESTEVK                        species         Pseudomonas aeruginosa        
+3188.1.1_16          TGSTAAGRPDATGADK                    species         Pseudomonas aeruginosa        
+5919.1.1_15          NASQAAAYAESQGAK                     species         Pseudomonas aeruginosa        
+8378.1.1_17          VSAVEVSGNGAAFAEGR                   species         Pseudomonas aeruginosa        
+5833.1.1_13          NNAAHPIEQIGEK                       species         Pseudomonas aeruginosa        
+6793.1.1_12          TEVTPLQQSTPK                        species         Pseudomonas aeruginosa        
+9766.1.1_16          PAAPAAEAPIFAAGDR                    species         Pseudomonas aeruginosa        
+6438.1.1_23          SEEPTVSPPSPEQPAAQPAKPAR             species         Pseudomonas aeruginosa        
+8757.1.1_16          EANTVTLEDNGIGMSR                    species         Pseudomonas aeruginosa        
+5968.1.1_23          ADGTQPQSGSSPVPQGPAGATAK             species         Pseudomonas aeruginosa        
+6408.1.1_17          GMGPDQPIASNSTADGR                   species         Pseudomonas aeruginosa        
+8887.1.1_24          VLAEVAPTSEEVSHGVVDAETQSR            species         Pseudomonas aeruginosa        
+6548.1.1_9           NEPQLNEVR                           species         Pseudomonas aeruginosa        
+11063.1.1_12         ITEELLDAMAGR                        species         Pseudomonas aeruginosa        
+6112.1.1_10          FLQANEDGAR                          species         Pseudomonas aeruginosa        
+11409.1.1_12         IGQEYGIFDEIR                        species         Pseudomonas aeruginosa        
+5750.1.1_19          VVDNTVQGSATQAAAPAQR                 species         Pseudomonas aeruginosa        
+7204.1.1_14          AAEVNPTAISPTEK                      species         Pseudomonas aeruginosa        
+10031.1.1_17         KQEVESAGPTTIGDLIR                   species         Pseudomonas aeruginosa        
+9336.1.1_17          AADDVVDAEFEEVKDNK                   species         Pseudomonas aeruginosa        
+9466.1.1_17          GLNVDSTGAAISVPVGK                   species         Pseudomonas aeruginosa        
+11970.1.1_14         IGFFNPVATGGEVR                      species         Pseudomonas aeruginosa        
+9191.1.1_18          DAEGNDTSEAAYYLSANR                  species         Pseudomonas aeruginosa        
+8048.1.1_12          VLGIDEAEQEEK                        species         Pseudomonas aeruginosa        
+9008.1.1_12          AAGQADAVIDLR                        species         Pseudomonas aeruginosa        
+8233.1.1_16          VEADLVEYGTVEQHPK                    species         Pseudomonas aeruginosa        
+11714.1.1_13         DMETAFPALLAEK                       species         Pseudomonas aeruginosa        
+11612.1.1_11         SGMGVLEVLER                         species         Pseudomonas aeruginosa        
+11343.1.1_12         TKAWTLVDIVER                        species         Pseudomonas aeruginosa        
+5955.1.1_11          QMEGTGVEVQR                         species         Pseudomonas aeruginosa        
+9034.1.1_14          SNFSLDESTSPELK                      species         Pseudomonas aeruginosa        
+8079.1.1_13          QLAEEEVAAAAER                       species         Pseudomonas aeruginosa        
+9139.1.1_12          FGAETFTVQPTR                        species         Pseudomonas aeruginosa        
+8936.1.1_15          YLPPADGELAYGSAR                     species         Pseudomonas aeruginosa        
+7854.1.1_13          REELLTSEDELQR                       species         Pseudomonas aeruginosa        
+8000.1.1_13          EQAFDAAPAVPGR                       species         Pseudomonas aeruginosa        
+11456.1.1_14         AGAEDFPALLADAR                      species         Pseudomonas aeruginosa        
+7313.1.1_14          VPNYADDSLTQNSR                      species         Pseudomonas aeruginosa        
+5795.1.1_16          NAGAASDVAQPHPSIR                    species         Pseudomonas aeruginosa        
+9452.1.1_13          AHVFDLTDSSLAR                       species         Pseudomonas aeruginosa        
+11311.1.1_15         DAETSAIPVIIVTTK                     species         Pseudomonas aeruginosa        
+10887.1.1_12         EAVEPGVEAIWR                        species         Pseudomonas aeruginosa        
+3562.1.1_20          NASSTSDASSASEQSAQNGR                species         Pseudomonas aeruginosa        
+8049.1.1_14          VIGDDGQEVPLGER                      species         Pseudomonas aeruginosa        
+10602.1.1_18         GANVTGIDMGEAPLAVAR                  species         Pseudomonas aeruginosa        
+6410.1.1_14          AQPKPPINENISAR                      species         Pseudomonas aeruginosa        
+5809.1.1_11          ALQANPDYTGK                         species         Pseudomonas aeruginosa        
+8181.1.1_26          ENPQASAPQAADSSQDLAATAPGQLR          species         Pseudomonas aeruginosa        
+4392.1.1_11          NPNNGEVVETK                         species         Pseudomonas aeruginosa        
+7529.1.1_16          TNGAPDMSESEFNEAK                    species         Pseudomonas aeruginosa        
+9553.1.1_15          TFTSAPYIVAGNAER                     species         Pseudomonas aeruginosa        
+9219.1.1_14          YIDQSGATVWSEPR                      species         Pseudomonas aeruginosa        
+10063.1.1_13         LLNGVMLEDGPAK                       species         Pseudomonas aeruginosa        
+8342.1.1_15          VHPSVEVIQDSGELR                     species         Pseudomonas aeruginosa        
+9734.1.1_12          LADTLSEGLPVR                        species         Pseudomonas aeruginosa        
+7310.1.1_12          INADDLPSPGQK                        species         Pseudomonas aeruginosa        
+10250.1.1_13         DTGDLPAGDVLIR                       species         Pseudomonas aeruginosa        
+11078.1.1_15         LPQQAVFLDSPMAAR                     species         Pseudomonas aeruginosa        
+10079.1.1_16         LYAEDPEGGFLPASGR                    species         Pseudomonas aeruginosa        
+11494.1.1_11         MGFDELLAQAR                         species         Pseudomonas aeruginosa        
+5639.1.1_11          EAVATMTESQR                         species         Pseudomonas aeruginosa        
+6657.1.1_15          DYAGAEDPGVQSVSR                     species         Pseudomonas aeruginosa        
+11407.1.1_15         VALFSLGYQTDAVQR                     species         Pseudomonas aeruginosa        
+5061.1.1_12          LPENPTGEAKPR                        species         Pseudomonas aeruginosa        
+8540.1.1_15          QVVDGEAEIMAPEEK                     species         Pseudomonas aeruginosa        
+6563.1.1_13          LTDESTGQSTLYK                       species         Pseudomonas aeruginosa        
+6074.1.1_12          EALQEAGYEDGK                        species         Pseudomonas aeruginosa        
+6588.1.1_9           YADLPAAEK                           species         Pseudomonas aeruginosa        
+11119.1.1_14         AQVAEFAASVAQLR                      species         Pseudomonas aeruginosa        
+10241.1.1_21         LLLDYAQAYNSGNVSDDQASK               species         Pseudomonas aeruginosa        
+11269.1.1_12         IDPGQQIIAEWR                        species         Pseudomonas aeruginosa        
+8360.1.1_11          AYDGAGYLVSR                         species         Pseudomonas aeruginosa        
+9589.1.1_15          DGIEPVQPGSVGPLK                     species         Pseudomonas aeruginosa        
+8377.1.1_16          TLVNAQALPDSDDPAR                    species         Pseudomonas aeruginosa        
+10346.1.1_14         AGQPVNFEIIQGPK                      species         Pseudomonas aeruginosa        
+9743.1.1_10          LLAIGDYTQR                          species         Pseudomonas aeruginosa        
+7704.1.1_12          VADLAAAHPAFR                        species         Pseudomonas aeruginosa        
+6517.1.1_10          VTAEQAVYAR                          species         Pseudomonas aeruginosa        
+9680.1.1_12          ALESYAITVAER                        species         Pseudomonas aeruginosa        
+4111.1.1_23          ERPNDNAEGADGDDNSDSDNADE             species         Pseudomonas aeruginosa        
+9917.1.1_15          ASSGLSEDEIQQMVR                     species         Pseudomonas aeruginosa        
+9923.1.1_16          LVGNDNALNISDEISR                    species         Pseudomonas aeruginosa        
+11153.1.1_13         LVAEGLPVVAIDR                       species         Pseudomonas aeruginosa        
+9476.1.1_15          SQASSTDTPFVIAGR                     species         Pseudomonas aeruginosa        
+8436.1.1_12          AIESVLADDESR                        species         Pseudomonas aeruginosa        
+8259.1.1_14          APEAAEAMGITAER                      species         Pseudomonas aeruginosa        
+6003.1.1_10          EGPAEDFGNK                          species         Pseudomonas aeruginosa        
+5155.1.1_11          DPDDSTQVIHR                         species         Pseudomonas aeruginosa        
+5980.1.1_10          ADGGETVLQR                          species         Pseudomonas aeruginosa        
+10015.1.1_10         LGLSLDETVR                          species         Pseudomonas aeruginosa        
+9325.1.1_16          IVEDPEVTPAAAALAK                    species         Pseudomonas aeruginosa        
+6709.1.1_12          IFAEATGQTPEK                        species         Pseudomonas aeruginosa        
+6040.1.1_13          SAGYEVDEAADGK                       species         Pseudomonas aeruginosa        
+7107.1.1_13          FKASEAAIPAPER                       species         Pseudomonas aeruginosa        
+7742.1.1_12          NQVDAISDPQLK                        species         Pseudomonas aeruginosa        
+6885.1.1_13          NIAIAGAAESNNR                       species         Pseudomonas aeruginosa        
+7089.1.1_18          GAVPGATGGDVIVRPAAK                  species         Pseudomonas aeruginosa        
+8245.1.1_12          ELYNQYYDTPGR                        species         Pseudomonas aeruginosa        
+10685.1.1_14         IEPMLSAGQVEALR                      species         Pseudomonas aeruginosa        
+8005.1.1_13          LENLHVLAASQTR                       species         Pseudomonas aeruginosa        
+5495.1.1_11          TAASQALEDSK                         species         Pseudomonas aeruginosa        
+4416.1.1_12          VLPSSAKPSDDR                        species         Pseudomonas aeruginosa        
+10520.1.1_14         IGLVEQVVDSGEAR                      species         Pseudomonas aeruginosa        
+10278.1.1_13         QVPFVTIDGEDAR                       species         Pseudomonas aeruginosa        
+10526.1.1_10         LAQDYISVLR                          species         Pseudomonas aeruginosa        
+5285.1.1_12          YADAEDPEEQAR                        species         Pseudomonas aeruginosa        
+6080.1.1_26          KKPQAGEQPADQPVEPVSETAAAEQR          species         Pseudomonas aeruginosa        
+8163.1.1_12          VGTILSAAPNPK                        species         Pseudomonas aeruginosa        
+3365.1.1_15          DERPASAPGDKPAAR                     species         Pseudomonas aeruginosa        
+9216.1.1_12          TLGVPYTDEDIK                        species         Pseudomonas aeruginosa        
+7826.1.1_11          PAMGFGDEPAR                         species         Pseudomonas aeruginosa        
+4562.1.1_9           MNSQITNAK                           species         Pseudomonas aeruginosa        
+10810.1.1_10         VEWVEVDLDK                          species         Pseudomonas aeruginosa        
+10017.1.1_11         AQLLTEALGGK                         species         Pseudomonas aeruginosa        
+8482.1.1_9           LAAPVLTAR                           species         Pseudomonas aeruginosa        
+4610.1.1_10          ADEALGAAQK                          species         Pseudomonas aeruginosa        
+11181.1.1_16         STPVVLITGAAGGLGR                    species         Pseudomonas aeruginosa        
+11238.1.1_18         DTLQAPDAGDAAADWLTR                  species         Pseudomonas aeruginosa        
+6407.1.1_11          DANLINQHVQR                         species         Pseudomonas aeruginosa        
+3739.1.1_10          ATGSQVTSPR                          species         Pseudomonas aeruginosa        
+10593.1.1_17         SSMVEAAAEANEELMNK                   species         Pseudomonas aeruginosa        
+7274.1.1_18          GAVPGATGGDVIVRPAAK                  species         Pseudomonas aeruginosa        
+3481.1.1_24          RERPNDNAEGADGDDNSDSDNADE            species         Pseudomonas aeruginosa        
+4759.1.1_13          SGLPAAGSSNNQR                       species         Pseudomonas aeruginosa        
+6924.1.1_12          GEASEDMTISPR                        species         Pseudomonas aeruginosa        
+10615.1.1_14         LTGIPVTELTAEER                      species         Pseudomonas aeruginosa        
+6134.1.1_9           NADGEELVR                           species         Pseudomonas aeruginosa        
+7131.1.1_13          ATAVVPAGAEAVR                       species         Pseudomonas aeruginosa        
+7817.1.1_15          IDPDAANDQYPIGER                     species         Pseudomonas aeruginosa        
+11137.1.1_15         VLELSPAEGQALTFK                     species         Pseudomonas aeruginosa        
+6653.1.1_11          ALEAGNEELAR                         species         Pseudomonas aeruginosa        
+4369.1.1_11          AEQDGLQNEQR                         species         Pseudomonas aeruginosa        
+6591.1.1_13          AAPAALSADAEAR                       species         Pseudomonas aeruginosa        
+7714.1.1_17          DEAVTEQSEMLKAEESR                   species         Pseudomonas aeruginosa        
+10932.1.1_15         DIAEAVSAAGYPLEK                     species         Pseudomonas aeruginosa        
+4880.1.1_12          LEAQGTAPAEAR                        species         Pseudomonas aeruginosa        
+6990.1.1_17          VGQTGPQGVQVVSADSR                   species         Pseudomonas aeruginosa        
+11609.1.1_17         EADAPSLSGPLAPLTLR                   species         Pseudomonas aeruginosa        
+9409.1.1_11          LSFDSEATLAR                         species         Pseudomonas aeruginosa        
+4296.1.1_12          DNPEGDDHANIR                        species         Pseudomonas aeruginosa        
+9280.1.1_12          AYDTPQGTAIFR                        species         Pseudomonas aeruginosa        
+11485.1.1_15         APLAEGAVALDPLVR                     species         Pseudomonas aeruginosa        
+10367.1.1_14         AITVSVLQMQDGPK                      species         Pseudomonas aeruginosa        
+8756.1.1_10          ILVATDLSSR                          species         Pseudomonas aeruginosa        
+10084.1.1_15         AVDDATGGAISAVLK                     species         Pseudomonas aeruginosa        
+3839.1.1_12          VVEGTAEQQGAR                        species         Pseudomonas aeruginosa        
+5579.1.1_17          SASAPAALGGSQDSGNR                   species         Pseudomonas aeruginosa        
+5758.1.1_12          GNGGGNWDSGPR                        species         Pseudomonas aeruginosa        
+12001.1.1_15         VGEGLPINVIMTEVR                     species         Pseudomonas aeruginosa        
+10360.1.1_12         LDEAAWQALGAR                        species         Pseudomonas aeruginosa        
+7526.1.1_15          NLNASSNDLNTSLQR                     species         Pseudomonas aeruginosa        
+4749.1.1_10          QAEGSELSER                          species         Pseudomonas aeruginosa        
+11257.1.1_11         FVDLFDAQDTR                         species         Pseudomonas aeruginosa        
+11470.1.1_12         ISSPAAYLEDLR                        species         Pseudomonas aeruginosa        
+4101.1.1_11          EQGTPVAERPR                         species         Pseudomonas aeruginosa        
+9350.1.1_11          IIENAVADLEK                         species         Pseudomonas aeruginosa        
+4808.1.1_10          TAANLTEQQR                          species         Pseudomonas aeruginosa        
+8688.1.1_10          QEDPVEVLQR                          species         Pseudomonas aeruginosa        
+7114.1.1_14          ANQTETVLDNPDPR                      species         Pseudomonas aeruginosa        
+6826.1.1_14          VVQALPGQDAASAR                      species         Pseudomonas aeruginosa        
+10078.1.1_18         SEDNFDDEFDGSLPSGPR                  species         Pseudomonas aeruginosa        
+10339.1.1_16         TQVLEAENVIIASGSR                    species         Pseudomonas aeruginosa        
+11175.1.1_17         EGTAASTWDLAANQLVK                   species         Pseudomonas aeruginosa        
+6904.1.1_14          NGDLVAADSQQINR                      species         Pseudomonas aeruginosa        
+6412.1.1_12          DLVSQEDGSAPR                        species         Pseudomonas aeruginosa        
+4256.1.1_12          ASHVLQGEDQTR                        species         Pseudomonas aeruginosa        
+10948.1.1_16         QEVESAGPTTIGDLIR                    species         Pseudomonas aeruginosa        
+5990.1.1_11          VGSALDEEAAR                         species         Pseudomonas aeruginosa        
+6177.1.1_12          GVVFATHADSQK                        species         Pseudomonas aeruginosa        
+10809.1.1_13         QAVPYIEALQAAK                       species         Pseudomonas aeruginosa        
+6453.1.1_14          AQPKPPINENISAR                      species         Pseudomonas aeruginosa        
+8665.1.1_12          INLSEEPLGTGK                        species         Pseudomonas aeruginosa        
+4318.1.1_9           LSGPAHEVR                           species         Pseudomonas aeruginosa        
+8323.1.1_17          LLQSTADVAGDQAEEIR                   species         Pseudomonas aeruginosa        
+7659.1.1_13          TQAGDAESVLATR                       species         Pseudomonas aeruginosa        
+4037.1.1_11          QGGGVPADNPR                         species         Pseudomonas aeruginosa        
+7600.1.1_16          LTNSGGTALVSATAER                    species         Pseudomonas aeruginosa        
+5801.1.1_13          VESLHADSQIEQR                       species         Pseudomonas aeruginosa        
+9561.1.1_16          AGNTVYVSGQIPLDPK                    species         Pseudomonas aeruginosa        
+4641.1.1_11          EGATGNIDAAK                         species         Pseudomonas aeruginosa        
+5837.1.1_13          NAEAQLQNASAQR                       species         Pseudomonas aeruginosa        
+11038.1.1_12         ASLADESAAWLR                        species         Pseudomonas aeruginosa        
+7160.1.1_32          PAATPSAPAAASSAASATPAAGSNGAAPTSAS    species         Pseudomonas aeruginosa        
+5436.1.1_19          MYAEQAQQGEDAPQGEQAK                 species         Pseudomonas aeruginosa        
+6890.1.1_16          FGAQTGTATAGQVAVK                    species         Pseudomonas aeruginosa        
+10996.1.1_11         TAQNLFIVYGR                         species         Pseudomonas aeruginosa        
+9551.1.1_11          LAFQLSAGESR                         species         Pseudomonas aeruginosa        
+8975.1.1_11          LIEAVASEVPR                         species         Pseudomonas aeruginosa        
+8268.1.1_13          VEGAEWNNISQPR                       species         Pseudomonas aeruginosa        
+10108.1.1_13         LIGQGDDPWGGYR                       species         Pseudomonas aeruginosa        
+8956.1.1_14          TIGLDNMQGPVAGK                      species         Pseudomonas aeruginosa        
+7292.1.1_19          AAAEAVDAGGAPLGEGEAR                 species         Pseudomonas aeruginosa        
+8712.1.1_13          NDPGIYPSEEVMK                       species         Pseudomonas aeruginosa        
+9811.1.1_17          AVAAVPGEDLSSEEMIR                   species         Pseudomonas aeruginosa        
+5693.1.1_11          APVTVSAAPQR                         species         Pseudomonas aeruginosa        
+8749.1.1_15          SEEMVAQVQPIPGAR                     species         Pseudomonas aeruginosa        
+7336.1.1_14          SNTPVVAISDDGSK                      species         Pseudomonas aeruginosa        
+8866.1.1_14          VADAELTPSAQVLK                      species         Pseudomonas aeruginosa        
+5744.1.1_9           LSTGEMEER                           species         Pseudomonas aeruginosa        
+8498.1.1_13          EEGIQMGLNEAAK                       species         Pseudomonas aeruginosa        
+6014.1.1_11          SEQETSQLVAR                         species         Pseudomonas aeruginosa        
+8751.1.1_14          SFVDVGGGSGELTK                      species         Pseudomonas aeruginosa        
+4222.1.1_11          SGGAAQGYAER                         species         Pseudomonas aeruginosa        
+7209.1.1_35          PAAPAASSSAPAAPAATPAASAPAANAPATPSSQG species         Pseudomonas aeruginosa        
+10844.1.1_13         TGAVDAFLYGEDR                       species         Pseudomonas aeruginosa        
+9728.1.1_19          TAATTAVAVDALAPAEAGR                 species         Pseudomonas aeruginosa        
+5512.1.1_10          GQDSDEVIER                          species         Pseudomonas aeruginosa        
+11923.1.1_14         TEQESFEPAAFLLR                      species         Pseudomonas aeruginosa        
+5817.1.1_16          NAGAASDVAQPHPSIR                    species         Pseudomonas aeruginosa        
+6930.1.1_17          EDLNVPVKDGQVQSDAR                   species         Pseudomonas aeruginosa        
+10640.1.1_13         FYTELVEANPDLR                       species         Pseudomonas aeruginosa        
+11706.1.1_13         AWDFPAPIAEVPR                       species         Pseudomonas aeruginosa        
+6984.1.1_10          VDGVVKFETK                          species         Pseudomonas aeruginosa        
+3200.1.1_11          AENVPGQHGQR                         species         Pseudomonas aeruginosa        
+6006.1.1_14          LEGAPSQAETPRPT                      species         Pseudomonas aeruginosa        
+11710.1.1_10         AVFVPFDGFK                          species         Pseudomonas aeruginosa        
+10687.1.1_16         GEMNLIGATTLNEYQK                    species         Pseudomonas aeruginosa        
+6421.1.1_11          QMYSVDSAANR                         species         Pseudomonas aeruginosa        
+11483.1.1_13         NGLDPAVLSEVMK                       species         Pseudomonas aeruginosa        
+6974.1.1_12          LADGDGTPLEAR                        species         Pseudomonas aeruginosa        
+9148.1.1_19          FKNTIDNLTNISENATNAR                 species         Pseudomonas aeruginosa        
+11301.1.1_14         LPGGSQVLAEAFVK                      species         Pseudomonas aeruginosa        
+7926.1.1_11          EAIAPAEAIER                         species         Pseudomonas aeruginosa        
+8092.1.1_12          IIQQIEAEQMNK                        species         Pseudomonas aeruginosa        
+5361.1.1_10          LPENPTGEAK                          species         Pseudomonas aeruginosa        
+3825.1.1_11          LQQGAGEAAER                         species         Pseudomonas aeruginosa        
+9185.1.1_10          GFVTAELQPR                          species         Pseudomonas aeruginosa        
+7897.1.1_12          EMVVQEQSSFAR                        species         Pseudomonas aeruginosa        
+10669.1.1_11         DNLSSLLAGER                         species         Pseudomonas aeruginosa        
+6327.1.1_16          VLQAASGSADAASVER                    species         Pseudomonas aeruginosa        
+3432.1.1_11          ADNAPAATGAR                         species         Pseudomonas aeruginosa        
+3545.1.1_14          AAGSGATETGQSVK                      species         Pseudomonas aeruginosa        
+6857.1.1_40          PAAAKPAAPAASSSAPAAPAATPAASAPAANAPATPSSQG species         Pseudomonas aeruginosa        
+2480.1.1_15          GGQQKPQGGTGQQGR                     species         Pseudomonas aeruginosa        
+6447.1.1_10          YDDEAEVVTR                          species         Pseudomonas aeruginosa        
+10971.1.1_19         TIEGPLYVAGAPLSDGEAR                 species         Pseudomonas aeruginosa        
+8386.1.1_15          APAADDVPVLQEQSK                     species         Pseudomonas aeruginosa        
+10111.1.1_15         VALEEVTPTPVAPIR                     species         Pseudomonas aeruginosa        
+5116.1.1_11          SQATQQLDETR                         species         Pseudomonas aeruginosa        
+6122.1.1_20          QVEEVEGKPTEEGHYSIDEK                species         Pseudomonas aeruginosa        
+6316.1.1_13          SAGVLDTSSADAR                       species         Pseudomonas aeruginosa        
+10147.1.1_16         PDTTNPIGFTDANELR                    species         Pseudomonas aeruginosa        
+8385.1.1_30          APAADDVPVLQEQSKPAESAGDVPAAPEQK      species         Pseudomonas aeruginosa        
+7314.1.1_13          DGPSTLTEAEVQR                       species         Pseudomonas aeruginosa        
+4724.1.1_12          DTPNGGSATAMR                        species         Pseudomonas aeruginosa        
+6532.1.1_12          VMVEGDEEASVR                        species         Pseudomonas aeruginosa        
+4156.1.1_12          QLAESESAANRN                        species         Pseudomonas aeruginosa        
+8314.1.1_12          AAQLNEAYQTLK                        species         Pseudomonas aeruginosa        
+9678.1.1_15          GAEFYQVSLGGSSAR                     species         Pseudomonas aeruginosa        
+8715.1.1_12          EELLTSEDELQR                        species         Pseudomonas aeruginosa        
+6804.1.1_11          TTEQLAAAGYR                         species         Pseudomonas aeruginosa        
+4878.1.1_11          SDVDAQVGAAK                         species         Pseudomonas aeruginosa        
+4794.1.1_15          SDTEPVASNASAEGR                     species         Pseudomonas aeruginosa        
+11448.1.1_16         ALAAGDSLGWLADGAR                    species         Pseudomonas aeruginosa        
+6027.1.1_12          AENGGDGVALAR                        species         Pseudomonas aeruginosa        
+4920.1.1_15          EVQDEGATVQSSEDR                     species         Pseudomonas aeruginosa        
+10921.1.1_10         ISGDIDLFAR                          species         Pseudomonas aeruginosa        
+7502.1.1_15          ENQGSIVNISSDSGR                     species         Pseudomonas aeruginosa        
+6232.1.1_15          IVEANMNLTDQEGEK                     species         Pseudomonas aeruginosa        
+6704.1.1_12          DDNGIGVSAVQK                        species         Pseudomonas aeruginosa        
+10790.1.1_16         VDVTEPSVEDTYGILK                    species         Pseudomonas aeruginosa        
+10427.1.1_11         NGENEFSLVVR                         species         Pseudomonas aeruginosa        
+9851.1.1_16          ANTFETPTGNLGFDEK                    species         Pseudomonas aeruginosa        
+11248.1.1_16         GEVIEGLAEAAALDGK                    species         Pseudomonas aeruginosa        
+5984.1.1_23          ADGTQPQSGSSPVPQGPAGATAK             species         Pseudomonas aeruginosa        
+4600.1.1_11          VSGVEPDGQAR                         species         Pseudomonas aeruginosa        
+9446.1.1_12          SPVFLAEADGER                        species         Pseudomonas aeruginosa        
+5645.1.1_9           LAAVDPDNR                           species         Pseudomonas aeruginosa        
+8645.1.1_16          VAAVPLDAEAAHDIER                    species         Pseudomonas aeruginosa        
+8864.1.1_12          GIDAAQSALLSR                        species         Pseudomonas aeruginosa        
+9838.1.1_14          GGSAFETTFTPVER                      species         Pseudomonas aeruginosa        
+10236.1.1_12         AGALMAIEQINK                        species         Pseudomonas aeruginosa        
+8788.1.1_11          DLSDEQIDQLR                         species         Pseudomonas aeruginosa        
+4024.1.1_13          VGSDGAEDEEDAR                       species         Pseudomonas aeruginosa        
+7576.1.1_14          QIAGAELDAPTPNR                      species         Pseudomonas aeruginosa        
+9634.1.1_27          TTGFDAVAAEGGSAAVEQVSGPADAGK         species         Pseudomonas aeruginosa        
+11438.1.1_15         DGASGMFLAASQFPK                     species         Pseudomonas aeruginosa        
+7335.1.1_13          LIASSDSALESTR                       species         Pseudomonas aeruginosa        
+7439.1.1_15          NVASQEQLDNAVAAR                     species         Pseudomonas aeruginosa        
+6978.1.1_32          PAATPSAPAAASSAASATPAAGSNGAAPTSAS    species         Pseudomonas aeruginosa        
+5616.1.1_13          TSAATVAASEAQR                       species         Pseudomonas aeruginosa        
+10401.1.1_16         DAQWGEGNITTLDGVR                    species         Pseudomonas aeruginosa        
+5458.1.1_19          SENNTPSPANGTPAPAAAR                 species         Pseudomonas aeruginosa        
+7749.1.1_18          KLAEEAGIDPNSIAGTGK                  species         Pseudomonas aeruginosa        
+6832.1.1_40          PAAAKPAAPAASSSAPAAPAATPAASAPAANAPATPSSQG species         Pseudomonas aeruginosa        
+11611.1.1_12         AVDFDLPLAVGK                        species         Pseudomonas aeruginosa        
+8777.1.1_12          DDAAVYALDEER                        species         Pseudomonas aeruginosa        
+6071.1.1_10          IGSYGTDVDR                          species         Pseudomonas aeruginosa        
+10958.1.1_23         AATMDAAAELASAAAPDDALDAK             species         Pseudomonas aeruginosa        
+7513.1.1_11          QEGADAWTYSK                         species         Pseudomonas aeruginosa        
+3907.1.1_18          RPSGPTAGAQGDASAQER                  species         Pseudomonas aeruginosa        
+10054.1.1_15         ALEEAIKLAGLSGGK                     species         Pseudomonas aeruginosa        
+10499.1.1_15         ATVATAENVAAFEAR                     species         Pseudomonas aeruginosa        
+9587.1.1_28          SISLPPLPSATSSSHAPASSSSVGASAR        species         Pseudomonas aeruginosa        
+9540.1.1_11          QLVQANLLDEK                         species         Pseudomonas aeruginosa        
+10171.1.1_13         GLIQGMEDTVSGK                       species         Pseudomonas aeruginosa        
+8946.1.1_13          FRDEITPIQVPQR                       species         Pseudomonas aeruginosa        
+10361.1.1_11         VSGLAAYIAER                         species         Pseudomonas aeruginosa        
+4966.1.1_29          EKDDEEEESDDSSDSDDEGDGGPDPEEAR       species         Pseudomonas aeruginosa        
+8605.1.1_18          DGQPVDGFAGAQPESQIR                  species         Pseudomonas aeruginosa        
+8926.1.1_19          ADDPQLDAVAGGSAGALGR                 species         Pseudomonas aeruginosa        
+11629.1.1_14         VGQTLLLQSLPNLK                      species         Pseudomonas aeruginosa        
+6372.1.1_11          ASEAAIPAPER                         species         Pseudomonas aeruginosa        
+8395.1.1_17          LAEEAGIDPNSIAGTGK                   species         Pseudomonas aeruginosa        
+7214.1.1_35          PAAPAASSSAPAAPAATPAASAPAANAPATPSSQG species         Pseudomonas aeruginosa        
+9790.1.1_18          EAPLHVSNVAIFNTETSK                  species         Pseudomonas aeruginosa        
+7677.1.1_18          DAGLPHTSAEQVVTDSEK                  species         Pseudomonas aeruginosa        
+10922.1.1_11         MIAPVLDEVAR                         species         Pseudomonas aeruginosa        
+7905.1.1_12          IIQQIEAEQMNK                        species         Pseudomonas aeruginosa        
+3810.1.1_11          KADEALGAAQK                         species         Pseudomonas aeruginosa        
+8579.1.1_14          LGGAGGTLADAVER                      species         Pseudomonas aeruginosa        
+5162.1.1_9           APGSELEQR                           species         Pseudomonas aeruginosa        
+10799.1.1_13         EIAADQVLVAVGR                       species         Pseudomonas aeruginosa        
+8126.1.1_14          MASDSLAEQTELER                      species         Pseudomonas aeruginosa        
+3203.1.1_9           SAPHAQVER                           species         Pseudomonas aeruginosa        
+5139.1.1_10          AAGAPEEEYR                          species         Pseudomonas aeruginosa        
+10705.1.1_13         MIAGFEEGLVGAK                       species         Pseudomonas aeruginosa        
+5492.1.1_22          TGTAEQAEDPAAGTDAADQHVR              species         Pseudomonas aeruginosa        
+8286.1.1_12          IIQQIEAEQMNK                        species         Pseudomonas aeruginosa        
+11172.1.1_15         ITADSVGLGLTSELR                     species         Pseudomonas aeruginosa        
+7261.1.1_13          VIEEAPAPGIDEK                       species         Pseudomonas aeruginosa        
+11189.1.1_15         LAVLVEQLAVQQPDR                     species         Pseudomonas aeruginosa        
+5473.1.1_12          VSPDDETVEDER                        species         Pseudomonas aeruginosa        
+11378.1.1_14         IGFFNPVATGGEVR                      species         Pseudomonas aeruginosa        
+5206.1.1_11          GVAPAQAGMSR                         species         Pseudomonas aeruginosa        
+8208.1.1_16          VEADLVEYGTVEQHPK                    species         Pseudomonas aeruginosa        
+6748.1.1_15          LRDLETQSQDGTFDK                     species         Pseudomonas aeruginosa        
+10875.1.1_15         ALYVVDTLASDQGYR                     species         Pseudomonas aeruginosa        
+7554.1.1_11          ANPEVASALER                         species         Pseudomonas aeruginosa        
+9341.1.1_11          DPSDATLDVIR                         species         Pseudomonas aeruginosa        
+3107.1.1_11          EAEAATAGNTR                         species         Pseudomonas aeruginosa        
+10764.1.1_12         FADGQPAYGIFR                        species         Pseudomonas aeruginosa        
+6035.1.1_12          VDGPSNTPQLDK                        species         Pseudomonas aeruginosa        
+9398.1.1_13          AHVFDLTDSSLAR                       species         Pseudomonas aeruginosa        
+9985.1.1_13          LDVATGEAIDFDR                       species         Pseudomonas aeruginosa        
+3258.1.1_11          TEESETSRPHA                         species         Pseudomonas aeruginosa        
+11152.1.1_12         MLEVPEGFVVQR                        species         Pseudomonas aeruginosa        
+11680.1.1_13         QLFNMMGFTETAK                       species         Pseudomonas aeruginosa        
+9756.1.1_15          AGNYQVDLDDASFAR                     species         Pseudomonas aeruginosa        
+8213.1.1_16          GGFATVDPDDSSSDIK                    species         Pseudomonas aeruginosa        
+11014.1.1_15         MTDAVGALVLGNNYK                     species         Pseudomonas aeruginosa        
+3942.1.1_23          ERPNDNAEGADGDDNSDSDNADE             species         Pseudomonas aeruginosa        
+6799.1.1_15          NTEVETEETDIDTAK                     species         Pseudomonas aeruginosa        
+9244.1.1_16          GHLNLPAQPGLPEAVR                    species         Pseudomonas aeruginosa        
+6061.1.1_11          QPVQLASGETR                         species         Pseudomonas aeruginosa        
+4949.1.1_36          DDSADSKEKDDEEEESDDSSDSDDEGDGGPDPEEAR species         Pseudomonas aeruginosa        
+8301.1.1_12          LSPDDEAYDIAK                        species         Pseudomonas aeruginosa        
+7549.1.1_11          FEADTEEELER                         species         Pseudomonas aeruginosa        
+8246.1.1_12          ENDTLLGADTPR                        species         Pseudomonas aeruginosa        
+7767.1.1_17          ATLDGGAVAAPDEYGAK                   species         Pseudomonas aeruginosa        
+9252.1.1_13          AYVQQVDQGQIFR                       species         Pseudomonas aeruginosa        
+8658.1.1_13          GEPLSFDTDEQPR                       species         Pseudomonas aeruginosa        
+3100.1.1_13          NSADGDDAQAAQR                       species         Pseudomonas aeruginosa        
+3926.1.1_8           YSGIKEDR                            species         Pseudomonas aeruginosa        
+9593.1.1_12          IIGDLDETASLR                        species         Pseudomonas aeruginosa        
+6597.1.1_11          DANLINQHVQR                         species         Pseudomonas aeruginosa        
+9201.1.1_15          QQALAGGIDAQTFDR                     species         Pseudomonas aeruginosa        
+10779.1.1_20         KPPVDVEPAETSDLAYSLVR                species         Pseudomonas aeruginosa        
+10395.1.1_11         GELPEAQLLPR                         species         Pseudomonas aeruginosa        
+5457.1.1_11          EIASAPAPAPK                         species         Pseudomonas aeruginosa        
+3824.1.1_11          EVDGENPGANR                         species         Pseudomonas aeruginosa        
+9114.1.1_20          TEQATNGAADEQQPQFSLQR                species         Pseudomonas aeruginosa        
+8409.1.1_12          ASGFEATTDFSR                        species         Pseudomonas aeruginosa        
+8991.1.1_15          VISSTEALAPGSLPK                     species         Pseudomonas aeruginosa        
+6656.1.1_12          EVSDSAELPAAR                        species         Pseudomonas aeruginosa        
+9004.1.1_14          SSAQLLTAQQLAAR                      species         Pseudomonas aeruginosa        
+8687.1.1_30          LEVEGAGNLAESPAAATPAAPVAATPEKPK      species         Pseudomonas aeruginosa        
+9546.1.1_15          TQQASVDFSSTSFVK                     species         Pseudomonas aeruginosa        
+10011.1.1_14         VLPIATEDYPVPAK                      species         Pseudomonas aeruginosa        
+11081.1.1_14         NIVELEGVGQALSR                      species         Pseudomonas aeruginosa        
+7787.1.1_13          SLSQEGMDDLDSK                       species         Pseudomonas aeruginosa        
+11303.1.1_17         AEDYDALIVPGGFGAAK                   species         Pseudomonas aeruginosa        
+10225.1.1_14         MAIGETVTNLAAAR                      species         Pseudomonas aeruginosa        
+11486.1.1_19         ATAAEVFGVPLEDVSGDQR                 species         Pseudomonas aeruginosa        
+9700.1.1_13          AAEAPDADALLYR                       species         Pseudomonas aeruginosa        
+11807.1.1_18         AGATPPTTLDELFVAADK                  species         Pseudomonas aeruginosa        
+5785.1.1_22          AARPEAEAAPAGDSEPPADQPA              species         Pseudomonas aeruginosa        
+10800.1.1_17         GVAAGDQLISGIGAPIK                   species         Pseudomonas aeruginosa        
+10847.1.1_15         ATVATAENVAAFEAR                     species         Pseudomonas aeruginosa        
+8504.1.1_16          YHSIAGVGSVEQITAK                    species         Pseudomonas aeruginosa        
+10181.1.1_11         VLDEVIYPTVR                         species         Pseudomonas aeruginosa        
+9878.1.1_11          MADVLASDLER                         species         Pseudomonas aeruginosa        
+2988.1.1_12          GTAPTGEKPTEK                        species         Pseudomonas aeruginosa        
+10998.1.1_13         QGDPEVLAQLQER                       species         Pseudomonas aeruginosa        
+11051.1.1_12         QPAYLALNPQGR                        species         Pseudomonas aeruginosa        
+6205.1.1_11          NMQAPEAVAAK                         species         Pseudomonas aeruginosa        
+11439.1.1_12         FLEIDVDNFDAR                        species         Pseudomonas aeruginosa        
+11213.1.1_12         YLADGSIEFLGR                        species         Pseudomonas aeruginosa        
+5641.1.1_17          NAAGSAPSKVDATDNLR                   species         Pseudomonas aeruginosa        
+7995.1.1_11          VIAAVQEQLGK                         species         Pseudomonas aeruginosa        
+9397.1.1_12          TVDEVIALQPDR                        species         Pseudomonas aeruginosa        
+9152.1.1_11          INTSDEFIVER                         species         Pseudomonas aeruginosa        
+10589.1.1_12         GETLNLELVPQR                        species         Pseudomonas aeruginosa        
+8458.1.1_16          AAGIGVQFNDGDNTAR                    species         Pseudomonas aeruginosa        
+9186.1.1_11          TPLNAELEQYR                         species         Pseudomonas aeruginosa        
+5947.1.1_12          AQLAAENAEVAK                        species         Pseudomonas aeruginosa        
+8486.1.1_23          GKQGAATSADEFVEEAPAESAEG             species         Pseudomonas aeruginosa        
+7112.1.1_10          LDLQGQVAGK                          species         Pseudomonas aeruginosa        
+11577.1.1_14         IGFFNPVATGGEVR                      species         Pseudomonas aeruginosa        
+11381.1.1_14         EQAAYPLASLVEAK                      species         Pseudomonas aeruginosa        
+12321.1.1_14         IGFFNPVATGGEVR                      species         Pseudomonas aeruginosa        
+5174.1.1_11          EGATGNIDAAK                         species         Pseudomonas aeruginosa        
+6264.1.1_14          SDSPEQESADDALK                      species         Pseudomonas aeruginosa        
+5540.1.1_13          VIASGEVASQEEK                       species         Pseudomonas aeruginosa        
+5626.1.1_24          KAEAPATPAASTQPAAPAAAPAAK            species         Pseudomonas aeruginosa        
+7500.1.1_13          HLEALGGVEAAAK                       species         Pseudomonas aeruginosa        
+11780.1.1_13         LIGQFAELPIVGR                       species         Pseudomonas aeruginosa        
+6326.1.1_10          VAELEPEQAR                          species         Pseudomonas aeruginosa        
+8496.1.1_12          ALALATVDGQGR                        species         Pseudomonas aeruginosa        
+9500.1.1_11          VGALSIVTESR                         species         Pseudomonas aeruginosa        
+11278.1.1_14         ISPAALMFPQGSAR                      species         Pseudomonas aeruginosa        
+6416.1.1_16          AVEAAGYSQPTPVQQR                    species         Pseudomonas aeruginosa        
+7901.1.1_17          VATALQQADAGNPANLK                   species         Pseudomonas aeruginosa        
+10188.1.1_16         QQGYTNFQIAAQDLQR                    species         Pseudomonas aeruginosa        
+6952.1.1_12          QLLEATASNETR                        species         Pseudomonas aeruginosa        
+4286.1.1_12          DNPEGDDHANIR                        species         Pseudomonas aeruginosa        
+7655.1.1_13          AQVGALAVTGAEK                       species         Pseudomonas aeruginosa        
+10308.1.1_17         TIDASDFYTNPIQPSAR                   species         Pseudomonas aeruginosa        
+7584.1.1_12          GGDDAATEYLDK                        species         Pseudomonas aeruginosa        
+7644.1.1_12          LEDGSQYPLEGR                        species         Pseudomonas aeruginosa        
+10466.1.1_17         VQELEEQLAAAQDQALR                   species         Pseudomonas aeruginosa        
+11703.1.1_16         QEVESAGPTTIGDLIR                    species         Pseudomonas aeruginosa        
+11551.1.1_18         LADAQPAEDLLSLDGMSK                  species         Pseudomonas aeruginosa        
+3614.1.1_24          RERPNDNAEGADGDDNSDSDNADE            species         Pseudomonas aeruginosa        
+6972.1.1_17          SGPVKADAEEVADAEAD                   species         Pseudomonas aeruginosa        
+11462.1.1_12         QGDPFGSVFAVR                        species         Pseudomonas aeruginosa        
+10690.1.1_14         GTEITDDYLDGLER                      species         Pseudomonas aeruginosa        
+4435.1.1_10          MNNSNLAAAR                          species         Pseudomonas aeruginosa        
+6795.1.1_9           EVNPADIER                           species         Pseudomonas aeruginosa        
+8909.1.1_13          FRDEITPIQVPQR                       species         Pseudomonas aeruginosa        
+10334.1.1_9          LPPLVEAVR                           species         Pseudomonas aeruginosa        
+5698.1.1_15          AIIHAGTGNGSVPAR                     species         Pseudomonas aeruginosa        
+11369.1.1_13         GPFDLYSLGADGK                       species         Pseudomonas aeruginosa        
+6999.1.1_13          SGVAEPLPDAQGR                       species         Pseudomonas aeruginosa        
+6218.1.1_17          LPADGNPAPDVSHSTVR                   species         Pseudomonas aeruginosa        
+9375.1.1_28          FAAPVAAPAPAAAAPAAAAAESAPAAPK        species         Pseudomonas aeruginosa        
+5437.1.1_20          ASGGASQPEFTSTHPSDSSR                species         Pseudomonas aeruginosa        
+9978.1.1_17          VFLVTGGSSGLGAATAK                   species         Pseudomonas aeruginosa        
+5387.1.1_10          EKEEWAAASR                          species         Pseudomonas aeruginosa        
+7431.1.1_14          ADEEQTVNIGPSVK                      species         Pseudomonas aeruginosa        
+6995.1.1_18          TQSAGDVMTQAPGSVDGK                  species         Pseudomonas aeruginosa        
+9131.1.1_11          FGNTTLDQVVR                         species         Pseudomonas aeruginosa        
+11416.1.1_16         VASLEEGLAGTPLLGR                    species         Pseudomonas aeruginosa        
+11214.1.1_11         AAAGEWLTDLR                         species         Pseudomonas aeruginosa        
+12156.1.1_14         IGFFNPVATGGEVR                      species         Pseudomonas aeruginosa        
+9627.1.1_17          VVLEDAAEPGEITVPAR                   species         Pseudomonas aeruginosa        
+8633.1.1_13          AFAENIAYGPANR                       species         Pseudomonas aeruginosa        
+7415.1.1_10          SETLFNNAQK                          species         Pseudomonas aeruginosa        
+5289.1.1_14          GGEAVNDPNVEESR                      species         Pseudomonas aeruginosa        
+10143.1.1_14         EAVMVLQASPDVVR                      species         Pseudomonas aeruginosa        
+5935.1.1_15          SEQDDNQEDGFAEEK                     species         Pseudomonas aeruginosa        
+9892.1.1_13          YLIGQVMQSPEQR                       species         Pseudomonas aeruginosa        
+8935.1.1_15          SPDSPGTLDATYGLK                     species         Pseudomonas aeruginosa        
+8499.1.1_15          DGTPVDASVDGTWQR                     species         Pseudomonas aeruginosa        
+9117.1.1_15          SPAELFGQDDDGEPR                     species         Pseudomonas aeruginosa        
+3960.1.1_9           TRPVSDAVR                           species         Pseudomonas aeruginosa        
+8943.1.1_24          NAPAAPAKPAAPAAEAPIFAAGDR            species         Pseudomonas aeruginosa        
+11018.1.1_15         AVASAVQIVGLDTVR                     species         Pseudomonas aeruginosa        
+8161.1.1_13          LMTAGAIGAPEPK                       species         Pseudomonas aeruginosa        
+4943.1.1_10          LTTPTTGDQR                          species         Pseudomonas aeruginosa        
+8100.1.1_12          FQAGEDVGDELK                        species         Pseudomonas aeruginosa        
+4942.1.1_8           VDDLQEDR                            species         Pseudomonas aeruginosa        
+3237.1.1_10          LAPNNKPEAR                          species         Pseudomonas aeruginosa        
+8602.1.1_14          VIDPYGGQADLEAR                      species         Pseudomonas aeruginosa        
+7870.1.1_16          DHGEGGTLVGAPLSGR                    species         Pseudomonas aeruginosa        
+10051.1.1_12         ADNLSVISLSER                        species         Pseudomonas aeruginosa        
+3540.1.1_10          LAEQPGKPAR                          species         Pseudomonas aeruginosa        
+7128.1.1_9           LLDQAAYDR                           species         Pseudomonas aeruginosa        
+4746.1.1_11          IDAAYADSHAK                         species         Pseudomonas aeruginosa        
+8249.1.1_14          AGDLDEAAAQEALK                      species         Pseudomonas aeruginosa        
+11270.1.1_13         AVADGEWLELGPR                       species         Pseudomonas aeruginosa        
+11460.1.1_12         LADMLTELTASR                        species         Pseudomonas aeruginosa        
+5565.1.1_9           ELQPEVQSR                           species         Pseudomonas aeruginosa        
+11203.1.1_9          IQLNWDVVR                           species         Pseudomonas aeruginosa        
+10711.1.1_14         ALADAPDAVADLYR                      species         Pseudomonas aeruginosa        
+5567.1.1_15          LQQANLQGQAANQER                     species         Pseudomonas aeruginosa        
+9972.1.1_18          EAPLHVSNVAIFNTETSK                  species         Pseudomonas aeruginosa        
+8568.1.1_21          ANSHLEGAELGEGSDAGPFAR               species         Pseudomonas aeruginosa        
+11804.1.1_13         LLMADEIGEAVLR                       species         Pseudomonas aeruginosa        
+6037.1.1_11          EGAEIVDAQGR                         species         Pseudomonas aeruginosa        
+6222.1.1_11          DANLINQHVQR                         species         Pseudomonas aeruginosa        
+10178.1.1_12         EVFTPLVGNQVR                        species         Pseudomonas aeruginosa        
+3262.1.1_12          VNQNAPKPANPK                        species         Pseudomonas aeruginosa        
+4888.1.1_13          IKGEDGQLTANTR                       species         Pseudomonas aeruginosa        
+9074.1.1_15          VNNPATGEIIGSVPK                     species         Pseudomonas aeruginosa        
+9156.1.1_13          QIIGEEISDESIK                       species         Pseudomonas aeruginosa        
+5177.1.1_10          ADIASEADGR                          species         Pseudomonas aeruginosa        
+11150.1.1_16         QLEDDPFSNYASLHEK                    species         Pseudomonas aeruginosa        
+7455.1.1_15          QLGQPGGFNNNPDVR                     species         Pseudomonas aeruginosa        
+8374.1.1_12          GASESDLEASFK                        species         Pseudomonas aeruginosa        
+6570.1.1_18          IRDLALQSANGSNSDADR                  species         Pseudomonas aeruginosa        

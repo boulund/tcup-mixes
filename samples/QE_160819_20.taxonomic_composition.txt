@@ -1,0 +1,88 @@
+--------5.results/QE_160819_20/QE_160819_20.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+865        858     64.55 species              Pseudomonas aeruginosa                  
+1877       1633    47.20 genus                Streptococcus                           
+1975       98      39.63 family               Streptococcaceae                        
+1341       414     33.72 genus                Pseudomonas                             
+1496       155     30.02 family               Pseudomonadaceae                        
+908        718     18.22 family               Enterobacteriaceae                      
+8          0       18.18 no rank              Bacteroidetes/Chlorobi group            
+237        231     17.69 species              Streptococcus pneumoniae                
+557        452     14.01 genus                Staphylococcus                          
+590        33      11.84 family               Staphylococcaceae                       
+4          4        9.09 no rank              Streptococcus pneumoniae P1031          
+105        105      7.84 species              Staphylococcus aureus                   
+100        100      7.46 species              Escherichia coli                        
+3          3        6.82 no rank              Escherichia fergusonii ATCC 35469       
+3          3        6.82 no rank              Morganella morganii subsp. morganii KT  
+3          3        6.82 no rank              Pseudomonas putida W619                 
+184        81       4.63 genus                Escherichia                             
+2          2        4.55 no rank              Pseudomonas aeruginosa PA7              
+2          2        4.55 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        2.27 no rank              Acholeplasma palmae J233                
+1          1        2.27 no rank              Desulfitobacterium dehalogenans ATCC 51507
+1          1        2.27 no rank              Desulfosporosinus meridiei DSM 13257    
+1          1        2.27 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        2.27 no rank              Pantoea ananatis LMG 5342               
+1          1        2.27 no rank              Pseudomonas aeruginosa B136-33          
+1          1        2.27 no rank              Pseudomonas aeruginosa PAO1             
+1          1        2.27 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        2.27 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        2.27 no rank              Pseudomonas entomophila L48             
+1          1        2.27 no rank              Pseudomonas resinovorans NBRC 106553    
+1          1        2.27 no rank              Rhodopseudomonas palustris BisA53       
+1          1        2.27 no rank              Spiroplasma apis B31                    
+1          1        2.27 no rank              Stanieria cyanosphaera PCC 7437         
+1          1        2.27 no rank              Streptococcus pneumoniae 670-6B         
+1          1        2.27 no rank              Streptococcus pneumoniae gamPNI0373     
+1          1        2.27 no rank              Streptococcus sanguinis SK36            
+1          1        2.27 no rank              Sulfuricella denitrificans skB26        
+1          1        2.27 no rank              Syntrophus aciditrophicus SB            
+6          6        0.45 species              Streptococcus suis                      
+3          0        0.22 species              Escherichia fergusonii                  
+3          0        0.22 species              Morganella morganii                     
+3          0        0.22 species              Pseudomonas putida                      
+4          3        0.08 family               Pasteurellaceae                         
+3          0        0.08 genus                Morganella                              
+1          0        0.07 species              Acholeplasma palmae                     
+1          0        0.07 species              Desulfitobacterium dehalogenans         
+1          0        0.07 species              Desulfosporosinus meridiei              
+1          0        0.07 species              Enterobacter cloacae                    
+1          1        0.07 species              Haemophilus influenzae                  
+1          0        0.07 species              Pantoea ananatis                        
+1          1        0.07 species              Proteus mirabilis                       
+1          0        0.07 species              Pseudomonas denitrificans               
+1          0        0.07 species              Pseudomonas entomophila                 
+1          0        0.07 species              Pseudomonas resinovorans                
+1          1        0.07 species              Pseudomonas stutzeri                    
+1          1        0.07 species              Pusillimonas sp. T7-7                   
+1          0        0.07 species              Rhodopseudomonas palustris              
+1          0        0.07 species              Spiroplasma apis                        
+1          0        0.07 species              Stanieria cyanosphaera                  
+1          0        0.07 species              Streptococcus sanguinis                 
+1          0        0.07 species              Sulfuricella denitrificans              
+1          0        0.07 species              Syntrophus aciditrophicus               
+2          0        0.05 genus                Bacillus                                
+2          0        0.04 family               Bacillaceae                             
+2          0        0.04 family               Peptococcaceae                          
+1          0        0.03 genus                Acholeplasma                            
+1          0        0.03 genus                Desulfitobacterium                      
+1          0        0.03 genus                Desulfosporosinus                       
+1          0        0.03 genus                Enterobacter                            
+1          0        0.03 genus                Haemophilus                             
+1          0        0.03 genus                Pantoea                                 
+1          0        0.03 genus                Proteus                                 
+1          0        0.03 genus                Pusillimonas                            
+1          0        0.03 genus                Rhodopseudomonas                        
+1          0        0.03 genus                Spiroplasma                             
+1          0        0.03 genus                Stanieria                               
+1          0        0.03 genus                Sulfuricella                            
+1          0        0.03 genus                Syntrophus                              
+1          0        0.02 family               Acholeplasmataceae                      
+1          0        0.02 family               Alcaligenaceae                          
+1          0        0.02 family               Bradyrhizobiaceae                       
+1          1        0.02 family               Rhodobacteraceae                        
+1          0        0.02 family               Spiroplasmataceae                       
+1          0        0.02 family               Sulfuricellaceae                        
+1          0        0.02 family               Syntrophaceae                           

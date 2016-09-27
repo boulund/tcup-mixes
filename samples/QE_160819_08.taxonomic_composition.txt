@@ -1,0 +1,95 @@
+--------5.results/QE_160819_08/QE_160819_08.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+2753       2124    55.26 genus                Staphylococcus                          
+925        921     53.31 species              Pseudomonas aeruginosa                  
+2905       152     46.90 family               Staphylococcaceae                       
+626        619     36.08 species              Staphylococcus aureus                   
+1404       417     28.18 genus                Pseudomonas                             
+1602       198     25.86 family               Pseudomonadaceae                        
+7          0       18.92 no rank              Bacteroidetes/Chlorobi group            
+1025       824     16.55 family               Enterobacteriaceae                      
+608        545     12.20 genus                Streptococcus                           
+644        36      10.40 family               Streptococcaceae                        
+3          3        8.11 no rank              Staphylococcus aureus subsp. aureus str. Newman
+3          3        8.11 no rank              Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305
+2          2        5.41 no rank              Escherichia fergusonii ATCC 35469       
+2          2        5.41 no rank              Pseudomonas aeruginosa B136-33          
+2          2        5.41 no rank              Pseudomonas putida W619                 
+2          2        5.41 no rank              Staphylococcus aureus subsp. aureus 11819-97
+93         92       5.36 species              Escherichia coli                        
+197        102      3.95 genus                Escherichia                             
+60         59       3.46 species              Streptococcus pneumoniae                
+1          1        2.70 no rank              [Clostridium] clariflavum DSM 19732     
+1          1        2.70 no rank              Aeromonas hydrophila ML09-119           
+1          1        2.70 no rank              Butyrivibrio proteoclasticus B316       
+1          1        2.70 no rank              Desulfosporosinus meridiei DSM 13257    
+1          1        2.70 no rank              Escherichia coli BW2952                 
+1          0        2.70 no rank              Escherichia coli K-12                   
+1          1        2.70 no rank              Flavobacterium indicum GPTSA100-9 = DSM 17447
+1          1        2.70 no rank              Gallionella capsiferriformans ES-2      
+1          1        2.70 no rank              Morganella morganii subsp. morganii KT  
+1          1        2.70 no rank              Nonlabens dokdonensis DSW-6             
+1          1        2.70 no rank              Pseudomonas aeruginosa PAO1             
+1          1        2.70 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        2.70 no rank              Pseudomonas resinovorans NBRC 106553    
+1          1        2.70 no rank              Psychromonas ingrahamii 37              
+1          1        2.70 no rank              Sphaerochaeta coccoides DSM 17374       
+1          1        2.70 no rank              Streptococcus pneumoniae P1031          
+3          0        0.17 species              Staphylococcus saprophyticus            
+2          0        0.12 species              Escherichia fergusonii                  
+2          2        0.12 species              Haemophilus influenzae                  
+2          2        0.12 species              Paenibacillus sp. JDR-2                 
+2          0        0.12 species              Pseudomonas putida                      
+2          2        0.12 species              Streptococcus suis                      
+1          0        0.06 species              [Clostridium] clariflavum               
+1          1        0.06 species              Actinoplanes sp. SE50/110               
+1          0        0.06 species              Aeromonas hydrophila                    
+1          1        0.06 species              Buchnera aphidicola                     
+1          0        0.06 species              Butyrivibrio proteoclasticus            
+1          0        0.06 species              Desulfosporosinus meridiei              
+1          1        0.06 species              Enterobacter sp. 638                    
+1          0        0.06 species              Flavobacterium indicum                  
+1          0        0.06 species              Gallionella capsiferriformans           
+1          1        0.06 species              Methylocystis sp. SC2                   
+1          0        0.06 species              Morganella morganii                     
+1          0        0.06 species              Nonlabens dokdonensis                   
+1          1        0.06 species              Proteus mirabilis                       
+1          0        0.06 species              Pseudomonas resinovorans                
+1          0        0.06 species              Psychromonas ingrahamii                 
+1          1        0.06 species              Rhodopseudomonas palustris              
+1          0        0.06 species              Sphaerochaeta coccoides                 
+1          1        0.06 species              Streptococcus mutans                    
+2          0        0.04 genus                Haemophilus                             
+2          0        0.04 genus                Paenibacillus                           
+2          0        0.03 family               Flavobacteriaceae                       
+2          0        0.03 family               Paenibacillaceae                        
+2          0        0.03 family               Pasteurellaceae                         
+1          0        0.02 genus                Actinoplanes                            
+1          0        0.02 genus                Aeromonas                               
+1          0        0.02 genus                Buchnera                                
+1          0        0.02 genus                Butyrivibrio                            
+1          0        0.02 genus                Desulfosporosinus                       
+1          0        0.02 genus                Enterobacter                            
+1          0        0.02 genus                Flavobacterium                          
+1          0        0.02 genus                Gallionella                             
+1          0        0.02 genus                Methylocystis                           
+1          0        0.02 genus                Morganella                              
+1          0        0.02 genus                Nonlabens                               
+1          0        0.02 genus                Proteus                                 
+1          0        0.02 genus                Psychromonas                            
+1          0        0.02 genus                Rhodopseudomonas                        
+1          0        0.02 genus                Ruminiclostridium                       
+1          0        0.02 genus                Sphaerochaeta                           
+1          0        0.02 family               Aeromonadaceae                          
+1          1        0.02 family               Alcaligenaceae                          
+1          1        0.02 family               Bacillaceae                             
+1          0        0.02 family               Bradyrhizobiaceae                       
+1          0        0.02 family               Gallionellaceae                         
+1          0        0.02 family               Lachnospiraceae                         
+1          0        0.02 family               Methylocystaceae                        
+1          0        0.02 family               Micromonosporaceae                      
+1          0        0.02 family               Peptococcaceae                          
+1          0        0.02 family               Psychromonadaceae                       
+1          0        0.02 family               Ruminococcaceae                         
+1          0        0.02 family               Spirochaetaceae                         

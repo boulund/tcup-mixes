@@ -1,0 +1,70 @@
+-------5.results/QE_150611_143/QE_150611_143.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1829       1288    99.29 family               Enterobacteriaceae                      
+530        235     96.19 genus                Escherichia                             
+294        290     93.04 species              Escherichia coli                        
+4          3       16.00 no rank              Escherichia coli K-12                   
+2          0        8.00 no rank              Bacteroidetes/Chlorobi group            
+2          2        8.00 no rank              Morganella morganii subsp. morganii KT  
+2          0        8.00 no rank              unclassified Enterobacteriaceae         
+2          0        8.00 no rank              unclassified Enterobacteriaceae (miscellaneous)
+1          1        4.00 no rank              Aggregatibacter actinomycetemcomitans D11S-1
+1          1        4.00 no rank              Alteromonas mediterranea U8             
+1          1        4.00 no rank              Baumannia cicadellinicola str. Hc (Homalodisca coagulata)
+1          0        4.00 no rank              Candidatus Baumannia                    
+1          1        4.00 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        4.00 no rank              Desulfotalea psychrophila LSv54         
+1          1        4.00 no rank              Dickeya dadantii Ech586                 
+1          1        4.00 no rank              Dickeya dadantii Ech703                 
+1          1        4.00 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        4.00 no rank              Escherichia coli BW2952                 
+1          1        4.00 no rank              Escherichia fergusonii ATCC 35469       
+1          1        4.00 no rank              Flavobacterium indicum GPTSA100-9 = DSM 17447
+1          0        4.00 no rank              unclassified Gammaproteobacteria        
+2          0        0.63 species              Dickeya dadantii                        
+2          0        0.63 species              Morganella morganii                     
+2          2        0.63 species              Plautia stali symbiont                  
+2          1        0.36 genus                Alteromonas                             
+2          0        0.36 genus                Dickeya                                 
+2          0        0.36 genus                Morganella                              
+1          1        0.32 species              Achromobacter xylosoxidans              
+1          0        0.32 species              Aggregatibacter actinomycetemcomitans   
+1          0        0.32 species              Alteromonas mediterranea                
+1          0        0.32 species              Candidatus Baumannia cicadellinicola    
+1          0        0.32 species              Cyanobacterium stanieri                 
+1          0        0.32 species              Desulfotalea psychrophila               
+1          0        0.32 species              Enterobacter cloacae                    
+1          1        0.32 species              Erwinia pyrifoliae                      
+1          0        0.32 species              Escherichia fergusonii                  
+1          0        0.32 species              Flavobacterium indicum                  
+1          1        0.32 species              Glaciecola sp. 4H-3-7+YE-5              
+1          1        0.32 species              Histophilus somni                       
+1          1        0.32 species              Pantoea ananatis                        
+1          1        0.32 species              Pasteurella multocida                   
+1          1        0.32 species              Proteus mirabilis                       
+1          1        0.32 species              Rhodopseudomonas palustris              
+1          0        0.18 genus                Achromobacter                           
+1          0        0.18 genus                Aggregatibacter                         
+1          1        0.18 genus                Cronobacter                             
+1          0        0.18 genus                Cyanobacterium                          
+1          0        0.18 genus                Desulfotalea                            
+1          0        0.18 genus                Enterobacter                            
+1          0        0.18 genus                Erwinia                                 
+1          0        0.18 genus                Flavobacterium                          
+1          0        0.18 genus                Glaciecola                              
+1          0        0.18 genus                Histophilus                             
+1          0        0.18 genus                Mycoplasma                              
+1          0        0.18 genus                Pantoea                                 
+1          0        0.18 genus                Pasteurella                             
+1          0        0.18 genus                Proteus                                 
+1          0        0.18 genus                Rhodopseudomonas                        
+3          0        0.16 family               Alteromonadaceae                        
+3          0        0.16 family               Pasteurellaceae                         
+1          0        0.05 family               Alcaligenaceae                          
+1          0        0.05 family               Bradyrhizobiaceae                       
+1          1        0.05 family               Cellvibrionaceae                        
+1          1        0.05 family               Chromatiaceae                           
+1          0        0.05 family               Desulfobulbaceae                        
+1          0        0.05 family               Flavobacteriaceae                       
+1          0        0.05 family               Mycoplasmataceae                        

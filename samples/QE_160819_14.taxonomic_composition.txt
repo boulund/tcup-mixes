@@ -1,0 +1,113 @@
+--------5.results/QE_160819_14/QE_160819_14.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+933        930     64.04 species              Pseudomonas aeruginosa                  
+2154       1895    48.52 genus                Streptococcus                           
+2261       106     40.56 family               Streptococcaceae                        
+1400       402     31.54 genus                Pseudomonas                             
+1580       178     28.34 family               Pseudomonadaceae                        
+8          0       18.60 no rank              Bacteroidetes/Chlorobi group            
+987        782     17.70 family               Enterobacteriaceae                      
+252        247     17.30 species              Streptococcus pneumoniae                
+642        530     14.46 genus                Staphylococcus                          
+694        52      12.45 family               Staphylococcaceae                       
+112        111      7.69 species              Staphylococcus aureus                   
+102        102      7.00 species              Escherichia coli                        
+3          3        6.98 no rank              Streptococcus pneumoniae P1031          
+2          2        4.65 no rank              Butyrivibrio proteoclasticus B316       
+2          2        4.65 no rank              Desulfosporosinus meridiei DSM 13257    
+2          2        4.65 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+2          2        4.65 no rank              Escherichia fergusonii ATCC 35469       
+2          2        4.65 no rank              Morganella morganii subsp. morganii KT  
+2          2        4.65 no rank              Streptococcus pneumoniae 670-6B         
+196        92       4.42 genus                Escherichia                             
+1          1        2.33 no rank              Acholeplasma palmae J233                
+1          0        2.33 no rank              Buchnera aphidicola (Acyrthosiphon kondoi)
+1          1        2.33 no rank              Buchnera aphidicola str. Ak (Acyrthosiphon kondoi)
+1          1        2.33 no rank              Haemophilus influenzae 86-028NP         
+1          1        2.33 no rank              Heliobacterium modesticaldum Ice1       
+1          1        2.33 no rank              Pseudomonas aeruginosa B136-33          
+1          1        2.33 no rank              Pseudomonas aeruginosa PAO1             
+1          1        2.33 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        2.33 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        2.33 no rank              Pseudomonas poae RE*1-1-14              
+1          1        2.33 no rank              Pseudomonas putida W619                 
+1          1        2.33 no rank              Rhodopseudomonas palustris BisA53       
+1          1        2.33 no rank              Ruminococcus bromii L2-63               
+1          1        2.33 no rank              Shimwellia blattae DSM 4481 = NBRC 105725
+1          1        2.33 no rank              Sodalis glossinidius str. 'morsitans'   
+1          1        2.33 no rank              Solibacillus silvestris StLB046         
+1          1        2.33 no rank              Spiroplasma apis B31                    
+1          1        2.33 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1        2.33 no rank              Streptococcus suis ST3                  
+1          1        2.33 no rank              Tolumonas auensis DSM 9187              
+18         17       1.24 species              Haemophilus influenzae                  
+32         12       0.57 family               Pasteurellaceae                         
+20         2        0.45 genus                Haemophilus                             
+6          5        0.41 species              Streptococcus suis                      
+2          2        0.14 species              Azotobacter vinelandii                  
+2          0        0.14 species              Butyrivibrio proteoclasticus            
+2          0        0.14 species              Desulfosporosinus meridiei              
+2          0        0.14 species              Enterobacter cloacae                    
+2          0        0.14 species              Escherichia fergusonii                  
+2          0        0.14 species              Morganella morganii                     
+1          0        0.07 species              Acholeplasma palmae                     
+1          1        0.07 species              Achromobacter xylosoxidans              
+1          1        0.07 species              Actinoplanes sp. SE50/110               
+1          0        0.07 species              Buchnera aphidicola                     
+1          0        0.07 species              Heliobacterium modesticaldum            
+1          1        0.07 species              Lactococcus lactis                      
+1          1        0.07 species              Paenibacillus sp. JDR-2                 
+1          1        0.07 species              Photorhabdus asymbiotica                
+1          1        0.07 species              Proteus mirabilis                       
+1          0        0.07 species              Pseudomonas denitrificans               
+1          0        0.07 species              Pseudomonas poae                        
+1          0        0.07 species              Pseudomonas putida                      
+1          1        0.07 species              Pseudomonas stutzeri                    
+1          1        0.07 species              Pusillimonas sp. T7-7                   
+1          0        0.07 species              Rhodopseudomonas palustris              
+1          0        0.07 species              Ruminococcus bromii                     
+1          0        0.07 species              Shimwellia blattae                      
+1          0        0.07 species              Sodalis glossinidius                    
+1          0        0.07 species              Solibacillus silvestris                 
+1          0        0.07 species              Spiroplasma apis                        
+1          1        0.07 species              Streptococcus mutans                    
+1          0        0.07 species              Tolumonas auensis                       
+3          3        0.05 family               Rhodobacteraceae                        
+2          0        0.05 genus                Azotobacter                             
+2          0        0.05 genus                Butyrivibrio                            
+2          0        0.05 genus                Desulfosporosinus                       
+2          0        0.05 genus                Enterobacter                            
+2          0        0.05 genus                Morganella                              
+2          0        0.04 family               Alcaligenaceae                          
+2          0        0.04 family               Lachnospiraceae                         
+2          0        0.04 family               Peptococcaceae                          
+1          0        0.02 genus                Acholeplasma                            
+1          0        0.02 genus                Achromobacter                           
+1          0        0.02 genus                Actinoplanes                            
+1          0        0.02 genus                Buchnera                                
+1          0        0.02 genus                Heliobacterium                          
+1          0        0.02 genus                Lactococcus                             
+1          0        0.02 genus                Paenibacillus                           
+1          0        0.02 genus                Photorhabdus                            
+1          0        0.02 genus                Proteus                                 
+1          0        0.02 genus                Pusillimonas                            
+1          0        0.02 genus                Rhodopseudomonas                        
+1          0        0.02 genus                Ruminococcus                            
+1          0        0.02 genus                Shimwellia                              
+1          0        0.02 genus                Sodalis                                 
+1          0        0.02 genus                Solibacillus                            
+1          0        0.02 genus                Spiroplasma                             
+1          0        0.02 genus                Tolumonas                               
+1          0        0.02 family               Acholeplasmataceae                      
+1          0        0.02 family               Aeromonadaceae                          
+1          0        0.02 family               Bradyrhizobiaceae                       
+1          1        0.02 family               Enterococcaceae                         
+1          1        0.02 family               Halomonadaceae                          
+1          0        0.02 family               Heliobacteriaceae                       
+1          0        0.02 family               Micromonosporaceae                      
+1          0        0.02 family               Paenibacillaceae                        
+1          0        0.02 family               Planococcaceae                          
+1          0        0.02 family               Ruminococcaceae                         
+1          0        0.02 family               Spiroplasmataceae                       
+1          1        0.02 family               Vibrionaceae                            

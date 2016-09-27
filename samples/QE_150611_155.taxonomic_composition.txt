@@ -1,0 +1,36 @@
+-------5.results/QE_150611_155/QE_150611_155.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1206       306     99.67 genus                Pseudomonas                             
+1321       115     99.47 family               Pseudomonadaceae                        
+844        837     98.83 species              Pseudomonas aeruginosa                  
+4          4       20.00 no rank              Pseudomonas putida W619                 
+3          3       15.00 no rank              Pseudomonas aeruginosa B136-33          
+2          2       10.00 no rank              Pseudomonas aeruginosa PA7              
+1          1        5.00 no rank              Akkermansia muciniphila ATCC BAA-835    
+1          1        5.00 no rank              Buchnera aphidicola (Acyrthosiphon pisum)
+1          0        5.00 no rank              Chlamydiae/Verrucomicrobia group        
+1          1        5.00 no rank              Pseudomonas aeruginosa PAO1             
+1          1        5.00 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        5.00 no rank              Pseudomonas entomophila L48             
+1          1        5.00 no rank              Pseudomonas mendocina ymp               
+1          1        5.00 no rank              Pseudomonas stutzeri DSM 10701          
+1          0        5.00 no rank              Sinorhizobium fredii group              
+1          1        5.00 no rank              Sinorhizobium fredii NGR234             
+1          0        5.00 no rank              Sinorhizobium/Ensifer group             
+4          0        0.47 species              Pseudomonas putida                      
+3          2        0.23 family               Enterobacteriaceae                      
+1          0        0.12 species              Akkermansia muciniphila                 
+1          0        0.12 species              Buchnera aphidicola                     
+1          0        0.12 species              Pseudomonas entomophila                 
+1          0        0.12 species              Pseudomonas mendocina                   
+1          0        0.12 species              Pseudomonas stutzeri                    
+1          0        0.12 species              Sinorhizobium fredii                    
+1          0        0.08 genus                Akkermansia                             
+1          0        0.08 genus                Bacillus                                
+1          0        0.08 genus                Buchnera                                
+1          0        0.08 genus                Sinorhizobium                           
+1          0        0.08 family               Akkermansiaceae                         
+1          1        0.08 family               Alcaligenaceae                          
+1          0        0.08 family               Bacillaceae                             
+1          0        0.08 family               Rhizobiaceae                            

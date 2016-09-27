@@ -1,0 +1,57 @@
+-------5.results/QE_150611_146/QE_150611_146.sqlite3--------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+1900       1339    99.53 family               Enterobacteriaceae                      
+550        238     96.83 genus                Escherichia                             
+311        308     93.96 species              Escherichia coli                        
+3          3       13.64 no rank              Morganella morganii subsp. morganii KT  
+2          2        9.09 no rank              Alteromonas mediterranea U8             
+2          2        9.09 no rank              Escherichia coli K-12                   
+2          0        9.09 no rank              unclassified Enterobacteriaceae         
+2          0        9.09 no rank              unclassified Enterobacteriaceae (miscellaneous)
+1          0        4.55 no rank              Buchnera aphidicola (Cinara cedri)      
+1          1        4.55 no rank              Buchnera aphidicola BCc                 
+1          0        4.55 no rank              Clostridium botulinum A                 
+1          1        4.55 no rank              Clostridium botulinum A3 str. Loch Maree
+1          1        4.55 no rank              Cyanobacterium stanieri PCC 7202        
+1          1        4.55 no rank              Dickeya dadantii Ech586                 
+1          1        4.55 no rank              Dickeya dadantii Ech703                 
+1          1        4.55 no rank              Enterobacter cloacae subsp. cloacae NCTC 9394
+1          1        4.55 no rank              Escherichia coli ED1a                   
+1          1        4.55 no rank              Escherichia fergusonii ATCC 35469       
+1          1        4.55 no rank              Tolumonas auensis DSM 9187              
+3          0        0.91 species              Morganella morganii                     
+2          0        0.60 species              Alteromonas mediterranea                
+2          0        0.60 species              Dickeya dadantii                        
+2          2        0.60 species              Plautia stali symbiont                  
+3          0        0.53 genus                Morganella                              
+2          0        0.35 genus                Alteromonas                             
+2          0        0.35 genus                Dickeya                                 
+1          1        0.30 species              Achromobacter xylosoxidans              
+1          0        0.30 species              Buchnera aphidicola                     
+1          0        0.30 species              Clostridium botulinum                   
+1          0        0.30 species              Cyanobacterium stanieri                 
+1          0        0.30 species              Enterobacter cloacae                    
+1          0        0.30 species              Escherichia fergusonii                  
+1          1        0.30 species              Glaciecola sp. 4H-3-7+YE-5              
+1          1        0.30 species              Haemophilus influenzae                  
+1          1        0.30 species              Pasteurella multocida                   
+1          1        0.30 species              Proteus mirabilis                       
+1          0        0.30 species              Tolumonas auensis                       
+1          0        0.18 genus                Achromobacter                           
+1          0        0.18 genus                Buchnera                                
+1          0        0.18 genus                Clostridium                             
+1          0        0.18 genus                Cyanobacterium                          
+1          0        0.18 genus                Enterobacter                            
+1          0        0.18 genus                Glaciecola                              
+1          0        0.18 genus                Haemophilus                             
+1          0        0.18 genus                Pasteurella                             
+1          0        0.18 genus                Proteus                                 
+1          1        0.18 genus                Serratia                                
+1          0        0.18 genus                Tolumonas                               
+3          0        0.16 family               Alteromonadaceae                        
+2          0        0.10 family               Pasteurellaceae                         
+1          0        0.05 family               Aeromonadaceae                          
+1          0        0.05 family               Alcaligenaceae                          
+1          1        0.05 family               Chromatiaceae                           
+1          0        0.05 family               Clostridiaceae                          
