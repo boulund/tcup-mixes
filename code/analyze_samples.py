@@ -22,26 +22,41 @@ pd.options.display.width = None
 ############################################
 ## Define the triplicate samples
 ############################################
-# In-solution
-triplicates = {"1:1:1:1": ("QE_160819_71", 
-                           "QE_160819_74", 
-                           "QE_160819_77"),
-               "4-SP:2-MC:2-HI:1-SA": ("QE_160819_62", 
-                                       "QE_160819_65", 
-                                       "QE_160819_68"),
-               "4-SA:2-MC:2-HI:1-SP": ("QE_160819_53", 
-                                       "QE_160819_56", 
-                                       "QE_160819_59")}
-# LPI
-#triplicates = {"1:1:1:1": ("QE_160819_50", 
-#                           "QE_160819_47", 
-#                           "QE_160819_44"),
-#               "4-SP:2-MC:2-HI:1-SA": ("QE_160819_38", 
-#                                       "QE_160819_35", 
-#                                       "QE_160819_32"),
-#               "4-SA:2-MC:2-HI:1-SP": ("QE_160819_29", 
-#                                       "QE_160819_26", 
-#                                       "QE_160819_23")}
+def choose_triplicates(choice):
+    if choice == "In-solution":
+        # In-solution
+        triplicates = {"1:1:1:1": ("QE_160819_71", 
+                                   "QE_160819_74", 
+                                   "QE_160819_77"),
+                       "4-SP:2-MC:2-HI:1-SA": ("QE_160819_62", 
+                                               "QE_160819_65", 
+                                               "QE_160819_68"),
+                       "4-SA:2-MC:2-HI:1-SP": ("QE_160819_53", 
+                                               "QE_160819_56", 
+                                               "QE_160819_59")}
+    elif choice == "LPI":
+        # LPI
+        triplicates = {"1:1:1:1": ("QE_160819_50", 
+                                   "QE_160819_47", 
+                                   "QE_160819_44"),
+                       "4-SP:2-MC:2-HI:1-SA": ("QE_160819_38", 
+                                               "QE_160819_35", 
+                                               "QE_160819_32"),
+                       "4-SA:2-MC:2-HI:1-SP": ("QE_160819_29", 
+                                               "QE_160819_26", 
+                                               "QE_160819_23")}
+                       
+    elif choice == "Ecoli":
+        # E. coli LPI
+        triplicates = {"4-SP:2-PA:2-EC:1-SA": ("QE_160819_14", 
+                                               "QE_160819_17", 
+                                               "QE_160819_20"),
+                       "4-SA:2-PA:2-EC:1-SP": ("QE_160819_05", 
+                                               "QE_160819_08", 
+                                               "QE_160819_11")}
+    else:
+        return {}
+    return triplicates
 
 
 
@@ -58,6 +73,10 @@ def parse_commandline(argv):
     parser.add_argument('-c', '--correction-factors', dest="CORRECTION_FACTORS",
             default='correction_factors.tab',
             help="Species correction factors")
+    parser.add_argument("-t", "--triplicates", dest="triplicates",
+            choices=["In-solution", "LPI", "Ecoli"],
+            default="In-solution",
+            help="Select what triplicates are used")
     parser.add_argument("-m", "--multibars", action="store_true", dest="multibars",
             default=False,
             help="Print multiple bars instead of averages with SEM")
@@ -282,6 +301,8 @@ def make_factorplot(dpeps, xdata, ydata, huedata, ylabel, xtitle, suptitle, file
 
 if __name__ == "__main__":
     options = parse_commandline(argv)
+
+    triplicates = choose_triplicates(options.triplicates)
 
     correction_factors = parse_correction_factors(options.CORRECTION_FACTORS)
 
