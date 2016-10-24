@@ -22,3 +22,6 @@ QE_160819_14	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-S
 QE_160819_11	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-Streptococcus pneumoniae	4:2:2:1
 QE_160819_08	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-Streptococcus pneumoniae	4:2:2:1
 QE_160819_05	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-Streptococcus pneumoniae	4:2:2:1
+QE_150611_161	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-Streptococcus pneumoniae	1:1:1:1
+QE_150611_164	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-Streptococcus pneumoniae	1:1:1:1
+QE_150611_169	LPI	Staphylococcus aureus-Pseudomonas aeruginosa-Escherichia coli-Streptococcus pneumoniae	1:1:1:1

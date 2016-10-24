@@ -1,0 +1,107 @@
+--------4.blast8/QE_150611_161.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+420        415     56.60 species              Pseudomonas aeruginosa                  
+3          0       50.00 subspecies           Selenomonas ruminantium subsp. lactilytica
+702        604     33.62 genus                Streptococcus                           
+668        228     31.99 genus                Pseudomonas                             
+760        92      28.42 family               Pseudomonadaceae                        
+746        44      27.90 family               Streptococcaceae                        
+543        419     26.01 genus                Staphylococcus                          
+575        32      21.50 family               Staphylococcaceae                       
+568        418     21.24 family               Enterobacteriaceae                      
+1          1       16.67 subspecies           Leuconostoc mesenteroides subsp. mesenteroides
+1          0       16.67 subspecies           Nocardiopsis dassonvillei subsp. dassonvillei
+1          1       16.67 subspecies           Staphylococcus aureus subsp. aureus     
+122        121     16.44 species              Staphylococcus aureus                   
+94         94      12.67 species              Streptococcus pneumoniae                
+3          0       12.50 no rank              Bacteroidetes/Chlorobi group            
+3          3       12.50 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+78         77      10.51 species              Escherichia coli                        
+148        70       7.09 genus                Escherichia                             
+1          0        4.17 no rank              Clostridium saccharoperbutylacetonicum N1-4
+1          1        4.17 no rank              Clostridium saccharoperbutylacetonicum N1-4(HMT)
+1          1        4.17 no rank              Escherichia coli K-12                   
+1          1        4.17 no rank              Flavobacterium indicum GPTSA100-9 = DSM 17447
+1          1        4.17 no rank              Glaciecola nitratireducens FR1064       
+1          1        4.17 no rank              Helicobacter heilmannii ASB1.4          
+1          1        4.17 no rank              Methylomonas methanica MC09             
+1          1        4.17 no rank              Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111
+1          1        4.17 no rank              Oceanobacillus iheyensis HTE831         
+1          1        4.17 no rank              Pseudomonas aeruginosa B136-33          
+1          1        4.17 no rank              Pseudomonas aeruginosa PA7              
+1          1        4.17 no rank              Pseudomonas aeruginosa PAO1             
+1          1        4.17 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        4.17 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        4.17 no rank              Pseudomonas putida W619                 
+1          1        4.17 no rank              Saccharophagus degradans 2-40           
+1          1        4.17 no rank              Streptococcus sanguinis SK36            
+1          1        4.17 no rank              Vibrio tasmaniensis LGP32               
+3          0        0.40 species              Selenomonas ruminantium                 
+3          3        0.40 species              Streptococcus suis                      
+3          0        0.14 genus                Selenomonas                             
+1          1        0.13 species              Actinoplanes sp. SE50/110               
+1          1        0.13 species              Bifidobacterium animalis                
+1          1        0.13 species              Clostridium perfringens                 
+1          0        0.13 species              Clostridium saccharoperbutylacetonicum  
+1          1        0.13 species              Enterobacter sp. 638                    
+1          0        0.13 species              Flavobacterium indicum                  
+1          0        0.13 species              Glaciecola nitratireducens              
+1          0        0.13 species              Helicobacter heilmannii                 
+1          1        0.13 species              Leptolyngbya sp. PCC 7376               
+1          0        0.13 species              Leuconostoc mesenteroides               
+1          0        0.13 species              Methylomonas methanica                  
+1          0        0.13 species              Nocardiopsis dassonvillei               
+1          1        0.13 species              Oceanimonas sp. GK1                     
+1          0        0.13 species              Oceanobacillus iheyensis                
+1          1        0.13 species              Paenibacillus sp. JDR-2                 
+1          1        0.13 species              Pantoea ananatis                        
+1          0        0.13 species              Pseudomonas putida                      
+1          0        0.13 species              Saccharophagus degradans                
+1          1        0.13 species              Staphylococcus epidermidis              
+1          1        0.13 species              Staphylococcus lugdunensis              
+1          0        0.13 species              Streptococcus sanguinis                 
+1          0        0.13 species              Vibrio tasmaniensis                     
+3          0        0.11 family               Veillonellaceae                         
+2          0        0.10 genus                Clostridium                             
+2          0        0.07 family               Alteromonadaceae                        
+2          0        0.07 family               Bacillaceae                             
+2          0        0.07 family               Clostridiaceae                          
+1          0        0.05 genus                Actinoplanes                            
+1          1        0.05 genus                Alteromonas                             
+1          0        0.05 genus                Bacillus                                
+1          0        0.05 genus                Bifidobacterium                         
+1          1        0.05 genus                Caldicellulosiruptor                    
+1          0        0.05 genus                Enterobacter                            
+1          1        0.05 genus                Enterococcus                            
+1          0        0.05 genus                Flavobacterium                          
+1          0        0.05 genus                Glaciecola                              
+1          0        0.05 genus                Helicobacter                            
+1          0        0.05 genus                Leptolyngbya                            
+1          0        0.05 genus                Leuconostoc                             
+1          0        0.05 genus                Methylomonas                            
+1          1        0.05 genus                Nitrosococcus                           
+1          0        0.05 genus                Nocardiopsis                            
+1          0        0.05 genus                Oceanimonas                             
+1          0        0.05 genus                Oceanobacillus                          
+1          0        0.05 genus                Paenibacillus                           
+1          0        0.05 genus                Pantoea                                 
+1          0        0.05 genus                Saccharophagus                          
+1          1        0.05 genus                Shewanella                              
+1          0        0.05 genus                Vibrio                                  
+1          0        0.04 family               Aeromonadaceae                          
+1          1        0.04 family               Alcaligenaceae                          
+1          0        0.04 family               Bifidobacteriaceae                      
+1          0        0.04 family               Cellvibrionaceae                        
+1          0        0.04 family               Chromatiaceae                           
+1          0        0.04 family               Enterococcaceae                         
+1          0        0.04 family               Flavobacteriaceae                       
+1          0        0.04 family               Helicobacteraceae                       
+1          0        0.04 family               Leuconostocaceae                        
+1          0        0.04 family               Methylococcaceae                        
+1          0        0.04 family               Micromonosporaceae                      
+1          0        0.04 family               Nocardiopsaceae                         
+1          0        0.04 family               Paenibacillaceae                        
+1          0        0.04 family               Shewanellaceae                          
+1          0        0.04 family               Thermoanaerobacterales Family III. Incertae Sedis
+1          0        0.04 family               Vibrionaceae                            

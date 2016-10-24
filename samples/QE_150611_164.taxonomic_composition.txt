@@ -1,0 +1,130 @@
+--------4.blast8/QE_150611_164.mzXML.blast8.sqlite3---------
+-------------Discriminative peptides per spname-------------
+Cumulative Count       % Rank                 Description                             
+487        482     55.22 species              Pseudomonas aeruginosa                  
+3          1       42.86 subspecies           Staphylococcus aureus subsp. aureus     
+770        254     31.77 genus                Pseudomonas                             
+766        655     31.60 genus                Streptococcus                           
+698        522     28.80 genus                Staphylococcus                          
+871        101     27.95 family               Pseudomonadaceae                        
+815        48      26.16 family               Streptococcaceae                        
+727        29      23.33 family               Staphylococcaceae                       
+677        511     21.73 family               Enterobacteriaceae                      
+175        172     19.84 species              Staphylococcus aureus                   
+1          0       14.29 subspecies           Lactococcus lactis subsp. lactis        
+1          0       14.29 subspecies           Nocardiopsis dassonvillei subsp. dassonvillei
+1          0       14.29 subspecies           Pectobacterium carotovorum subsp. carotovorum
+1          0       14.29 subspecies           Selenomonas ruminantium subsp. lactilytica
+6          6       13.95 no rank              Streptococcus pneumoniae P1031          
+108        102     12.24 species              Streptococcus pneumoniae                
+81         80       9.18 species              Escherichia coli                        
+162        81       6.68 genus                Escherichia                             
+2          0        4.65 no rank              Bacteroidetes/Chlorobi group            
+2          2        4.65 no rank              Pseudomonas aeruginosa B136-33          
+2          2        4.65 no rank              Staphylococcus aureus subsp. aureus str. Newman
+1          1        2.33 no rank              [Bacillus] selenitireducens MLS10       
+1          0        2.33 no rank              ant endosymbionts                       
+1          0        2.33 no rank              ant, tsetse, mealybug, aphid, etc. endosymbionts
+1          1        2.33 no rank              Bacillus halodurans C-125               
+1          1        2.33 no rank              Baumannia cicadellinicola str. Hc (Homalodisca coagulata)
+1          0        2.33 no rank              Candidatus Baumannia                    
+1          1        2.33 no rank              Desulfovibrio salexigens DSM 2638       
+1          1        2.33 no rank              Escherichia coli K-12                   
+1          0        2.33 no rank              Fibrobacteres/Acidobacteria group       
+1          1        2.33 no rank              Glaciecola nitratireducens FR1064       
+1          1        2.33 no rank              Haliangium ochraceum DSM 14365          
+1          1        2.33 no rank              Lactococcus lactis subsp. lactis Il1403 
+1          1        2.33 no rank              Methylomonas methanica MC09             
+1          1        2.33 no rank              Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111
+1          1        2.33 no rank              Pectobacterium carotovorum subsp. carotovorum PC1
+1          1        2.33 no rank              Pseudomonas aeruginosa PAO1             
+1          1        2.33 no rank              Pseudomonas aeruginosa SCV20265         
+1          1        2.33 no rank              Pseudomonas aeruginosa UCBPP-PA14       
+1          1        2.33 no rank              Pseudomonas denitrificans ATCC 13867    
+1          1        2.33 no rank              Pseudomonas putida W619                 
+1          1        2.33 no rank              Pseudomonas resinovorans NBRC 106553    
+1          1        2.33 no rank              Rhodopseudomonas palustris TIE-1        
+1          1        2.33 no rank              Saccharophagus degradans 2-40           
+1          1        2.33 no rank              Salinispora tropica CNB-440             
+1          1        2.33 no rank              Selenomonas ruminantium subsp. lactilytica TAM6421
+1          1        2.33 no rank              Solibacillus silvestris StLB046         
+1          1        2.33 no rank              Terriglobus roseus DSM 18391            
+1          0        2.33 no rank              unclassified Enterobacteriaceae         
+1          0        2.33 no rank              unclassified Gammaproteobacteria        
+1          0        2.33 no rank              unclassified Sporolactobacillaceae      
+1          1        2.33 no rank              Vibrio tasmaniensis LGP32               
+3          3        0.34 species              Streptococcus suis                      
+1          0        0.11 species              [Bacillus] selenitireducens             
+1          1        0.11 species              Achromobacter xylosoxidans              
+1          1        0.11 species              Actinoplanes sp. SE50/110               
+1          0        0.11 species              Bacillus halodurans                     
+1          0        0.11 species              Candidatus Baumannia cicadellinicola    
+1          0        0.11 species              Desulfovibrio salexigens                
+1          1        0.11 species              Enterobacter sp. R4-368                 
+1          1        0.11 species              Geobacillus sp. JF8                     
+1          0        0.11 species              Glaciecola nitratireducens              
+1          0        0.11 species              Haliangium ochraceum                    
+1          0        0.11 species              Lactococcus lactis                      
+1          0        0.11 species              Methylomonas methanica                  
+1          0        0.11 species              Nocardiopsis dassonvillei               
+1          0        0.11 species              Pectobacterium carotovorum              
+1          1        0.11 species              Proteus mirabilis                       
+1          0        0.11 species              Pseudomonas denitrificans               
+1          0        0.11 species              Pseudomonas putida                      
+1          0        0.11 species              Pseudomonas resinovorans                
+1          1        0.11 species              Ralstonia solanacearum                  
+1          1        0.11 species              Rhodanobacter denitrificans             
+1          0        0.11 species              Rhodopseudomonas palustris              
+1          0        0.11 species              Saccharophagus degradans                
+1          0        0.11 species              Salinispora tropica                     
+1          0        0.11 species              Selenomonas ruminantium                 
+1          0        0.11 species              Solibacillus silvestris                 
+1          1        0.11 species              Staphylococcus epidermidis              
+1          0        0.11 species              Terriglobus roseus                      
+1          0        0.11 species              Vibrio tasmaniensis                     
+3          0        0.10 family               Alteromonadaceae                        
+3          0        0.10 family               Bacillaceae                             
+2          2        0.08 genus                Alteromonas                             
+2          0        0.08 genus                Bacillus                                
+2          1        0.06 family               Alcaligenaceae                          
+2          0        0.06 family               Micromonosporaceae                      
+1          0        0.04 genus                Achromobacter                           
+1          0        0.04 genus                Actinoplanes                            
+1          1        0.04 genus                Caldicellulosiruptor                    
+1          1        0.04 genus                Candidatus Blochmannia                  
+1          1        0.04 genus                Carnobacterium                          
+1          0        0.04 genus                Desulfovibrio                           
+1          0        0.04 genus                Enterobacter                            
+1          0        0.04 genus                Geobacillus                             
+1          0        0.04 genus                Glaciecola                              
+1          0        0.04 genus                Haliangium                              
+1          0        0.04 genus                Lactococcus                             
+1          0        0.04 genus                Methylomonas                            
+1          0        0.04 genus                Nocardiopsis                            
+1          0        0.04 genus                Pectobacterium                          
+1          0        0.04 genus                Proteus                                 
+1          0        0.04 genus                Ralstonia                               
+1          0        0.04 genus                Rhodanobacter                           
+1          0        0.04 genus                Rhodopseudomonas                        
+1          0        0.04 genus                Saccharophagus                          
+1          0        0.04 genus                Salinispora                             
+1          0        0.04 genus                Selenomonas                             
+1          0        0.04 genus                Solibacillus                            
+1          0        0.04 genus                Terriglobus                             
+1          0        0.04 genus                Vibrio                                  
+1          0        0.03 family               Acidobacteriaceae                       
+1          0        0.03 family               Bradyrhizobiaceae                       
+1          0        0.03 family               Burkholderiaceae                        
+1          0        0.03 family               Carnobacteriaceae                       
+1          0        0.03 family               Cellvibrionaceae                        
+1          0        0.03 family               Desulfovibrionaceae                     
+1          0        0.03 family               Kofleriaceae                            
+1          0        0.03 family               Methylococcaceae                        
+1          0        0.03 family               Nocardiopsaceae                         
+1          1        0.03 family               Pasteurellaceae                         
+1          0        0.03 family               Planococcaceae                          
+1          0        0.03 family               Rhodanobacteraceae                      
+1          0        0.03 family               Sporolactobacillaceae                   
+1          0        0.03 family               Thermoanaerobacterales Family III. Incertae Sedis
+1          0        0.03 family               Veillonellaceae                         
+1          0        0.03 family               Vibrionaceae                            

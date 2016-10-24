@@ -48,7 +48,10 @@ def choose_triplicates(choice):
                        
     elif choice == "Ecoli":
         # E. coli LPI
-        triplicates = {"4-SP:2-PA:2-EC:1-SA": ("QE_160819_14", 
+        triplicates = {"1:1:1:1": ("QE_150611_161",
+                                   "QE_150611_164",
+                                   "QE_150611_169"),
+                       "4-SP:2-PA:2-EC:1-SA": ("QE_160819_14", 
                                                "QE_160819_17", 
                                                "QE_160819_20"),
                        "4-SA:2-PA:2-EC:1-SP": ("QE_160819_05", 
